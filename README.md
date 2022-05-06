@@ -24,7 +24,7 @@ Feel free to share and star
 <br> A blank website where you can only type
 
 * https://pixelpaper.io/
-<br> A free-forever digital whiteboard w/o registeration (Can be embedded into SaaS products)
+<br> A free-forever digital whiteboard with no registeration (Can be embedded into SaaS products)
 
 * https://excalidraw.com/
 <br> In this whiteboard, you can also sketch **hand-drawn** like diagrams 
@@ -36,7 +36,7 @@ Feel free to share and star
 
 ### Disposable Email
 * https://temp-mail.to/
-<br> Free and reliable temporary email address w/o registeration
+<br> Free and reliable temporary email addresses with no registeration
 
 
 ## Hard Sciences
