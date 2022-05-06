@@ -85,6 +85,6 @@ $ = Payment Required (There are no free options.)
 
 
 # Contributing
-Your contributions are always welcome!
-If you find out any website has been outdate or its link has not valid anymore, please open a pull request. I will change it soon.
+Your contributions are always welcomed! <br>
+If you find out any website has been outdate or its link has not valid anymore, please open a pull request. I will change it soon. <br>
 If you want to add a new repo, please go to [awesome-useful-websites/pulls](https://github.com/atakanaltok/awesome-useful-websites/pulls) and create a pull request first.
