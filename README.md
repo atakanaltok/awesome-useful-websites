@@ -38,6 +38,10 @@ $ = Payment Required (There are no free options.)
 
 
 
+## Reddit
+* http://redditlist.com/ <br> A subreddit list
+* https://anvaka.github.io/redsim/ <br> Find similar subreddits
+
 ## Project Resources
 * https://www.madewithbubble.xyz/ <br> Curated tools
 
