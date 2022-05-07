@@ -48,6 +48,12 @@ $ = Payment Required (There are no free options.)
 ## Reddit
 * http://redditlist.com/ <br> A subreddit list
 * https://anvaka.github.io/redsim/ <br> Find similar subreddits
+* https://www.reveddit.com/about/ <br> For revealing reddit's removed content. Search by username, subreddit (r/), link or domain
+
+### Better Reddit Search
+* https://redditsearch.io/ 
+* https://betterredditsearch.web.app/
+
 
 ## Project Resources
 * https://www.madewithbubble.xyz/ <br> Curated tools
