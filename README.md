@@ -36,6 +36,13 @@ $ = Payment Required (There are no free options.)
 * https://excalideck.com/ <br> An app for authoring slide decks that [can] look hand-drawn. Excalideck is based on the Excalidraw 
 * https://jamboard.google.com/ <br> A white board from Google
 
+### Note Taking
+* https://relanote.com/ (~$) <br> Interlinking your notes to develop a web of thoughts
+*
+
+### Disposable Email
+* https://temp-mail.to/ <br> Free and reliable temporary email addresses with no registeration
+
 
 
 ## Reddit
@@ -71,13 +78,6 @@ $ = Payment Required (There are no free options.)
 
 * https://lmgtfy.app/#gsc.tab=0 <br> Share a sub-link of this site to show someone that they need to google their question before asking
 
-
-### Note Taking
-* https://relanote.com/ (~$) <br> Interlinking your notes to develop a web of thoughts
-*
-
-### Disposable Email
-* https://temp-mail.to/ <br> Free and reliable temporary email addresses with no registeration
 
 
 ## Web Analytics
