@@ -51,6 +51,25 @@ $ = Payment Required (There are no free options.)
 * https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/ <br> Cheat Sheets available for quick reference
 
 
+## How To Ask A Good Question
+
+* https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603
+* http://catb.org/~esr/faqs/smart-questions.html
+* https://www.nohello.com/
+* https://dontasktoask.com/
+* https://meta.stackexchange.com/q/66377/
+* https://weblogs.asp.net/alex_papadimoulis/408925
+* https://stackoverflow.com/help/how-to-ask
+* https://slash7.com/2006/12/22/vampires/
+
+
+### XY Problem
+* https://xyproblem.info/
+* https://en.wikipedia.org/wiki/XY_problem
+* https://mywiki.wooledge.org/XyProblem
+
+
+* https://lmgtfy.app/#gsc.tab=0 <br> Share a sub-link of this site to show someone that they need to google their question before asking
 
 
 ### Note Taking
