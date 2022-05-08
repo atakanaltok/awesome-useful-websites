@@ -42,12 +42,26 @@ $ = Payment Required (There are no free options.)
 
 ### Disposable Email
 * https://temp-mail.to/ <br> Free and reliable temporary email addresses with no registeration
+* https://erine.email/
+* https://mailsac.com/
+* https://inboxkitten.com/
+* https://www.guerrillamail.com/inbox
+* https://getnada.com/
+* https://temp-mail.org/
+* https://getnada.com/
+* https://yopmail.com/en/
+* https://www.emaildrop.io/
 
 
 ### VPN
 * https://www.top10vpn.com/
-
 * https://www.whatsmybrowser.org/
+* https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit#gid=231869418 <br> A detailed list of all vpns available with analysis and comparisons
+
+
+
+### Social Media
+* https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/edit#gid=0 <br> Detailed comparison and analysis of all social media messaging apps
 
 
 
@@ -56,8 +70,9 @@ $ = Payment Required (There are no free options.)
 
 
 
-## Watching
+## Visual Entertainment
 * https://www.tunefind.com/
+* https://www.reddit.com/r/MovieSuggestions/wiki/faq <br> A list of movies from all genres
 
 
 ## Music
@@ -81,6 +96,11 @@ $ = Payment Required (There are no free options.)
 * http://redditlist.com/ <br> A subreddit list
 * https://anvaka.github.io/redsim/ <br> Find similar subreddits
 * https://www.reveddit.com/about/ <br> For revealing reddit's removed content. Search by username, subreddit (r/), link or domain
+
+## Reddit
+* http://redditlist.com/ - A subreddit list
+* https://anvaka.github.io/redsim/ - Find similar subreddits
+* https://www.reveddit.com/about/ - For revealing reddit's removed content. Search by username, subreddit (r/), link or domain
 
 ### Better Reddit Search
 * https://redditsearch.io/ 
@@ -135,6 +155,13 @@ $ = Payment Required (There are no free options.)
 ## Hard Sciences
 
 ### Mathematics
+
+
+## Developer
+
+### Python
+* http://projectpython.net/
+* https://rawcdn.githack.com/diveintomark/diveintopython3/master/table-of-contents.html
 
 
 ## Mental Health
