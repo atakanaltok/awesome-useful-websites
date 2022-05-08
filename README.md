@@ -168,6 +168,5 @@ $ = Payment Required (There are no free options.)
 
 
 # Contributing
-Your contributions are always welcomed! <br>
-If you find out any website has been outdate or its link has not valid anymore, please open a pull request. I will change it soon. <br>
-If you want to add a new repo, please go to [awesome-useful-websites/pulls](https://github.com/atakanaltok/awesome-useful-websites/pulls) and create a pull request first.
+* If you find out any broken link or any website that has been outdated, please rise an issue in [awesome-useful-websites/issues](https://github.com/atakanaltok/awesome-useful-websites/issues). <br>
+* If you want to add a new category or website, create a pull request in [awesome-useful-websites/pulls](https://github.com/atakanaltok/awesome-useful-websites/pulls) (To avoiding duplications, seach whether your website is already included here).
