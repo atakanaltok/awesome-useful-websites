@@ -50,6 +50,33 @@ $ = Payment Required (There are no free options.)
 * https://www.whatsmybrowser.org/
 
 
+
+## Earth
+* https://river-runner-global.samlearner.com/ <br> Visualization of path of a rain droplet from any point in the world to its end point
+
+
+
+## Watching
+* https://www.tunefind.com/
+
+
+## Music
+
+
+* https://github.com/Shabinder/SpotiFlyer
+* https://github.com/Sangwan5688/BlackHole
+
+
+### Spofity
+* https://pudding.cool/2020/12/judge-my-spotify/ <br> A.I. trained to evaluate musical taste 
+* https://www.discoverifymusic.com/login <br> Discover new music in your taste
+* https://playlistmutator.com/ <br> Provides a tool for users to "mutate" existing playlists in React
+* https://www.chosic.com/spotify-playlist-analyzer/ <br> Discovering new music by analyzing your playlists
+* https://www.tunemymusic.com/ <br> Transfer playlists between music services
+
+
+
+
 ## Reddit
 * http://redditlist.com/ <br> A subreddit list
 * https://anvaka.github.io/redsim/ <br> Find similar subreddits
