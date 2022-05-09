@@ -327,3 +327,8 @@ $ = Payment Required (There are no free options.) <br>
 # Contributing
 * If you find out any broken link or any website that has been outdated, please rise an issue in [awesome-useful-websites/issues](https://github.com/atakanaltok/awesome-useful-websites/issues). <br>
 * If you want to add a new category or website, create a pull request in [awesome-useful-websites/pulls](https://github.com/atakanaltok/awesome-useful-websites/pulls) (To avoiding duplications, seach whether your website is already included here).
+
+
+
+# LICENSE
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>
