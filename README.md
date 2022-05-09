@@ -37,6 +37,10 @@ $ = Payment Required (There are no free options.) <br>
 * https://jamboard.google.com/ - White board from Google
 
 
+### Keyboard
+* https://usethekeyboard.com/ - Collection of keyboard shortcuts for Mac apps, Windows programs, and websites
+
+
 ### Note Taking
 * https://relanote.com/ (~$) - Interlinking your notes to develop a web of thoughts
 
@@ -70,20 +74,24 @@ $ = Payment Required (There are no free options.) <br>
 
 
 ### URL shortner
-* https://cutr.ml/ 
+* https://cutr.ml/ - URL shortner
+* https://www.onelink.to/ - Link and QR code for your apps
 
 
 ### Some Other Tools
 * https://printit.work/about 
 
-
 ### Social Media
 * https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/edit#gid=0 - Detailed comparison and analysis of all social media messaging apps
 
 
-### Video
+### Visual
 * https://www.unscreen.com/ - Remove Video Background 100% Automatically and Free
+* https://pfpmaker.com/ - Make profile picture from any photo
 
+
+### Time
+* https://hovancik.net/stretchly/ - Cross-platform open source app that reminds you to take breaks when working on your compute
 
 
 
@@ -96,21 +104,32 @@ $ = Payment Required (There are no free options.) <br>
 ## Visual Entertainment
 * https://www.tunefind.com/
 * https://www.reddit.com/r/MovieSuggestions/wiki/faq - List of movies from all genres
+* https://agoodmovietowatch.com/
+* https://animixplay.to/
+* https://tubitv.com/home
+* http://rarefilm.net/ - Old films
 
+
+
+
+## Media
+* http://radio.garden/ - Radio stations represented as green dots on Google Earth map and you can listen any of them by just one click
 
 
 
 ## Music
-* https://github.com/Shabinder/SpotiFlyer
 * https://github.com/Sangwan5688/BlackHole
+* https://www.music-map.com/ - Find Similar Music
+* https://downloads.khinsider.com/ - Video and PC game soundtracks for download in a very otherwise difficult to get MP3 and lossless forms
 
-### Spofity
+### Spotify
+* https://www.chosic.com/spotify-playlist-analyzer/ - Discovering new music by analyzing your playlists
 * https://pudding.cool/2020/12/judge-my-spotify/ - A.I. trained to evaluate musical taste 
 * https://www.discoverifymusic.com/login - Discover new music in your taste
+* https://spottr.vercel.app/login - To see your Spotify stats
 * https://playlistmutator.com/ - Provides a tool for users to "mutate" existing playlists in React
-* https://www.chosic.com/spotify-playlist-analyzer/ - Discovering new music by analyzing your playlists
 * https://www.tunemymusic.com/ - Transfer playlists between music services
-
+* https://github.com/Shabinder/SpotiFlyer
 
 
 
@@ -163,6 +182,9 @@ $ = Payment Required (There are no free options.) <br>
 
 ### Connectivity
 * https://www.integromat.com/en?pc=referralbonus - To connect apps and automate workflows in a few clicks
+* https://meetfranz.com/ - Platform where you can manage all your messaging apps like WhatsApp, Facebook Messenger, Slack, Telegram and many more
+* https://remotedesktop.google.com/ - Remotely connect with your home or work computer, or share your screen with others
+
 
 
 ### Productivity
@@ -173,10 +195,36 @@ $ = Payment Required (There are no free options.) <br>
 * https://pirsch.io/ - Open-source, cookie-free web analytics
 
 
+### Design
+* https://mobilepalette.colorion.co/ - Mobile Palette Generator
+* https://socialsizes.io/ - Image and Video sizes for Social Media
+* https://socialimagemaker.io/
+* https://www.easel.ly/ - Design tool to visualize any kind of information
+* https://transparenttextures.com/ 
+
+#### Visuals
+* http://thestocks.im/
+* https://www.pexels.com/
+
+
+## Website of Websites
+* https://stumbled.to/ 
+
+
 
 
 ## Business
 * https://gumroad.com/ - From the Sahil Lavingia, the author of "The Minimalist Entrepreneur"
+* https://takeout.google.com/ - Export a copy of all your Google data
+* https://www.joinhoney.com/ - Honey extension automatically searches for coupons on 30,000+ sites around the globe
+
+
+
+### Trends
+* https://trends.google.com/trends/?geo=US
+* https://trends.google.com/trends/hottrends/visualize
+
+
 
 
 
@@ -191,23 +239,39 @@ $ = Payment Required (There are no free options.) <br>
 
 
 
-## Hard Sciences
+## Academic
+* https://tldrthis.com/ - Summarize any piece of text into concise, easy to digest content so you can free yourself from information overload
 
 ### Mathematics
+
+
 
 
 ## Developer
 * https://bbcmic.ro/ - Basic editor from BBC
 * https://blog.demofox.org/ - Blog with many links
+* https://www.w3.org/ - Makes it possible to use Web technologies with different languages, scripts, and cultures
+* https://super-static-assets.s3.amazonaws.com/bc2689f0-a124-4777-93dc-416ee1aa4858/images/7db6532c-14f1-4c51-a337-b3021a7293bf.svg - Timeline of web browsers till 2019
+* https://ishoudinireadyyet.com/
+
+### CSS
+* https://www.caniemail.com/
+* https://caniuse.com/
+
+### Android
+* https://fossdroid.com/ - Free and open source Android apps
+
+### Softwares
+* https://oldergeeks.com/ - Software download site without ads, misleading download links or annoyances. This site is 100% supported by donations
 
 ### Python
 * http://projectpython.net/
 * https://rawcdn.githack.com/diveintomark/diveintopython3/master/table-of-contents.html
 
 
-## Mental Health
+## Health
 * https://apps.npr.org/joy-generator/#story=intro&page=0 - Some ideas to help you tap into positive emotions, online and offline
-
+* https://musclewiki.com/ - 
 
 
 
