@@ -14,9 +14,8 @@ Feel free to share and star
 ## Lexicon
 
 $ = Payment Required (There are no free options.) <br>
-~$ = Freemium (Requires payment but also offers a free trial or version.)
-
-
+~$ = Freemium (Requires payment but also offers a free trial or version.) <br>
+@ = Student Friendly
 
 
 
@@ -72,36 +71,39 @@ $ = Payment Required (There are no free options.) <br>
 * https://prism-break.org/en/all/ - Private and safe alternatives of most used apps & services
 
 
+### Conventer
+* https://www.online-convert.com/ - Convert media files online from one format into another
 
-### URL shortner
+
+### URL 
 * https://cutr.ml/ - URL shortner
 * https://www.onelink.to/ - Link and QR code for your apps
+* https://appopener.com/ - Create smart links to open desired apps from url without login
 
-
-### Some Other Tools
-* https://printit.work/about 
-
-### Social Media
+### Comparision
 * https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/edit#gid=0 - Detailed comparison and analysis of all social media messaging apps
-
+* https://www.dxomark.com/category/smartphone-reviews/#tabs
 
 ### Visual
 * https://www.unscreen.com/ - Remove Video Background 100% Automatically and Free
 * https://pfpmaker.com/ - Make profile picture from any photo
 
-
 ### Time
 * https://hovancik.net/stretchly/ - Cross-platform open source app that reminds you to take breaks when working on your compute
 
+### Some Other Tools
+* https://printit.work/about 
+* https://www.nirsoft.net/
 
 
-## Earth
-* https://river-runner-global.samlearner.com/ - Visualization of path of a rain droplet from any point in the world to its end point
 
+## DIY
+* https://www.instructables.com/
 
 
 
 ## Visual Entertainment
+* https://www.kanopy.com/en/ (@) - You can stream thousands of films for free if your public library or university supports
 * https://www.tunefind.com/
 * https://www.reddit.com/r/MovieSuggestions/wiki/faq - List of movies from all genres
 * https://agoodmovietowatch.com/
@@ -114,13 +116,14 @@ $ = Payment Required (There are no free options.) <br>
 
 ## Media
 * http://radio.garden/ - Radio stations represented as green dots on Google Earth map and you can listen any of them by just one click
-
+* https://tastedive.com/ - Find mucis, books, movies, and many more
 
 
 ## Music
 * https://github.com/Sangwan5688/BlackHole
 * https://www.music-map.com/ - Find Similar Music
 * https://downloads.khinsider.com/ - Video and PC game soundtracks for download in a very otherwise difficult to get MP3 and lossless forms
+
 
 ### Spotify
 * https://www.chosic.com/spotify-playlist-analyzer/ - Discovering new music by analyzing your playlists
@@ -197,14 +200,24 @@ $ = Payment Required (There are no free options.) <br>
 
 ### Design
 * https://mobilepalette.colorion.co/ - Mobile Palette Generator
-* https://socialsizes.io/ - Image and Video sizes for Social Media
 * https://socialimagemaker.io/
 * https://www.easel.ly/ - Design tool to visualize any kind of information
 * https://transparenttextures.com/ 
+* https://m3.material.io/ - Design system created by Google to help teams build high-quality digital experiences for Android, iOS, Flutter, and the web
+
+
+#### Icon Packs
+* https://www.iconpacks.net/
+
+
+#### Social Media
+* https://apps4lifehost.com/Instagram/CaptionMaker.html - Clean & Beautiful Line Breaks for IG Captions
+* https://socialsizes.io/ - Image and Video sizes for Social Media
 
 #### Visuals
 * http://thestocks.im/
 * https://www.pexels.com/
+* https://unsplash.com/
 
 
 ## Website of Websites
@@ -218,6 +231,9 @@ $ = Payment Required (There are no free options.) <br>
 * https://takeout.google.com/ - Export a copy of all your Google data
 * https://www.joinhoney.com/ - Honey extension automatically searches for coupons on 30,000+ sites around the globe
 
+
+### Marketing
+* https://telega.io/ - Find the target audience in Telegram and launch effective advertising campaigns
 
 
 ### Trends
@@ -245,14 +261,36 @@ $ = Payment Required (There are no free options.) <br>
 ### Mathematics
 
 
+## Engineerings
+* https://animagraffs.com/
+
+
+### Mechanical Engineering
+
+
+### Electronics Engineering
+* https://www.electrical4u.com/ - Learn Electrical Engineering
+* https://www.electronics-tutorials.ws/
+
+
+
+
+### Earth
+* https://river-runner-global.samlearner.com/ - Visualization of path of a rain droplet from any point in the world to its end point
+
+
+
 
 
 ## Developer
+* https://webdevhome.github.io/
 * https://bbcmic.ro/ - Basic editor from BBC
 * https://blog.demofox.org/ - Blog with many links
 * https://www.w3.org/ - Makes it possible to use Web technologies with different languages, scripts, and cultures
 * https://super-static-assets.s3.amazonaws.com/bc2689f0-a124-4777-93dc-416ee1aa4858/images/7db6532c-14f1-4c51-a337-b3021a7293bf.svg - Timeline of web browsers till 2019
 * https://ishoudinireadyyet.com/
+* https://thisthat.dev/ - What is the difference between ___ and ___ in the front-end development?
+
 
 ### CSS
 * https://www.caniemail.com/
@@ -261,12 +299,22 @@ $ = Payment Required (There are no free options.) <br>
 ### Android
 * https://fossdroid.com/ - Free and open source Android apps
 
-### Softwares
+### Software
 * https://oldergeeks.com/ - Software download site without ads, misleading download links or annoyances. This site is 100% supported by donations
+* https://alternativeto.net/ - Best alternatives of popular softwares
+* https://www.electronjs.org/ - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+
 
 ### Python
 * http://projectpython.net/
 * https://rawcdn.githack.com/diveintomark/diveintopython3/master/table-of-contents.html
+
+
+
+## Coding
+* https://www.codewars.com/
+
 
 
 ## Health
