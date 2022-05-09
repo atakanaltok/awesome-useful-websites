@@ -28,7 +28,7 @@ $ = Payment Required (There are no free options.) <br>
 
 ## Tools
 * http://5000best.com/tools/
-* 
+* https://untools.co/ - Collection of thinking tools and frameworks 
 
 
 ### White Board
@@ -76,6 +76,10 @@ $ = Payment Required (There are no free options.) <br>
 * https://haveibeenpwned.com/ - Check if your email or phone is in a data breach
 * https://gitlab.com/tzkuat/Ressources - List of websites on different areas such as Security, OSINT, etc. 
 * https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/ - Privacy Tools List by CHEF-KOCH
+* https://github.com/arkenfox/user.js/wiki/4.1-Extensions - Privacy and security related extensions
+* https://kb.adguard.com/en/general/dns-providers - You can configure any DNS server to be used instead of the system default provided by the router or ISP
+* https://ipleak.net/ - See the kind of information that all the sites you visit can see and collect about you
+* https://privacy.net/analyzer/#pre-load - Same as the above one
 
 
 ### Conventer
@@ -110,6 +114,7 @@ $ = Payment Required (There are no free options.) <br>
 
 ## DIY
 * https://www.instructables.com/
+* https://www.dummies.com/ - Series of instructional/reference [books](https://en.wikipedia.org/wiki/For_Dummies) 
 
 
 
@@ -271,12 +276,27 @@ $ = Payment Required (There are no free options.) <br>
 
 ## Academic
 * https://tldrthis.com/ - Summarize any piece of text into concise, easy to digest content so you can free yourself from information overload
+* https://archive.org/details/GeneralIndex - This is a general index of 107,233,728+ journal articles
 
-### Mathematics
+
+## Science
+* https://reproducibilityinstitute.org/w/ - 2 projects that provide academic papers, chatsheets and torrents for paid courses
+
+### Data
+* https://ourworldindata.org/covid-vaccinations - Corona data by country
+
+### Earth
+* https://river-runner-global.samlearner.com/ - Visualization of path of a rain droplet from any point in the world to its end point
+* [celestrak.com/cesium/orbit-viz](https://celestrak.com/cesium/orbit-viz.php?tle=/pub/TLE/catalog.txt&satcat=/pub/satcat.txt&referenceFrame=1) - Satellite visualization
+* https://mars.nasa.gov/explore/mars-now/ - Mars's satellites (Well, this is not really "Earth" but youget the point)
+
+
+## Mathematics
 
 
 ### Biology
 * https://www.sectional-anatomy.org/ - Free online tool for radiologic cross-sectional anatomy
+* https://neal.fun/deep-sea/ - Explore the depths of the seas
 
 
 
@@ -294,8 +314,6 @@ $ = Payment Required (There are no free options.) <br>
 
 
 
-### Earth
-* https://river-runner-global.samlearner.com/ - Visualization of path of a rain droplet from any point in the world to its end point
 
 
 
@@ -309,7 +327,11 @@ $ = Payment Required (There are no free options.) <br>
 * https://super-static-assets.s3.amazonaws.com/bc2689f0-a124-4777-93dc-416ee1aa4858/images/7db6532c-14f1-4c51-a337-b3021a7293bf.svg - Timeline of web browsers till 2019
 * https://ishoudinireadyyet.com/
 * https://thisthat.dev/ - What is the difference between ___ and ___ in the front-end development?
+* [MiXLab](https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb#scrollTo=e-0yDs4C0HkB) - Mixture of Google Colab notebooks found on github
 
+
+* https://rentry.org/ - Markdown pastebin service with preview, custom urls and editing. Fast, simple and free (Your entries will be kept forever)
+* https://ide.onelang.io/ - For converting code from one programming language to another
 
 
 ### CSS
@@ -318,6 +340,9 @@ $ = Payment Required (There are no free options.) <br>
 
 ### Android
 * https://fossdroid.com/ - Free and open source Android apps
+* https://androidweekly.net/ - Android newsletter
+* https://apt.izzysoft.de/fdroid/index.php - F-Droid Repository search
+* https://reports.exodus-privacy.eu.org/en/ - For checking permissions and trackers of apps
 
 ### Software
 * https://oldergeeks.com/ - Software download site without ads, misleading download links or annoyances. This site is 100% supported by donations
@@ -325,7 +350,7 @@ $ = Payment Required (There are no free options.) <br>
 * https://www.electronjs.org/ - Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
 
-### FAANG Alternatives
+### GAFA Alternatives
 * https://degoogle.jmoore.dev/#mobile-applications-mobile-apps-installable-from-stores - Huge list of alternatives to Google products. Privacy tips, tricks, and links
 * https://degooglisons-internet.org/en/ - Alternatives to FAANG
 
