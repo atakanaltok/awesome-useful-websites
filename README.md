@@ -74,6 +74,8 @@ $ = Payment Required (There are no free options.) <br>
 * https://prism-break.org/en/all/ - Private and safe alternatives of most used apps & services
 * https://www.reddit.com/r/piracy/wiki/megathread/tools - List of Apps / tools / web services
 * https://haveibeenpwned.com/ - Check if your email or phone is in a data breach
+* https://gitlab.com/tzkuat/Ressources - List of websites on different areas such as Security, OSINT, etc. 
+* https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/ - Privacy Tools List by CHEF-KOCH
 
 
 ### Conventer
@@ -273,6 +275,11 @@ $ = Payment Required (There are no free options.) <br>
 ### Mathematics
 
 
+### Biology
+* https://www.sectional-anatomy.org/ - Free online tool for radiologic cross-sectional anatomy
+
+
+
 ## Engineerings
 * https://animagraffs.com/
 
@@ -318,9 +325,9 @@ $ = Payment Required (There are no free options.) <br>
 * https://www.electronjs.org/ - Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
 
-### Software Alternatives
+### FAANG Alternatives
 * https://degoogle.jmoore.dev/#mobile-applications-mobile-apps-installable-from-stores - Huge list of alternatives to Google products. Privacy tips, tricks, and links
-* https://degooglisons-internet.org/en/ - 
+* https://degooglisons-internet.org/en/ - Alternatives to FAANG
 
 
 
@@ -337,7 +344,7 @@ $ = Payment Required (There are no free options.) <br>
 
 ## Health
 * https://apps.npr.org/joy-generator/#story=intro&page=0 - Some ideas to help you tap into positive emotions, online and offline
-* https://musclewiki.com/ - 
+* https://musclewiki.com/ 
 
 
 
