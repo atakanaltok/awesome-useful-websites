@@ -27,12 +27,15 @@ $ = Payment Required (There are no free options.) <br>
 
 
 ## Tools
+* http://5000best.com/tools/
+* 
+
 
 ### White Board
 * http://typehere.co/ - Blank website where you can only type
 * https://pixelpaper.io/ - Free-forever digital whiteboard with no registeration (Can be embedded into SaaS products)
 * https://excalidraw.com/ - In this whiteboard, you can also sketch **hand-drawn** like diagrams 
-* https://excalideck.com/ - App for authoring slide decks that [can] look hand-drawn. Excalideck is based on the Excalidraw 
+* https://excalideck.com/ - App for authoring slide decks that look hand-drawn. Excalideck is based on the Excalidraw 
 * https://jamboard.google.com/ - White board from Google
 
 
@@ -69,6 +72,8 @@ $ = Payment Required (There are no free options.) <br>
 * https://andisearch.com/ - Ad-free and anonymous searching
 * https://beencrypted.com/ - To become more encrypted
 * https://prism-break.org/en/all/ - Private and safe alternatives of most used apps & services
+* https://www.reddit.com/r/piracy/wiki/megathread/tools - List of Apps / tools / web services
+* https://haveibeenpwned.com/ - Check if your email or phone is in a data breach
 
 
 ### Conventer
@@ -80,21 +85,25 @@ $ = Payment Required (There are no free options.) <br>
 * https://www.onelink.to/ - Link and QR code for your apps
 * https://appopener.com/ - Create smart links to open desired apps from url without login
 
+
 ### Comparision
 * https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/edit#gid=0 - Detailed comparison and analysis of all social media messaging apps
 * https://www.dxomark.com/category/smartphone-reviews/#tabs
 
 ### Visual
 * https://www.unscreen.com/ - Remove Video Background 100% Automatically and Free
+* https://www.remove.bg/ - Remove Image Background 100% Automatically and Free
 * https://pfpmaker.com/ - Make profile picture from any photo
+* http://jpeg-optimizer.com/ - Free online tool for resizing and compressing your digital photos and images
 
 ### Time
 * https://hovancik.net/stretchly/ - Cross-platform open source app that reminds you to take breaks when working on your compute
+* https://www.timeanddate.com/ - Calendars, clocks, and many more
 
 ### Some Other Tools
 * https://printit.work/about 
 * https://www.nirsoft.net/
-
+* https://ninite.com/ - Install and Update All Your Programs at Once. No toolbars. No clicking next. Just pick your apps and go
 
 
 ## DIY
@@ -105,6 +114,7 @@ $ = Payment Required (There are no free options.) <br>
 ## Visual Entertainment
 * https://www.kanopy.com/en/ (@) - You can stream thousands of films for free if your public library or university supports
 * https://www.tunefind.com/
+* https://www.movie-map.com/ - Find Similar Movies
 * https://www.reddit.com/r/MovieSuggestions/wiki/faq - List of movies from all genres
 * https://agoodmovietowatch.com/
 * https://animixplay.to/
@@ -116,6 +126,7 @@ $ = Payment Required (There are no free options.) <br>
 
 ## Media
 * http://radio.garden/ - Radio stations represented as green dots on Google Earth map and you can listen any of them by just one click
+* https://radiooooo.com/ - The Musical Time Machine
 * https://tastedive.com/ - Find mucis, books, movies, and many more
 
 
@@ -123,6 +134,8 @@ $ = Payment Required (There are no free options.) <br>
 * https://github.com/Sangwan5688/BlackHole
 * https://www.music-map.com/ - Find Similar Music
 * https://downloads.khinsider.com/ - Video and PC game soundtracks for download in a very otherwise difficult to get MP3 and lossless forms
+* https://onlinetonegenerator.com/ - Generate tones, you can also download in wav format
+* https://www.chosic.com/ - Free background music for you to use in your next project, free for commercial and non-commercial use
 
 
 ### Spotify
@@ -182,6 +195,7 @@ $ = Payment Required (There are no free options.) <br>
 ## For startups
 * https://www.kapwing.com/museum-of-websites - Gallery of how famous internet companies have changed over time
 * https://www.failory.com/ - All-In-One Newsletter for Startup Founders and more!
+* https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview - 500+ Free Tools For Startups 
 
 ### Connectivity
 * https://www.integromat.com/en?pc=referralbonus - To connect apps and automate workflows in a few clicks
@@ -220,9 +234,6 @@ $ = Payment Required (There are no free options.) <br>
 * https://unsplash.com/
 
 
-## Website of Websites
-* https://stumbled.to/ 
-
 
 
 
@@ -239,6 +250,7 @@ $ = Payment Required (There are no free options.) <br>
 ### Trends
 * https://trends.google.com/trends/?geo=US
 * https://trends.google.com/trends/hottrends/visualize
+* https://www.statista.com/
 
 
 
@@ -292,6 +304,7 @@ $ = Payment Required (There are no free options.) <br>
 * https://thisthat.dev/ - What is the difference between ___ and ___ in the front-end development?
 
 
+
 ### CSS
 * https://www.caniemail.com/
 * https://caniuse.com/
@@ -303,6 +316,11 @@ $ = Payment Required (There are no free options.) <br>
 * https://oldergeeks.com/ - Software download site without ads, misleading download links or annoyances. This site is 100% supported by donations
 * https://alternativeto.net/ - Best alternatives of popular softwares
 * https://www.electronjs.org/ - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+
+### Software Alternatives
+* https://degoogle.jmoore.dev/#mobile-applications-mobile-apps-installable-from-stores - Huge list of alternatives to Google products. Privacy tips, tricks, and links
+* https://degooglisons-internet.org/en/ - 
 
 
 
@@ -320,6 +338,15 @@ $ = Payment Required (There are no free options.) <br>
 ## Health
 * https://apps.npr.org/joy-generator/#story=intro&page=0 - Some ideas to help you tap into positive emotions, online and offline
 * https://musclewiki.com/ - 
+
+
+
+
+## Other Website of Websites
+* https://stumbled.to/ 
+* http://5000best.com/websites/
+
+
 
 
 
