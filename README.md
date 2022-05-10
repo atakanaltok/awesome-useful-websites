@@ -1,4 +1,5 @@
 # Awesome Useful Websites
+<p><a href="https://awesome.re" target="_blank"><img src="https://awesome.re/badge-flat.svg"></a></p>
 
 A hand-curated list of awesome useful websites.
 
@@ -16,6 +17,79 @@ Feel free to share and star
 $ = Payment Required (There are no free options) <br>
 ~$ = Freemium (Offers a free version but requires payment for additional features) <br>
 @ = Student Friendly
+
+
+
+## Contents
+- [Awesome Useful Websites](#awesome-useful-websites)
+  * [Lexicon](#lexicon)
+  * [Contents](#contents)
+  * [Infographics](#infographics)
+  * [Tools](#tools)
+    + [White Board](#white-board)
+    + [Keyboard](#keyboard)
+    + [Note Taking](#note-taking)
+    + [Disposable Email](#disposable-email)
+    + [VPN](#vpn)
+    + [Privacy](#privacy)
+    + [Conventer](#conventer)
+    + [URL](#url)
+    + [Bookmarks](#bookmarks)
+    + [Comparision](#comparision)
+    + [Visual](#visual)
+    + [Time](#time)
+    + [Some Other Tools](#some-other-tools)
+  * [DIY](#diy)
+  * [Visual Entertainment](#visual-entertainment)
+  * [Media](#media)
+  * [Music](#music)
+    + [Spotify](#spotify)
+  * [Reddit](#reddit)
+    + [Better Reddit Search](#better-reddit-search)
+  * [Project Resources](#project-resources)
+  * [Cheat Sheets](#cheat-sheets)
+  * [How To Ask A Good Question](#how-to-ask-a-good-question)
+    + [XY Problem](#xy-problem)
+  * [For startups](#for-startups)
+    + [Connectivity](#connectivity)
+    + [Productivity](#productivity)
+    + [Design](#design)
+      - [Icon Packs](#icon-packs)
+      - [Social Media](#social-media)
+      - [Stock](#stock)
+      - [Wallpapers](#wallpapers)
+  * [Business](#business)
+    + [Marketing](#marketing)
+    + [Trends](#trends)
+    + [Web Analytics](#web-analytics)
+    + [Creating Websites](#creating-websites)
+    + [Meetings](#meetings)
+  * [Jobs](#jobs)
+    + [Protfolio & CV](#protfolio---cv)
+  * [Academic](#academic)
+  * [Science](#science)
+    + [Data](#data)
+    + [Earth](#earth)
+  * [Mathematics](#mathematics)
+    + [Biology](#biology)
+  * [Engineerings](#engineerings)
+    + [Mechanical Engineering](#mechanical-engineering)
+    + [Electronics Engineering](#electronics-engineering)
+  * [Developer](#developer)
+    + [CSS](#css)
+    + [Android](#android)
+    + [Software](#software)
+    + [GAFA Alternatives](#gafa-alternatives)
+    + [No-Code](#no-code)
+    + [Python](#python)
+  * [Coding](#coding)
+  * [Health](#health)
+  * [Other Website of Websites](#other-website-of-websites)
+- [Contributing](#contributing)
+- [LICENSE](#license)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 
 
@@ -424,8 +498,12 @@ $ = Payment Required (There are no free options) <br>
 * https://www.spacebarcounter.net/no-code-revolution - See how NoCode is spreading around the world
 
 ### Python
+* https://docs.python.org/3/tutorial/index.html
 * http://projectpython.net/
 * https://rawcdn.githack.com/diveintomark/diveintopython3/master/table-of-contents.html
+* https://www.learnpython.org/
+* https://docs.python-guide.org/
+* https://cscircles.cemc.uwaterloo.ca/
 
 
 
