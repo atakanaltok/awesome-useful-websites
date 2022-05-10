@@ -13,8 +13,8 @@ Feel free to share and star
 
 ## Lexicon
 
-$ = Payment Required (There are no free options.) <br>
-~$ = Freemium (Requires payment but also offers a free trial or version.) <br>
+$ = Payment Required (There are no free options) <br>
+~$ = Freemium (Offers a free version but requires payment for additional features) <br>
 @ = Student Friendly
 
 
@@ -92,6 +92,10 @@ $ = Payment Required (There are no free options.) <br>
 * https://appopener.com/ - Create smart links to open desired apps from url without login
 
 
+### Bookmarks
+* https://bookmarkos.com/bookmark-manager-finder - Filter every bookmark manager ever made
+
+
 ### Comparision
 * https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/edit#gid=0 - Detailed comparison and analysis of all social media messaging apps
 * https://www.dxomark.com/category/smartphone-reviews/#tabs
@@ -99,6 +103,8 @@ $ = Payment Required (There are no free options.) <br>
 ### Visual
 * https://www.unscreen.com/ - Remove Video Background 100% Automatically and Free
 * https://www.remove.bg/ - Remove Image Background 100% Automatically and Free
+* https://www.fococlipping.com/ - Remove Image Background 
+* https://www.designify.com/ ($) - Create AI-powered designs by automatically removing backgrounds, enhancing colors, adjusting smart shadows, and so much more
 * https://pfpmaker.com/ - Make profile picture from any photo
 * http://jpeg-optimizer.com/ - Free online tool for resizing and compressing your digital photos and images
 
@@ -110,6 +116,13 @@ $ = Payment Required (There are no free options.) <br>
 * https://printit.work/about 
 * https://www.nirsoft.net/
 * https://ninite.com/ - Install and Update All Your Programs at Once. No toolbars. No clicking next. Just pick your apps and go
+* https://hidemyweb.wordpress.com/ - Hide, Blur and Highlight any webpage content 
+
+
+
+
+
+
 
 
 ## DIY
@@ -143,6 +156,7 @@ $ = Payment Required (There are no free options.) <br>
 * https://downloads.khinsider.com/ - Video and PC game soundtracks for download in a very otherwise difficult to get MP3 and lossless forms
 * https://onlinetonegenerator.com/ - Generate tones, you can also download in wav format
 * https://www.chosic.com/ - Free background music for you to use in your next project, free for commercial and non-commercial use
+* https://music.tello.app/ - Find out the latest music charts of all the countries in the world
 
 
 ### Spotify
@@ -160,6 +174,8 @@ $ = Payment Required (There are no free options.) <br>
 * http://redditlist.com/ - A subreddit list
 * https://anvaka.github.io/redsim/ - Find similar subreddits
 * https://www.reveddit.com/about/ - For revealing reddit's removed content. Search by username, subreddit (r/), link or domain
+* https://www.spacebarcounter.net/reddit-list - +100 Subreddits
+
 
 ### Better Reddit Search
 * https://redditsearch.io/ 
@@ -199,6 +215,10 @@ $ = Payment Required (There are no free options.) <br>
 
 
 
+
+
+
+
 ## For startups
 * https://www.kapwing.com/museum-of-websites - Gallery of how famous internet companies have changed over time
 * https://www.failory.com/ - All-In-One Newsletter for Startup Founders and more!
@@ -215,9 +235,6 @@ $ = Payment Required (There are no free options.) <br>
 * https://www.spreadsheet.com/
 
 
-### Web Analytics
-* https://pirsch.io/ - Open-source, cookie-free web analytics
-
 
 ### Design
 * https://mobilepalette.colorion.co/ - Mobile Palette Generator
@@ -225,20 +242,34 @@ $ = Payment Required (There are no free options.) <br>
 * https://www.easel.ly/ - Design tool to visualize any kind of information
 * https://transparenttextures.com/ 
 * https://m3.material.io/ - Design system created by Google to help teams build high-quality digital experiences for Android, iOS, Flutter, and the web
-
+* https://rasterizer.io/ - Make dynamic images
 
 #### Icon Packs
 * https://www.iconpacks.net/
+* https://www.notion.so/Doodlicons-519314a92ed3474093a10e44946bbb72 - Doodle icons for your next Project's Wireframe
 
 
 #### Social Media
 * https://apps4lifehost.com/Instagram/CaptionMaker.html - Clean & Beautiful Line Breaks for IG Captions
 * https://socialsizes.io/ - Image and Video sizes for Social Media
+* https://capturemytweet.in/ - Turn your tweets into wonderful images for free
+* https://www.ocoya.net/ ($) - Platform to create, auto-generate and schedule content
 
 #### Visuals
 * http://thestocks.im/
 * https://www.pexels.com/
 * https://unsplash.com/
+
+
+#### Wallpapers
+* https://wallpapers.com/
+* https://wallpapercave.com/
+* https://wallhaven.cc/
+* https://www.moviemania.io/phone - Textless high-resolution movie wallpapers database on the Internet
+* https://www.wallpapertip.com/ - Upload & discover free hd wallpapers
+* http://simpledesktops.com/browse/ - Minimal wallpapers
+* https://www.wallpaperflare.com/search?wallpaper=vertical - High resolution vertical wallpapers
+* https://www.positrondream.com/wallpapers-all - Abstract wallpapers
 
 
 
@@ -248,10 +279,13 @@ $ = Payment Required (There are no free options.) <br>
 * https://gumroad.com/ - From the Sahil Lavingia, the author of "The Minimalist Entrepreneur"
 * https://takeout.google.com/ - Export a copy of all your Google data
 * https://www.joinhoney.com/ - Honey extension automatically searches for coupons on 30,000+ sites around the globe
+* https://bothelp.io/widget - Free chat button widget for website
+* https://www.certificateclaim.com/ (~$) - Digital service to create and send all kinds of certificates
 
 
 ### Marketing
 * https://telega.io/ - Find the target audience in Telegram and launch effective advertising campaigns
+* https://igmassdms.com/ ($) - Send direct IG messages to your targeted audience, without using your account
 
 
 ### Trends
@@ -259,6 +293,22 @@ $ = Payment Required (There are no free options.) <br>
 * https://trends.google.com/trends/hottrends/visualize
 * https://www.statista.com/
 
+
+### Web Analytics
+* https://pirsch.io/ - Open-source, cookie-free web analytics
+
+
+### Creating Websites
+* https://super.so/ ($) - Create websites with nothing but Notion. Custom domains, themes, password-protection, and more—no code required
+
+
+
+### Meetings
+* https://sessions.us/ - Web-based conferencing tool that actually makes meetings better for free
+
+
+
+* https://formtochatbot.com/ - Convert your Google forms into interactive conversations in Chatbots
 
 
 
@@ -270,6 +320,12 @@ $ = Payment Required (There are no free options.) <br>
 * https://www.visualcv.com/resume-samples/ - Collection of 500+ professional resume examples
 * https://superportfolio.co/ - Online Portfolio Maker
 * https://www.referd.ai/resume-scanner - Free resume scanner
+* https://rxresu.me/ - Free and open source resume builder
+
+
+
+
+
 
 
 
@@ -328,10 +384,13 @@ $ = Payment Required (There are no free options.) <br>
 * https://ishoudinireadyyet.com/
 * https://thisthat.dev/ - What is the difference between ___ and ___ in the front-end development?
 * [MiXLab](https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb#scrollTo=e-0yDs4C0HkB) - Mixture of Google Colab notebooks found on github
+* https://www.auxiliary.tools/ - AI experiments and tools for humans
 
 
 * https://rentry.org/ - Markdown pastebin service with preview, custom urls and editing. Fast, simple and free (Your entries will be kept forever)
 * https://ide.onelang.io/ - For converting code from one programming language to another
+
+* https://chromeextensionkit.com/ ($) - Includes 17 different battle-tested starter templates so you can spend your time building your Chrome Extension and focuing on shipping, not setting up manifests and environments 
 
 
 ### CSS
@@ -343,6 +402,7 @@ $ = Payment Required (There are no free options.) <br>
 * https://androidweekly.net/ - Android newsletter
 * https://apt.izzysoft.de/fdroid/index.php - F-Droid Repository search
 * https://reports.exodus-privacy.eu.org/en/ - For checking permissions and trackers of apps
+* https://dontkillmyapp.com/ 
 
 ### Software
 * https://oldergeeks.com/ - Software download site without ads, misleading download links or annoyances. This site is 100% supported by donations
@@ -355,6 +415,8 @@ $ = Payment Required (There are no free options.) <br>
 * https://degooglisons-internet.org/en/ - Alternatives to FAANG
 
 
+### No-Code
+* https://www.spacebarcounter.net/no-code-revolution - See how NoCode is spreading around the world
 
 ### Python
 * http://projectpython.net/
