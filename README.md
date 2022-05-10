@@ -20,7 +20,7 @@ $ = Payment Required (There are no free options) <br>
 
 
 
-## Contents
+# Contents
 - [Awesome Useful Websites](#awesome-useful-websites)
   * [Lexicon](#lexicon)
   * [Contents](#contents)
@@ -156,10 +156,23 @@ $ = Payment Required (There are no free options) <br>
 * https://www.online-convert.com/ - Convert media files online from one format into another
 
 
-### URL 
-* https://cutr.ml/ - URL shortner
+### URL
+* https://shrtco.de/tools/ - URL tools
 * https://www.onelink.to/ - Link and QR code for your apps
 * https://appopener.com/ - Create smart links to open desired apps from url without login
+
+
+### URL Shortener
+* https://cutr.ml/ 
+* https://is.gd/ 
+* http://gg.gg/ 
+* https://www.shrunken.com/
+* https://www.rebrandly.com/ (~$) - Link management platform to brand, track, and share short URLs using a custom domain name
+* https://bit.do/ - Get real-time traffic statistics for your links for free 
+* https://home.s.id/ - Link Shortener and Microsite builder
+* https://tinyurl.com/app - With optional short link ending
+* https://tiny.cc/ - With optional short link ending
+
 
 
 ### Bookmarks
@@ -240,51 +253,64 @@ $ = Payment Required (There are no free options) <br>
 
 
 
-## Reddit
-* http://redditlist.com/ - A subreddit list
-* https://anvaka.github.io/redsim/ - Find similar subreddits
-* https://www.reveddit.com/about/ - For revealing reddit's removed content. Search by username, subreddit (r/), link or domain
-* https://www.spacebarcounter.net/reddit-list - +100 Subreddits
-
-
-### Better Reddit Search
-* https://redditsearch.io/ 
-* https://betterredditsearch.web.app/
 
 
 
 
-## Project Resources
-* https://www.madewithbubble.xyz/ - Curated tools
 
 
 
 
-## Cheat Sheets
-* https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/ - Cheat Sheets available for quick reference
+## Business
+* https://gumroad.com/ - From the Sahil Lavingia, the author of "The Minimalist Entrepreneur"
+* https://takeout.google.com/ - Export a copy of all your Google data
+* https://www.joinhoney.com/ - Honey extension automatically searches for coupons on 30,000+ sites around the globe
+* https://bothelp.io/widget - Free chat button widget for website
+* https://www.certificateclaim.com/ (~$) - Digital service to create and send all kinds of certificates
+
+
+### Marketing
+* https://telega.io/ - Find the target audience in Telegram and launch effective advertising campaigns
+* https://igmassdms.com/ ($) - Send direct IG messages to your targeted audience, without using your account
+* https://rohitverma.gumroad.com/l/PM-tools ($) - Product Management tools for $5
+* https://yespromo.me/ - Free database of 100+ successful self promotion Reddit posts
+
+
+
+### Trends
+* https://trends.google.com/trends/?geo=US
+* https://trends.google.com/trends/hottrends/visualize
+* https://www.statista.com/
+
+
+### Web Analytics
+* https://pirsch.io/ - Open-source, cookie-free web analytics
+
+
+### Creating Websites
+* https://super.so/ ($) - Create websites with nothing but Notion. Custom domains, themes, password-protection, and more—no code required
+* https://vsble.me/ (~$) - For creatives to effortlessly showcase their work with a website
+
+
+
+### Meetings
+* https://sessions.us/ - Web-based conferencing tool that actually makes meetings better for free
+
+
+
+* https://formtochatbot.com/ - Convert your Google forms into interactive conversations in Chatbots
 
 
 
 
-## How To Ask A Good Question
-* https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603
-* http://catb.org/~esr/faqs/smart-questions.html
-* https://www.nohello.com/
-* https://dontasktoask.com/
-* https://meta.stackexchange.com/q/66377/
-* https://weblogs.asp.net/alex_papadimoulis/408925
-* https://stackoverflow.com/help/how-to-ask
-* https://slash7.com/2006/12/22/vampires/
+## Jobs
+* https://angel.co/candidates/overview
 
-### XY Problem
-* https://xyproblem.info/
-* https://en.wikipedia.org/wiki/XY_problem
-* https://mywiki.wooledge.org/XyProblem
-* https://lmgtfy.app/#gsc.tab=0 - Share a sub-link of this site to show someone that they need to google their question before asking
-
-
-
-
+### Protfolio & CV
+* https://www.visualcv.com/resume-samples/ - Collection of 500+ professional resume examples
+* https://superportfolio.co/ - Online Portfolio Maker
+* https://www.referd.ai/resume-scanner - Free resume scanner
+* https://rxresu.me/ - Free and open source resume builder
 
 
 
@@ -349,63 +375,6 @@ $ = Payment Required (There are no free options) <br>
 
 
 
-## Business
-* https://gumroad.com/ - From the Sahil Lavingia, the author of "The Minimalist Entrepreneur"
-* https://takeout.google.com/ - Export a copy of all your Google data
-* https://www.joinhoney.com/ - Honey extension automatically searches for coupons on 30,000+ sites around the globe
-* https://bothelp.io/widget - Free chat button widget for website
-* https://www.certificateclaim.com/ (~$) - Digital service to create and send all kinds of certificates
-
-
-### Marketing
-* https://telega.io/ - Find the target audience in Telegram and launch effective advertising campaigns
-* https://igmassdms.com/ ($) - Send direct IG messages to your targeted audience, without using your account
-* https://rohitverma.gumroad.com/l/PM-tools ($) - Product Management tools for $5
-* https://yespromo.me/ - Free database of 100+ successful self promotion Reddit posts
-
-
-
-### Trends
-* https://trends.google.com/trends/?geo=US
-* https://trends.google.com/trends/hottrends/visualize
-* https://www.statista.com/
-
-
-### Web Analytics
-* https://pirsch.io/ - Open-source, cookie-free web analytics
-
-
-### Creating Websites
-* https://super.so/ ($) - Create websites with nothing but Notion. Custom domains, themes, password-protection, and more—no code required
-* https://vsble.me/ (~$) - For creatives to effortlessly showcase their work with a website
-
-
-
-### Meetings
-* https://sessions.us/ - Web-based conferencing tool that actually makes meetings better for free
-
-
-
-* https://formtochatbot.com/ - Convert your Google forms into interactive conversations in Chatbots
-
-
-
-
-## Jobs
-* https://angel.co/candidates/overview
-
-### Protfolio & CV
-* https://www.visualcv.com/resume-samples/ - Collection of 500+ professional resume examples
-* https://superportfolio.co/ - Online Portfolio Maker
-* https://www.referd.ai/resume-scanner - Free resume scanner
-* https://rxresu.me/ - Free and open source resume builder
-
-
-
-
-
-
-
 
 
 ## Academic
@@ -416,8 +385,10 @@ $ = Payment Required (There are no free options) <br>
 ## Science
 * https://reproducibilityinstitute.org/w/ - 2 projects that provide academic papers, chatsheets and torrents for paid courses
 
+
 ### Data
 * https://ourworldindata.org/covid-vaccinations - Corona data by country
+
 
 ### Earth
 * https://river-runner-global.samlearner.com/ - Visualization of path of a rain droplet from any point in the world to its end point
@@ -425,12 +396,13 @@ $ = Payment Required (There are no free options) <br>
 * https://mars.nasa.gov/explore/mars-now/ - Mars's satellites (Well, this is not really "Earth" but youget the point)
 
 
-## Mathematics
-
-
 ### Biology
 * https://www.sectional-anatomy.org/ - Free online tool for radiologic cross-sectional anatomy
 * https://neal.fun/deep-sea/ - Explore the depths of the seas
+
+
+## Mathematics
+
 
 
 
@@ -509,6 +481,59 @@ $ = Payment Required (There are no free options) <br>
 
 ## Coding
 * https://www.codewars.com/
+
+
+
+
+
+## Reddit
+* http://redditlist.com/ - A subreddit list
+* https://anvaka.github.io/redsim/ - Find similar subreddits
+* https://www.reveddit.com/about/ - For revealing reddit's removed content. Search by username, subreddit (r/), link or domain
+* https://www.spacebarcounter.net/reddit-list - +100 Subreddits
+
+
+### Better Reddit Search
+* https://redditsearch.io/ 
+* https://betterredditsearch.web.app/
+
+
+
+
+## Project Resources
+* https://www.madewithbubble.xyz/ - Curated tools
+
+
+
+
+## Cheat Sheets
+* https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/ - Cheat Sheets available for quick reference
+
+
+
+
+## How To Ask A Good Question
+* https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603
+* http://catb.org/~esr/faqs/smart-questions.html
+* https://www.nohello.com/
+* https://dontasktoask.com/
+* https://meta.stackexchange.com/q/66377/
+* https://weblogs.asp.net/alex_papadimoulis/408925
+* https://stackoverflow.com/help/how-to-ask
+* https://slash7.com/2006/12/22/vampires/
+
+### XY Problem
+* https://xyproblem.info/
+* https://en.wikipedia.org/wiki/XY_problem
+* https://mywiki.wooledge.org/XyProblem
+* https://lmgtfy.app/#gsc.tab=0 - Share a sub-link of this site to show someone that they need to google their question before asking
+
+
+
+
+
+
+
 
 
 
