@@ -49,15 +49,11 @@ $ = Payment Required (There are no free options) <br>
 
 ### Disposable Email
 * https://temp-mail.to/ - Free and reliable temporary email addresses with no registeration
-* https://erine.email/
-* https://mailsac.com/
-* https://inboxkitten.com/
-* https://www.guerrillamail.com/inbox
-* https://getnada.com/
-* https://temp-mail.org/
-* https://getnada.com/
-* https://yopmail.com/en/
-* https://www.emaildrop.io/
+* https://erine.email/ - Anti-spam for your existing email address
+* https://mailsac.com/ (~$) 
+* https://inboxkitten.com/ - Open-Source Disposable Email
+* https://www.guerrillamail.com/inbox - Compose emails and determine Domain, Master Passphrase, Password of your disposable email
+* https://www.emaildrop.io/ - Email with custom or random domain (highly minimalistic design)
 
 
 ### VPN
@@ -223,6 +219,7 @@ $ = Payment Required (There are no free options) <br>
 * https://www.kapwing.com/museum-of-websites - Gallery of how famous internet companies have changed over time
 * https://www.failory.com/ - All-In-One Newsletter for Startup Founders and more!
 * https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview - 500+ Free Tools For Startups 
+* https://www.failory.com/google - Learn from Google's +100 failures to build profitable businesses and scale acquired companies
 
 ### Connectivity
 * https://www.integromat.com/en?pc=referralbonus - To connect apps and automate workflows in a few clicks
@@ -233,7 +230,7 @@ $ = Payment Required (There are no free options) <br>
 
 ### Productivity
 * https://www.spreadsheet.com/
-
+* https://contentbot.ai/ ($) - AI Assistant for content creation 
 
 
 ### Design
@@ -243,10 +240,12 @@ $ = Payment Required (There are no free options) <br>
 * https://transparenttextures.com/ 
 * https://m3.material.io/ - Design system created by Google to help teams build high-quality digital experiences for Android, iOS, Flutter, and the web
 * https://rasterizer.io/ - Make dynamic images
+* https://jitter.video/ (~$) - A simple animation tool on the web
 
 #### Icon Packs
 * https://www.iconpacks.net/
 * https://www.notion.so/Doodlicons-519314a92ed3474093a10e44946bbb72 - Doodle icons for your next Project's Wireframe
+* https://illustrationkit.com/ - Free vector illustrations for personal & commercial projects
 
 
 #### Social Media
@@ -255,10 +254,11 @@ $ = Payment Required (There are no free options) <br>
 * https://capturemytweet.in/ - Turn your tweets into wonderful images for free
 * https://www.ocoya.net/ ($) - Platform to create, auto-generate and schedule content
 
-#### Visuals
+#### Stock
 * http://thestocks.im/
 * https://www.pexels.com/
 * https://unsplash.com/
+* https://www.pond5.com/free - Free Stock Videos, Photos, and Music
 
 
 #### Wallpapers
@@ -286,6 +286,9 @@ $ = Payment Required (There are no free options) <br>
 ### Marketing
 * https://telega.io/ - Find the target audience in Telegram and launch effective advertising campaigns
 * https://igmassdms.com/ ($) - Send direct IG messages to your targeted audience, without using your account
+* https://rohitverma.gumroad.com/l/PM-tools ($) - Product Management tools for $5
+* https://yespromo.me/ - Free database of 100+ successful self promotion Reddit posts
+
 
 
 ### Trends
@@ -300,6 +303,7 @@ $ = Payment Required (There are no free options) <br>
 
 ### Creating Websites
 * https://super.so/ ($) - Create websites with nothing but Notion. Custom domains, themes, password-protection, and more—no code required
+* https://vsble.me/ (~$) - For creatives to effortlessly showcase their work with a website
 
 
 
@@ -396,6 +400,7 @@ $ = Payment Required (There are no free options) <br>
 ### CSS
 * https://www.caniemail.com/
 * https://caniuse.com/
+* https://www.eggradients.com/ - Gradient Background Colors
 
 ### Android
 * https://fossdroid.com/ - Free and open source Android apps
