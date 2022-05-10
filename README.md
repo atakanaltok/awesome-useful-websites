@@ -63,7 +63,7 @@ $ = Payment Required (There are no free options) <br>
 ### VPN
 * https://www.top10vpn.com/
 * https://www.whatsmybrowser.org/
-* https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit#gid=231869418 - Detailed list of all vpns available with analysis and comparisons
+* [docs.google.com/spreadsheets/vpn](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit#gid=231869418) - Detailed list of all vpns available with analysis and comparisons
 
 
 ### Privacy
