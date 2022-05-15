@@ -284,6 +284,7 @@ https://random-password-gen.web.app/
 * https://murmel.social/top - Latest thought-provoking stories from across the Twitterverse
 * https://tweetdeck.twitter.com/ - Twitter dashboard application for management of Twitter accounts, tracking, and organizing
 * https://threadreaderapp.com/ - Helps you save as PDF, read, and share Twitter threads easily
+* https://threadhunt.xyz/ - Hunted Quality Twitter Threads
 
 
 ## Music
@@ -360,6 +361,7 @@ https://random-password-gen.web.app/
 
 ## Jobs
 * https://angel.co/candidates/overview
+* https://mentorcruise.com/ ($) - Online mentoring
 
 ### Protfolio & CV
 * https://www.visualcv.com/resume-samples/ - Collection of 500+ professional resume examples
@@ -378,7 +380,7 @@ https://random-password-gen.web.app/
 * https://www.kapwing.com/museum-of-websites - Gallery of how famous internet companies have changed over time
 * https://www.failory.com/ - All-In-One Newsletter for Startup Founders and more!
 * https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview - 500+ Free Tools For Startups 
-* https://www.failory.com/google - Learn from Google's +100 failures to build profitable businesses and scale acquired companies
+* https://www.failory.com/google - Learn from Google's 100+ failures to build profitable businesses and scale acquired companies
 
 
 ### Finding Ideas
@@ -458,6 +460,9 @@ https://random-password-gen.web.app/
 * https://tldrthis.com/ - Summarize any piece of text into concise, easy to digest content so you can free yourself from information overload
 * https://archive.org/details/GeneralIndex - This is a general index of 107,233,728+ journal articles
 * https://www.homeworkhelpglobal.com/ - Online professional and custom essay writing services
+* https://sites.dartmouth.edu/nyhan/academic-careers/
+* https://cnx.org/ - View and share free educational materials
+* http://www.reachoutmichigan.org/learn/tutorials.html#math - On-Line Tutorials & References
 
 
 ## Science
@@ -497,9 +502,12 @@ https://random-password-gen.web.app/
 * https://asknature.org/ - Portal to the wisdom nature holds
 
 
+### Physics
+* https://theoreticalminimum.com/home - Series of Stanford Continuing Studies courses taught by world renowned physicist Leonard Susskind
+* http://www.damtp.cam.ac.uk/user/tong/index.html - Theoretical Physics
 
 
-
+* https://muellergroup.lassp.cornell.edu/index.html - Laboratory of Atomic and Solid State Physics
 
 
 
@@ -604,7 +612,7 @@ https://random-password-gen.web.app/
 * http://redditlist.com/ - A subreddit list
 * https://anvaka.github.io/redsim/ - Find similar subreddits
 * https://www.reveddit.com/about/ - For revealing reddit's removed content. Search by username, subreddit (r/), link or domain
-* https://www.spacebarcounter.net/reddit-list - +100 Subreddits
+* https://www.spacebarcounter.net/reddit-list - 100+ Subreddits
 
 
 ### Better Reddit Search
