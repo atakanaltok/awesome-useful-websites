@@ -138,7 +138,7 @@ $ = Payment Required (There are no free options) <br>
 
 
 ### Privacy
-* https://www.privacytools.io/ - Q:How much privacy do you want?  A:Yes
+* https://www.privacytools.io/ - Q: How much privacy do you want?  A: Yes
 * https://mywhisper.net/ - Text encryption tool, based on AES cryptography
 * https://andisearch.com/ - Ad-free and anonymous searching
 * https://beencrypted.com/ - To become more encrypted
@@ -545,7 +545,7 @@ $ = Payment Required (There are no free options) <br>
 
 
 
-## Other Website of Websites
+## Other Websites of Websites
 * https://stumbled.to/ 
 * http://5000best.com/websites/
 
