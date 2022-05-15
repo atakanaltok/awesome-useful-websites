@@ -116,6 +116,13 @@ $ = Payment Required (There are no free options) <br>
 
 ### Keyboard
 * https://usethekeyboard.com/ - Collection of keyboard shortcuts for Mac apps, Windows programs, and websites
+* https://www.keybr.com/
+* https://10fastfingers.com/typing-test/english
+* https://www.pairtype.com/
+* https://www.typingclub.com/
+* https://keycombiner.com/
+* https://www.yip-yip.com/
+
 
 
 ### Note Taking
@@ -137,10 +144,22 @@ $ = Payment Required (There are no free options) <br>
 * [docs.google.com/spreadsheets/vpn](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit#gid=231869418) - Detailed list of all vpns available with analysis and comparisons
 
 
+### Search
+* https://neeva.com/ (~$) - World’s first ad-free, private search engine
+* https://andisearch.com/ - Ad-free and anonymous searching
+* https://plex.page/ - Search summarization tool
+
+
+
+### Automating browser
+* [Automa](https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca?ref=producthunt) - Chrome extension for automating your browser
+* https://www.browse.ai/ - Extract, click-setup, and monitor data from any website
+
+
+
 ### Privacy
 * https://www.privacytools.io/ - Q: How much privacy do you want?  A: Yes
 * https://mywhisper.net/ - Text encryption tool, based on AES cryptography
-* https://andisearch.com/ - Ad-free and anonymous searching
 * https://beencrypted.com/ - To become more encrypted
 * https://prism-break.org/en/all/ - Private and safe alternatives of most used apps & services
 * https://www.reddit.com/r/piracy/wiki/megathread/tools - List of Apps / tools / web services
@@ -153,8 +172,17 @@ $ = Payment Required (There are no free options) <br>
 * https://privacy.net/analyzer/#pre-load - Same as the above one
 
 
+
+### Password Generation
+http://www.healthypasswords.com/index-2.html - Everything About Passwords and Internet Security
+https://random-password-gen.web.app/
+
+
+
+
 ### Conventer
 * https://www.online-convert.com/ - Convert media files online from one format into another
+* https://jpg.to-png.com/ - (Not just jpg, all types of files) Free file conversion tools. Your jpg-files will not be uploaded to any servers! The conversion from jpg to png happens in your browser on your own device.
 
 
 ### URL
@@ -196,6 +224,7 @@ $ = Payment Required (There are no free options) <br>
 * https://pfpmaker.com/ - Make profile picture from any photo
 * http://jpeg-optimizer.com/ - Free online tool for resizing and compressing your digital photos and images
 * https://extract.pics/ - Extract images from any public website by using a virtual browser
+* https://generated.photos/ - Unique, worry-free (AI-generated), free to download model photos
 
 
 ### Time
@@ -203,12 +232,17 @@ $ = Payment Required (There are no free options) <br>
 * https://www.timeanddate.com/ - Calendars, clocks, and many more
 
 
+### To Do
+* https://todoist.com/home ($) 
+* https://www.any.do/ ($) 
+
+
 ### Some Other Tools
 * https://printit.work/about 
 * https://www.nirsoft.net/
 * https://ninite.com/ - Install and Update All Your Programs at Once. No toolbars. No clicking next. Just pick your apps and go
 * https://hidemyweb.wordpress.com/ - Hide, Blur and Highlight any webpage content 
-
+* https://app.readwok.com/lib - Online text reader with a progressive viewing mode, which allows you to read paragraph by paragraph and edit as you read
 
 
 
@@ -293,12 +327,14 @@ $ = Payment Required (There are no free options) <br>
 * https://igmassdms.com/ ($) - Send direct IG messages to your targeted audience, without using your account
 * https://rohitverma.gumroad.com/l/PM-tools ($) - Product Management tools for $5
 * https://yespromo.me/ - Free database of 100+ successful self promotion Reddit posts
+* https://www.welovenocode.com/marketingforstartups - Free e-book with 47 practical tactics to get customers and achieve hockey stick growth
 
 
 ### Trends
 * https://trends.google.com/trends/?geo=US
 * https://trends.google.com/trends/hottrends/visualize
 * https://www.statista.com/
+* https://books.google.com/ngrams - Grapher showing how phrases have occurred in a corpus of books over the selected years
 
 
 ### Web Analytics
@@ -337,11 +373,18 @@ $ = Payment Required (There are no free options) <br>
 
 
 
-## For startups
+## Startups
+* https://theangelphilosopher.com/ - Compilation of Naval's wisdom, knowledge and thoughts
 * https://www.kapwing.com/museum-of-websites - Gallery of how famous internet companies have changed over time
 * https://www.failory.com/ - All-In-One Newsletter for Startup Founders and more!
 * https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview - 500+ Free Tools For Startups 
 * https://www.failory.com/google - Learn from Google's +100 failures to build profitable businesses and scale acquired companies
+
+
+### Finding Ideas
+* https://answersocrates.com/ - Discover the questions people are asking on Google about almost any topic, for free
+* 
+
 
 
 ### Connectivity
@@ -363,6 +406,7 @@ $ = Payment Required (There are no free options) <br>
 * https://m3.material.io/ - Design system created by Google to help teams build high-quality digital experiences for Android, iOS, Flutter, and the web
 * https://rasterizer.io/ - Make dynamic images
 * https://jitter.video/ (~$) - A simple animation tool on the web
+
 
 #### Icon Packs
 * https://www.iconpacks.net/
@@ -399,13 +443,31 @@ $ = Payment Required (There are no free options) <br>
 
 
 
+
+
+## Art
+
+
+### Art Communities
+* https://ello.co/discover 
+
+
+
+
 ## Academic
 * https://tldrthis.com/ - Summarize any piece of text into concise, easy to digest content so you can free yourself from information overload
 * https://archive.org/details/GeneralIndex - This is a general index of 107,233,728+ journal articles
+* https://www.homeworkhelpglobal.com/ - Online professional and custom essay writing services
 
 
 ## Science
 * https://reproducibilityinstitute.org/w/ - 2 projects that provide academic papers, chatsheets and torrents for paid courses
+* https://www.ebsco.com/ - Provider of research databases, e-journals, magazine subscriptions, ebooks and discovery service
+* https://www.zooniverse.org/ - Participate in real research with over 50 active online citizen science projects
+* https://experiment.com/ - Help fund the next wave of scientific research
+* https://www.closertotruth.com/ - Robert Lawrence Kuhn is the truth
+* https://www.nature.com/scitable/ - Library of scientific overviews. Using this platform, you can customize your own eBooks for your students, create an online classroom, contribute and share content and connect with networks of colleagues
+
 
 
 ### Biographies
@@ -420,6 +482,7 @@ $ = Payment Required (There are no free options) <br>
 
 ### Data
 * https://ourworldindata.org/covid-vaccinations - Corona data by country
+* http://websdr.org/ - Software-Defined Radio receiver connected to the internet, allowing many listeners to listen and tune it simultaneously (Current signals of earths)
 
 
 ### Earth
@@ -431,9 +494,25 @@ $ = Payment Required (There are no free options) <br>
 ### Biology
 * https://www.sectional-anatomy.org/ - Free online tool for radiologic cross-sectional anatomy
 * https://neal.fun/deep-sea/ - Explore the depths of the seas
+* https://asknature.org/ - Portal to the wisdom nature holds
+
+
+
+
+
+
 
 
 ## Mathematics
+
+
+
+
+### Math + Art
+* https://www.gregegan.net/ - Science fiction writer and computer programmer's information, illustrations, and applets
+* http://bugman123.com/ - favorite hobbies and interests, especially science, and art of Paul Nylander 
+
+
 
 
 
