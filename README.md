@@ -163,7 +163,7 @@ $ = Payment Required (There are no free options) <br>
 * https://appopener.com/ - Create smart links to open desired apps from url without login
 
 
-### URL Shortener
+#### URL Shortener
 * https://cutr.ml/ 
 * https://is.gd/ 
 * http://gg.gg/ 
@@ -173,6 +173,7 @@ $ = Payment Required (There are no free options) <br>
 * https://home.s.id/ - Link Shortener and Microsite builder
 * https://tinyurl.com/app - With optional short link ending
 * https://tiny.cc/ - With optional short link ending
+* https://bitly.com/ - web/mobile link management and campaign management analytics as well as branded links
 
 
 
@@ -181,8 +182,11 @@ $ = Payment Required (There are no free options) <br>
 
 
 ### Comparision
-* https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/edit#gid=0 - Detailed comparison and analysis of all social media messaging apps
+* [docs.google.com/spreadsheets](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/edit#gid=0) - Detailed comparison and analysis of all social media messaging apps
 * https://www.dxomark.com/category/smartphone-reviews/#tabs
+* https://techspecs.io/vs/ - Compare phones
+* https://techspecs.io/ Search engine that connects you with the consumer electronics products
+
 
 ### Visual
 * https://www.unscreen.com/ - Remove Video Background 100% Automatically and Free
@@ -191,10 +195,13 @@ $ = Payment Required (There are no free options) <br>
 * https://www.designify.com/ ($) - Create AI-powered designs by automatically removing backgrounds, enhancing colors, adjusting smart shadows, and so much more
 * https://pfpmaker.com/ - Make profile picture from any photo
 * http://jpeg-optimizer.com/ - Free online tool for resizing and compressing your digital photos and images
+* https://extract.pics/ - Extract images from any public website by using a virtual browser
+
 
 ### Time
 * https://hovancik.net/stretchly/ - Cross-platform open source app that reminds you to take breaks when working on your compute
 * https://www.timeanddate.com/ - Calendars, clocks, and many more
+
 
 ### Some Other Tools
 * https://printit.work/about 
@@ -212,6 +219,7 @@ $ = Payment Required (There are no free options) <br>
 ## DIY
 * https://www.instructables.com/
 * https://www.dummies.com/ - Series of instructional/reference [books](https://en.wikipedia.org/wiki/For_Dummies) 
+* https://fixitclub.com/ - Save Money on Home Repairs
 
 
 
@@ -232,6 +240,16 @@ $ = Payment Required (There are no free options) <br>
 * http://radio.garden/ - Radio stations represented as green dots on Google Earth map and you can listen any of them by just one click
 * https://radiooooo.com/ - The Musical Time Machine
 * https://tastedive.com/ - Find mucis, books, movies, and many more
+
+
+### Fact Chacking
+* https://teyit.org/ - For Turkey
+
+
+### Twitter
+* https://murmel.social/top - Latest thought-provoking stories from across the Twitterverse
+* https://tweetdeck.twitter.com/ - Twitter dashboard application for management of Twitter accounts, tracking, and organizing
+* https://threadreaderapp.com/ - Helps you save as PDF, read, and share Twitter threads easily
 
 
 ## Music
@@ -277,7 +295,6 @@ $ = Payment Required (There are no free options) <br>
 * https://yespromo.me/ - Free database of 100+ successful self promotion Reddit posts
 
 
-
 ### Trends
 * https://trends.google.com/trends/?geo=US
 * https://trends.google.com/trends/hottrends/visualize
@@ -293,13 +310,14 @@ $ = Payment Required (There are no free options) <br>
 * https://vsble.me/ (~$) - For creatives to effortlessly showcase their work with a website
 
 
-
 ### Meetings
 * https://sessions.us/ - Web-based conferencing tool that actually makes meetings better for free
 
 
-
 * https://formtochatbot.com/ - Convert your Google forms into interactive conversations in Chatbots
+
+
+
 
 
 
@@ -316,17 +334,20 @@ $ = Payment Required (There are no free options) <br>
 
 
 
+
+
+
 ## For startups
 * https://www.kapwing.com/museum-of-websites - Gallery of how famous internet companies have changed over time
 * https://www.failory.com/ - All-In-One Newsletter for Startup Founders and more!
 * https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview - 500+ Free Tools For Startups 
 * https://www.failory.com/google - Learn from Google's +100 failures to build profitable businesses and scale acquired companies
 
+
 ### Connectivity
 * https://www.integromat.com/en?pc=referralbonus - To connect apps and automate workflows in a few clicks
 * https://meetfranz.com/ - Platform where you can manage all your messaging apps like WhatsApp, Facebook Messenger, Slack, Telegram and many more
 * https://remotedesktop.google.com/ - Remotely connect with your home or work computer, or share your screen with others
-
 
 
 ### Productivity
@@ -349,7 +370,7 @@ $ = Payment Required (There are no free options) <br>
 * https://illustrationkit.com/ - Free vector illustrations for personal & commercial projects
 
 
-#### Social Media
+#### Tools for Social Media
 * https://apps4lifehost.com/Instagram/CaptionMaker.html - Clean & Beautiful Line Breaks for IG Captions
 * https://socialsizes.io/ - Image and Video sizes for Social Media
 * https://capturemytweet.in/ - Turn your tweets into wonderful images for free
@@ -387,6 +408,16 @@ $ = Payment Required (There are no free options) <br>
 * https://reproducibilityinstitute.org/w/ - 2 projects that provide academic papers, chatsheets and torrents for paid courses
 
 
+### Biographies
+* https://mathshistory.st-andrews.ac.uk/ - Free online resource containing biographies of more than 3000 mathematicians and over 2000 pages of essays and supporting materials
+* https://www.webofstories.com/ - Listen to some of the greatest people of our time telling their life stories
+* https://www.darwinproject.ac.uk/ - Letters written by the evolutionary scientist, Charles Darwin (1809–1882)
+* http://darwin-online.org.uk/ - The world's largest and most widely used resource on Charles Darwin
+* https://www.newtonproject.ox.ac.uk/ - Online edition of all of Sir Isaac Newton’s (1642–1727) writings 
+* http://bethe.cornell.edu/index.html - Personal and historical perspectives of Hans Bethe
+* https://lettersofnote.com/ - History’s most fascinating letters
+
+
 ### Data
 * https://ourworldindata.org/covid-vaccinations - Corona data by country
 
@@ -409,10 +440,13 @@ $ = Payment Required (There are no free options) <br>
 
 ## Engineerings
 * https://animagraffs.com/
+* [engin.umich](https://ctms.engin.umich.edu/CTMS/index.php?aux=About_Tutorials) - To  learn how to use MATLAB and Simulink for the analysis and design of automatic control systems
+* https://technologystudent.com/index.htm - Contains numerous information sheets, exercises, and great animations
 
 
 ### Mechanical Engineering
-
+* http://507movements.com/toc.html - Animated Mechanical Movements
+* https://ctms.engin.umich.edu/CTMS/index.php?aux=Home
 
 ### Electronics Engineering
 * https://www.electrical4u.com/ - Learn Electrical Engineering
