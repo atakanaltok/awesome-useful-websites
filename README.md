@@ -239,6 +239,11 @@ https://random-password-gen.web.app/
 * https://generated.photos/ - Unique, worry-free (AI-generated), free to download model photos
 
 
+### Audio
+* https://www.sampurr.com/ - Sample an audio from the web (For [usage](https://www.sampurr.com/about.html))
+* 
+
+
 ### Time
 * https://hovancik.net/stretchly/ - Cross-platform open source app that reminds you to take breaks when working on your compute
 * https://www.timeanddate.com/ - Calendars, clocks, and many more
@@ -278,6 +283,8 @@ https://random-password-gen.web.app/
 * https://animixplay.to/
 * https://tubitv.com/home
 * http://rarefilm.net/ - Old films
+* https://tiii.me/ - Calculate your total time spent watching TV shows
+* https://www.moviesettingsdatabase.com/ - Over 30k Movies & TV Shows Organized By Where (And When) The Story Took Place
 
 
 
@@ -286,6 +293,9 @@ https://random-password-gen.web.app/
 * http://radio.garden/ - Radio stations represented as green dots on Google Earth map and you can listen any of them by just one click
 * https://radiooooo.com/ - The Musical Time Machine
 * https://tastedive.com/ - Find mucis, books, movies, and many more
+* https://www.pidgi.net/wiki/Main_Page - Community-driven video game media database, including artwork, promotional materials, logos, and more
+* https://kassellabs.io/ - Use your texts on famous intros of movies and series
+* https://ustvgo.tv/ - Free live TV channels 
 
 
 ### Fact Chacking
@@ -297,6 +307,7 @@ https://random-password-gen.web.app/
 * https://tweetdeck.twitter.com/ - Twitter dashboard application for management of Twitter accounts, tracking, and organizing
 * https://threadreaderapp.com/ - Helps you save as PDF, read, and share Twitter threads easily
 * https://threadhunt.xyz/ - Hunted Quality Twitter Threads
+* https://tweepsmap.com/ - AI DRIVEN TWITTER ANALYTICS AND MANAGEMENT
 
 
 ## Music
@@ -321,7 +332,12 @@ https://random-password-gen.web.app/
 
 
 
-
+## Books
+* https://read-next.com/ - 3000+ books recommended by famous people from diverse domains (Scientists, Investors, Entrepreneurs, Celebrities, Authors, etc.)
+* https://www.anarchistlibraries.net/libraries - Archive focusing on anarchism, anarchist texts, and texts of interest for anarchists
+* https://etc.usf.edu/lit2go/ - Free online collection of stories and poems in Mp3 (audiobook) format
+* https://booksc.org/ - World's largest scientific articles store. 70,000,000+ articles for free
+* https://btdig.com/ - BitTorrent DHT search engine. It is not a tracker and doesn't store any content and only collects torrent metadata (such as file names and file sizes) and a magnet link (torrent identifier). This means BTDigg is the entirely legal system
 
 
 
@@ -382,7 +398,8 @@ https://random-password-gen.web.app/
 * https://rxresu.me/ - Free and open source resume builder
 
 
-
+### Careers
+* http://www.wtfshouldidowithmylife.com/ - Learn about different occupations
 
 
 
@@ -405,6 +422,8 @@ https://random-password-gen.web.app/
 * https://www.integromat.com/en?pc=referralbonus - To connect apps and automate workflows in a few clicks
 * https://meetfranz.com/ - Platform where you can manage all your messaging apps like WhatsApp, Facebook Messenger, Slack, Telegram and many more
 * https://remotedesktop.google.com/ - Remotely connect with your home or work computer, or share your screen with others
+* https://www.recwide.com/ - Screen and webcam recorder. Free, Online (No Downlaod Required)
+
 
 
 ### Productivity
@@ -439,6 +458,7 @@ https://random-password-gen.web.app/
 * https://www.pexels.com/
 * https://unsplash.com/
 * https://www.pond5.com/free - Free Stock Videos, Photos, and Music
+* https://www.critter.pics/ - Critter pictures
 
 
 #### Wallpapers
