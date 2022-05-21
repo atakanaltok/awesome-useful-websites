@@ -112,6 +112,12 @@ $ = Payment Required (There are no free options) <br>
 * https://infographicjournal.com/ - Infographic archive
 
 
+### Diagrams
+* https://creately.com/ - Data-connected Visual Workspace to brainstorm, plan, execute and capture knowledge
+* https://www.diagrams.net/ - Security-first diagramming for teams
+* https://orgpad.com/?ref=producthunt (~$) - Interactive online mindmap 
+
+
 
 ## Tools
 * http://5000best.com/tools/
@@ -160,12 +166,14 @@ $ = Payment Required (There are no free options) <br>
 * https://neeva.com/ (~$) - World’s first ad-free, private search engine
 * https://andisearch.com/ - Ad-free and anonymous searching
 * https://plex.page/ - Search summarization tool
+* https://unlistedvideos.com/ - For submitting, searching for, and watching unlisted YouTube videos. No registration required
 
 
 
 ### Automating browser
 * [Automa](https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca?ref=producthunt) - Chrome extension for automating your browser
 * https://www.browse.ai/ - Extract, click-setup, and monitor data from any website
+* https://www.tango.us/ - Create step-by-step documentation, how-to playbooks, and product guides with screenshots
 
 
 
@@ -190,6 +198,10 @@ http://www.healthypasswords.com/index-2.html - Everything About Passwords and In
 https://random-password-gen.web.app/
 
 
+### File
+* https://wormhole.app/ - Share files with end-to-end encryption and a link that automatically expires
+* https://www.mediafire.com/ (~$) - File storage and sharing
+* https://www.zippyshare.com/ - No sign up required, no dowload limits, free, umlimited disk space
 
 
 ### Conventer
@@ -241,7 +253,6 @@ https://random-password-gen.web.app/
 
 ### Audio
 * https://www.sampurr.com/ - Sample an audio from the web (For [usage](https://www.sampurr.com/about.html))
-* 
 
 
 ### Time
@@ -260,6 +271,9 @@ https://random-password-gen.web.app/
 * https://ninite.com/ - Install and Update All Your Programs at Once. No toolbars. No clicking next. Just pick your apps and go
 * https://hidemyweb.wordpress.com/ - Hide, Blur and Highlight any webpage content 
 * https://app.readwok.com/lib - Online text reader with a progressive viewing mode, which allows you to read paragraph by paragraph and edit as you read
+* https://wikifox.ml/ - Clean and simplified version of the official Wikipedia
+* https://incoggo.com/ - Adblocker for Paywalls
+* https://www.azurespeed.com/Azure/Latency - Many tools from Azure, Microsoft
 
 
 
@@ -292,6 +306,7 @@ https://random-password-gen.web.app/
 ## Media
 * http://radio.garden/ - Radio stations represented as green dots on Google Earth map and you can listen any of them by just one click
 * https://radiooooo.com/ - The Musical Time Machine
+* http://www.lightyear.fm/ - Radio broadcasts leave Earth at the speed of light
 * https://tastedive.com/ - Find mucis, books, movies, and many more
 * https://www.pidgi.net/wiki/Main_Page - Community-driven video game media database, including artwork, promotional materials, logos, and more
 * https://kassellabs.io/ - Use your texts on famous intros of movies and series
@@ -317,6 +332,30 @@ https://random-password-gen.web.app/
 * https://onlinetonegenerator.com/ - Generate tones, you can also download in wav format
 * https://www.chosic.com/ - Free background music for you to use in your next project, free for commercial and non-commercial use
 * https://music.tello.app/ - Find out the latest music charts of all the countries in the world
+* https://www.lalal.ai/ - Extract vocal, accompaniment and various instruments from any audio
+* https://musiclab.chromeexperiments.com/Experiments - Learning music more accessible through fun, hands-on experiments
+* https://everynoise.com/ - Ongoing attempt at an algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space
+* https://audd.io/ - Recognize music (or what's playing) from sound or from streams
+* https://mp3cut.net/ - Trim or cut any audio file online
+* https://mp3gain.flowsoft7.com/ - Increase, decrease, and normalize the volume level of MP3 audio files (60M size limit per a file)
+* https://create.magicplaylist.co/#/?_k=m5jobg - Type your favorite song and create the perfect playlist
+* https://moises.ai/ - (This is for musicians) Play with your favorite artists in any key, at any speed
+* https://soundlove.se/ - Unusual synthesis algorithms - or combination of common ones in unusual ways - to add a touch of randomness and unpredictability to our products
+* https://audionautix.com/ - Music that is composed and produced by Jason Shaw. Completely free - for you to download and use (even for commercial purposes) as long as you provide credit
+* https://www.rhymezone.com/ - Find rhymes, synonyms, adjectives, and more
+
+
+
+### Music Theory
+* https://www.teoria.com/
+* https://www.musictheory.net/
+
+
+### Mix Sounds
+* https://hiddenliferadio.com/ - A Livestream of Music Generated from Tree Biodata in Cambridge, Massachusetts
+* https://www.noisli.com/ 
+* https://naim30.github.io/soundrop/
+* https://www.producthunt.com/posts/soundlove
 
 
 ### Spotify
@@ -326,9 +365,12 @@ https://random-password-gen.web.app/
 * https://spottr.vercel.app/login - To see your Spotify stats
 * https://playlistmutator.com/ - Provides a tool for users to "mutate" existing playlists in React
 * https://www.tunemymusic.com/ - Transfer playlists between music services
-* https://github.com/Shabinder/SpotiFlyer
 
 
+
+## Language
+* https://progressivepunctuation.com/ - Collection of non-standard punctuation marks 
+* https://www.thepunctuationguide.com/index.html - Guide to American punctuation
 
 
 
@@ -632,12 +674,16 @@ https://random-password-gen.web.app/
 * https://cscircles.cemc.uwaterloo.ca/
 
 
+### Torrent
+* https://webtorrent.io/ - Streaming torrent client for browser 
+
 
 ## Coding
 * https://www.codewars.com/
 
 
-
+### Documentation
+* https://nota-lang.org/ - Document Language for the Browser
 
 
 ## Reddit
