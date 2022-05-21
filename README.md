@@ -368,7 +368,10 @@ https://random-password-gen.web.app/
 
 
 
-## Language
+## Culture
+* https://culturalatlas.sbs.com.au/ - Educational resource providing comprehensive information on the cultural backgrounds
+
+### Language
 * https://progressivepunctuation.com/ - Collection of non-standard punctuation marks 
 * https://www.thepunctuationguide.com/index.html - Guide to American punctuation
 
@@ -443,6 +446,10 @@ https://random-password-gen.web.app/
 ### Careers
 * http://www.wtfshouldidowithmylife.com/ - Learn about different occupations
 
+
+
+## Economy
+* https://edition.cnn.com/markets/fear-and-greed - Learn what emotion is driving the market now
 
 
 
