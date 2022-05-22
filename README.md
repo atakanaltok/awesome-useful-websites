@@ -658,6 +658,7 @@ https://random-password-gen.web.app/
 * [engin.umich](https://ctms.engin.umich.edu/CTMS/index.php?aux=About_Tutorials) - To  learn how to use MATLAB and Simulink for the analysis and design of automatic control systems
 * https://technologystudent.com/index.htm - Contains numerous information sheets, exercises, and great animations
 * https://www.nuclear-power.com/ - Non-profit project to learn the basics of nuclear and reactor physics (nuclear power plant, nuclear physics, reactor physics, thermal engineering, materials, radiation protection)
+* https://app.knovel.com/kn - Tools and calculators 
 
 
 ### Mechanical Engineering
@@ -666,11 +667,25 @@ https://random-password-gen.web.app/
 * https://temple.manifoldapp.org/projects/structural-analysis - Comprehensive Structural Analysis Book
 * https://calcresource.com/resources.html - Regularly updated list of resources on mechanics and statics
 * https://www.engineersedge.com/ - Articles and resources on structural and mechanical engineering topics
-* https://www.engineeringtoolbox.com/ - Everything
+* https://www.engineeringtoolbox.com/ - Everything (really)
 * https://structx.com/ - Structural engineering resources
 * https://www.amesweb.info/ - Calculators and articles
 * https://www.roymech.co.uk/ - Reference site with in-depth articles on topics
 * https://sections.arcelormittal.com/design_aid/design_software/EN - Free design software for steel structures by Arcelor-Mittal
+* https://www.bu.edu/moss/ - Cources and resources to understand Slender structures
+
+
+#### Materials
+* https://www.doitpoms.ac.uk/index.php - DoITPoMS from Department of Materials Science and Metallurgy, University of Cambridge
+* https://ssd.phys.strath.ac.uk/ - Nanoscience resources of the Department of Physics at the University of Strathclyde
+* http://web.mit.edu/16.unified/www/SPRING/materials/index.html - Concepts are deeply examined
+
+
+#### Thermodynamics
+* https://users.wpi.edu/~sullivan/ES3001/Lectures/ - For thermo, go [Lectures/Lecture-A](https://users.wpi.edu/~sullivan/ES3001/Lectures/Lecture-A/) (or [Lectures/Lecture-B/](https://users.wpi.edu/~sullivan/ES3001/Lectures/Lecture-B/)) and then [Lectures/Lecture-A/Lecture-1](https://users.wpi.edu/~sullivan/ES3001/Lectures/Lecture-A/Lecture-1.htm)
+* https://web.mit.edu/16.unified/www/FALL/thermodynamics/notes/notes.html 
+* https://sites.google.com/site/hallmanenergyunit/home - All about energy
+* http://ouopentextbooks.org/thermodynamics/ - Web-based, open educational resource (no longer being actively developed)
 
 
 
