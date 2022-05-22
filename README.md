@@ -376,6 +376,29 @@ https://random-password-gen.web.app/
 * https://www.thepunctuationguide.com/index.html - Guide to American punctuation
 
 
+### Travel
+* https://airheart.com/travel-restrictions/united-states-vaccinated - Learn about travel restrictions and what's required for your trip (For example, Corona restrictions)
+* https://www.flightradar24.com/43,24.35/7 - Global flight tracking service that provides you with real-time information about thousands of aircraft around the world
+* https://countrycode.org/ - Guide to call anywhere in the world
+* https://www.passportindex.org/ - Explore the world of passports
+* https://www.countriesbeen.com/ - Phone app to list the countries you have been with many fetures
+* https://virtualvacation.us/ - Travel the world from home
+* https://everytimezone.com/ - Visual time zone comparison of countries
+* https://www.puffinmaps.com/ - All in one trip planner. No adds
+* https://www.alltrails.com/ - Explore 300k trails w/ reviews & photos from 35m outdoor enthusiasts like you
+* https://www.wanderprep.com/ - Advice on gear, apps, and gotchas to help busy people travel smarter (No more new articles)
+* https://looria.com/ - Trusted place to find honest product information
+* https://apps.apple.com/us/app/id1580599572 - Free Iphone app for trip destination searching and planning platform
+
+
+### Food
+* https://www.gobento.com/ - Engagement platform that improves the health and well-being of your most at-risk members, starting with those who experience food insecurity
+* https://myfridgefood.com/ - Check off the ingredients that you have to find recipes you can make
+* https://www.justtherecipe.com/ - Directly get the instructions from any recipe site (Ad and pop-up free recipe)
+* https://www.twopeasandtheirpod.com/ - Recipe site
+* https://www.hellofresh.com/ - You choose recipes, hellofresh deliver them straight to your door!
+
+
 
 ## Books
 * https://read-next.com/ - 3000+ books recommended by famous people from diverse domains (Scientists, Investors, Entrepreneurs, Celebrities, Authors, etc.)
@@ -593,6 +616,7 @@ https://random-password-gen.web.app/
 
 
 ## Mathematics
+* https://pdodds.w3.uvm.edu/ - First principles of some math topics
 
 
 
