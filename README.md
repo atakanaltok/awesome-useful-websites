@@ -569,6 +569,19 @@ https://random-password-gen.web.app/
 * http://www.reachoutmichigan.org/learn/tutorials.html#math - On-Line Tutorials & References
 
 
+### Studying
+* https://temple.manifoldapp.org/projects/bridges - About institutions, histories, and artifacts of United States college and university life
+
+
+### Calculators
+* https://calcresource.com/index.html 
+* https://www.efunda.com/home.cfm - Calculators, formulas, materials and processes
+
+
+#### Unit Conversion
+* https://www.unitconverters.net/
+
+
 ## Science
 * https://reproducibilityinstitute.org/w/ - 2 projects that provide academic papers, chatsheets and torrents for paid courses
 * https://www.ebsco.com/ - Provider of research databases, e-journals, magazine subscriptions, ebooks and discovery service
@@ -650,6 +663,16 @@ https://random-password-gen.web.app/
 ### Mechanical Engineering
 * http://507movements.com/toc.html - Animated Mechanical Movements
 * https://ctms.engin.umich.edu/CTMS/index.php?aux=Home
+* https://temple.manifoldapp.org/projects/structural-analysis - Comprehensive Structural Analysis Book
+* https://calcresource.com/resources.html - Regularly updated list of resources on mechanics and statics
+* https://www.engineersedge.com/ - Articles and resources on structural and mechanical engineering topics
+* https://www.engineeringtoolbox.com/ - Everything
+* https://structx.com/ - Structural engineering resources
+* https://www.amesweb.info/ - Calculators and articles
+* https://www.roymech.co.uk/ - Reference site with in-depth articles on topics
+* https://sections.arcelormittal.com/design_aid/design_software/EN - Free design software for steel structures by Arcelor-Mittal
+
+
 
 ### Electronics Engineering
 * https://www.electrical4u.com/ - Learn Electrical Engineering
@@ -797,6 +820,9 @@ https://random-password-gen.web.app/
 * If you find out any broken link or any website that has been outdated, please rise an issue in [awesome-useful-websites/issues](https://github.com/atakanaltok/awesome-useful-websites/issues). <br>
 * If you want to add a new category or website, create a pull request in [awesome-useful-websites/pulls](https://github.com/atakanaltok/awesome-useful-websites/pulls) (To avoiding duplications, seach whether your website is already included here).
 
+
+# DISCLAIMER
+This github page maintains no affiliate relationship with the websites mentioned, is not responsible for their contents and accepts no liability for any damage that can be caused if you visit them. The descriptions of links are not guaranteed to be accurate or up to date. If you are a site owner and believe that your site is not described accurately, please [rise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues) 
 
 
 # LICENSE
