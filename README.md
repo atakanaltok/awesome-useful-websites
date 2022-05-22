@@ -822,7 +822,7 @@ https://random-password-gen.web.app/
 
 
 # DISCLAIMER
-This github page maintains no affiliate relationship with the websites mentioned, is not responsible for their contents and accepts no liability for any damage that can be caused if you visit them. The descriptions of links are not guaranteed to be accurate or up to date. If you are a site owner and believe that your site is not described accurately, please [rise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues) 
+This github page maintains no affiliate relationship with the websites mentioned, is not responsible for their contents and accepts no liability for any damage that can be caused if you visit them. The descriptions of the websites are not guaranteed to be accurate or up to date. If you are a site owner and believe that your site is not described accurately, please [rise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues) 
 
 
 # LICENSE
