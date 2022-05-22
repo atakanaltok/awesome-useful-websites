@@ -592,12 +592,17 @@ https://random-password-gen.web.app/
 ### Data
 * https://ourworldindata.org/covid-vaccinations - Corona data by country
 * http://websdr.org/ - Software-Defined Radio receiver connected to the internet, allowing many listeners to listen and tune it simultaneously (Current signals of earths)
+* http://cbert.org/resources-data/intl-campus/ - List of International Campuses
+* [google.maps](https://www.google.com/maps/d/u/0/viewer?mid=1ckm_TSM8mbCrnhA8COpBNG-qJqTR2IW3&ll=43.664774893391936%2C24.56718262638249&z=5) - United States International College Campuses on Google Maps
 
 
-### Earth
+
+
+### Geoscience 
 * https://river-runner-global.samlearner.com/ - Visualization of path of a rain droplet from any point in the world to its end point
 * [celestrak.com/cesium/orbit-viz](https://celestrak.com/cesium/orbit-viz.php?tle=/pub/TLE/catalog.txt&satcat=/pub/satcat.txt&referenceFrame=1) - Satellite visualization
 * https://mars.nasa.gov/explore/mars-now/ - Mars's satellites (Well, this is not really "Earth" but youget the point)
+* https://temple.manifoldapp.org/projects/physical-geology - Essential topics on Physical Geology
 
 
 ### Biology
@@ -612,6 +617,11 @@ https://random-password-gen.web.app/
 
 
 * https://muellergroup.lassp.cornell.edu/index.html - Laboratory of Atomic and Solid State Physics
+
+
+
+### Social Sciences
+* https://temple.manifoldapp.org/projects/all - Many great resources on various social sciences
 
 
 
@@ -634,6 +644,7 @@ https://random-password-gen.web.app/
 * https://animagraffs.com/
 * [engin.umich](https://ctms.engin.umich.edu/CTMS/index.php?aux=About_Tutorials) - To  learn how to use MATLAB and Simulink for the analysis and design of automatic control systems
 * https://technologystudent.com/index.htm - Contains numerous information sheets, exercises, and great animations
+* https://www.nuclear-power.com/ - Non-profit project to learn the basics of nuclear and reactor physics (nuclear power plant, nuclear physics, reactor physics, thermal engineering, materials, radiation protection)
 
 
 ### Mechanical Engineering
@@ -643,9 +654,6 @@ https://random-password-gen.web.app/
 ### Electronics Engineering
 * https://www.electrical4u.com/ - Learn Electrical Engineering
 * https://www.electronics-tutorials.ws/
-
-
-
 
 
 
