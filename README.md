@@ -374,6 +374,12 @@ https://random-password-gen.web.app/
 ### Language
 * https://progressivepunctuation.com/ - Collection of non-standard punctuation marks 
 * https://www.thepunctuationguide.com/index.html - Guide to American punctuation
+* https://owl.purdue.edu/site_map.html - Purdue University's Online Writing Lab (OWL)
+* https://www.grammarbook.com/english_rules.asp - English Grammar Rules
+* https://educalingo.com/en/dic-en - Find synonyms, uses, trends, statistics and much more
+* https://www.businessenglishresources.com/ - Free Resources for business english
+* http://www.differencebetween.info/ - Descriptive Analysis and Comparisons
+* https://www.finedictionary.com/ - Shows everything about a word
 
 
 ### Travel
@@ -436,6 +442,7 @@ https://random-password-gen.web.app/
 
 ### Web Analytics
 * https://pirsch.io/ - Open-source, cookie-free web analytics
+* http://websites.milonic.com/ - Find all important website data neatly reported in one place
 
 
 ### Creating Websites
@@ -486,7 +493,6 @@ https://random-password-gen.web.app/
 
 ### Finding Ideas
 * https://answersocrates.com/ - Discover the questions people are asking on Google about almost any topic, for free
-* 
 
 
 
@@ -569,6 +575,7 @@ https://random-password-gen.web.app/
 * http://www.reachoutmichigan.org/learn/tutorials.html#math - On-Line Tutorials & References
 
 
+
 ### Studying
 * https://temple.manifoldapp.org/projects/bridges - About institutions, histories, and artifacts of United States college and university life
 
@@ -580,6 +587,11 @@ https://random-password-gen.web.app/
 
 #### Unit Conversion
 * https://www.unitconverters.net/
+
+
+## MOOC (Massive Open Online Courses)
+* https://en.wikiversity.org/wiki/Wikiversity:Main_Page
+
 
 
 ## Science
@@ -627,10 +639,18 @@ https://random-password-gen.web.app/
 ### Physics
 * https://theoreticalminimum.com/home - Series of Stanford Continuing Studies courses taught by world renowned physicist Leonard Susskind
 * http://www.damtp.cam.ac.uk/user/tong/index.html - Theoretical Physics
+* http://galileo.phys.virginia.edu/classes/632.ral5q.summer06/lectures.html - University of Virginia Classical and Modern Physics II
 
 
 * https://muellergroup.lassp.cornell.edu/index.html - Laboratory of Atomic and Solid State Physics
 
+#### Quantum
+* http://vsg.quasihome.com/interfer.htm - Applet of Young's Double Slit Interference
+
+
+#### Astronomy 
+* http://www.fearofphysics.com/ - Free "Astronomy 101" course
+* http://galileo.phys.virginia.edu/classes/109N/more_stuff/Applets/home.html - Early Lunar Observations and some Planetary Models, applets on various motion
 
 
 ### Social Sciences
