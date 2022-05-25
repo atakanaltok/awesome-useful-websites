@@ -327,7 +327,24 @@ https://random-password-gen.web.app/
 * https://tweetdeck.twitter.com/ - Twitter dashboard application for management of Twitter accounts, tracking, and organizing
 * https://threadreaderapp.com/ - Helps you save as PDF, read, and share Twitter threads easily
 * https://threadhunt.xyz/ - Hunted Quality Twitter Threads
-* https://tweepsmap.com/ - AI DRIVEN TWITTER ANALYTICS AND MANAGEMENT
+* https://tweepsmap.com/ - AI Driven Twitter analytics and management
+* https://shadowban.yuzurisa.com/ - Check whether a username is shadowbanned on Twitter
+
+
+
+### Reddit
+* http://redditlist.com/ - A subreddit list
+* https://anvaka.github.io/redsim/ - Find similar subreddits
+* https://www.reveddit.com/about/ - For revealing reddit's removed content. Search by username, subreddit (r/), link or domain
+* https://www.spacebarcounter.net/reddit-list - 100+ Subreddits
+* https://unreadit.com/ - Reddit-fueled Weekly Newsletters
+
+
+#### Better Reddit Search
+* https://redditsearch.io/ 
+* https://betterredditsearch.web.app/
+
+
 
 
 ## Music
@@ -778,14 +795,21 @@ https://random-password-gen.web.app/
 * https://caniuse.com/
 * https://www.eggradients.com/ - Gradient Background Colors
 
-### Android
+### Android Development
 * https://fossdroid.com/ - Free and open source Android apps
 * https://androidweekly.net/ - Android newsletter
 * https://apt.izzysoft.de/fdroid/index.php - F-Droid Repository search
 * https://reports.exodus-privacy.eu.org/en/ - For checking permissions and trackers of apps
 * https://dontkillmyapp.com/ 
 
-### Software
+
+
+### Game Development
+* https://itch.io/ - Simple way to find and share indie games online for free
+
+
+
+## Software
 * https://oldergeeks.com/ - Software download site without ads, misleading download links or annoyances. This site is 100% supported by donations
 * https://alternativeto.net/ - Best alternatives of popular softwares
 * https://www.electronjs.org/ - Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -799,6 +823,12 @@ https://random-password-gen.web.app/
 ### No-Code
 * https://www.spacebarcounter.net/no-code-revolution - See how NoCode is spreading around the world
 
+### Torrent
+* https://webtorrent.io/ - Streaming torrent client for browser 
+
+
+## Programming Languages
+
 ### Python
 * https://docs.python.org/3/tutorial/index.html
 * http://projectpython.net/
@@ -808,8 +838,6 @@ https://random-password-gen.web.app/
 * https://cscircles.cemc.uwaterloo.ca/
 
 
-### Torrent
-* https://webtorrent.io/ - Streaming torrent client for browser 
 
 
 ## Coding
@@ -820,28 +848,11 @@ https://random-password-gen.web.app/
 * https://nota-lang.org/ - Document Language for the Browser
 
 
-## Reddit
-* http://redditlist.com/ - A subreddit list
-* https://anvaka.github.io/redsim/ - Find similar subreddits
-* https://www.reveddit.com/about/ - For revealing reddit's removed content. Search by username, subreddit (r/), link or domain
-* https://www.spacebarcounter.net/reddit-list - 100+ Subreddits
-* https://unreadit.com/ - Reddit-fueled Weekly Newsletters
-
-
-### Better Reddit Search
-* https://redditsearch.io/ 
-* https://betterredditsearch.web.app/
-
-
-
-
-## Project Resources
+### Project Resources
 * https://www.madewithbubble.xyz/ - Curated tools
 
 
-
-
-## Cheat Sheets
+### Cheat Sheets
 * https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/ - Cheat Sheets available for quick reference
 
 
@@ -867,7 +878,9 @@ https://random-password-gen.web.app/
 
 
 
-
+* https://en.everybodywiki.com/Everybodywiki:Welcome - Rescues deleted articles and rejected drafts from WikiPedia in many languages and welcomes new articles
+* https://www.thechesswebsite.com/ - Learn, Practice and Play Chess
+* https://promowizard.softr.app/ - Get promocodes without consuming hours of content on youtube
 
 
 
@@ -876,7 +889,7 @@ https://random-password-gen.web.app/
 * https://apps.npr.org/joy-generator/#story=intro&page=0 - Some ideas to help you tap into positive emotions, online and offline
 * https://musclewiki.com/ 
 * http://bitesize.io/ - Learn how to apply psychology based tips and notions in your daily life
-
+* https://jinay.dev/just-a-minute/ - For chronoception (sene of passing time)
 
 
 
@@ -884,8 +897,12 @@ https://random-password-gen.web.app/
 * https://stumbled.to/ 
 * http://5000best.com/websites/
 * https://neal.fun/
+* https://tennessine.co.uk/ - Collection of political, mathematical and fun projects for the web
 
 
+
+## My favorite Blogs
+* https://lmalmanza.wordpress.com/
 
 
 
