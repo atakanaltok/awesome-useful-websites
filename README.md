@@ -273,6 +273,7 @@ https://random-password-gen.web.app/
 * https://app.readwok.com/lib - Online text reader with a progressive viewing mode, which allows you to read paragraph by paragraph and edit as you read
 * https://wikifox.ml/ - Clean and simplified version of the official Wikipedia
 * https://incoggo.com/ - Adblocker for Paywalls
+* https://scribe.rip/ - Alternative frontend to Medium
 * https://www.azurespeed.com/Azure/Latency - Many tools from Azure, Microsoft
 
 
