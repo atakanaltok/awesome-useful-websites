@@ -403,6 +403,7 @@ https://random-password-gen.web.app/
 * https://www.businessenglishresources.com/ - Free Resources for business english
 * http://www.differencebetween.info/ - Descriptive Analysis and Comparisons
 * https://www.finedictionary.com/ - Shows everything about a word
+* https://howtoprofessionallysay.akashrajpurohit.com/ - Guide for your daily "professional" interactions
 
 
 ### Travel
