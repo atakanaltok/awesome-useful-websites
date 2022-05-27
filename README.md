@@ -404,6 +404,7 @@ https://random-password-gen.web.app/
 * http://www.differencebetween.info/ - Descriptive Analysis and Comparisons
 * https://www.finedictionary.com/ - Shows everything about a word
 * https://howtoprofessionallysay.akashrajpurohit.com/ - Guide for your daily "professional" interactions
+* https://www.crownacademyenglish.com/articles/ - Simple, succint, and clear explanations of some English language concepts
 
 
 ### Travel
