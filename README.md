@@ -549,6 +549,7 @@ https://random-password-gen.web.app/
 * https://www.iconpacks.net/
 * https://www.notion.so/Doodlicons-519314a92ed3474093a10e44946bbb72 - Doodle icons for your next Project's Wireframe
 * https://illustrationkit.com/ - Free vector illustrations for personal & commercial projects
+* https://fontawesome.com/ - Internet's icon library and toolkit, used by millions of designers, developers, and content creators
 
 
 #### Tools for Social Media
