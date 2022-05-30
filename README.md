@@ -204,9 +204,13 @@ https://random-password-gen.web.app/
 * https://www.zippyshare.com/ - No sign up required, no dowload limits, free, umlimited disk space
 
 
-### Conventer
+### Conventer/Conversion 
 * https://www.online-convert.com/ - Convert media files online from one format into another
-* https://jpg.to-png.com/ - (Not just jpg, all types of files) Free file conversion tools. Your jpg-files will not be uploaded to any servers! The conversion from jpg to png happens in your browser on your own device.
+* https://jpg.to-png.com/ - (Not just jpg, all types of files) Free file conversion tools. Your jpg-files will not be uploaded to any servers! The conversion from jpg to png happens in your browser on your own device
+* https://www.conversion-tool.com/ - Online tool offers a wide range of free online online conversion utilities such as audio converters, document converters, eBook converters, hash generators, and other tools
+* https://www.online-convert.com/ - Free Online File Converter
+* https://www.3dgifmaker.com/ - 3D Gif Maker, you can easily make Gifs from your images
+* https://ezgif.com/ - Online GIF maker and image editor
 
 
 ### URL
@@ -396,6 +400,8 @@ https://random-password-gen.web.app/
 
 ### Language
 * https://progressivepunctuation.com/ - Collection of non-standard punctuation marks 
+* https://youglish.com/ - Use YouTube to improve your English pronunciation, no YouTube ads
+* https://www.voscreen.com/ - Video snippets of english sentences, test your understanding by choosing paraphrased sentences
 * https://www.thepunctuationguide.com/index.html - Guide to American punctuation
 * https://owl.purdue.edu/site_map.html - Purdue University's Online Writing Lab (OWL)
 * https://www.grammarbook.com/english_rules.asp - English Grammar Rules
@@ -405,6 +411,10 @@ https://random-password-gen.web.app/
 * https://www.finedictionary.com/ - Shows everything about a word
 * https://howtoprofessionallysay.akashrajpurohit.com/ - Guide for your daily "professional" interactions
 * https://www.crownacademyenglish.com/articles/ - Simple, succint, and clear explanations of some English language concepts
+* https://fraze.it/ - Platform with more than 100 millions sentences 
+* https://www.newsinlevels.com/ - World news for students of English
+
+
 
 
 ### Travel
@@ -437,6 +447,20 @@ https://random-password-gen.web.app/
 * https://etc.usf.edu/lit2go/ - Free online collection of stories and poems in Mp3 (audiobook) format
 * https://booksc.org/ - World's largest scientific articles store. 70,000,000+ articles for free
 * https://btdig.com/ - BitTorrent DHT search engine. It is not a tracker and doesn't store any content and only collects torrent metadata (such as file names and file sizes) and a magnet link (torrent identifier). This means BTDigg is the entirely legal system
+* https://archive.org/
+* https://www.gutenberg.org/
+* https://en.wikibooks.org/wiki/Main_Page
+* https://wikisource.org/wiki/Main_Page
+* https://www.bookbub.com/welcome
+* https://www.goodreads.com/ebooks?sort=readable
+* https://openlibrary.org/
+* http://classics.mit.edu/ - Select from a list of 441 works of classical literature by 59 different authors
+* https://www.intechopen.com/books - Read, share and download more than 5,800 peer-reviewed Open Access books
+* https://www.freetechbooks.com/ - Database of Free / Open Access Online Computer Science Books, Textbooks, and Lecture Notes (1264 books and growing)
+* https://librivox.org/ - Free public domain audiobooks that are read by volunteers from around the world
+* https://onlinebooks.library.upenn.edu/ - Listing over 3 million free books on the Web
+* https://libgen.li/ - Community aiming at collecting and cataloging items descriptions for the most part of scientific, scientific and technical directions, as well as file metadata
+* https://www.audible.com/ ($) - Largest producer and provider of premium audio storytelling
 
 
 
@@ -543,13 +567,20 @@ https://random-password-gen.web.app/
 * https://m3.material.io/ - Design system created by Google to help teams build high-quality digital experiences for Android, iOS, Flutter, and the web
 * https://rasterizer.io/ - Make dynamic images
 * https://jitter.video/ (~$) - A simple animation tool on the web
-
+* https://studio.polotno.com/ (@) - Web application to create graphical designs, no sign ups and no ads
+* https://fontdiscovery.typogram.co/ - Weekly design, font, and color creativity newsletter for creators, founders, makers
+* https://randomdesignstuff.com/ - Browse handpicked websites for designers, either useful websites or unuseful
+* https://color.adobe.com/create/color-wheel - Color wheel can be used to generate color palette
+* https://www.schemecolor.com/ - Download Color Schemes
+* https://www.discovernft.club/ - Discover latest NFT Projects
 
 #### Icon Packs
 * https://www.iconpacks.net/
 * https://www.notion.so/Doodlicons-519314a92ed3474093a10e44946bbb72 - Doodle icons for your next Project's Wireframe
 * https://illustrationkit.com/ - Free vector illustrations for personal & commercial projects
 * https://fontawesome.com/ - Internet's icon library and toolkit, used by millions of designers, developers, and content creators
+* https://www.iconshock.com/freeicons/ - All the icons from absolutely all the open source icon collections available. 100k icons for you to free download
+* https://3dicons.co/ - 3D icons that are 100% free for commercial and personal use under CC0 
 
 
 #### Tools for Social Media
@@ -564,6 +595,10 @@ https://random-password-gen.web.app/
 * https://unsplash.com/
 * https://www.pond5.com/free - Free Stock Videos, Photos, and Music
 * https://www.critter.pics/ - Critter pictures
+* https://stockup.sitebuilderreport.com/ - Stock Up indexes 35,356 photos from 31 different free stock photo websites
+* https://www.shutterstock.com/ 
+* https://zoom.nl/ - Largest photography community in the Netherlands
+* https://depositphotos.com/ - 232 million files: royalty-free images, videos, vectors, illustrations, and music
 
 
 #### Wallpapers
