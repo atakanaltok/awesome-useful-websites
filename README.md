@@ -467,6 +467,7 @@ https://random-password-gen.web.app/
 
 
 ## Business
+* https://bmtoolbox.net/ - Learn about business concepts and models
 * https://gumroad.com/ - From the Sahil Lavingia, the author of "The Minimalist Entrepreneur"
 * https://takeout.google.com/ - Export a copy of all your Google data
 * https://www.joinhoney.com/ - Honey extension automatically searches for coupons on 30,000+ sites around the globe
@@ -514,6 +515,8 @@ https://random-password-gen.web.app/
 ## Jobs
 * https://angel.co/candidates/overview
 * https://mentorcruise.com/ ($) - Online mentoring
+* https://remoteok.com/ 
+* https://remotive.com/ - Remote Work Community, Remotive Handpicks Remote Jobs
 
 ### Protfolio & CV
 * https://www.visualcv.com/resume-samples/ - Collection of 500+ professional resume examples
@@ -560,6 +563,7 @@ https://random-password-gen.web.app/
 
 
 ### Design
+* https://www.producthunt.com/e/0-design-tools - Collection of $0 Design Tools to Help You Create Your Next Project
 * https://mobilepalette.colorion.co/ - Mobile Palette Generator
 * https://socialimagemaker.io/
 * https://www.easel.ly/ - Design tool to visualize any kind of information
@@ -635,11 +639,13 @@ https://random-password-gen.web.app/
 * https://sites.dartmouth.edu/nyhan/academic-careers/
 * https://cnx.org/ - View and share free educational materials
 * http://www.reachoutmichigan.org/learn/tutorials.html#math - On-Line Tutorials & References
+* https://opentextbc.ca/ - Simple book production software. You can use Pressbooks to publish textbooks, scholarly monographs, syllabi, fiction and non-fiction books, white papers, and more in multiple formats including: MOBI, EPUB, PDF
 
 
 
 ### Studying
 * https://temple.manifoldapp.org/projects/bridges - About institutions, histories, and artifacts of United States college and university life
+* https://www.bartleby.com/ - Search for textbooks, step-by-step explanations to homework questions, and more
 
 
 ### Calculators
@@ -753,6 +759,7 @@ https://random-password-gen.web.app/
 ## Mathematics
 * https://pdodds.w3.uvm.edu/ - First principles of some math topics
 * https://blog.symbaloo.com/webmixes/11/best-math-websites - 38 Best Math Websites for Students
+* https://mathhints.com/ - Free website that includes hundreds of pages of math, explained in simple terms, with thousands of examples of worked-out problems
 
 
 
@@ -808,6 +815,15 @@ https://random-password-gen.web.app/
 * https://www.electrical4u.com/ - Learn Electrical Engineering
 * https://www.electronics-tutorials.ws/
 
+
+
+
+## Robotics
+* https://aerospacerobotics.caltech.edu/aerospacerobotics - Aerospace Robotics and Control at Caltech
+
+
+
+## AI/ML
 
 
 
