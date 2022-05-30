@@ -752,6 +752,7 @@ https://random-password-gen.web.app/
 
 ## Mathematics
 * https://pdodds.w3.uvm.edu/ - First principles of some math topics
+* https://blog.symbaloo.com/webmixes/11/best-math-websites - 38 Best Math Websites for Students
 
 
 
@@ -788,10 +789,11 @@ https://random-password-gen.web.app/
 * https://www.bu.edu/moss/ - Cources and resources to understand Slender structures
 
 
-#### Materials
+#### Materials / Nanotechnology
 * https://www.doitpoms.ac.uk/index.php - DoITPoMS from Department of Materials Science and Metallurgy, University of Cambridge
 * https://ssd.phys.strath.ac.uk/ - Nanoscience resources of the Department of Physics at the University of Strathclyde
 * http://web.mit.edu/16.unified/www/SPRING/materials/index.html - Concepts are deeply examined
+* https://product.statnano.com/ - Reliable source of information about nanotechnology products, currently used in a broad range of industrial applications
 
 
 #### Thermodynamics
@@ -877,6 +879,8 @@ https://random-password-gen.web.app/
 * https://cscircles.cemc.uwaterloo.ca/
 
 
+### JavaScript
+* https://thecodingcards.com/ ($) - JavaScript & Data Structures Flashcards. Essential Coding Concepts with Syntax and Examples
 
 
 ## Coding
