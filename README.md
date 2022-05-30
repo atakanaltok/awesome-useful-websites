@@ -25,6 +25,7 @@ $ = Payment Required (There are no free options) <br>
   * [Lexicon](#lexicon)
 - [Contents](#contents)
   * [Infographics](#infographics)
+    + [Diagrams](#diagrams)
   * [Tools](#tools)
     + [White Board](#white-board)
     + [Keyboard](#keyboard)
@@ -35,12 +36,14 @@ $ = Payment Required (There are no free options) <br>
     + [Automating browser](#automating-browser)
     + [Privacy](#privacy)
     + [Password Generation](#password-generation)
-    + [Conventer](#conventer)
+    + [File](#file)
+    + [Conventer/Conversion](#conventer-conversion)
     + [URL](#url)
       - [URL Shortener](#url-shortener)
     + [Bookmarks](#bookmarks)
     + [Comparision](#comparision)
     + [Visual](#visual)
+    + [Audio](#audio)
     + [Time](#time)
     + [To Do](#to-do)
     + [Some Other Tools](#some-other-tools)
@@ -49,8 +52,17 @@ $ = Payment Required (There are no free options) <br>
   * [Media](#media)
     + [Fact Chacking](#fact-chacking)
     + [Twitter](#twitter)
+    + [Reddit](#reddit)
+      - [Better Reddit Search](#better-reddit-search)
   * [Music](#music)
+    + [Music Theory](#music-theory)
+    + [Mix Sounds](#mix-sounds)
     + [Spotify](#spotify)
+  * [Culture](#culture)
+    + [Language](#language)
+    + [Travel](#travel)
+    + [Food](#food)
+  * [Books](#books)
   * [Business](#business)
     + [Marketing](#marketing)
     + [Trends](#trends)
@@ -59,6 +71,8 @@ $ = Payment Required (There are no free options) <br>
     + [Meetings](#meetings)
   * [Jobs](#jobs)
     + [Protfolio & CV](#protfolio---cv)
+    + [Careers](#careers)
+  * [Economy](#economy)
   * [Startups](#startups)
     + [Finding Ideas](#finding-ideas)
     + [Connectivity](#connectivity)
@@ -71,34 +85,51 @@ $ = Payment Required (There are no free options) <br>
   * [Art](#art)
     + [Art Communities](#art-communities)
   * [Academic](#academic)
+    + [Studying](#studying)
+    + [Calculators](#calculators)
+      - [Unit Conversion](#unit-conversion)
+  * [MOOC (Massive Open Online Courses)](#mooc--massive-open-online-courses-)
+    + [Turkish](#turkish)
   * [Science](#science)
     + [Biographies](#biographies)
     + [Data](#data)
-    + [Earth](#earth)
+    + [Geoscience](#geoscience)
     + [Biology](#biology)
     + [Physics](#physics)
+      - [Quantum](#quantum)
+      - [Astronomy](#astronomy)
+    + [Social Sciences](#social-sciences)
   * [Mathematics](#mathematics)
     + [Math + Art](#math---art)
   * [Engineerings](#engineerings)
     + [Mechanical Engineering](#mechanical-engineering)
+      - [Materials / Nanotechnology](#materials---nanotechnology)
+      - [Thermodynamics](#thermodynamics)
     + [Electronics Engineering](#electronics-engineering)
+  * [Robotics](#robotics)
+  * [AI/ML](#ai-ml)
   * [Developer](#developer)
     + [CSS](#css)
-    + [Android](#android)
-    + [Software](#software)
+    + [Android Development](#android-development)
+    + [Game Development](#game-development)
+  * [Software](#software)
     + [GAFA Alternatives](#gafa-alternatives)
     + [No-Code](#no-code)
+    + [Torrent](#torrent)
+  * [Programming Languages](#programming-languages)
     + [Python](#python)
+    + [JavaScript](#javascript)
   * [Coding](#coding)
-  * [Reddit](#reddit)
-    + [Better Reddit Search](#better-reddit-search)
-  * [Project Resources](#project-resources)
-  * [Cheat Sheets](#cheat-sheets)
+    + [Documentation](#documentation)
+    + [Project Resources](#project-resources)
+    + [Cheat Sheets](#cheat-sheets)
   * [How To Ask A Good Question](#how-to-ask-a-good-question)
     + [XY Problem](#xy-problem)
   * [Health](#health)
   * [Other Websites of Websites](#other-websites-of-websites)
+  * [My favorite Blogs](#my-favorite-blogs)
 - [Contributing](#contributing)
+- [DISCLAIMER](#disclaimer)
 - [LICENSE](#license)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
@@ -475,6 +506,10 @@ https://random-password-gen.web.app/
 * https://www.certificateclaim.com/ (~$) - Digital service to create and send all kinds of certificates
 
 
+### Networking
+* https://alias.co/ - Stay up to date with the best of the bests
+
+
 ### Marketing
 * https://telega.io/ - Find the target audience in Telegram and launch effective advertising campaigns
 * https://igmassdms.com/ ($) - Send direct IG messages to your targeted audience, without using your account
@@ -502,13 +537,7 @@ https://random-password-gen.web.app/
 
 ### Meetings
 * https://sessions.us/ - Web-based conferencing tool that actually makes meetings better for free
-
-
 * https://formtochatbot.com/ - Convert your Google forms into interactive conversations in Chatbots
-
-
-
-
 
 
 
@@ -517,6 +546,8 @@ https://random-password-gen.web.app/
 * https://mentorcruise.com/ ($) - Online mentoring
 * https://remoteok.com/ 
 * https://remotive.com/ - Remote Work Community, Remotive Handpicks Remote Jobs
+
+
 
 ### Protfolio & CV
 * https://www.visualcv.com/resume-samples/ - Collection of 500+ professional resume examples
@@ -527,6 +558,7 @@ https://random-password-gen.web.app/
 
 ### Careers
 * http://www.wtfshouldidowithmylife.com/ - Learn about different occupations
+* [path-to-polymath.notion](https://path-to-polymathy.notion.site/path-to-polymathy/Path-To-Polymathy-d7586429b7ce4db1889fc539822b9670) - Arrangement of every discipline and field out there, and what specific topics make them up
 
 
 
@@ -539,7 +571,7 @@ https://random-password-gen.web.app/
 * https://theangelphilosopher.com/ - Compilation of Naval's wisdom, knowledge and thoughts
 * https://www.kapwing.com/museum-of-websites - Gallery of how famous internet companies have changed over time
 * https://www.failory.com/ - All-In-One Newsletter for Startup Founders and more!
-* https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview - 500+ Free Tools For Startups 
+* [docs.google.com/spreadsheets](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - 500+ Free Tools For Startups 
 * https://www.failory.com/google - Learn from Google's 100+ failures to build profitable businesses and scale acquired companies
 
 
@@ -562,6 +594,7 @@ https://random-password-gen.web.app/
 * https://contentbot.ai/ ($) - AI Assistant for content creation 
 
 
+
 ### Design
 * https://www.producthunt.com/e/0-design-tools - Collection of $0 Design Tools to Help You Create Your Next Project
 * https://mobilepalette.colorion.co/ - Mobile Palette Generator
@@ -571,12 +604,16 @@ https://random-password-gen.web.app/
 * https://m3.material.io/ - Design system created by Google to help teams build high-quality digital experiences for Android, iOS, Flutter, and the web
 * https://rasterizer.io/ - Make dynamic images
 * https://jitter.video/ (~$) - A simple animation tool on the web
-* https://studio.polotno.com/ (@) - Web application to create graphical designs, no sign ups and no ads
-* https://fontdiscovery.typogram.co/ - Weekly design, font, and color creativity newsletter for creators, founders, makers
+* https://studio.polotno.com/ (@) - Web application to create graphical designs, no sign ups and no ads (Free alternative of canva)
 * https://randomdesignstuff.com/ - Browse handpicked websites for designers, either useful websites or unuseful
 * https://color.adobe.com/create/color-wheel - Color wheel can be used to generate color palette
 * https://www.schemecolor.com/ - Download Color Schemes
 * https://www.discovernft.club/ - Discover latest NFT Projects
+
+
+#### Fonts
+* https://www.fontsquirrel.com/ - Free Font Utopia
+* https://fontdiscovery.typogram.co/ - Weekly design, font, and color creativity newsletter for creators, founders, makers
 
 #### Icon Packs
 * https://www.iconpacks.net/
@@ -585,6 +622,8 @@ https://random-password-gen.web.app/
 * https://fontawesome.com/ - Internet's icon library and toolkit, used by millions of designers, developers, and content creators
 * https://www.iconshock.com/freeicons/ - All the icons from absolutely all the open source icon collections available. 100k icons for you to free download
 * https://3dicons.co/ - 3D icons that are 100% free for commercial and personal use under CC0 
+* https://healthicons.org/ - Free, open source health icons
+* http://david.li/ - Particle-based 3D simulations and renderings
 
 
 #### Tools for Social Media
@@ -592,17 +631,20 @@ https://random-password-gen.web.app/
 * https://socialsizes.io/ - Image and Video sizes for Social Media
 * https://capturemytweet.in/ - Turn your tweets into wonderful images for free
 * https://www.ocoya.net/ ($) - Platform to create, auto-generate and schedule content
+* https://imgupscaler.com/?ref=producthunt - AI-based PNG / JPG Image Upscaler
 
 #### Stock
 * http://thestocks.im/
 * https://www.pexels.com/
 * https://unsplash.com/
+* https://www.pngguru.in/ - Free PNG Images, Background, And Template
 * https://www.pond5.com/free - Free Stock Videos, Photos, and Music
 * https://www.critter.pics/ - Critter pictures
 * https://stockup.sitebuilderreport.com/ - Stock Up indexes 35,356 photos from 31 different free stock photo websites
 * https://www.shutterstock.com/ 
 * https://zoom.nl/ - Largest photography community in the Netherlands
 * https://depositphotos.com/ - 232 million files: royalty-free images, videos, vectors, illustrations, and music
+* https://skuawk.com/ - Public domain photos
 
 
 #### Wallpapers
@@ -624,10 +666,21 @@ https://random-password-gen.web.app/
 
 
 ## Art
+* https://artsandculture.google.com/ - Bringing the world’s art and culture online for everyone
+* http://www.artgraphica.net/ - Free Drawing, Sketching and Painting techniques
+* https://tattooswizard.com/ - Find Tattoo Artists and Studios near you
+
+
+### Photography
+* https://www.cambridgeincolour.com/ - Learning community for photographers
+* https://www.exposureguide.com/ - Photography Tips, Techniques, and Tutorials
 
 
 ### Art Communities
 * https://ello.co/discover 
+* https://www.behance.net/
+* https://www.artstation.com/
+
 
 
 
@@ -680,8 +733,7 @@ https://random-password-gen.web.app/
 * https://doaj.org/ 
 * https://www.learningontheinternet.com/?ref=producthunt 
 * https://www.classcentral.com/ 
-
-### Turkish
+---
 * https://yokdersleri.yok.gov.tr/ ders
 * https://acikders.tuba.gov.tr/ 
 * https://ocw.metu.edu.tr/ 
@@ -709,6 +761,8 @@ https://random-password-gen.web.app/
 * https://www.newtonproject.ox.ac.uk/ - Online edition of all of Sir Isaac Newton’s (1642–1727) writings 
 * http://bethe.cornell.edu/index.html - Personal and historical perspectives of Hans Bethe
 * https://lettersofnote.com/ - History’s most fascinating letters
+* https://www.organism.earth/library/ 
+* https://www.opensourceshakespeare.org/ - Open source Shakespeare
 
 
 ### Data
@@ -962,6 +1016,11 @@ https://random-password-gen.web.app/
 
 ## My favorite Blogs
 * https://lmalmanza.wordpress.com/
+* https://www.menimagerie.com/
+* https://tarikyildirim.com/
+* http://www.paulgraham.com/
+* https://www.jaakkoj.com/blog/graham
+* https://durmonski.com/ (?)
 
 
 
