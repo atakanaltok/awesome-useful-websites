@@ -429,22 +429,38 @@ https://random-password-gen.web.app/
 ## Culture
 * https://culturalatlas.sbs.com.au/ - Educational resource providing comprehensive information on the cultural backgrounds
 
+
+
 ### Language
-* https://progressivepunctuation.com/ - Collection of non-standard punctuation marks 
 * https://youglish.com/ - Use YouTube to improve your English pronunciation, no YouTube ads
 * https://www.voscreen.com/ - Video snippets of english sentences, test your understanding by choosing paraphrased sentences
-* https://www.thepunctuationguide.com/index.html - Guide to American punctuation
-* https://owl.purdue.edu/site_map.html - Purdue University's Online Writing Lab (OWL)
-* https://www.grammarbook.com/english_rules.asp - English Grammar Rules
-* https://educalingo.com/en/dic-en - Find synonyms, uses, trends, statistics and much more
-* https://www.businessenglishresources.com/ - Free Resources for business english
-* http://www.differencebetween.info/ - Descriptive Analysis and Comparisons
-* https://www.finedictionary.com/ - Shows everything about a word
-* https://howtoprofessionallysay.akashrajpurohit.com/ - Guide for your daily "professional" interactions
-* https://www.crownacademyenglish.com/articles/ - Simple, succint, and clear explanations of some English language concepts
-* https://fraze.it/ - Platform with more than 100 millions sentences 
 * https://www.newsinlevels.com/ - World news for students of English
-* https://webapps.towson.edu/ows/index.asp
+
+
+#### Grammer
+* https://www.grammarbook.com/english_rules.asp - English Grammar Rules
+* https://www.thepunctuationguide.com/index.html - Guide to American punctuation
+* https://progressivepunctuation.com/ - Collection of non-standard punctuation marks 
+* https://owl.purdue.edu/site_map.html - Purdue University's Online Writing Lab (OWL)
+* https://webapps.towson.edu/ows/index.asp -  Online Writing Support & Grammer
+* https://www.grammar-monster.com/index.html - Free English Grammar Lessons and Tests
+
+
+#### Writing
+* https://fraze.it/ - Platform with more than 100 millions sentences 
+
+
+
+#### Words & Meanings
+* https://educalingo.com/en/dic-en - Find synonyms, uses, trends, statistics and much more
+* https://www.finedictionary.com/ - Shows everything about a word
+* https://www.crownacademyenglish.com/articles/ - Simple, succint, and clear explanations of some English language concepts
+* https://www.askdifference.com/ - Short and clean differences of two similar subjects
+* http://www.differencebetween.info/ - Descriptive Analysis and Comparisons
+
+#### Business
+* https://howtoprofessionallysay.akashrajpurohit.com/ - Guide for your daily "professional" interactions
+* https://www.businessenglishresources.com/ - Free Resources for business english
 
 
 
