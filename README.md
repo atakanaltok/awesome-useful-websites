@@ -730,7 +730,7 @@ https://random-password-gen.web.app/
 
 ## MOOC (Massive Open Online Courses)
 * https://en.wikiversity.org/wiki/Wikiversity:Main_Page 
-* https://ocw.mit.edu/index.htm 
+* https://ocw.mit.edu/
 * https://www.coursera.org/ 
 * https://www.udemy.com/ 
 * https://www.openculture.com/ 
@@ -1021,7 +1021,7 @@ https://random-password-gen.web.app/
 * https://apps.npr.org/joy-generator/#story=intro&page=0 - Some ideas to help you tap into positive emotions, online and offline
 * https://musclewiki.com/ 
 * http://bitesize.io/ - Learn how to apply psychology based tips and notions in your daily life
-* https://jinay.dev/just-a-minute/ - For chronoception (sene of passing time)
+* https://jinay.dev/just-a-minute/ - To test your chronoception (sene of passing time)
 
 
 
