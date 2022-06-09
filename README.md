@@ -916,6 +916,7 @@ https://random-password-gen.web.app/
 * https://ide.onelang.io/ - For converting code from one programming language to another
 
 * https://chromeextensionkit.com/ ($) - Includes 17 different battle-tested starter templates so you can spend your time building your Chrome Extension and focuing on shipping, not setting up manifests and environments 
+* https://esoteric.codes/ - Esoteric programming languages (esolangs) and styles, constraint-based coding, code art, code poetry, more
 
 
 ### CSS
