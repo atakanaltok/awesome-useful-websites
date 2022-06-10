@@ -428,6 +428,7 @@ https://random-password-gen.web.app/
 
 ## Culture
 * https://culturalatlas.sbs.com.au/ - Educational resource providing comprehensive information on the cultural backgrounds
+* https://www.quotemaster.org/ - 98,683 categories and 1,488,431 quotes
 
 
 
