@@ -513,6 +513,10 @@ https://random-password-gen.web.app/
 
 
 
+### Book Forums
+* https://hackernewsbooks.com/ - The Best Books Mentioned On Hacker News This Week
+* https://www.goodreads.com/ - World's largest site for readers and book recommendations
+
 
 
 ## Business
