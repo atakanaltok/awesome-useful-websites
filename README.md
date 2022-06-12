@@ -491,18 +491,17 @@ https://random-password-gen.web.app/
 
 
 ## Books
-* https://read-next.com/ - 3000+ books recommended by famous people from diverse domains (Scientists, Investors, Entrepreneurs, Celebrities, Authors, etc.)
-* https://www.anarchistlibraries.net/libraries - Archive focusing on anarchism, anarchist texts, and texts of interest for anarchists
-* https://etc.usf.edu/lit2go/ - Free online collection of stories and poems in Mp3 (audiobook) format
-* https://booksc.org/ - World's largest scientific articles store. 70,000,000+ articles for free
-* https://btdig.com/ - BitTorrent DHT search engine. It is not a tracker and doesn't store any content and only collects torrent metadata (such as file names and file sizes) and a magnet link (torrent identifier). This means BTDigg is the entirely legal system
 * https://archive.org/
 * https://www.gutenberg.org/
 * https://en.wikibooks.org/wiki/Main_Page
 * https://wikisource.org/wiki/Main_Page
 * https://www.bookbub.com/welcome
-* https://www.goodreads.com/ebooks?sort=readable
 * https://openlibrary.org/
+* https://www.goodreads.com/ebooks?sort=readable 
+* https://www.anarchistlibraries.net/libraries - Archive focusing on anarchism, anarchist texts, and texts of interest for anarchists
+* https://etc.usf.edu/lit2go/ - Free online collection of stories and poems in Mp3 (audiobook) format
+* https://booksc.org/ - World's largest scientific articles store. 70,000,000+ articles for free
+* https://btdig.com/ - BitTorrent DHT search engine. It is not a tracker and doesn't store any content and only collects torrent metadata (such as file names and file sizes) and a magnet link (torrent identifier). This means BTDigg is the entirely legal system
 * http://classics.mit.edu/ - Select from a list of 441 works of classical literature by 59 different authors
 * https://www.intechopen.com/books - Read, share and download more than 5,800 peer-reviewed Open Access books
 * https://www.freetechbooks.com/ - Database of Free / Open Access Online Computer Science Books, Textbooks, and Lecture Notes (1264 books and growing)
@@ -510,6 +509,11 @@ https://random-password-gen.web.app/
 * https://onlinebooks.library.upenn.edu/ - Listing over 3 million free books on the Web
 * https://libgen.li/ - Community aiming at collecting and cataloging items descriptions for the most part of scientific, scientific and technical directions, as well as file metadata
 * https://www.audible.com/ ($) - Largest producer and provider of premium audio storytelling
+
+
+### Book Summary And Recommendations
+* https://read-next.com/ - 3000+ books recommended by famous people from diverse domains (Scientists, Investors, Entrepreneurs, Celebrities, Authors, etc.)
+* https://blas.com/ - More than 400 summarized books by Blas Moros
 
 
 
