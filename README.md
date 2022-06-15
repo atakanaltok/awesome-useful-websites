@@ -514,6 +514,7 @@ https://random-password-gen.web.app/
 ### Book Summary And Recommendations
 * https://read-next.com/ - 3000+ books recommended by famous people from diverse domains (Scientists, Investors, Entrepreneurs, Celebrities, Authors, etc.)
 * https://blas.com/ - More than 400 summarized books by Blas Moros
+* https://mostrecommendedbooks.com/ - 500+ experts. 600+ lists. 500+ book series. 100% verified book recommendations
 
 
 
@@ -798,6 +799,7 @@ https://random-password-gen.web.app/
 * https://gsmmap.org/ - This GSM Security Map compares the protection capabilities of mobile networks
 * http://cbert.org/resources-data/intl-campus/ - List of International Campuses
 * [google.maps](https://www.google.com/maps/d/u/0/viewer?mid=1ckm_TSM8mbCrnhA8COpBNG-qJqTR2IW3&ll=43.664774893391936%2C24.56718262638249&z=5) - United States International College Campuses on Google Maps
+* https://observablehq.com/ - Explore, analyze, and explain data. As a team
 
 
 
@@ -1039,6 +1041,7 @@ https://random-password-gen.web.app/
 * http://5000best.com/websites/
 * https://neal.fun/
 * https://tennessine.co.uk/ - Collection of political, mathematical and fun projects for the web
+* https://blakeir.com/blog/smart-youtube - List of some YouTube pages
 
 
 
