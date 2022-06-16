@@ -498,6 +498,7 @@ https://random-password-gen.web.app/
 * https://www.bookbub.com/welcome
 * https://openlibrary.org/
 * https://www.goodreads.com/ebooks?sort=readable 
+* https://holybooks.com/ - Download Spiritual Texts as free PDF e-books
 * https://www.anarchistlibraries.net/libraries - Archive focusing on anarchism, anarchist texts, and texts of interest for anarchists
 * https://etc.usf.edu/lit2go/ - Free online collection of stories and poems in Mp3 (audiobook) format
 * https://booksc.org/ - World's largest scientific articles store. 70,000,000+ articles for free
