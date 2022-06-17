@@ -625,19 +625,23 @@ https://random-password-gen.web.app/
 
 
 ### Design
-* https://www.producthunt.com/e/0-design-tools - Collection of $0 Design Tools to Help You Create Your Next Project
-* https://mobilepalette.colorion.co/ - Mobile Palette Generator
 * https://socialimagemaker.io/
-* https://www.easel.ly/ - Design tool to visualize any kind of information
 * https://transparenttextures.com/ 
+* https://www.producthunt.com/e/0-design-tools - Collection of $0 Design Tools to Help You Create Your Next Project
+* https://www.easel.ly/ - Design tool to visualize any kind of information
 * https://m3.material.io/ - Design system created by Google to help teams build high-quality digital experiences for Android, iOS, Flutter, and the web
 * https://rasterizer.io/ - Make dynamic images
 * https://jitter.video/ (~$) - A simple animation tool on the web
 * https://studio.polotno.com/ (@) - Web application to create graphical designs, no sign ups and no ads (Free alternative of canva)
 * https://randomdesignstuff.com/ - Browse handpicked websites for designers, either useful websites or unuseful
+* https://www.discovernft.club/ - Discover latest NFT Projects
+
+
+#### Color
+* https://hexcolor.co/ - The Best Free Color Tools
 * https://color.adobe.com/create/color-wheel - Color wheel can be used to generate color palette
 * https://www.schemecolor.com/ - Download Color Schemes
-* https://www.discovernft.club/ - Discover latest NFT Projects
+* https://mobilepalette.colorion.co/ - Mobile Palette Generator
 
 
 #### Fonts
@@ -662,7 +666,7 @@ https://random-password-gen.web.app/
 * https://www.ocoya.net/ ($) - Platform to create, auto-generate and schedule content
 * https://imgupscaler.com/?ref=producthunt - AI-based PNG / JPG Image Upscaler
 
-#### Stock
+#### Stock Images
 * http://thestocks.im/
 * https://www.pexels.com/
 * https://unsplash.com/
