@@ -498,6 +498,7 @@ https://random-password-gen.web.app/
 * https://www.bookbub.com/welcome
 * https://openlibrary.org/
 * https://www.goodreads.com/ebooks?sort=readable 
+* https://kingauthor.net/ - MORE THAN 10,000 FREE E-BOOKS in MOBI (Kindle) and PDF (Universal) formats
 * https://holybooks.com/ - Download Spiritual Texts as free PDF e-books
 * https://www.anarchistlibraries.net/libraries - Archive focusing on anarchism, anarchist texts, and texts of interest for anarchists
 * https://etc.usf.edu/lit2go/ - Free online collection of stories and poems in Mp3 (audiobook) format
@@ -848,6 +849,7 @@ https://random-password-gen.web.app/
 * https://pdodds.w3.uvm.edu/ - First principles of some math topics
 * https://blog.symbaloo.com/webmixes/11/best-math-websites - 38 Best Math Websites for Students
 * https://mathhints.com/ - Free website that includes hundreds of pages of math, explained in simple terms, with thousands of examples of worked-out problems
+* https://betterexplained.com/ - Learn to understand math, not memorize it. Enjoy clear, intuitive lessons about imaginary numbers, exponents, and more
 
 
 
