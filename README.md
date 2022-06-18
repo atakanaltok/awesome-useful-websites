@@ -573,6 +573,7 @@ https://random-password-gen.web.app/
 ## Jobs
 * https://angel.co/candidates/overview
 * https://mentorcruise.com/ ($) - Online mentoring
+* https://hireclub.com/ ($) - A career coach in your pocket. Find your dream job with the help of a certified career coach
 * https://remoteok.com/ 
 * https://remotive.com/ - Remote Work Community, Remotive Handpicks Remote Jobs
 
