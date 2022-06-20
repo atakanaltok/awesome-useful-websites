@@ -459,7 +459,7 @@ https://random-password-gen.web.app/
 * https://www.askdifference.com/ - Short and clean differences of two similar subjects
 * http://www.differencebetween.info/ - Descriptive Analysis and Comparisons
 
-#### Business
+#### Business English
 * https://howtoprofessionallysay.akashrajpurohit.com/ - Guide for your daily "professional" interactions
 * https://www.businessenglishresources.com/ - Free Resources for business english
 
@@ -545,6 +545,7 @@ https://random-password-gen.web.app/
 * https://rohitverma.gumroad.com/l/PM-tools ($) - Product Management tools for $5
 * https://yespromo.me/ - Free database of 100+ successful self promotion Reddit posts
 * https://www.welovenocode.com/marketingforstartups - Free e-book with 47 practical tactics to get customers and achieve hockey stick growth
+* https://arraylist.org/ - List database in the cloud. You can use it for storing things like form submissions, email-subscription forms or make a AJAX/REST call to store values in the list
 
 
 ### Trends
@@ -652,7 +653,7 @@ https://random-password-gen.web.app/
 
 #### Icon Packs
 * https://www.iconpacks.net/
-* https://www.notion.so/Doodlicons-519314a92ed3474093a10e44946bbb72 - Doodle icons for your next Project's Wireframe
+* [notion.so/Doodlicons](https://www.notion.so/Doodlicons-519314a92ed3474093a10e44946bbb72) - Doodle icons for your next Project's Wireframe
 * https://illustrationkit.com/ - Free vector illustrations for personal & commercial projects
 * https://fontawesome.com/ - Internet's icon library and toolkit, used by millions of designers, developers, and content creators
 * https://www.iconshock.com/freeicons/ - All the icons from absolutely all the open source icon collections available. 100k icons for you to free download
@@ -704,6 +705,7 @@ https://random-password-gen.web.app/
 * https://artsandculture.google.com/ - Bringing the world’s art and culture online for everyone
 * http://www.artgraphica.net/ - Free Drawing, Sketching and Painting techniques
 * https://tattooswizard.com/ - Find Tattoo Artists and Studios near you
+* https://www.artic.edu/collection - Explore thousands of artworks in the museum’s collection
 
 
 ### Photography
