@@ -169,10 +169,14 @@ $ = Payment Required (There are no free options) <br>
 * https://10fastfingers.com/typing-test/english
 * https://www.pairtype.com/
 * https://www.typingclub.com/
+* https://www.typing.com/
 * https://keycombiner.com/
 * https://www.yip-yip.com/
 
 
+### Text
+* https://textfac.es/ - Write unicode faces
+* https://titlecase.com/ - Cenvert a text into all kinds of cases
 
 ### Note Taking
 * https://relanote.com/ (~$) - Interlinking your notes to develop a web of thoughts
@@ -222,29 +226,16 @@ $ = Payment Required (There are no free options) <br>
 * https://ipleak.net/ - See the kind of information that all the sites you visit can see and collect about you
 * https://privacy.net/analyzer/#pre-load - Same as the above one
 * https://www.fakenamegenerator.com/ - Generate fake profile information (names, addresses, phone numbers, etc., from 37 languages and 31 countries)
+* https://tineye.com/ - Find where images appear online
+* https://test-ipv6.com/ - Test your IPv6 connectivity
+* https://tls12.xargs.org/ - Every byte of a TLS connection is explained and reproduced
+* https://shutuptrackers.com/ - Provides information for protecting your data security and privacy
 
 
 
 ### Password Generation
 http://www.healthypasswords.com/index-2.html - Everything About Passwords and Internet Security
 https://random-password-gen.web.app/
-
-
-### File
-* https://wormhole.app/ - Share files with end-to-end encryption and a link that automatically expires
-* https://www.mediafire.com/ (~$) - File storage and sharing
-* https://www.zippyshare.com/ - No sign up required, no dowload limits, free, umlimited disk space
-
-
-### Conventer/Conversion 
-* https://www.online-convert.com/ - Convert media files online from one format into another
-* https://jpg.to-png.com/ - (Not just jpg, all types of files) Free file conversion tools. Your jpg-files will not be uploaded to any servers! The conversion from jpg to png happens in your browser on your own device
-* https://www.conversion-tool.com/ - Online tool offers a wide range of free online online conversion utilities such as audio converters, document converters, eBook converters, hash generators, and other tools
-* https://www.online-convert.com/ - Free Online File Converter
-* https://www.3dgifmaker.com/ - 3D Gif Maker, you can easily make Gifs from your images
-* https://ezgif.com/ - Online GIF maker and image editor
-* https://www.zamzar.com/ - Convert documents, images, videos & sound - 1100+ formats supported
-* https://www.web2pdfconvert.com/ - Convert Web or HTML to PDF, Image
 
 
 ### URL
@@ -280,6 +271,26 @@ https://random-password-gen.web.app/
 * https://techspecs.io/ Search engine that connects you with the consumer electronics products
 
 
+
+
+### File
+* https://wormhole.app/ - Share files with end-to-end encryption and a link that automatically expires
+* https://www.mediafire.com/ (~$) - File storage and sharing
+* https://www.zippyshare.com/ - No sign up required, no dowload limits, free, umlimited disk space
+
+
+### Conventer/Conversion 
+* https://www.online-convert.com/ - Convert media files online from one format into another
+* https://jpg.to-png.com/ - (Not just jpg, all types of files) Free file conversion tools. Your jpg-files will not be uploaded to any servers! The conversion from jpg to png happens in your browser on your own device
+* https://www.conversion-tool.com/ - Online tool offers a wide range of free online online conversion utilities such as audio converters, document converters, eBook converters, hash generators, and other tools
+* https://www.online-convert.com/ - Free Online File Converter
+* https://www.3dgifmaker.com/ - 3D Gif Maker, you can easily make Gifs from your images
+* https://ezgif.com/ - Online GIF maker and image editor
+* https://www.zamzar.com/ - Convert documents, images, videos & sound - 1100+ formats supported
+* https://www.web2pdfconvert.com/ - Convert Web or HTML to PDF, Image
+
+
+
 ### Visual
 * https://www.unscreen.com/ - Remove Video Background 100% Automatically and Free
 * https://www.remove.bg/ - Remove Image Background 100% Automatically and Free
@@ -290,6 +301,7 @@ https://random-password-gen.web.app/
 * https://extract.pics/ - Extract images from any public website by using a virtual browser
 * https://generated.photos/ - Unique, worry-free (AI-generated), free to download model photos
 * https://zoom.it/ - Create high-resolution, zoomable images 
+* https://vectormagic.com/ - Convert Bitmaps (JPG, PNG, GIF) To Vectors (PDF, SVG, EPS). Quickly get your artwork ready to print, embroider, cut, and more with the world's best full-color auto-tracer
 
 
 ### Audio
@@ -299,11 +311,13 @@ https://random-password-gen.web.app/
 ### Time
 * https://hovancik.net/stretchly/ - Cross-platform open source app that reminds you to take breaks when working on your compute
 * https://www.timeanddate.com/ - Calendars, clocks, and many more
+* https://time.is/ - Displays exact, official atomic clock time for any time zone (more than 7 million locations) in 51 languages
 
 
 ### To Do
 * https://todoist.com/home ($) 
 * https://www.any.do/ ($) 
+* https://teuxdeux.com/ ($) 
 
 
 ### Some Other Tools
@@ -316,8 +330,8 @@ https://random-password-gen.web.app/
 * https://incoggo.com/ - Adblocker for Paywalls
 * https://scribe.rip/ - Alternative frontend to Medium
 * https://www.azurespeed.com/Azure/Latency - Many tools from Azure, Microsoft
-* https://fast.com/ - Measure your internet speed, latency, and upload
-* https://www.webpagetest.org/ - Test a website's performance
+* https://willrobotstakemyjob.com/ - See the estimated automation risk, growth, wages, polling, volume and many more features of your job
+
 
 
 
@@ -326,6 +340,7 @@ https://random-password-gen.web.app/
 
 
 ## DIY
+* http://thistothat.com/ - Learn how to glue to materials together
 * https://www.instructables.com/
 * https://www.dummies.com/ - Series of instructional/reference [books](https://en.wikipedia.org/wiki/For_Dummies) 
 * https://fixitclub.com/ - Save Money on Home Repairs
@@ -373,6 +388,7 @@ https://random-password-gen.web.app/
 * https://threadhunt.xyz/ - Hunted Quality Twitter Threads
 * https://tweepsmap.com/ - AI Driven Twitter analytics and management
 * https://shadowban.yuzurisa.com/ - Check whether a username is shadowbanned on Twitter
+* https://twitternamegenerator.com/ - Free Online Tool to Generate Pretty Nicknames for Twitter
 
 
 
@@ -410,6 +426,7 @@ https://random-password-gen.web.app/
 * https://soundlove.se/ - Unusual synthesis algorithms - or combination of common ones in unusual ways - to add a touch of randomness and unpredictability to our products
 * https://audionautix.com/ - Music that is composed and produced by Jason Shaw. Completely free - for you to download and use (even for commercial purposes) as long as you provide credit
 * https://www.rhymezone.com/ - Find rhymes, synonyms, adjectives, and more
+* http://typatone.com/ - Generate your own music by typing on keyboard
 
 
 
@@ -551,7 +568,11 @@ https://random-password-gen.web.app/
 * https://www.joinhoney.com/ - Honey extension automatically searches for coupons on 30,000+ sites around the globe
 * https://bothelp.io/widget - Free chat button widget for website
 * https://www.certificateclaim.com/ (~$) - Digital service to create and send all kinds of certificates
+
+
+### Freelaning/Freelance 
 * https://www.fiverr.com/ - Find the perfect freelance services for your business
+* https://www.upwork.com/ - Hire freelancers and get freelancers jobs online
 
 
 ### Patents
@@ -585,6 +606,11 @@ https://random-password-gen.web.app/
 * http://websites.milonic.com/ - Find all important website data neatly reported in one place
 * https://www.woorank.com/ (~$) - Free Website Review Tool & SEO Checker
 * https://semji.com/ - Improve the ROI of your content. Create high-performing SEO content in no time
+* https://web.dev/ - Measure the performance of your website and get actionable insights 
+* https://www.webpagetest.org/ - Test a website's performance
+* https://fast.com/ - Measure your internet speed, latency, and upload
+* https://validator.w3.org/checklink - Check links and anchors in Web pages or full Web sites 
+* https://www.urlvoid.com/ - Website Reputation/Safety Checker. This service helps you detect potentially malicious websites
 
 
 
@@ -613,6 +639,7 @@ https://random-password-gen.web.app/
 * https://superportfolio.co/ - Online Portfolio Maker
 * https://www.referd.ai/resume-scanner - Free resume scanner
 * https://rxresu.me/ - Free and open source resume builder
+* https://www.goodcv.com/ - Create a professional Resume/CV in minutes. The simplest way to have impressive Resume without Photoshop, AI technique
 
 
 ### Careers
@@ -840,6 +867,7 @@ https://random-password-gen.web.app/
 * https://gsmmap.org/ - This GSM Security Map compares the protection capabilities of mobile networks
 * http://cbert.org/resources-data/intl-campus/ - List of International Campuses
 * [google.maps](https://www.google.com/maps/d/u/0/viewer?mid=1ckm_TSM8mbCrnhA8COpBNG-qJqTR2IW3&ll=43.664774893391936%2C24.56718262638249&z=5) - United States International College Campuses on Google Maps
+* https://www.submarinecablemap.com/ - Submarine cables around the world  
 * https://observablehq.com/ - Explore, analyze, and explain data. As a team
 
 
@@ -1005,6 +1033,7 @@ https://random-password-gen.web.app/
 ### Linters
 * https://www.fromlatest.io/#/ - Dockerfile linter
 * http://www.yamllint.com/ - Paste in your YAML and click "Go" - we'll tell you if it's valid or not, and give you a nice clean UTF-8 version of it. Optimized for Ruby
+* https://validate.puppet.com/ - Check the validity of your Puppet code (only validates syntax and doesn't actually compile or enforce a catalog)
 
 
 
@@ -1022,6 +1051,7 @@ https://random-password-gen.web.app/
 
 
 ## Programming Languages
+* https://theia-ide.org/ - Flexible and Extensible Cloud & Desktop IDE Platform. Efficiently develop and deliver Cloud & Desktop IDEs and tools with modern web technologies
 
 ### Python
 * https://docs.python.org/3/tutorial/index.html
