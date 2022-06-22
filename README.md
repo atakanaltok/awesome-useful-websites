@@ -244,12 +244,15 @@ https://random-password-gen.web.app/
 * https://www.3dgifmaker.com/ - 3D Gif Maker, you can easily make Gifs from your images
 * https://ezgif.com/ - Online GIF maker and image editor
 * https://www.zamzar.com/ - Convert documents, images, videos & sound - 1100+ formats supported
+* https://www.web2pdfconvert.com/ - Convert Web or HTML to PDF, Image
 
 
 ### URL
 * https://shrtco.de/tools/ - URL tools
 * https://www.onelink.to/ - Link and QR code for your apps
 * https://appopener.com/ - Create smart links to open desired apps from url without login
+* https://digital.com/best-web-hosting/who-is/ - Find Out Who is Hosting Any Domain in Seconds and learn about the web host, IP address, name servers and more
+* https://webhook.site/ - Inspect, test and automate (with the visual Custom Actions builder, or WebhookScript) any incoming HTTP request or e-mail
 
 
 #### URL Shortener
@@ -314,6 +317,7 @@ https://random-password-gen.web.app/
 * https://scribe.rip/ - Alternative frontend to Medium
 * https://www.azurespeed.com/Azure/Latency - Many tools from Azure, Microsoft
 * https://fast.com/ - Measure your internet speed, latency, and upload
+* https://www.webpagetest.org/ - Test a website's performance
 
 
 
@@ -378,6 +382,7 @@ https://random-password-gen.web.app/
 * https://www.reveddit.com/about/ - For revealing reddit's removed content. Search by username, subreddit (r/), link or domain
 * https://www.spacebarcounter.net/reddit-list - 100+ Subreddits
 * https://unreadit.com/ - Reddit-fueled Weekly Newsletters
+* https://whatisthisthing.vercel.app/ - Posts and answers from r/whatisthisthing
 
 
 #### Better Reddit Search
@@ -485,6 +490,7 @@ https://random-password-gen.web.app/
 * https://looria.com/ - Trusted place to find honest product information
 * https://apps.apple.com/us/app/id1580599572 - Free Iphone app for trip destination searching and planning platform
 * https://www.freecycle.org/ - Network people who are giving and getting stuff for free in their own Towns. Membership is free
+* https://www.windy.com/ - Nearly everything about the weather of the any location
 
 
 ### Food
@@ -564,7 +570,7 @@ https://random-password-gen.web.app/
 * https://yespromo.me/ - Free database of 100+ successful self promotion Reddit posts
 * https://www.welovenocode.com/marketingforstartups - Free e-book with 47 practical tactics to get customers and achieve hockey stick growth
 * https://arraylist.org/ - List database in the cloud. You can use it for storing things like form submissions, email-subscription forms or make a AJAX/REST call to store values in the list
-* https://semji.com/ - Improve the ROI of your content. Create high-performing SEO content in no time
+
 
 
 ### Trends
@@ -577,6 +583,9 @@ https://random-password-gen.web.app/
 ### Web Analytics
 * https://pirsch.io/ - Open-source, cookie-free web analytics
 * http://websites.milonic.com/ - Find all important website data neatly reported in one place
+* https://www.woorank.com/ (~$) - Free Website Review Tool & SEO Checker
+* https://semji.com/ - Improve the ROI of your content. Create high-performing SEO content in no time
+
 
 
 ### Creating Websites
@@ -723,6 +732,7 @@ https://random-password-gen.web.app/
 
 
 ## Art
+* http://weavesilk.com/ - Create beautiful flowing art with Silk
 * https://artsandculture.google.com/ - Bringing the world’s art and culture online for everyone
 * http://www.artgraphica.net/ - Free Drawing, Sketching and Painting techniques
 * https://tattooswizard.com/ - Find Tattoo Artists and Studios near you
@@ -994,6 +1004,7 @@ https://random-password-gen.web.app/
 
 ### Linters
 * https://www.fromlatest.io/#/ - Dockerfile linter
+* http://www.yamllint.com/ - Paste in your YAML and click "Go" - we'll tell you if it's valid or not, and give you a nice clean UTF-8 version of it. Optimized for Ruby
 
 
 
