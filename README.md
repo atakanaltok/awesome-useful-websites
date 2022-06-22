@@ -221,6 +221,7 @@ $ = Payment Required (There are no free options) <br>
 * https://kb.adguard.com/en/general/dns-providers - You can configure any DNS server to be used instead of the system default provided by the router or ISP
 * https://ipleak.net/ - See the kind of information that all the sites you visit can see and collect about you
 * https://privacy.net/analyzer/#pre-load - Same as the above one
+* https://www.fakenamegenerator.com/ - Generate fake profile information (names, addresses, phone numbers, etc., from 37 languages and 31 countries)
 
 
 
@@ -526,6 +527,12 @@ https://random-password-gen.web.app/
 
 
 
+
+
+
+
+
+
 ## Business
 * https://bmtoolbox.net/ - Learn about business concepts and models
 * https://gumroad.com/ - From the Sahil Lavingia, the author of "The Minimalist Entrepreneur"
@@ -533,10 +540,16 @@ https://random-password-gen.web.app/
 * https://www.joinhoney.com/ - Honey extension automatically searches for coupons on 30,000+ sites around the globe
 * https://bothelp.io/widget - Free chat button widget for website
 * https://www.certificateclaim.com/ (~$) - Digital service to create and send all kinds of certificates
+* https://www.fiverr.com/ - Find the perfect freelance services for your business
 
+
+### Patents
+* https://worldwide.espacenet.com/ - Free access to over 130 million patent documents
 
 ### Networking
+* https://patents.google.com/ - Search and read the full text of patents from around the world
 * https://alias.co/ - Stay up to date with the best of the bests
+* https://patentscope.wipo.int/search/en/search.jsf - Search 105 million patent documents including 4.3 million published international patent applications (PCT)
 
 
 ### Marketing
@@ -673,6 +686,7 @@ https://random-password-gen.web.app/
 * http://thestocks.im/
 * https://www.pexels.com/
 * https://unsplash.com/
+* https://www.freeimages.com/ 
 * https://www.pngguru.in/ - Free PNG Images, Background, And Template
 * https://www.pond5.com/free - Free Stock Videos, Photos, and Music
 * https://www.critter.pics/ - Critter pictures
@@ -681,6 +695,7 @@ https://random-password-gen.web.app/
 * https://zoom.nl/ - Largest photography community in the Netherlands
 * https://depositphotos.com/ - 232 million files: royalty-free images, videos, vectors, illustrations, and music
 * https://skuawk.com/ - Public domain photos
+
 
 
 #### Wallpapers
@@ -1043,6 +1058,7 @@ https://random-password-gen.web.app/
 * https://musclewiki.com/ 
 * http://bitesize.io/ - Learn how to apply psychology based tips and notions in your daily life
 * https://jinay.dev/just-a-minute/ - To test your chronoception (sene of passing time)
+* https://www.futureme.org/ - Write a Letter to your future self 
 
 
 
