@@ -243,6 +243,7 @@ https://random-password-gen.web.app/
 * https://www.online-convert.com/ - Free Online File Converter
 * https://www.3dgifmaker.com/ - 3D Gif Maker, you can easily make Gifs from your images
 * https://ezgif.com/ - Online GIF maker and image editor
+* https://www.zamzar.com/ - Convert documents, images, videos & sound - 1100+ formats supported
 
 
 ### URL
@@ -285,6 +286,7 @@ https://random-password-gen.web.app/
 * http://jpeg-optimizer.com/ - Free online tool for resizing and compressing your digital photos and images
 * https://extract.pics/ - Extract images from any public website by using a virtual browser
 * https://generated.photos/ - Unique, worry-free (AI-generated), free to download model photos
+* https://zoom.it/ - Create high-resolution, zoomable images 
 
 
 ### Audio
@@ -311,6 +313,7 @@ https://random-password-gen.web.app/
 * https://incoggo.com/ - Adblocker for Paywalls
 * https://scribe.rip/ - Alternative frontend to Medium
 * https://www.azurespeed.com/Azure/Latency - Many tools from Azure, Microsoft
+* https://fast.com/ - Measure your internet speed, latency, and upload
 
 
 
@@ -356,7 +359,7 @@ https://random-password-gen.web.app/
 
 
 ### Fact Chacking
-* https://teyit.org/ - For Turkey
+* https://teyit.org/ - For Turkish news and media
 
 
 ### Twitter
@@ -430,6 +433,7 @@ https://random-password-gen.web.app/
 ## Culture
 * https://culturalatlas.sbs.com.au/ - Educational resource providing comprehensive information on the cultural backgrounds
 * https://www.quotemaster.org/ - 98,683 categories and 1,488,431 quotes
+* https://www.factslides.com/ - 1001 facts about many topics with sources
 
 
 
@@ -480,6 +484,7 @@ https://random-password-gen.web.app/
 * https://www.wanderprep.com/ - Advice on gear, apps, and gotchas to help busy people travel smarter (No more new articles)
 * https://looria.com/ - Trusted place to find honest product information
 * https://apps.apple.com/us/app/id1580599572 - Free Iphone app for trip destination searching and planning platform
+* https://www.freecycle.org/ - Network people who are giving and getting stuff for free in their own Towns. Membership is free
 
 
 ### Food
@@ -559,6 +564,7 @@ https://random-password-gen.web.app/
 * https://yespromo.me/ - Free database of 100+ successful self promotion Reddit posts
 * https://www.welovenocode.com/marketingforstartups - Free e-book with 47 practical tactics to get customers and achieve hockey stick growth
 * https://arraylist.org/ - List database in the cloud. You can use it for storing things like form submissions, email-subscription forms or make a AJAX/REST call to store values in the list
+* https://semji.com/ - Improve the ROI of your content. Create high-performing SEO content in no time
 
 
 ### Trends
@@ -721,6 +727,7 @@ https://random-password-gen.web.app/
 * http://www.artgraphica.net/ - Free Drawing, Sketching and Painting techniques
 * https://tattooswizard.com/ - Find Tattoo Artists and Studios near you
 * https://www.artic.edu/collection - Explore thousands of artworks in the museum’s collection
+* https://zoomquilt.org/ - Collaborative infinitely zooming painting
 
 
 ### Photography
@@ -954,12 +961,16 @@ https://random-password-gen.web.app/
 
 * https://chromeextensionkit.com/ ($) - Includes 17 different battle-tested starter templates so you can spend your time building your Chrome Extension and focuing on shipping, not setting up manifests and environments 
 * https://esoteric.codes/ - Esoteric programming languages (esolangs) and styles, constraint-based coding, code art, code poetry, more
+* https://freeformatter.com/ - Free Online Tools For Developers. Formatters, validators, code minifiers, string escapers, encoders/decoders, message digesters, web resources and more
+* https://www.freeprivacypolicy.com/ - Free Privacy Policy Generator. Comply with requirements from CCPA, GDPR, CalOPPA, Google Analytics & AdSense and many others
 
 
-### CSS
+
+### Front-end
 * https://www.caniemail.com/
 * https://caniuse.com/
 * https://www.eggradients.com/ - Gradient Background Colors
+* https://frontendchecklist.io/ - Exhaustive list of all elements you need to have / to test before launching your website / HTML page to production
 
 ### Android Development
 * https://fossdroid.com/ - Free and open source Android apps
@@ -981,9 +992,15 @@ https://random-password-gen.web.app/
 * https://www.electronjs.org/ - Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
 
+### Linters
+* https://www.fromlatest.io/#/ - Dockerfile linter
+
+
+
 ### GAFA Alternatives
 * https://degoogle.jmoore.dev/#mobile-applications-mobile-apps-installable-from-stores - Huge list of alternatives to Google products. Privacy tips, tricks, and links
 * https://degooglisons-internet.org/en/ - Alternatives to FAANG
+* https://www.accountkiller.com/en/home - AccountKiller collects direct links and deleting instructions to make account termination easy
 
 
 ### No-Code
