@@ -1155,7 +1155,16 @@ https://random-password-gen.web.app/
 
 ### Cheat Sheets
 * https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/ - Cheat Sheets available for quick reference
-
+* https://devhints.io
+* https://gitsheet.wtf
+* https://overapi.com
+* https://grid.malven.co
+* https://cssreference.io
+* https://htmlreference.io
+* https://cheat-sheets.org
+* https://cheatography.com/
+* https://htmlcheatsheet.com
+* https://developer-cheatsheets.com
 
 
 
