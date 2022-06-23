@@ -1161,10 +1161,8 @@ https://random-password-gen.web.app/
 * https://grid.malven.co
 * https://cssreference.io
 * https://htmlreference.io
-* https://cheat-sheets.org
 * https://cheatography.com/
 * https://htmlcheatsheet.com
-* https://developer-cheatsheets.com
 
 
 
