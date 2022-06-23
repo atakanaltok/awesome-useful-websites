@@ -14,9 +14,11 @@ Feel free to share and star
 
 ## Lexicon
 
-$ = Payment Required (There are no free options) <br>
-~$ = Freemium (Offers a free version but requires payment for additional features) <br>
-@ = Student Friendly
+| Symbol | Meaning |
+| :---: | --- |
+| $ | Payment Required (There are no free options) |
+| ~$ | Freemium (Offers a free version but requires payment for additional features) |
+| @ | Student Friendly |
 
 
 
@@ -147,6 +149,7 @@ $ = Payment Required (There are no free options) <br>
 * https://creately.com/ - Data-connected Visual Workspace to brainstorm, plan, execute and capture knowledge
 * https://www.diagrams.net/ - Security-first diagramming for teams
 * https://orgpad.com/?ref=producthunt (~$) - Interactive online mindmap 
+* https://www.lucidchart.com/pages/ (~$) - Diagramming and flowchart app that brings teams together to make better decisions and build the future
 
 
 
@@ -177,6 +180,7 @@ $ = Payment Required (There are no free options) <br>
 ### Text
 * https://textfac.es/ - Write unicode faces
 * https://titlecase.com/ - Cenvert a text into all kinds of cases
+* [FancyTextGenerator](https://lingojam.com/FancyTextGenerator) - Cenvert a text into all kinds of fonts
 
 ### Note Taking
 * https://relanote.com/ (~$) - Interlinking your notes to develop a web of thoughts
@@ -277,6 +281,7 @@ https://random-password-gen.web.app/
 * https://www.dxomark.com/category/smartphone-reviews/#tabs
 * https://techspecs.io/vs/ - Compare phones
 * https://techspecs.io/ Search engine that connects you with the consumer electronics products
+* https://www.kimovil.com/en/ - Compare specifications and prices of smartphones and tablets
 
 
 
@@ -344,6 +349,11 @@ https://random-password-gen.web.app/
 * https://www.azurespeed.com/Azure/Latency - Many tools from Azure, Microsoft
 * https://willrobotstakemyjob.com/ - See the estimated automation risk, growth, wages, polling, volume and many more features of your job
 * https://signature-maker.net/ - Create handwritten digital signature
+* https://kill-the-newsletter.com/ - Convert email newsletters into Atom feeds
+* https://promowizard.softr.app/ - Get promocodes without consuming hours of content on youtube
+* https://en.everybodywiki.com/Everybodywiki:Welcome - Rescues deleted articles and rejected drafts from WikiPedia in many languages and welcomes new articles
+* https://loader.io/ - Free load testing service that allows you to stress test your web-apps & apis with thousands of concurrent connections
+* https://lunar.fyi/ (~$) - Multi-featured, defacto app for controlling monitors
 
 
 
@@ -352,6 +362,7 @@ https://random-password-gen.web.app/
 
 
 ## DIY
+* https://www.jscreenfix.com/ - Pixel fixing algorithm that has been applied to millions of screens and is the most effective software solution available for repairing defective pixels (A stuck pixel is a bright dot of colour that fails to update when neighbouring pixels change). Nothing to install, totally free
 * http://thistothat.com/ - Learn how to glue to materials together
 * https://www.instructables.com/
 * https://www.dummies.com/ - Series of instructional/reference [books](https://en.wikipedia.org/wiki/For_Dummies) 
@@ -360,6 +371,7 @@ https://random-password-gen.web.app/
 * https://www.doityourself.com/ 
 * https://www.wonderhowto.com/ 
 * https://www.howstuffworks.com/ 
+
 
 
 
@@ -599,7 +611,7 @@ https://random-password-gen.web.app/
 * https://bothelp.io/widget - Free chat button widget for website
 * https://www.certificateclaim.com/ (~$) - Digital service to create and send all kinds of certificates
 * https://respresso.io/ ($) - Manage your app’s localization texts, images, colors, fonts and more. Transform and deliver them automatically into your projects with a single click
-Let your whole team edit resource files (localizations, images, colors, etc.) with Respresso’s online editor to get them in a platform-specific format, automatically delivered to your source code
+
 
 ### Freelaning/Freelance 
 * https://www.fiverr.com/ - Find the perfect freelance services for your business
@@ -643,6 +655,7 @@ Let your whole team edit resource files (localizations, images, colors, etc.) wi
 * https://validator.w3.org/checklink - Check links and anchors in Web pages or full Web sites 
 * https://www.urlvoid.com/ - Website Reputation/Safety Checker. This service helps you detect potentially malicious websites
 * https://www.similarsites.com/ - Find similar websites and learn about its statistics
+* https://www.locabrowser.com/ - How is your website looks like from a different country? Test geo-targeted website from different locations in real time
 
 
 
@@ -673,6 +686,7 @@ Let your whole team edit resource files (localizations, images, colors, etc.) wi
 * https://www.referd.ai/resume-scanner - Free resume scanner
 * https://rxresu.me/ - Free and open source resume builder
 * https://www.goodcv.com/ - Create a professional Resume/CV in minutes. The simplest way to have impressive Resume without Photoshop, AI technique
+* http://jsonresume.io/ - You can upload your JSON resume according to the spec and we'll render it all pretty for you
 
 
 ### Careers
@@ -724,6 +738,7 @@ Let your whole team edit resource files (localizations, images, colors, etc.) wi
 * https://rasterizer.io/ - Make dynamic images
 * https://jitter.video/ (~$) - A simple animation tool on the web
 * https://studio.polotno.com/ (@) - Web application to create graphical designs, no sign ups and no ads (Free alternative of canva)
+* https://bitbof.com/ - Free painting and sketching apps
 * https://sumo.app/ - Drawing Tool and Image Editor
 * https://randomdesignstuff.com/ - Browse handpicked websites for designers, either useful websites or unuseful
 * https://www.discovernft.club/ - Discover latest NFT Projects
@@ -1058,7 +1073,9 @@ Let your whole team edit resource files (localizations, images, colors, etc.) wi
 * https://www.systemrequirementslab.com/cyri - System Requirements Lab analyzes your computer in just seconds, and it's FREE
 
 
-
+#### Chess
+* https://www.thechesswebsite.com/ - Learn, Practice and Play Chess
+* https://en.lichess.org/ - Free/libre, open-source chess server powered by volunteers and donations
 
 
 
@@ -1067,14 +1084,20 @@ Let your whole team edit resource files (localizations, images, colors, etc.) wi
 * https://oldergeeks.com/ - Software download site without ads, misleading download links or annoyances. This site is 100% supported by donations
 * https://alternativeto.net/ - Best alternatives of popular softwares
 * https://www.electronjs.org/ - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+* https://localstack.cloud/ - Develop and test your cloud and serverless apps offline
+
+
 
 
 ### Linters
 * https://www.fromlatest.io/#/ - Dockerfile linter
 * http://www.yamllint.com/ - Paste in your YAML and click "Go" - we'll tell you if it's valid or not, and give you a nice clean UTF-8 version of it. Optimized for Ruby
+* https://k8syaml.com/ - Kubernetes YAML Generator
 * https://validate.puppet.com/ - Check the validity of your Puppet code (only validates syntax and doesn't actually compile or enforce a catalog)
 * https://www.shellcheck.net/ - Finds bugs in your shell scripts
 * https://regexr.com/ - Online tool to learn, build, & test Regular Expressions (RegEx / RegExp)
+* https://beautifier.io/ - Beautify, unpack or deobfuscate JavaScript and HTML, make JSON/JSONP readable, etc.
+* https://jsonlint.com/ - Validator and reformatter for JSON, a lightweight data-interchange format. Copy and paste, directly type, or input a URL in the editor above and let JSONLint tidy and validate your messy JSON code
 
 
 
@@ -1098,6 +1121,7 @@ Let your whole team edit resource files (localizations, images, colors, etc.) wi
 
 ## Programming Languages
 * https://theia-ide.org/ - Flexible and Extensible Cloud & Desktop IDE Platform. Efficiently develop and deliver Cloud & Desktop IDEs and tools with modern web technologies
+* https://learnxinyminutes.com/ - Take a whirlwind tour of your next favorite language
 
 ### Python
 * https://docs.python.org/3/tutorial/index.html
@@ -1110,6 +1134,11 @@ Let your whole team edit resource files (localizations, images, colors, etc.) wi
 
 ### JavaScript
 * https://thecodingcards.com/ ($) - JavaScript & Data Structures Flashcards. Essential Coding Concepts with Syntax and Examples
+
+
+### Linux
+* https://linuxjourney.com/ - Learn Linux
+
 
 
 ## Coding
@@ -1149,10 +1178,6 @@ Let your whole team edit resource files (localizations, images, colors, etc.) wi
 
 
 
-
-* https://en.everybodywiki.com/Everybodywiki:Welcome - Rescues deleted articles and rejected drafts from WikiPedia in many languages and welcomes new articles
-* https://www.thechesswebsite.com/ - Learn, Practice and Play Chess
-* https://promowizard.softr.app/ - Get promocodes without consuming hours of content on youtube
 
 
 
