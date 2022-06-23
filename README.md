@@ -706,6 +706,8 @@ https://random-password-gen.web.app/
 * https://www.failory.com/ - All-In-One Newsletter for Startup Founders and more!
 * [docs.google.com/spreadsheets](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - 500+ Free Tools For Startups 
 * https://www.failory.com/google - Learn from Google's 100+ failures to build profitable businesses and scale acquired companies
+* https://harishgarg.gumroad.com/l/wiSvc?ref=producthunt - Curated list of 100+ resources on GPT-3
+* [github-email-hunter](https://chrome.google.com/webstore/detail/github-email-hunter/ppcegaekdbgcgbapfdcjbhednhmgcjnk) - Find email addresses for Github users & repos with just one click
 
 
 ### Finding Ideas
@@ -1053,6 +1055,9 @@ https://random-password-gen.web.app/
 * https://esoteric.codes/ - Esoteric programming languages (esolangs) and styles, constraint-based coding, code art, code poetry, more
 * https://freeformatter.com/ - Free Online Tools For Developers. Formatters, validators, code minifiers, string escapers, encoders/decoders, message digesters, web resources and more
 * https://www.freeprivacypolicy.com/ - Free Privacy Policy Generator. Comply with requirements from CCPA, GDPR, CalOPPA, Google Analytics & AdSense and many others
+* https://developer.mozilla.org/en-US/ - Documenting web technologies, including CSS, HTML, and JavaScript
+
+
 
 
 ### Front-end
@@ -1061,12 +1066,14 @@ https://random-password-gen.web.app/
 * https://www.eggradients.com/ - Gradient Background Colors
 * https://frontendchecklist.io/ - Exhaustive list of all elements you need to have / to test before launching your website / HTML page to production
 
+
 ### Android Development
 * https://fossdroid.com/ - Free and open source Android apps
 * https://androidweekly.net/ - Android newsletter
 * https://apt.izzysoft.de/fdroid/index.php - F-Droid Repository search
 * https://reports.exodus-privacy.eu.org/en/ - For checking permissions and trackers of apps
 * https://dontkillmyapp.com/ 
+
 
 ### Game Development
 * https://itch.io/ - Simple way to find and share indie games online for free
@@ -1080,13 +1087,13 @@ https://random-password-gen.web.app/
 
 
 
+
+
 ## Software
 * https://oldergeeks.com/ - Software download site without ads, misleading download links or annoyances. This site is 100% supported by donations
 * https://alternativeto.net/ - Best alternatives of popular softwares
 * https://www.electronjs.org/ - Build cross-platform desktop apps with JavaScript, HTML, and CSS
 * https://localstack.cloud/ - Develop and test your cloud and serverless apps offline
-
-
 
 
 ### Linters
@@ -1130,10 +1137,14 @@ https://random-password-gen.web.app/
 * https://www.learnpython.org/
 * https://docs.python-guide.org/
 * https://cscircles.cemc.uwaterloo.ca/
+* https://pythonbasics.org/
+* https://www.majyori.com/
+* https://miguendes.me/
 
 
 ### JavaScript
 * https://thecodingcards.com/ ($) - JavaScript & Data Structures Flashcards. Essential Coding Concepts with Syntax and Examples
+* https://standardjs.com/ - JavaScript style guide, linter, and formatter
 
 
 ### Linux
@@ -1163,6 +1174,7 @@ https://random-password-gen.web.app/
 * https://htmlreference.io
 * https://cheatography.com/
 * https://htmlcheatsheet.com
+* https://panthema.net/2013/sound-of-sorting/SoS-CheatSheet.pdf - The Sound of Sorting Algorithm 
 
 
 
