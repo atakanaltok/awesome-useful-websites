@@ -214,6 +214,7 @@ $ = Payment Required (There are no free options) <br>
 
 ### Privacy
 * https://www.privacytools.io/ - Q: How much privacy do you want?  A: Yes
+* https://securityplanner.consumerreports.org/ ($) - Cut down on data collection and prevent hackers from invading your laptop, tablet and even your phone. Answer a few simple questions to get customized recommendations to help you
 * https://mywhisper.net/ - Text encryption tool, based on AES cryptography
 * https://beencrypted.com/ - To become more encrypted
 * https://prism-break.org/en/all/ - Private and safe alternatives of most used apps & services
@@ -230,6 +231,12 @@ $ = Payment Required (There are no free options) <br>
 * https://test-ipv6.com/ - Test your IPv6 connectivity
 * https://tls12.xargs.org/ - Every byte of a TLS connection is explained and reproduced
 * https://shutuptrackers.com/ - Provides information for protecting your data security and privacy
+* https://ssd.eff.org/ - SURVEILLANCE SELF-DEFENSE: TIPS, TOOLS AND HOW-TOS FOR SAFER ONLINE COMMUNICATIONS
+* https://www.routerpasswords.com/ - Router Passwords is officially the most updated default router password repository on the internet
+
+
+* https://www.random.org/ (~$) - True Random Games and Lotteries, Numbers, Lists and Strings and Maps Generator
+
 
 
 
@@ -244,6 +251,7 @@ https://random-password-gen.web.app/
 * https://appopener.com/ - Create smart links to open desired apps from url without login
 * https://digital.com/best-web-hosting/who-is/ - Find Out Who is Hosting Any Domain in Seconds and learn about the web host, IP address, name servers and more
 * https://webhook.site/ - Inspect, test and automate (with the visual Custom Actions builder, or WebhookScript) any incoming HTTP request or e-mail
+* http://scr.im/ - Convert your email address into a short and safe link you can share on the web without becoming an easy spam target
 
 
 #### URL Shortener
@@ -288,6 +296,7 @@ https://random-password-gen.web.app/
 * https://ezgif.com/ - Online GIF maker and image editor
 * https://www.zamzar.com/ - Convert documents, images, videos & sound - 1100+ formats supported
 * https://www.web2pdfconvert.com/ - Convert Web or HTML to PDF, Image
+* https://smallpdf.com/ - 21 tools to convert, compress, and edit PDFs for free
 
 
 
@@ -302,6 +311,9 @@ https://random-password-gen.web.app/
 * https://generated.photos/ - Unique, worry-free (AI-generated), free to download model photos
 * https://zoom.it/ - Create high-resolution, zoomable images 
 * https://vectormagic.com/ - Convert Bitmaps (JPG, PNG, GIF) To Vectors (PDF, SVG, EPS). Quickly get your artwork ready to print, embroider, cut, and more with the world's best full-color auto-tracer
+* https://screenshot.guru/ - Take high-resolution screen captures of websites and tweets
+* https://www.stolencamerafinder.com/ - Use the serial number stored in your photos to search the web for other photos taken with the same camera
+* https://www.ribbet.com/ (~$) - Photo editing tools 
 
 
 ### Audio
@@ -331,7 +343,7 @@ https://random-password-gen.web.app/
 * https://scribe.rip/ - Alternative frontend to Medium
 * https://www.azurespeed.com/Azure/Latency - Many tools from Azure, Microsoft
 * https://willrobotstakemyjob.com/ - See the estimated automation risk, growth, wages, polling, volume and many more features of your job
-
+* https://signature-maker.net/ - Create handwritten digital signature
 
 
 
@@ -417,6 +429,7 @@ https://random-password-gen.web.app/
 * https://music.tello.app/ - Find out the latest music charts of all the countries in the world
 * https://www.lalal.ai/ - Extract vocal, accompaniment and various instruments from any audio
 * https://musiclab.chromeexperiments.com/Experiments - Learning music more accessible through fun, hands-on experiments
+* http://www.rap4ever.org/ - Rap songs, lyrics, mixtapes, albumes, artists, and more
 * https://everynoise.com/ - Ongoing attempt at an algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space
 * https://audd.io/ - Recognize music (or what's playing) from sound or from streams
 * https://mp3cut.net/ - Trim or cut any audio file online
@@ -426,6 +439,7 @@ https://random-password-gen.web.app/
 * https://soundlove.se/ - Unusual synthesis algorithms - or combination of common ones in unusual ways - to add a touch of randomness and unpredictability to our products
 * https://audionautix.com/ - Music that is composed and produced by Jason Shaw. Completely free - for you to download and use (even for commercial purposes) as long as you provide credit
 * https://www.rhymezone.com/ - Find rhymes, synonyms, adjectives, and more
+* https://rhymer.com/ - FREE Online Rhyming Dictionary
 * http://typatone.com/ - Generate your own music by typing on keyboard
 
 
@@ -440,6 +454,7 @@ https://random-password-gen.web.app/
 * https://www.noisli.com/ 
 * https://naim30.github.io/soundrop/
 * https://www.producthunt.com/posts/soundlove
+* http://rainymood.com/ - Rain Sounds for Sleep & Study
 
 
 ### Spotify
@@ -495,19 +510,34 @@ https://random-password-gen.web.app/
 
 ### Travel
 * https://airheart.com/travel-restrictions/united-states-vaccinated - Learn about travel restrictions and what's required for your trip (For example, Corona restrictions)
-* https://www.flightradar24.com/43,24.35/7 - Global flight tracking service that provides you with real-time information about thousands of aircraft around the world
 * https://countrycode.org/ - Guide to call anywhere in the world
 * https://www.passportindex.org/ - Explore the world of passports
 * https://www.countriesbeen.com/ - Phone app to list the countries you have been with many fetures
-* https://virtualvacation.us/ - Travel the world from home
-* https://everytimezone.com/ - Visual time zone comparison of countries
+
 * https://www.puffinmaps.com/ - All in one trip planner. No adds
 * https://www.alltrails.com/ - Explore 300k trails w/ reviews & photos from 35m outdoor enthusiasts like you
 * https://www.wanderprep.com/ - Advice on gear, apps, and gotchas to help busy people travel smarter (No more new articles)
 * https://looria.com/ - Trusted place to find honest product information
 * https://apps.apple.com/us/app/id1580599572 - Free Iphone app for trip destination searching and planning platform
 * https://www.freecycle.org/ - Network people who are giving and getting stuff for free in their own Towns. Membership is free
+* https://roadtrippers.com/ - Build your route in Roadtrippers and then use our turn-by-turn navigation to lead the way
+
+
+#### Globetrotting 
+* https://randomstreetview.com/ - Travel the streets from home
+* https://virtualvacation.us/ - Travel the world from home
+
+#### Time Zone
+* https://everytimezone.com/ - Visual time zone comparison of countries
+
+
+#### Flight
+* https://seatguru.com/ - Find your seat map. Explore 1,278 aircraft
+* https://www.flightradar24.com/43,24.35/7 - Global flight tracking service that provides you with real-time information about thousands of aircraft around the world
 * https://www.windy.com/ - Nearly everything about the weather of the any location
+* https://zoom.earth/ - Visualizes the world in real-time. Track tropical storms, hurricanes, severe weather, wildfires and more
+* https://www.skyscanner.co.in/ - Search flights by date, price, and budget
+
 
 
 ### Food
@@ -568,7 +598,8 @@ https://random-password-gen.web.app/
 * https://www.joinhoney.com/ - Honey extension automatically searches for coupons on 30,000+ sites around the globe
 * https://bothelp.io/widget - Free chat button widget for website
 * https://www.certificateclaim.com/ (~$) - Digital service to create and send all kinds of certificates
-
+* https://respresso.io/ ($) - Manage your app’s localization texts, images, colors, fonts and more. Transform and deliver them automatically into your projects with a single click
+Let your whole team edit resource files (localizations, images, colors, etc.) with Respresso’s online editor to get them in a platform-specific format, automatically delivered to your source code
 
 ### Freelaning/Freelance 
 * https://www.fiverr.com/ - Find the perfect freelance services for your business
@@ -611,6 +642,7 @@ https://random-password-gen.web.app/
 * https://fast.com/ - Measure your internet speed, latency, and upload
 * https://validator.w3.org/checklink - Check links and anchors in Web pages or full Web sites 
 * https://www.urlvoid.com/ - Website Reputation/Safety Checker. This service helps you detect potentially malicious websites
+* https://www.similarsites.com/ - Find similar websites and learn about its statistics
 
 
 
@@ -631,6 +663,7 @@ https://random-password-gen.web.app/
 * https://hireclub.com/ ($) - A career coach in your pocket. Find your dream job with the help of a certified career coach
 * https://remoteok.com/ 
 * https://remotive.com/ - Remote Work Community, Remotive Handpicks Remote Jobs
+* https://rejected.us/ - Read rejection stories and share yours
 
 
 
@@ -691,6 +724,7 @@ https://random-password-gen.web.app/
 * https://rasterizer.io/ - Make dynamic images
 * https://jitter.video/ (~$) - A simple animation tool on the web
 * https://studio.polotno.com/ (@) - Web application to create graphical designs, no sign ups and no ads (Free alternative of canva)
+* https://sumo.app/ - Drawing Tool and Image Editor
 * https://randomdesignstuff.com/ - Browse handpicked websites for designers, either useful websites or unuseful
 * https://www.discovernft.club/ - Discover latest NFT Projects
 
@@ -795,6 +829,8 @@ https://random-password-gen.web.app/
 ### Studying
 * https://temple.manifoldapp.org/projects/bridges - About institutions, histories, and artifacts of United States college and university life
 * https://www.bartleby.com/ - Search for textbooks, step-by-step explanations to homework questions, and more
+* https://www.chegg.com/ ($) - 24/7 COURSE HELP
+* https://www.chegg.com/flashcards (@) - Study with flashcards for your course created by students and experts alike
 
 
 ### Calculators
@@ -901,6 +937,7 @@ https://random-password-gen.web.app/
 #### Astronomy 
 * http://www.fearofphysics.com/ - Free "Astronomy 101" course
 * http://galileo.phys.virginia.edu/classes/109N/more_stuff/Applets/home.html - Early Lunar Observations and some Planetary Models, applets on various motion
+* https://stars.chromeexperiments.com/ - Visualization of 100,000 nearby stars
 
 
 ### Social Sciences
@@ -1003,7 +1040,6 @@ https://random-password-gen.web.app/
 * https://www.freeprivacypolicy.com/ - Free Privacy Policy Generator. Comply with requirements from CCPA, GDPR, CalOPPA, Google Analytics & AdSense and many others
 
 
-
 ### Front-end
 * https://www.caniemail.com/
 * https://caniuse.com/
@@ -1017,10 +1053,13 @@ https://random-password-gen.web.app/
 * https://reports.exodus-privacy.eu.org/en/ - For checking permissions and trackers of apps
 * https://dontkillmyapp.com/ 
 
-
-
 ### Game Development
 * https://itch.io/ - Simple way to find and share indie games online for free
+* https://www.systemrequirementslab.com/cyri - System Requirements Lab analyzes your computer in just seconds, and it's FREE
+
+
+
+
 
 
 
@@ -1034,6 +1073,8 @@ https://random-password-gen.web.app/
 * https://www.fromlatest.io/#/ - Dockerfile linter
 * http://www.yamllint.com/ - Paste in your YAML and click "Go" - we'll tell you if it's valid or not, and give you a nice clean UTF-8 version of it. Optimized for Ruby
 * https://validate.puppet.com/ - Check the validity of your Puppet code (only validates syntax and doesn't actually compile or enforce a catalog)
+* https://www.shellcheck.net/ - Finds bugs in your shell scripts
+* https://regexr.com/ - Online tool to learn, build, & test Regular Expressions (RegEx / RegExp)
 
 
 
@@ -1048,6 +1089,11 @@ https://random-password-gen.web.app/
 
 ### Torrent
 * https://webtorrent.io/ - Streaming torrent client for browser 
+
+
+### Server
+* https://serversforhackers.com/ - Server Admin for Programmers. Learn the server tech you need for development and production. Eliminate the frustration of server configuration
+
 
 
 ## Programming Languages
@@ -1117,6 +1163,7 @@ https://random-password-gen.web.app/
 * http://bitesize.io/ - Learn how to apply psychology based tips and notions in your daily life
 * https://jinay.dev/just-a-minute/ - To test your chronoception (sene of passing time)
 * https://www.futureme.org/ - Write a Letter to your future self 
+* https://strobe.cool/ - Create visual stimuli
 
 
 
@@ -1126,6 +1173,7 @@ https://random-password-gen.web.app/
 * https://neal.fun/
 * https://tennessine.co.uk/ - Collection of political, mathematical and fun projects for the web
 * https://blakeir.com/blog/smart-youtube - List of some YouTube pages
+* [awesomeopensource](https://awesomeopensource.com/project/jivoi/awesome-osint#-pastebins)
 
 
 
