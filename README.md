@@ -843,6 +843,9 @@ https://random-password-gen.web.app/
 
 
 
+
+
+
 ### Studying
 * https://temple.manifoldapp.org/projects/bridges - About institutions, histories, and artifacts of United States college and university life
 * https://www.bartleby.com/ - Search for textbooks, step-by-step explanations to homework questions, and more
