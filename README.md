@@ -168,6 +168,7 @@ Feel free to share and star
 
 ### Keyboard
 * https://usethekeyboard.com/ - Collection of keyboard shortcuts for Mac apps, Windows programs, and websites
+* https://www.vimified.com/ - Learn and practice Vim (a free and open-source, screen-based text editor program)
 * https://www.keybr.com/
 * https://10fastfingers.com/typing-test/english
 * https://www.pairtype.com/
@@ -413,6 +414,7 @@ https://random-password-gen.web.app/
 * https://tweepsmap.com/ - AI Driven Twitter analytics and management
 * https://shadowban.yuzurisa.com/ - Check whether a username is shadowbanned on Twitter
 * https://twitternamegenerator.com/ - Free Online Tool to Generate Pretty Nicknames for Twitter
+* https://smallworld.kiwi/signin - Small World uses the location from your Twitter profile to find nearby friends
 
 
 
@@ -423,6 +425,7 @@ https://random-password-gen.web.app/
 * https://www.spacebarcounter.net/reddit-list - 100+ Subreddits
 * https://unreadit.com/ - Reddit-fueled Weekly Newsletters
 * https://whatisthisthing.vercel.app/ - Posts and answers from r/whatisthisthing
+* https://gummysearch.com/ - Explore pain points, content ideas, and what people are eager to pay for
 
 
 #### Better Reddit Search
@@ -613,6 +616,11 @@ https://random-password-gen.web.app/
 * https://respresso.io/ ($) - Manage your app’s localization texts, images, colors, fonts and more. Transform and deliver them automatically into your projects with a single click
 
 
+### Finance
+* https://www.figr.app/ - Google Docs + Calculator = Personal finances 
+* https://app.livefortunately.com/ - Plan for a better financial future. Create a complete financial plan to make the most of your money
+
+
 ### Freelaning/Freelance 
 * https://www.fiverr.com/ - Find the perfect freelance services for your business
 * https://www.upwork.com/ - Hire freelancers and get freelancers jobs online
@@ -656,6 +664,7 @@ https://random-password-gen.web.app/
 * https://www.urlvoid.com/ - Website Reputation/Safety Checker. This service helps you detect potentially malicious websites
 * https://www.similarsites.com/ - Find similar websites and learn about its statistics
 * https://www.locabrowser.com/ - How is your website looks like from a different country? Test geo-targeted website from different locations in real time
+* https://statusvista.com/ - An all-in-one status page of the systems your product depends on
 
 
 
@@ -677,6 +686,7 @@ https://random-password-gen.web.app/
 * https://remoteok.com/ 
 * https://remotive.com/ - Remote Work Community, Remotive Handpicks Remote Jobs
 * https://rejected.us/ - Read rejection stories and share yours
+* https://anonfriendly.com/ - Find anon friendly jobs
 
 
 
@@ -1098,6 +1108,7 @@ https://random-password-gen.web.app/
 * https://alternativeto.net/ - Best alternatives of popular softwares
 * https://www.electronjs.org/ - Build cross-platform desktop apps with JavaScript, HTML, and CSS
 * https://localstack.cloud/ - Develop and test your cloud and serverless apps offline
+* https://markwhen.com/ - Markwhen is a text-to-timeline tool. You write markdown-ish text and it gets converted into a nice looking cascading timeline
 
 
 ### Linters
@@ -1212,6 +1223,7 @@ https://random-password-gen.web.app/
 * https://jinay.dev/just-a-minute/ - To test your chronoception (sene of passing time)
 * https://www.futureme.org/ - Write a Letter to your future self 
 * https://strobe.cool/ - Create visual stimuli
+* https://untools.co/ - Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems
 
 
 
