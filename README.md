@@ -840,7 +840,8 @@ https://random-password-gen.web.app/
 * https://cnx.org/ - View and share free educational materials
 * http://www.reachoutmichigan.org/learn/tutorials.html#math - On-Line Tutorials & References
 * https://opentextbc.ca/ - Simple book production software. You can use Pressbooks to publish textbooks, scholarly monographs, syllabi, fiction and non-fiction books, white papers, and more in multiple formats including: MOBI, EPUB, PDF
-
+* [webstore/modern-for-wikipedia](https://chrome.google.com/webstore/detail/modern-for-wikipedia/emdkdnnopdnajipoapepbeeiemahbjcn) - Enhance your Wikipedia experience with a beautiful, clean, modern design that's fully customizable
+* [webstore/wikiwand-wikipedia-modern](https://chrome.google.com/webstore/detail/wikiwand-wikipedia-modern/emffkefkbkpkgpdeeooapgaicgmcbolj) - Wikiwand is a new award-winning interface that optimizes Wikipedia's amazing content for a quicker and significantly improved reading experience
 
 
 
