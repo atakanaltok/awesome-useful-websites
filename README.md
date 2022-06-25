@@ -143,6 +143,7 @@ Feel free to share and star
 * https://informationisbeautiful.net/ - Fact- and data-based decisions
 * https://www.visualcapitalist.com/ - Data-driven visuals on various topics including markets, technology, energy and the global economy
 * https://infographicjournal.com/ - Infographic archive
+* https://d3js.org/ - JavaScript library for manipulating documents based on data
 
 
 ### Diagrams
@@ -166,10 +167,14 @@ Feel free to share and star
 * https://jamboard.google.com/ - White board from Google
 
 
+
 ### Mind Map / Note Taking
 * https://relanote.com/ (~$) - Interlinking your notes to develop a web of thoughts
 * https://bubbl.us/ - Mind Mapping Online
+* https://www.mindmup.com/ - Free online mind mapping
 * https://anotepad.com/ - Online notepad. No login. Download your note as PDF or Word document
+* https://notes.io/ - Web-based application for taking notes
+* https://privnote.com/ - Send notes that will self-destruct after being read.
 
 
 ### Keyboard
@@ -197,12 +202,16 @@ Feel free to share and star
 ### Disposable Email
 * https://temp-mail.to/ - Free and reliable temporary email addresses with no registeration
 * https://erine.email/ - Anti-spam for your existing email address
+* https://maildrop.cc/ - Use Maildrop when you don't want to give out your real address
 * https://mailsac.com/ (~$) 
 * https://inboxkitten.com/ - Open-Source Disposable Email
 * https://www.guerrillamail.com/inbox - Compose emails and determine Domain, Master Passphrase, Password of your disposable email
 * https://www.emaildrop.io/ - Email with custom or random domain (highly minimalistic design)
 * https://getnada.com/ 
 * https://www.getnotify.com/ - Free Email Tracking service which notifies you when the email you send gets read
+* https://mxtoolbox.com/ (~$) - Provides free DNS and Email tools in a single place to streamline troubleshooting
+* https://postale.io/ ($) - Create domain email addresses effortlessly in minutes.
+
 
 
 
@@ -223,6 +232,7 @@ Feel free to share and star
 
 
 ### Privacy
+* https://www.nothingprivate.ml/ - See why you are not anonymous by using private browsing mode or incognito mode (or you can directly read from [here](https://github.com/gautamkrishnar/nothing-private))
 * https://www.privacytools.io/ - Q: How much privacy do you want?  A: Yes
 * https://securityplanner.consumerreports.org/ ($) - Cut down on data collection and prevent hackers from invading your laptop, tablet and even your phone. Answer a few simple questions to get customized recommendations to help you
 * https://mywhisper.net/ - Text encryption tool, based on AES cryptography
@@ -248,6 +258,8 @@ Feel free to share and star
 * https://haveibeenpwned.com/ - Check if your email or phone is in a data breach
 * https://tineye.com/ - Find where images appear online
 * https://ipleak.net/ - See the kind of information that all the sites you visit can see and collect about you
+* https://coveryourtracks.eff.org/ - Test your browser to see how well you are protected from tracking and fingerprinting
+
 
 
 #### Internet
@@ -257,6 +269,10 @@ Feel free to share and star
 * https://kb.adguard.com/en/general/dns-providers - You can configure any DNS server to be used instead of the system default provided by the router or ISP
 * https://tls12.xargs.org/ - Every byte of a TLS connection is explained and reproduced
 * https://cidr.xyz/ - Interactive IP address and CIDR range visualizer
+* https://icanhazip.com/ - Only your IP address on the top os the page
+* https://iplocation.io/ - Provides you free location tracking of an entered IP Address. It tracks the IP's city, country, latitude, and longitude data instantly through various Geo IP Databases available in the market
+* https://ifconfig.co/ - Find your own IP address, and information about it
+* https://ipinfo.io/ (~$) - Accurate IP address data that keeps pace with secure, specific, and forward-looking use cases
 * https://dnschecker.org/ - Provides a free DNS lookup service to check Domain Name System records against a selected list of DNS servers located in multiple regions worldwide
 * https://www.davidc.net/sites/default/subnets/subnets.html - Visual Subnet Calculator 
 * https://howdns.works/ - Colorful explanation of how DNS works with comics
@@ -266,6 +282,7 @@ Feel free to share and star
 * https://www.top10vpn.com/
 * https://www.whatsmybrowser.org/
 * [docs.google.com/spreadsheets/vpn](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit#gid=231869418) - Detailed list of all vpns available with analysis and comparisons
+* https://njal.la/ ($) - Provides an encrypted tunnel from your computer to the Internet. We hide your real IP address behind one of ours
 
 
 
@@ -307,6 +324,8 @@ Feel free to share and star
 * https://tinyurl.com/app - With optional short link ending
 * https://tiny.cc/ - With optional short link ending
 * https://bitly.com/ - web/mobile link management and campaign management analytics as well as branded links
+* https://iplogger.org/ - URL Shortener with advanced analytics for the traffic through your links, visitors on your online store, blog or website
+
 
 
 
@@ -331,7 +350,8 @@ Feel free to share and star
 * https://www.zippyshare.com/ - No sign up required, no dowload limits, free, umlimited disk space
 
 
-### Converter/Conversion 
+### Converter / Conversion 
+* https://pdf2doc.com/ - Free online PDF to DOC converter allows you to save a PDF file as an editable document in Microsoft Word DOC format, ensuring better quality than many other converters
 * https://www.online-convert.com/ - Convert media files online from one format into another
 * https://jpg.to-png.com/ - (Not just jpg, all types of files) Free file conversion tools. Your jpg-files will not be uploaded to any servers! The conversion from jpg to png happens in your browser on your own device
 * https://www.conversion-tool.com/ - Online tool offers a wide range of free online online conversion utilities such as audio converters, document converters, eBook converters, hash generators, and other tools
@@ -343,6 +363,17 @@ Feel free to share and star
 * https://smallpdf.com/ - 21 tools to convert, compress, and edit PDFs for free
 * https://corrupt-a-file.net/ - Corrupt any file online and free (It comes with absolutely no warranty, express or implied. Use at your own risk). All uploaded files are removed after the corruption process is finished
 * https://cloudconvert.com/ - Online file converter with 200+ Formats Supported
+* https://www.onlineocr.net/ - Picture to text converter. Extract text from image or convert PDF to Doc, Excel or Text formats using Optical Character Recognition software online
+* https://pdfcandy.com/ - Do everything to your PDF
+* https://www.pdfescape.com/ - Online Free PDF editor & form filler
+
+
+
+#### Unit Conversion
+* https://www.unitconverters.net/
+* https://onlineconversion.com/ - Convert just about anything to anything else. Thousands of units, and millions of conversions
+* https://www.online-toolz.com/tools/text-binary-convertor.php - Text to Binary Conversion
+
 
 
 
@@ -369,6 +400,7 @@ Feel free to share and star
 ### Audio
 * https://www.sampurr.com/ - Sample an audio from the web (For [usage](https://www.sampurr.com/about.html))
 * https://www.audiocheck.net/ - Test your audio equipment, online
+* https://mixlr.com/ ($) - Share quality live audio online. Broadcast using any source, invite people to listen, chat in real-time (Free for just listening)
 
 
 ### Time
@@ -402,6 +434,8 @@ Feel free to share and star
 * https://lunar.fyi/ (~$) - Multi-featured, defacto app for controlling monitors
 * https://www.deadmansswitch.net/ (~$) - Tool that sends your emails to your loved ones if you pass away
 * https://gethuman.com/ - Get a rep on the phone faster & get better help from most known companies
+* https://www.byclickdownloader.com/ - Backup videos from: YouTube, Dailymotion, Vimeo, Facebook and +40 sites in HD, MP3, MP4, AVI and all other formats using our software
+* https://www.preceden.com/ (~$) - Online timeline and Roadmaps maker 
 
 
 
@@ -439,6 +473,8 @@ Feel free to share and star
 * https://www.moviesettingsdatabase.com/ - Over 30k Movies & TV Shows Organized By Where (And When) The Story Took Place
 * https://m.wcostream.com/ - Free cartoon and anime series
 * https://kisscartoon.xyz/ - Free kisscartoon. No bad advertise, pupup, etc.
+* https://reelgood.com/roulette/netflix - Netflix Roulette: What Should You Watch?
+* https://reelgood.com/ - Browse, search, and watch TV & Movies from over 150 services, Netflix, Hulu, HBO, Disney+, Prime Video, Free Services and more
 
 
 
@@ -468,6 +504,7 @@ Feel free to share and star
 * https://twitternamegenerator.com/ - Free Online Tool to Generate Pretty Nicknames for Twitter
 * https://smallworld.kiwi/signin - Small World uses the location from your Twitter profile to find nearby friends
 * https://chirpty.com/ - Create your own Twitter interaction circle
+* https://capturemytweet.in/ - Turn your tweets into wonderful images for free
 
 
 
@@ -513,6 +550,7 @@ Feel free to share and star
 * http://www.commercialtunage.com/ - Find out the songs in commercials
 * http://incompetech.com/ - Collection of royalty-free music
 * https://www.incredibox.com/ - Music app that lets you create your own music with the help of a merry crew of beatboxers
+* https://www.pretzel.rocks/ - Stream-safe music for Twitch and YouTube
 
 
 
@@ -527,6 +565,7 @@ Feel free to share and star
 * https://naim30.github.io/soundrop/
 * https://www.producthunt.com/posts/soundlove
 * http://rainymood.com/ - Rain Sounds for Sleep & Study
+* https://imisstheoffice.eu/ - Office noise generator - providing you with the soothing tones of modern office life to help you focus when working from home
 
 
 ### Spotify
@@ -593,11 +632,13 @@ Feel free to share and star
 * https://apps.apple.com/us/app/id1580599572 - Free Iphone app for trip destination searching and planning platform
 * https://www.freecycle.org/ - Network people who are giving and getting stuff for free in their own Towns. Membership is free
 * https://roadtrippers.com/ - Build your route in Roadtrippers and then use our turn-by-turn navigation to lead the way
+* https://www.mountainproject.com/ - Free, Crowd-Sourced Guide to Climbing the World
 
 
 #### Globetrotting 
 * https://randomstreetview.com/ - Travel the streets from home
 * https://virtualvacation.us/ - Travel the world from home
+* https://www.mapcrunch.com/ - Explore the world via Google Street View. Teleports you to a random place in the world
 
 #### Time Zone
 * https://everytimezone.com/ - Visual time zone comparison of countries
@@ -606,9 +647,15 @@ Feel free to share and star
 #### Flight
 * https://seatguru.com/ - Find your seat map. Explore 1,278 aircraft
 * https://www.flightradar24.com/43,24.35/7 - Global flight tracking service that provides you with real-time information about thousands of aircraft around the world
+* https://www.skyscanner.co.in/ - Search flights by date, price, and budget
+
+
+#### Weather
+* http://hint.fm/wind/ - Delicate tracery of wind flowing over the US
 * https://www.windy.com/ - Nearly everything about the weather of the any location
 * https://zoom.earth/ - Visualizes the world in real-time. Track tropical storms, hurricanes, severe weather, wildfires and more
-* https://www.skyscanner.co.in/ - Search flights by date, price, and budget
+* https://earth.nullschool.net/ - Visualization of global weather conditions forecast by supercomputers updated every three hours
+
 
 
 
@@ -672,7 +719,7 @@ Feel free to share and star
 * https://www.certificateclaim.com/ (~$) - Digital service to create and send all kinds of certificates
 * https://respresso.io/ ($) - Manage your app’s localization texts, images, colors, fonts and more. Transform and deliver them automatically into your projects with a single click
 * https://www.bonanza.com/ - Online marketplace that empowers entrepreneurs to build a sustainable business based on repeat customers
-
+* https://pipl.com/ - Identify, search, verify employees from email address, social username, or phone number by searching through Pipl's global index of identity information — reduces customer friction, fights fraud, and reduces the time spent on review and research
 
 
 ### Finance
@@ -719,6 +766,7 @@ Feel free to share and star
 * https://web.dev/ - Measure the performance of your website and get actionable insights 
 * https://www.webpagetest.org/ - Test a website's performance
 * https://fast.com/ - Measure your internet speed, latency, and upload
+* https://tools.pingdom.com/ ($) - Enter a URL to test the page load time, analyze it, and find bottlenecks
 * https://downloadtimecalculator.com/ - Estimate the time required to download any file based on your transfer speed without actually downloading any file
 * https://validator.w3.org/checklink - Check links and anchors in Web pages or full Web sites 
 * https://www.urlvoid.com/ - Website Reputation/Safety Checker. This service helps you detect potentially malicious websites
@@ -764,6 +812,8 @@ Feel free to share and star
 * https://www.goodcv.com/ - Create a professional Resume/CV in minutes. The simplest way to have impressive Resume without Photoshop, AI technique
 * http://jsonresume.io/ - You can upload your JSON resume according to the spec and we'll render it all pretty for you
 * https://cvmkr.com/ - Create, maintain, publish, and share your CVs for free
+* https://novoresume.com/ (~$) - Online resume builder
+
 
 
 ### Careers
@@ -779,12 +829,18 @@ Feel free to share and star
 
 ## Startups
 * https://theangelphilosopher.com/ - Compilation of Naval's wisdom, knowledge and thoughts
-* https://www.kapwing.com/museum-of-websites - Gallery of how famous internet companies have changed over time
 * https://www.failory.com/ - All-In-One Newsletter for Startup Founders and more!
 * [docs.google.com/spreadsheets](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - 500+ Free Tools For Startups 
 * https://www.failory.com/google - Learn from Google's 100+ failures to build profitable businesses and scale acquired companies
 * https://harishgarg.gumroad.com/l/wiSvc?ref=producthunt - Curated list of 100+ resources on GPT-3
 * [github-email-hunter](https://chrome.google.com/webstore/detail/github-email-hunter/ppcegaekdbgcgbapfdcjbhednhmgcjnk) - Find email addresses for Github users & repos with just one click
+
+
+
+### Technology 
+* http://oldcomputers.net/ - Museum of old and vintage computers. View 150 old computers
+* https://www.kapwing.com/museum-of-websites - Gallery of how famous internet companies have changed over time
+
 
 
 ### Finding Ideas
@@ -796,6 +852,7 @@ Feel free to share and star
 
 ### Connectivity
 * https://www.integromat.com/en?pc=referralbonus - To connect apps and automate workflows in a few clicks
+* https://ifttt.com/ (~$) - Quickly and easily automate your favorite apps and devices. It makes devices, services, and apps work together in new and powerful ways
 * https://meetfranz.com/ - Platform where you can manage all your messaging apps like WhatsApp, Facebook Messenger, Slack, Telegram and many more
 * https://remotedesktop.google.com/ - Remotely connect with your home or work computer, or share your screen with others
 * https://www.recwide.com/ - Screen and webcam recorder. Free, Online (No Downlaod Required)
@@ -834,8 +891,11 @@ Feel free to share and star
 #### Fonts
 * https://www.fontsquirrel.com/ - Free Font Utopia
 * https://fontdiscovery.typogram.co/ - Weekly design, font, and color creativity newsletter for creators, founders, makers
+* https://www.myfonts.com/ - Over 130,000 available fonts, and counting
 
-#### Icon Packs
+
+#### Icons / Icon Packs
+* https://www.iconfinder.com/ (~$) - Icons, Illustrations, 3D illustrations, Designers, Free icons
 * https://www.iconpacks.net/
 * [notion.so/Doodlicons](https://www.notion.so/Doodlicons-519314a92ed3474093a10e44946bbb72) - Doodle icons for your next Project's Wireframe
 * https://illustrationkit.com/ - Free vector illustrations for personal & commercial projects
@@ -849,9 +909,10 @@ Feel free to share and star
 #### Tools for Social Media
 * https://apps4lifehost.com/Instagram/CaptionMaker.html - Clean & Beautiful Line Breaks for IG Captions
 * https://socialsizes.io/ - Image and Video sizes for Social Media
-* https://capturemytweet.in/ - Turn your tweets into wonderful images for free
 * https://www.ocoya.net/ ($) - Platform to create, auto-generate and schedule content
 * https://imgupscaler.com/?ref=producthunt - AI-based PNG / JPG Image Upscaler
+* https://namechk.com/ - Check the availability of a username or domain name within seconds. 30 domains and more than 90 social media accounts
+
 
 #### Stock Images
 * http://thestocks.im/
@@ -938,8 +999,6 @@ Feel free to share and star
 * https://www.efunda.com/home.cfm - Calculators, formulas, materials and processes
 
 
-#### Unit Conversion
-* https://www.unitconverters.net/
 
 
 ## MOOC (Massive Open Online Courses)
@@ -1051,7 +1110,11 @@ Feel free to share and star
 * https://blog.symbaloo.com/webmixes/11/best-math-websites - 38 Best Math Websites for Students
 * https://mathhints.com/ - Free website that includes hundreds of pages of math, explained in simple terms, with thousands of examples of worked-out problems
 * https://betterexplained.com/ - Learn to understand math, not memorize it. Enjoy clear, intuitive lessons about imaginary numbers, exponents, and more
+* https://www.mathway.com/ - Free math problem solver
 
+
+### Math + Programming
+* https://jeremykun.com/
 
 
 ### Math + Art
@@ -1117,6 +1180,7 @@ Feel free to share and star
 
 ## Developer
 * https://webdevhome.github.io/
+* https://www.mailinator.com/ (~$) - Mailinator allows Developers and QA Testing teams to automatically test their SMS and Email workflows like 2FA verifications, sign-ups, and password resets with trillions of inboxes at your fingertips. Whether you do Manual Testing, use an API, or a framework like Selenium, Cypress, Playwright, or Puppeteer - Mailinator will close the loop on email/SMS testing
 * https://bbcmic.ro/ - Basic editor from BBC
 * https://blog.demofox.org/ - Blog with many links
 * https://www.w3.org/ - Makes it possible to use Web technologies with different languages, scripts, and cultures
@@ -1137,6 +1201,7 @@ Feel free to share and star
 * https://www.freeprivacypolicy.com/ - Free Privacy Policy Generator. Comply with requirements from CCPA, GDPR, CalOPPA, Google Analytics & AdSense and many others
 * https://developer.mozilla.org/en-US/ - Documenting web technologies, including CSS, HTML, and JavaScript
 * https://www.dbdesigner.net/ - Online Database Schema Design and Modeling Tool for Free
+* https://projectsinnetworking.com/ - Networking Projects, Network Security Projects, Cyber Security case studies, projects and source code for students, engineering graduates and professionals along with detailed reports. The site also contains ideas and topics for projects, research papers, assignments, and presentation in computer networking and security domain
 
 
 ### Learning
@@ -1263,6 +1328,7 @@ Feel free to share and star
 ### Linux
 * https://linuxjourney.com/ - Learn Linux
 * https://bellard.org/jslinux/ - Run Linux or other Operating Systems in your browser
+* https://os.directory/ - The platform emulates a linux distribution in your web browser
 
 
 
