@@ -158,12 +158,18 @@ Feel free to share and star
 * https://untools.co/ - Collection of thinking tools and frameworks 
 
 
-### White Board
+### White Board / Notepad
 * http://typehere.co/ - Blank website where you can only type
 * https://pixelpaper.io/ - Free-forever digital whiteboard with no registeration (Can be embedded into SaaS products)
 * https://excalidraw.com/ - In this whiteboard, you can also sketch **hand-drawn** like diagrams 
 * https://excalideck.com/ - App for authoring slide decks that look hand-drawn. Excalideck is based on the Excalidraw 
 * https://jamboard.google.com/ - White board from Google
+
+
+### Mind Map / Note Taking
+* https://relanote.com/ (~$) - Interlinking your notes to develop a web of thoughts
+* https://bubbl.us/ - Mind Mapping Online
+* https://anotepad.com/ - Online notepad. No login. Download your note as PDF or Word document
 
 
 ### Keyboard
@@ -178,13 +184,14 @@ Feel free to share and star
 * https://www.yip-yip.com/
 
 
-### Text
+### Texts
 * https://textfac.es/ - Write unicode faces
 * https://titlecase.com/ - Cenvert a text into all kinds of cases
-* [FancyTextGenerator](https://lingojam.com/FancyTextGenerator) - Cenvert a text into all kinds of fonts
+* https://lingojam.com/FancyTextGenerator - Cenvert a text into all kinds of fonts
+* https://www.calligraphr.com/en/ - Transform your handwriting or calligraphy into a font
 
-### Note Taking
-* https://relanote.com/ (~$) - Interlinking your notes to develop a web of thoughts
+
+
 
 
 ### Disposable Email
@@ -224,23 +231,40 @@ Feel free to share and star
 * https://beencrypted.com/ - To become more encrypted
 * https://prism-break.org/en/all/ - Private and safe alternatives of most used apps & services
 * https://www.reddit.com/r/piracy/wiki/megathread/tools - List of Apps / tools / web services
-* https://haveibeenpwned.com/ - Check if your email or phone is in a data breach
 * https://gitlab.com/tzkuat/Ressources - List of websites on different areas such as Security, OSINT, etc. 
 * https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/ - Privacy Tools List by CHEF-KOCH
 * https://github.com/arkenfox/user.js/wiki/4.1-Extensions - Privacy and security related extensions
-* https://kb.adguard.com/en/general/dns-providers - You can configure any DNS server to be used instead of the system default provided by the router or ISP
-* https://ipleak.net/ - See the kind of information that all the sites you visit can see and collect about you
-* https://privacy.net/analyzer/#pre-load - Same as the above one
-* https://www.fakenamegenerator.com/ - Generate fake profile information (names, addresses, phone numbers, etc., from 37 languages and 31 countries)
-* https://tineye.com/ - Find where images appear online
-* https://test-ipv6.com/ - Test your IPv6 connectivity
-* https://tls12.xargs.org/ - Every byte of a TLS connection is explained and reproduced
+* https://privacy.net/analyzer/#pre-load 
 * https://shutuptrackers.com/ - Provides information for protecting your data security and privacy
 * https://ssd.eff.org/ - SURVEILLANCE SELF-DEFENSE: TIPS, TOOLS AND HOW-TOS FOR SAFER ONLINE COMMUNICATIONS
 * https://www.routerpasswords.com/ - Router Passwords is officially the most updated default router password repository on the internet
+* http://bugmenot.com/ - Find and share logins. Enter a website below to see if the bugmenot community has shared any logins for it
+* https://burnermail.io/ - Hide your personal email address, control who can send you emails, and generate new burners with one click
 
 
+
+#### Data Breach
+* https://haveibeenpwned.com/ - Check if your email or phone is in a data breach
+* https://tineye.com/ - Find where images appear online
+* https://ipleak.net/ - See the kind of information that all the sites you visit can see and collect about you
+
+
+#### Internet
+* https://test-ipv6.com/ - Test your IPv6 connectivity
+* https://kb.adguard.com/en/general/dns-providers - You can configure any DNS server to be used instead of the system default provided by the router or ISP
+* https://tls12.xargs.org/ - Every byte of a TLS connection is explained and reproduced
+* https://cidr.xyz/ - Interactive IP address and CIDR range visualizer
+
+
+
+#### Fake Information
+* https://www.fakenamegenerator.com/ - Generate fake profile information (names, addresses, phone numbers, etc., from 37 languages and 31 countries)
+* https://www.burnerapp.com/ ($) - Original second phone number app for calling and texting. With Burner, you can protect yourself from spam or junk calls, separate different types of contacts by phone number, and switch phone numbers
 * https://www.random.org/ (~$) - True Random Games and Lotteries, Numbers, Lists and Strings and Maps Generator
+
+
+#### TOR
+* https://ahmia.fi/ - Searches hidden services on the Tor network (to access these hidden services, you need the Tor browser bundle)
 
 
 
@@ -293,7 +317,7 @@ https://random-password-gen.web.app/
 * https://www.zippyshare.com/ - No sign up required, no dowload limits, free, umlimited disk space
 
 
-### Conventer/Conversion 
+### Converter/Conversion 
 * https://www.online-convert.com/ - Convert media files online from one format into another
 * https://jpg.to-png.com/ - (Not just jpg, all types of files) Free file conversion tools. Your jpg-files will not be uploaded to any servers! The conversion from jpg to png happens in your browser on your own device
 * https://www.conversion-tool.com/ - Online tool offers a wide range of free online online conversion utilities such as audio converters, document converters, eBook converters, hash generators, and other tools
@@ -303,6 +327,8 @@ https://random-password-gen.web.app/
 * https://www.zamzar.com/ - Convert documents, images, videos & sound - 1100+ formats supported
 * https://www.web2pdfconvert.com/ - Convert Web or HTML to PDF, Image
 * https://smallpdf.com/ - 21 tools to convert, compress, and edit PDFs for free
+* https://corrupt-a-file.net/ - Corrupt any file online and free (It comes with absolutely no warranty, express or implied. Use at your own risk). All uploaded files are removed after the corruption process is finished
+* https://cloudconvert.com/ - Online file converter with 200+ Formats Supported
 
 
 
@@ -320,10 +346,12 @@ https://random-password-gen.web.app/
 * https://screenshot.guru/ - Take high-resolution screen captures of websites and tweets
 * https://www.stolencamerafinder.com/ - Use the serial number stored in your photos to search the web for other photos taken with the same camera
 * https://www.ribbet.com/ (~$) - Photo editing tools 
+* https://crossfade.io/ - Web-Based Video Mashups from your favorite sites
 
 
 ### Audio
 * https://www.sampurr.com/ - Sample an audio from the web (For [usage](https://www.sampurr.com/about.html))
+* https://www.audiocheck.net/ - Test your audio equipment, online
 
 
 ### Time
@@ -388,6 +416,8 @@ https://random-password-gen.web.app/
 * http://rarefilm.net/ - Old films
 * https://tiii.me/ - Calculate your total time spent watching TV shows
 * https://www.moviesettingsdatabase.com/ - Over 30k Movies & TV Shows Organized By Where (And When) The Story Took Place
+* https://m.wcostream.com/ - Free cartoon and anime series
+* https://kisscartoon.xyz/ - Free kisscartoon. No bad advertise, pupup, etc.
 
 
 
@@ -400,6 +430,7 @@ https://random-password-gen.web.app/
 * https://www.pidgi.net/wiki/Main_Page - Community-driven video game media database, including artwork, promotional materials, logos, and more
 * https://kassellabs.io/ - Use your texts on famous intros of movies and series
 * https://ustvgo.tv/ - Free live TV channels 
+* https://www.allyoucanread.com/ - The largest database of magazines and newspapers on the Internet, with listings for about 25,000 magazines, newspapers and top news sites from all over the world
 
 
 ### Fact Chacking
@@ -415,6 +446,7 @@ https://random-password-gen.web.app/
 * https://shadowban.yuzurisa.com/ - Check whether a username is shadowbanned on Twitter
 * https://twitternamegenerator.com/ - Free Online Tool to Generate Pretty Nicknames for Twitter
 * https://smallworld.kiwi/signin - Small World uses the location from your Twitter profile to find nearby friends
+* https://chirpty.com/ - Create your own Twitter interaction circle
 
 
 
@@ -451,11 +483,13 @@ https://random-password-gen.web.app/
 * https://mp3gain.flowsoft7.com/ - Increase, decrease, and normalize the volume level of MP3 audio files (60M size limit per a file)
 * https://create.magicplaylist.co/#/?_k=m5jobg - Type your favorite song and create the perfect playlist
 * https://moises.ai/ - (This is for musicians) Play with your favorite artists in any key, at any speed
+* https://www.drumeo.com/ - Learn to play the drums with the best teachers in the world
 * https://soundlove.se/ - Unusual synthesis algorithms - or combination of common ones in unusual ways - to add a touch of randomness and unpredictability to our products
 * https://audionautix.com/ - Music that is composed and produced by Jason Shaw. Completely free - for you to download and use (even for commercial purposes) as long as you provide credit
 * https://www.rhymezone.com/ - Find rhymes, synonyms, adjectives, and more
 * https://rhymer.com/ - FREE Online Rhyming Dictionary
 * http://typatone.com/ - Generate your own music by typing on keyboard
+* http://www.commercialtunage.com/ - Find out the songs in commercials
 
 
 
@@ -528,7 +562,7 @@ https://random-password-gen.web.app/
 * https://countrycode.org/ - Guide to call anywhere in the world
 * https://www.passportindex.org/ - Explore the world of passports
 * https://www.countriesbeen.com/ - Phone app to list the countries you have been with many fetures
-
+* https://www.couchsurfing.com/ - Global community of 14 million people in more than 200,000 cities who share their life, their world, their journey. Couchsurfing connects travelers with a global network of people willing to share in profound and meaningful ways, making travel a truly social experience
 * https://www.puffinmaps.com/ - All in one trip planner. No adds
 * https://www.alltrails.com/ - Explore 300k trails w/ reviews & photos from 35m outdoor enthusiasts like you
 * https://www.wanderprep.com/ - Advice on gear, apps, and gotchas to help busy people travel smarter (No more new articles)
@@ -614,6 +648,8 @@ https://random-password-gen.web.app/
 * https://bothelp.io/widget - Free chat button widget for website
 * https://www.certificateclaim.com/ (~$) - Digital service to create and send all kinds of certificates
 * https://respresso.io/ ($) - Manage your app’s localization texts, images, colors, fonts and more. Transform and deliver them automatically into your projects with a single click
+* https://www.bonanza.com/ - Online marketplace that empowers entrepreneurs to build a sustainable business based on repeat customers
+
 
 
 ### Finance
@@ -660,11 +696,14 @@ https://random-password-gen.web.app/
 * https://web.dev/ - Measure the performance of your website and get actionable insights 
 * https://www.webpagetest.org/ - Test a website's performance
 * https://fast.com/ - Measure your internet speed, latency, and upload
+* https://downloadtimecalculator.com/ - Estimate the time required to download any file based on your transfer speed without actually downloading any file
 * https://validator.w3.org/checklink - Check links and anchors in Web pages or full Web sites 
 * https://www.urlvoid.com/ - Website Reputation/Safety Checker. This service helps you detect potentially malicious websites
 * https://www.similarsites.com/ - Find similar websites and learn about its statistics
 * https://www.locabrowser.com/ - How is your website looks like from a different country? Test geo-targeted website from different locations in real time
 * https://statusvista.com/ - An all-in-one status page of the systems your product depends on
+* https://builtwith.com/ - Find out what websites are Built With. Database of 59,905+ web technologies and over 673 million websites. See which sites use shopping carts, analytics, hosting and many more. Filter by location, traffic, vertical and more
+* https://camelcamelcamel.com/ - Free Amazon price tracker monitors millions of products and alerts you when prices drop, helping you decide when to buy
 
 
 
@@ -687,16 +726,18 @@ https://random-password-gen.web.app/
 * https://remotive.com/ - Remote Work Community, Remotive Handpicks Remote Jobs
 * https://rejected.us/ - Read rejection stories and share yours
 * https://anonfriendly.com/ - Find anon friendly jobs
+* https://about.me/ (~$) - Freelancers and entrepreneurs use about.me to grow their audience and get more clients
 
 
 
-### Protfolio & CV
+### Protfolio / CV / Resume
 * https://www.visualcv.com/resume-samples/ - Collection of 500+ professional resume examples
 * https://superportfolio.co/ - Online Portfolio Maker
 * https://www.referd.ai/resume-scanner - Free resume scanner
 * https://rxresu.me/ - Free and open source resume builder
 * https://www.goodcv.com/ - Create a professional Resume/CV in minutes. The simplest way to have impressive Resume without Photoshop, AI technique
 * http://jsonresume.io/ - You can upload your JSON resume according to the spec and we'll render it all pretty for you
+* https://cvmkr.com/ - Create, maintain, publish, and share your CVs for free
 
 
 ### Careers
@@ -761,6 +802,7 @@ https://random-password-gen.web.app/
 * https://color.adobe.com/create/color-wheel - Color wheel can be used to generate color palette
 * https://www.schemecolor.com/ - Download Color Schemes
 * https://mobilepalette.colorion.co/ - Mobile Palette Generator
+* https://www.degraeve.com/color-palette/ - Color Palette Generator
 
 
 #### Fonts
@@ -798,6 +840,7 @@ https://random-password-gen.web.app/
 * https://zoom.nl/ - Largest photography community in the Netherlands
 * https://depositphotos.com/ - 232 million files: royalty-free images, videos, vectors, illustrations, and music
 * https://skuawk.com/ - Public domain photos
+* https://all-free-download.com/ - Graphics art and give away for free on personal or commercial projects
 
 
 
@@ -984,7 +1027,6 @@ https://random-password-gen.web.app/
 
 
 
-
 ### Math + Art
 * https://www.gregegan.net/ - Science fiction writer and computer programmer's information, illustrations, and applets
 * http://bugman123.com/ - favorite hobbies and interests, especially science, and art of Paul Nylander 
@@ -1025,7 +1067,7 @@ https://random-password-gen.web.app/
 
 
 #### Thermodynamics
-* https://users.wpi.edu/~sullivan/ES3001/Lectures/ - For thermo, go [Lectures/Lecture-A](https://users.wpi.edu/~sullivan/ES3001/Lectures/Lecture-A/) (or [Lectures/Lecture-B/](https://users.wpi.edu/~sullivan/ES3001/Lectures/Lecture-B/)) and then [Lectures/Lecture-A/Lecture-1](https://users.wpi.edu/~sullivan/ES3001/Lectures/Lecture-A/Lecture-1.htm)
+* https://users.wpi.edu/~sullivan/ES3001/Lectures/ - For thermo, go to [Lectures/Lecture-A](https://users.wpi.edu/~sullivan/ES3001/Lectures/Lecture-A/) (or [Lectures/Lecture-B/](https://users.wpi.edu/~sullivan/ES3001/Lectures/Lecture-B/)) and then go to [Lectures/Lecture-A/Lecture-1](https://users.wpi.edu/~sullivan/ES3001/Lectures/Lecture-A/Lecture-1.htm)
 * https://web.mit.edu/16.unified/www/FALL/thermodynamics/notes/notes.html 
 * https://sites.google.com/site/hallmanenergyunit/home - All about energy
 * http://ouopentextbooks.org/thermodynamics/ - Web-based, open educational resource (no longer being actively developed)
@@ -1038,14 +1080,8 @@ https://random-password-gen.web.app/
 
 
 
-
 ## Robotics
 * https://aerospacerobotics.caltech.edu/aerospacerobotics - Aerospace Robotics and Control at Caltech
-
-
-
-## AI/ML
-
 
 
 
@@ -1060,6 +1096,7 @@ https://random-password-gen.web.app/
 * https://thisthat.dev/ - What is the difference between ___ and ___ in the front-end development?
 * [MiXLab](https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb#scrollTo=e-0yDs4C0HkB) - Mixture of Google Colab notebooks found on github
 * https://www.auxiliary.tools/ - AI experiments and tools for humans
+* https://www.artillery.io/ - Modern load testing & smoke testing for SRE and DevOps
 
 
 * https://rentry.org/ - Markdown pastebin service with preview, custom urls and editing. Fast, simple and free (Your entries will be kept forever)
@@ -1079,6 +1116,7 @@ https://random-password-gen.web.app/
 * https://caniuse.com/
 * https://www.eggradients.com/ - Gradient Background Colors
 * https://frontendchecklist.io/ - Exhaustive list of all elements you need to have / to test before launching your website / HTML page to production
+* https://css-tricks.com/ - Web design community powered by Digital Ocean
 
 
 ### Android Development
@@ -1109,6 +1147,11 @@ https://random-password-gen.web.app/
 * https://www.electronjs.org/ - Build cross-platform desktop apps with JavaScript, HTML, and CSS
 * https://localstack.cloud/ - Develop and test your cloud and serverless apps offline
 * https://markwhen.com/ - Markwhen is a text-to-timeline tool. You write markdown-ish text and it gets converted into a nice looking cascading timeline
+* https://asciinema.org/ - Record and share your terminal sessions. Purely text-based approach to terminal recording
+* https://guacamole.apache.org/ - Clientless (no plugins or client software are required) remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH
+* https://codeclippet.com/ - Allows you to stop storing code snippets within text files and start sharing them with others, around a community focused environment
+* http://cloudping.bastionhost.org/en/ - Perform an HTTP ping to measure the network latency from your browser to the various cloud data centers around the world
+* https://downforeveryoneorjustme.com/ - Check if a website is down
 
 
 ### Linters
@@ -1120,6 +1163,10 @@ https://random-password-gen.web.app/
 * https://regexr.com/ - Online tool to learn, build, & test Regular Expressions (RegEx / RegExp)
 * https://beautifier.io/ - Beautify, unpack or deobfuscate JavaScript and HTML, make JSON/JSONP readable, etc.
 * https://jsonlint.com/ - Validator and reformatter for JSON, a lightweight data-interchange format. Copy and paste, directly type, or input a URL in the editor above and let JSONLint tidy and validate your messy JSON code
+* https://algorithm-visualizer.org/ - Interactive online platform that visualizes algorithms from code
+* https://codebeautify.org/ - Code Formatter, JSON Beautifier, XML Viewer, Hex Converters and more
+* https://crontab.guru/ - The quick and simple editor for cron schedule expressions
+* https://crontab-generator.org/ - Generate crontab syntax
 
 
 
@@ -1164,6 +1211,7 @@ https://random-password-gen.web.app/
 
 ### Linux
 * https://linuxjourney.com/ - Learn Linux
+* https://bellard.org/jslinux/ - Run Linux or other Operating Systems in your browser
 
 
 
@@ -1218,12 +1266,13 @@ https://random-password-gen.web.app/
 
 ## Health
 * https://apps.npr.org/joy-generator/#story=intro&page=0 - Some ideas to help you tap into positive emotions, online and offline
-* https://musclewiki.com/ 
+* https://musclewiki.com/ - Learn about your body and muscles
 * http://bitesize.io/ - Learn how to apply psychology based tips and notions in your daily life
 * https://jinay.dev/just-a-minute/ - To test your chronoception (sene of passing time)
 * https://www.futureme.org/ - Write a Letter to your future self 
 * https://strobe.cool/ - Create visual stimuli
 * https://untools.co/ - Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems
+* https://www.7cups.com/ - Connects you to caring listeners for free emotional support
 
 
 
@@ -1237,7 +1286,7 @@ https://random-password-gen.web.app/
 
 
 
-## My favorite Blogs
+## Some Useful Blogs
 * https://lmalmanza.wordpress.com/
 * https://www.menimagerie.com/
 * https://tarikyildirim.com/
