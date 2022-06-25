@@ -201,12 +201,10 @@ Feel free to share and star
 * https://inboxkitten.com/ - Open-Source Disposable Email
 * https://www.guerrillamail.com/inbox - Compose emails and determine Domain, Master Passphrase, Password of your disposable email
 * https://www.emaildrop.io/ - Email with custom or random domain (highly minimalistic design)
+* https://getnada.com/ 
+* https://www.getnotify.com/ - Free Email Tracking service which notifies you when the email you send gets read
 
 
-### VPN
-* https://www.top10vpn.com/
-* https://www.whatsmybrowser.org/
-* [docs.google.com/spreadsheets/vpn](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit#gid=231869418) - Detailed list of all vpns available with analysis and comparisons
 
 
 ### Search
@@ -240,6 +238,9 @@ Feel free to share and star
 * https://www.routerpasswords.com/ - Router Passwords is officially the most updated default router password repository on the internet
 * http://bugmenot.com/ - Find and share logins. Enter a website below to see if the bugmenot community has shared any logins for it
 * https://burnermail.io/ - Hide your personal email address, control who can send you emails, and generate new burners with one click
+* https://www.security.org/security-score/ - Learn about your security score
+* https://www.startpage.com/ - Get privacy protection across the web. Extension for instant tracker blocking & more
+* http://iknowwhatyoudownload.com/ - Torrent downloads and distributions for your IP address
 
 
 
@@ -250,10 +251,21 @@ Feel free to share and star
 
 
 #### Internet
+* https://www.internetlivestats.com/ - Every statics of the internet
+* http://internet-map.net/ - The map of the Internet
 * https://test-ipv6.com/ - Test your IPv6 connectivity
 * https://kb.adguard.com/en/general/dns-providers - You can configure any DNS server to be used instead of the system default provided by the router or ISP
 * https://tls12.xargs.org/ - Every byte of a TLS connection is explained and reproduced
 * https://cidr.xyz/ - Interactive IP address and CIDR range visualizer
+* https://dnschecker.org/ - Provides a free DNS lookup service to check Domain Name System records against a selected list of DNS servers located in multiple regions worldwide
+* https://www.davidc.net/sites/default/subnets/subnets.html - Visual Subnet Calculator 
+* https://howdns.works/ - Colorful explanation of how DNS works with comics
+
+
+#### VPN
+* https://www.top10vpn.com/
+* https://www.whatsmybrowser.org/
+* [docs.google.com/spreadsheets/vpn](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit#gid=231869418) - Detailed list of all vpns available with analysis and comparisons
 
 
 
@@ -263,15 +275,15 @@ Feel free to share and star
 * https://www.random.org/ (~$) - True Random Games and Lotteries, Numbers, Lists and Strings and Maps Generator
 
 
-#### TOR
+#### Torrent
 * https://ahmia.fi/ - Searches hidden services on the Tor network (to access these hidden services, you need the Tor browser bundle)
 
 
+#### Password Generation
+* http://www.healthypasswords.com/index-2.html - Everything About Passwords and Internet Security
+* https://random-password-gen.web.app/
+* https://www.security.org/how-secure-is-my-password/ - Check How Secure Is Your Password. Entries are 100% secure and not stored in any way or shared with anyone
 
-
-### Password Generation
-http://www.healthypasswords.com/index-2.html - Everything About Passwords and Internet Security
-https://random-password-gen.web.app/
 
 
 ### URL
@@ -281,6 +293,7 @@ https://random-password-gen.web.app/
 * https://digital.com/best-web-hosting/who-is/ - Find Out Who is Hosting Any Domain in Seconds and learn about the web host, IP address, name servers and more
 * https://webhook.site/ - Inspect, test and automate (with the visual Custom Actions builder, or WebhookScript) any incoming HTTP request or e-mail
 * http://scr.im/ - Convert your email address into a short and safe link you can share on the web without becoming an easy spam target
+* https://goqr.me/ - High resolution QR codes, print quality
 
 
 #### URL Shortener
@@ -307,6 +320,7 @@ https://random-password-gen.web.app/
 * https://techspecs.io/vs/ - Compare phones
 * https://techspecs.io/ Search engine that connects you with the consumer electronics products
 * https://www.kimovil.com/en/ - Compare specifications and prices of smartphones and tablets
+* https://www.diffchecker.com/# - Compare text, image, PDF, and many more to find the difference between two of these files
 
 
 
@@ -347,6 +361,9 @@ https://random-password-gen.web.app/
 * https://www.stolencamerafinder.com/ - Use the serial number stored in your photos to search the web for other photos taken with the same camera
 * https://www.ribbet.com/ (~$) - Photo editing tools 
 * https://crossfade.io/ - Web-Based Video Mashups from your favorite sites
+* https://darkmodelist.com/ - List of 300 Apps That Support Dark Mode
+* https://goproheroes.com/ - GoPro videos across the web
+
 
 
 ### Audio
@@ -383,7 +400,8 @@ https://random-password-gen.web.app/
 * https://en.everybodywiki.com/Everybodywiki:Welcome - Rescues deleted articles and rejected drafts from WikiPedia in many languages and welcomes new articles
 * https://loader.io/ - Free load testing service that allows you to stress test your web-apps & apis with thousands of concurrent connections
 * https://lunar.fyi/ (~$) - Multi-featured, defacto app for controlling monitors
-
+* https://www.deadmansswitch.net/ (~$) - Tool that sends your emails to your loved ones if you pass away
+* https://gethuman.com/ - Get a rep on the phone faster & get better help from most known companies
 
 
 
@@ -393,13 +411,16 @@ https://random-password-gen.web.app/
 ## DIY
 * https://www.jscreenfix.com/ - Pixel fixing algorithm that has been applied to millions of screens and is the most effective software solution available for repairing defective pixels (A stuck pixel is a bright dot of colour that fails to update when neighbouring pixels change). Nothing to install, totally free
 * http://thistothat.com/ - Learn how to glue to materials together
+* https://www.donkeycar.com/ - Opensource DIY self driving platform for small scale cars. RC CAR  +  Raspberry Pi + Python (tornado, keras, tensorflow, opencv, ....) 
 * https://www.instructables.com/
+* https://www.ifixit.com/ - Repair guides for every thing, written by everyone
 * https://www.dummies.com/ - Series of instructional/reference [books](https://en.wikipedia.org/wiki/For_Dummies) 
 * https://fixitclub.com/ - Save Money on Home Repairs
 * https://www.wikihow.com/Main-Page 
 * https://www.doityourself.com/ 
 * https://www.wonderhowto.com/ 
 * https://www.howstuffworks.com/ 
+
 
 
 
@@ -490,6 +511,8 @@ https://random-password-gen.web.app/
 * https://rhymer.com/ - FREE Online Rhyming Dictionary
 * http://typatone.com/ - Generate your own music by typing on keyboard
 * http://www.commercialtunage.com/ - Find out the songs in commercials
+* http://incompetech.com/ - Collection of royalty-free music
+* https://www.incredibox.com/ - Music app that lets you create your own music with the help of a merry crew of beatboxers
 
 
 
@@ -704,7 +727,10 @@ https://random-password-gen.web.app/
 * https://statusvista.com/ - An all-in-one status page of the systems your product depends on
 * https://builtwith.com/ - Find out what websites are Built With. Database of 59,905+ web technologies and over 673 million websites. See which sites use shopping carts, analytics, hosting and many more. Filter by location, traffic, vertical and more
 * https://camelcamelcamel.com/ - Free Amazon price tracker monitors millions of products and alerts you when prices drop, helping you decide when to buy
-
+* http://cloudping.bastionhost.org/en/ - Perform an HTTP ping to measure the network latency from your browser to the various cloud data centers around the world
+* https://downforeveryoneorjustme.com/ - Check if a website is down
+* https://downdetector.in/ - Real-time problem & outage monitoring
+* https://gtmetrix.com/ - See how your site performs, reveal why it's slow and discover optimization opportunities
 
 
 ### Creating Websites
@@ -1016,6 +1042,7 @@ https://random-password-gen.web.app/
 
 ### Social Sciences
 * https://temple.manifoldapp.org/projects/all - Many great resources on various social sciences
+* http://histography.io/ - Interactive timeline that spans across 14 billion years of history, from the Big Bang to 2015
 
 
 
@@ -1057,6 +1084,8 @@ https://random-password-gen.web.app/
 * https://www.roymech.co.uk/ - Reference site with in-depth articles on topics
 * https://sections.arcelormittal.com/design_aid/design_software/EN - Free design software for steel structures by Arcelor-Mittal
 * https://www.bu.edu/moss/ - Cources and resources to understand Slender structures
+* https://www.howacarworks.com/ - Complete & free guide to how cars work
+* https://www.homestyler.com/ - Easy and time-saving online interior design tool for both professionals and amateurs
 
 
 #### Materials / Nanotechnology
@@ -1107,8 +1136,20 @@ https://random-password-gen.web.app/
 * https://freeformatter.com/ - Free Online Tools For Developers. Formatters, validators, code minifiers, string escapers, encoders/decoders, message digesters, web resources and more
 * https://www.freeprivacypolicy.com/ - Free Privacy Policy Generator. Comply with requirements from CCPA, GDPR, CalOPPA, Google Analytics & AdSense and many others
 * https://developer.mozilla.org/en-US/ - Documenting web technologies, including CSS, HTML, and JavaScript
+* https://www.dbdesigner.net/ - Online Database Schema Design and Modeling Tool for Free
 
 
+### Learning
+* https://egghead.io/ ($) - Concise Full Stack Courses. High-quality video tutorials and curated learning resources with zero cruft 
+
+
+
+
+### GitHub
+* https://gitstalk.netlify.app/ - Discover who's upto what on github
+* https://gitexplorer.com/ - Find the right commands you need without digging through the web
+* https://gitstats.me/ - Open-source GitHub contribution analyzer
+* https://gitcoin.co/ - Platform where you get paid to work on open source software in Python, Rust, Ruby, JavaScript, Solidity, HTML, CSS, Design, and more
 
 
 ### Front-end
@@ -1117,6 +1158,11 @@ https://random-password-gen.web.app/
 * https://www.eggradients.com/ - Gradient Background Colors
 * https://frontendchecklist.io/ - Exhaustive list of all elements you need to have / to test before launching your website / HTML page to production
 * https://css-tricks.com/ - Web design community powered by Digital Ocean
+
+
+#### HTML
+* https://htmlreference.io/ - Free guide to HTML. It features all elements and attributes
+* https://htmlmail.pro/ - Create and send beautiful HTML emails, or save in Gmail drafts (Email services like Gmail and Outlook support rich HTML emails but they do not offer an option to compose email messages directly using HTML and CSS markup)
 
 
 ### Android Development
@@ -1150,8 +1196,9 @@ https://random-password-gen.web.app/
 * https://asciinema.org/ - Record and share your terminal sessions. Purely text-based approach to terminal recording
 * https://guacamole.apache.org/ - Clientless (no plugins or client software are required) remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH
 * https://codeclippet.com/ - Allows you to stop storing code snippets within text files and start sharing them with others, around a community focused environment
-* http://cloudping.bastionhost.org/en/ - Perform an HTTP ping to measure the network latency from your browser to the various cloud data centers around the world
-* https://downforeveryoneorjustme.com/ - Check if a website is down
+* https://dockerswarm.rocks/ - Deploy your application stacks to production, in a distributed cluster, using the same files used by Docker Compose locally
+* https://www.easycron.com/ (~$) - Online cron job service
+
 
 
 ### Linters
@@ -1167,6 +1214,9 @@ https://random-password-gen.web.app/
 * https://codebeautify.org/ - Code Formatter, JSON Beautifier, XML Viewer, Hex Converters and more
 * https://crontab.guru/ - The quick and simple editor for cron schedule expressions
 * https://crontab-generator.org/ - Generate crontab syntax
+* https://explainshell.com/ - Write down a command-line to see the help text that matches each argument
+* http://showthedocs.com/ - Documentation browser that finds the relevant docs for your code
+* https://mango-slra1-ckwssph7iq-ue.a.run.app/readme - Technique to interpret specifications and automatically identify defects such as logical contradictions, over-complexity and inconsistency of entity names
 
 
 
@@ -1191,6 +1241,7 @@ https://random-password-gen.web.app/
 ## Programming Languages
 * https://theia-ide.org/ - Flexible and Extensible Cloud & Desktop IDE Platform. Efficiently develop and deliver Cloud & Desktop IDEs and tools with modern web technologies
 * https://learnxinyminutes.com/ - Take a whirlwind tour of your next favorite language
+* https://ecomputernotes.com/ - Learning Resource for Online Education
 
 ### Python
 * https://docs.python.org/3/tutorial/index.html
@@ -1234,7 +1285,6 @@ https://random-password-gen.web.app/
 * https://overapi.com
 * https://grid.malven.co
 * https://cssreference.io
-* https://htmlreference.io
 * https://cheatography.com/
 * https://htmlcheatsheet.com
 * https://panthema.net/2013/sound-of-sorting/SoS-CheatSheet.pdf - The Sound of Sorting Algorithm 
