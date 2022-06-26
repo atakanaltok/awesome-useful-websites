@@ -1157,6 +1157,7 @@ Feel free to share and star
 * https://ssd.phys.strath.ac.uk/ - Nanoscience resources of the Department of Physics at the University of Strathclyde
 * http://web.mit.edu/16.unified/www/SPRING/materials/index.html - Concepts are deeply examined
 * https://product.statnano.com/ - Reliable source of information about nanotechnology products, currently used in a broad range of industrial applications
+* https://www.myminifactory.com/ - World’s largest ecosystem of free to download, 3D printable objects of cultural significance
 
 
 #### Thermodynamics
@@ -1390,6 +1391,7 @@ Feel free to share and star
 * https://strobe.cool/ - Create visual stimuli
 * https://untools.co/ - Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems
 * https://www.7cups.com/ - Connects you to caring listeners for free emotional support
+* https://www.puzzle-loop.com/ - Logic puzzles with simple rules and challenging solutions
 
 
 
