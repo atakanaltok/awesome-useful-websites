@@ -251,7 +251,6 @@ Feel free to share and star
 * https://burnermail.io/ - Hide your personal email address, control who can send you emails, and generate new burners with one click
 * https://www.security.org/security-score/ - Learn about your security score
 * https://www.startpage.com/ - Get privacy protection across the web. Extension for instant tracker blocking & more
-* http://iknowwhatyoudownload.com/ - Torrent downloads and distributions for your IP address
 
 
 
@@ -295,6 +294,10 @@ Feel free to share and star
 
 #### Torrent
 * https://ahmia.fi/ - Searches hidden services on the Tor network (to access these hidden services, you need the Tor browser bundle)
+* https://webtorrent.io/ - Streaming torrent client for browser 
+* http://iknowwhatyoudownload.com/ - Torrent downloads and distributions for your IP address
+
+
 
 
 #### Password Generation
@@ -585,7 +588,6 @@ Feel free to share and star
 * https://www.factslides.com/ - 1001 facts about many topics with sources
 
 
-
 ### Language
 * https://youglish.com/ - Use YouTube to improve your English pronunciation, no YouTube ads
 * https://www.voscreen.com/ - Video snippets of english sentences, test your understanding by choosing paraphrased sentences
@@ -605,13 +607,14 @@ Feel free to share and star
 * https://fraze.it/ - Platform with more than 100 millions sentences 
 
 
-
 #### Words & Meanings
 * https://educalingo.com/en/dic-en - Find synonyms, uses, trends, statistics and much more
 * https://www.finedictionary.com/ - Shows everything about a word
 * https://www.crownacademyenglish.com/articles/ - Simple, succint, and clear explanations of some English language concepts
 * https://www.askdifference.com/ - Short and clean differences of two similar subjects
 * http://www.differencebetween.info/ - Descriptive Analysis and Comparisons
+* https://www.allacronyms.com/ - Community-driven Acronyms and Abbreviations Dictionary
+
 
 #### Business English
 * https://howtoprofessionallysay.akashrajpurohit.com/ - Guide for your daily "professional" interactions
@@ -1210,13 +1213,18 @@ Feel free to share and star
 * https://egghead.io/ ($) - Concise Full Stack Courses. High-quality video tutorials and curated learning resources with zero cruft 
 
 
-
-
 ### GitHub
 * https://gitstalk.netlify.app/ - Discover who's upto what on github
 * https://gitexplorer.com/ - Find the right commands you need without digging through the web
 * https://gitstats.me/ - Open-source GitHub contribution analyzer
 * https://gitcoin.co/ - Platform where you get paid to work on open source software in Python, Rust, Ruby, JavaScript, Solidity, HTML, CSS, Design, and more
+
+
+
+
+
+## Web Dev
+* https://toolkit.addy.codes/ - 657 hand-picked tools & resources for web designers & developers
 
 
 ### Front-end
@@ -1232,7 +1240,15 @@ Feel free to share and star
 * https://htmlmail.pro/ - Create and send beautiful HTML emails, or save in Gmail drafts (Email services like Gmail and Outlook support rich HTML emails but they do not offer an option to compose email messages directly using HTML and CSS markup)
 
 
-### Android Development
+#### JavaScript
+* https://thecodingcards.com/ ($) - JavaScript & Data Structures Flashcards. Essential Coding Concepts with Syntax and Examples
+* https://standardjs.com/ - JavaScript style guide, linter, and formatter
+
+
+
+
+
+## Android Development
 * https://fossdroid.com/ - Free and open source Android apps
 * https://androidweekly.net/ - Android newsletter
 * https://apt.izzysoft.de/fdroid/index.php - F-Droid Repository search
@@ -1240,12 +1256,12 @@ Feel free to share and star
 * https://dontkillmyapp.com/ 
 
 
-### Game Development
+## Game Development
 * https://itch.io/ - Simple way to find and share indie games online for free
 * https://www.systemrequirementslab.com/cyri - System Requirements Lab analyzes your computer in just seconds, and it's FREE
 
 
-#### Chess
+### Chess
 * https://www.thechesswebsite.com/ - Learn, Practice and Play Chess
 * https://en.lichess.org/ - Free/libre, open-source chess server powered by volunteers and donations
 
@@ -1286,7 +1302,6 @@ Feel free to share and star
 * https://mango-slra1-ckwssph7iq-ue.a.run.app/readme - Technique to interpret specifications and automatically identify defects such as logical contradictions, over-complexity and inconsistency of entity names
 
 
-
 ### GAFA Alternatives
 * https://degoogle.jmoore.dev/#mobile-applications-mobile-apps-installable-from-stores - Huge list of alternatives to Google products. Privacy tips, tricks, and links
 * https://degooglisons-internet.org/en/ - Alternatives to FAANG
@@ -1296,12 +1311,13 @@ Feel free to share and star
 ### No-Code
 * https://www.spacebarcounter.net/no-code-revolution - See how NoCode is spreading around the world
 
-### Torrent
-* https://webtorrent.io/ - Streaming torrent client for browser 
-
 
 ### Server
 * https://serversforhackers.com/ - Server Admin for Programmers. Learn the server tech you need for development and production. Eliminate the frustration of server configuration
+
+
+
+
 
 
 
@@ -1309,6 +1325,7 @@ Feel free to share and star
 * https://theia-ide.org/ - Flexible and Extensible Cloud & Desktop IDE Platform. Efficiently develop and deliver Cloud & Desktop IDEs and tools with modern web technologies
 * https://learnxinyminutes.com/ - Take a whirlwind tour of your next favorite language
 * https://ecomputernotes.com/ - Learning Resource for Online Education
+
 
 ### Python
 * https://docs.python.org/3/tutorial/index.html
@@ -1322,15 +1339,13 @@ Feel free to share and star
 * https://miguendes.me/
 
 
-### JavaScript
-* https://thecodingcards.com/ ($) - JavaScript & Data Structures Flashcards. Essential Coding Concepts with Syntax and Examples
-* https://standardjs.com/ - JavaScript style guide, linter, and formatter
-
-
 ### Linux
 * https://linuxjourney.com/ - Learn Linux
 * https://bellard.org/jslinux/ - Run Linux or other Operating Systems in your browser
 * https://os.directory/ - The platform emulates a linux distribution in your web browser
+
+
+
 
 
 
@@ -1359,6 +1374,10 @@ Feel free to share and star
 
 
 
+
+
+
+
 ## How To Ask A Good Question
 * https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603
 * http://catb.org/~esr/faqs/smart-questions.html
@@ -1382,6 +1401,14 @@ Feel free to share and star
 
 
 
+
+
+
+
+
+
+
+
 ## Health
 * https://apps.npr.org/joy-generator/#story=intro&page=0 - Some ideas to help you tap into positive emotions, online and offline
 * https://musclewiki.com/ - Learn about your body and muscles
@@ -1392,6 +1419,7 @@ Feel free to share and star
 * https://untools.co/ - Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems
 * https://www.7cups.com/ - Connects you to caring listeners for free emotional support
 * https://www.puzzle-loop.com/ - Logic puzzles with simple rules and challenging solutions
+* https://guzey.com/personal/what-should-you-do-with-your-life/ - What Should You Do with Your Life? Directions and Advice
 
 
 
