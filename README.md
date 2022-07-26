@@ -222,6 +222,8 @@ Feel free to share and star
 * https://andisearch.com/ - Ad-free and anonymous searching
 * https://plex.page/ - Search summarization tool
 * https://unlistedvideos.com/ - For submitting, searching for, and watching unlisted YouTube videos. No registration required
+* https://filmot.com/ - Search within YouTube subtitles
+* https://xn--1-zfa.com/ - Advance Search for Google, DuckDuckGo, Twitter, YouTube, Reddit
 
 
 
@@ -259,6 +261,7 @@ Feel free to share and star
 * https://tineye.com/ - Find where images appear online
 * https://ipleak.net/ - See the kind of information that all the sites you visit can see and collect about you
 * https://coveryourtracks.eff.org/ - Test your browser to see how well you are protected from tracking and fingerprinting
+* https://amifloced.org/ - Google is testing FLoC on Chrome users worldwide. Find out if you're one of them
 
 
 
@@ -762,27 +765,6 @@ Feel free to share and star
 * https://books.google.com/ngrams - Grapher showing how phrases have occurred in a corpus of books over the selected years
 
 
-### Web Analytics
-* https://pirsch.io/ - Open-source, cookie-free web analytics
-* http://websites.milonic.com/ - Find all important website data neatly reported in one place
-* https://www.woorank.com/ (~$) - Free Website Review Tool & SEO Checker
-* https://semji.com/ - Improve the ROI of your content. Create high-performing SEO content in no time
-* https://web.dev/ - Measure the performance of your website and get actionable insights 
-* https://www.webpagetest.org/ - Test a website's performance
-* https://fast.com/ - Measure your internet speed, latency, and upload
-* https://tools.pingdom.com/ ($) - Enter a URL to test the page load time, analyze it, and find bottlenecks
-* https://downloadtimecalculator.com/ - Estimate the time required to download any file based on your transfer speed without actually downloading any file
-* https://validator.w3.org/checklink - Check links and anchors in Web pages or full Web sites 
-* https://www.urlvoid.com/ - Website Reputation/Safety Checker. This service helps you detect potentially malicious websites
-* https://www.similarsites.com/ - Find similar websites and learn about its statistics
-* https://www.locabrowser.com/ - How is your website looks like from a different country? Test geo-targeted website from different locations in real time
-* https://statusvista.com/ - An all-in-one status page of the systems your product depends on
-* https://builtwith.com/ - Find out what websites are Built With. Database of 59,905+ web technologies and over 673 million websites. See which sites use shopping carts, analytics, hosting and many more. Filter by location, traffic, vertical and more
-* https://camelcamelcamel.com/ - Free Amazon price tracker monitors millions of products and alerts you when prices drop, helping you decide when to buy
-* http://cloudping.bastionhost.org/en/ - Perform an HTTP ping to measure the network latency from your browser to the various cloud data centers around the world
-* https://downforeveryoneorjustme.com/ - Check if a website is down
-* https://downdetector.in/ - Real-time problem & outage monitoring
-* https://gtmetrix.com/ - See how your site performs, reveal why it's slow and discover optimization opportunities
 
 
 ### Creating Websites
@@ -890,6 +872,8 @@ Feel free to share and star
 * https://www.schemecolor.com/ - Download Color Schemes
 * https://mobilepalette.colorion.co/ - Mobile Palette Generator
 * https://www.degraeve.com/color-palette/ - Color Palette Generator
+* https://0to255.com/ - Color tool that makes it easy to find lighter and darker colors, or tints and shades, based on any color. This makes it perfect for button hover states, gradients, borders, and more
+* https://www.colorhexa.com/ - Color tool providing information about any color and generating matching color palettes for your designs (such as complementary, analogous, triadic, tetradic or monochromatic colors schemes)
 
 
 #### Fonts
@@ -908,6 +892,9 @@ Feel free to share and star
 * https://3dicons.co/ - 3D icons that are 100% free for commercial and personal use under CC0 
 * https://healthicons.org/ - Free, open source health icons
 * http://david.li/ - Particle-based 3D simulations and renderings
+* https://icomoon.io/ 
+* https://fontello.com/ - Icon fonts generator
+* https://iconz.design/ (~$) - Premium 3D library of 223 icons
 
 
 #### Tools for Social Media
@@ -1204,7 +1191,6 @@ Feel free to share and star
 * https://esoteric.codes/ - Esoteric programming languages (esolangs) and styles, constraint-based coding, code art, code poetry, more
 * https://freeformatter.com/ - Free Online Tools For Developers. Formatters, validators, code minifiers, string escapers, encoders/decoders, message digesters, web resources and more
 * https://www.freeprivacypolicy.com/ - Free Privacy Policy Generator. Comply with requirements from CCPA, GDPR, CalOPPA, Google Analytics & AdSense and many others
-* https://developer.mozilla.org/en-US/ - Documenting web technologies, including CSS, HTML, and JavaScript
 * https://www.dbdesigner.net/ - Online Database Schema Design and Modeling Tool for Free
 * https://projectsinnetworking.com/ - Networking Projects, Network Security Projects, Cyber Security case studies, projects and source code for students, engineering graduates and professionals along with detailed reports. The site also contains ideas and topics for projects, research papers, assignments, and presentation in computer networking and security domain
 
@@ -1225,6 +1211,8 @@ Feel free to share and star
 
 ## Web Dev
 * https://toolkit.addy.codes/ - 657 hand-picked tools & resources for web designers & developers
+* https://visbug.web.app/ - Open Source Browser Design Tools
+* https://webdesignrepo.com/ - Links to sources
 
 
 ### Front-end
@@ -1233,16 +1221,67 @@ Feel free to share and star
 * https://www.eggradients.com/ - Gradient Background Colors
 * https://frontendchecklist.io/ - Exhaustive list of all elements you need to have / to test before launching your website / HTML page to production
 * https://css-tricks.com/ - Web design community powered by Digital Ocean
-
+* https://www.frontendmentor.io/ - Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs
+* https://codepen.io/ - Build, test, and discover front-end code (explore [topics](https://codepen.io/topics/))
+* https://www.electronjs.org/ - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+* https://developer.mozilla.org/en-US/ - Documenting web technologies, including CSS, HTML, and JavaScript
 
 #### HTML
 * https://htmlreference.io/ - Free guide to HTML. It features all elements and attributes
 * https://htmlmail.pro/ - Create and send beautiful HTML emails, or save in Gmail drafts (Email services like Gmail and Outlook support rich HTML emails but they do not offer an option to compose email messages directly using HTML and CSS markup)
 
 
+#### CSS
+* https://cssbattle.dev/ - Test your CSS skills by replicating targets with smallest possible code
+* https://www.csssolid.com/ - CSS references, tutorials, and articles
+
+
 #### JavaScript
 * https://thecodingcards.com/ ($) - JavaScript & Data Structures Flashcards. Essential Coding Concepts with Syntax and Examples
 * https://standardjs.com/ - JavaScript style guide, linter, and formatter
+
+
+
+### Back-End
+
+
+#### SQL
+* https://sqlzoo.net/wiki/SQL_Tutorial - Learn SQL in stages
+
+
+
+
+### RubyGems
+* https://guides.rubygems.org/ - Learn how RubyGems works, and how to make your own
+
+
+
+
+### Web Analytics
+* https://pirsch.io/ - Open-source, cookie-free web analytics
+* http://websites.milonic.com/ - Find all important website data neatly reported in one place
+* https://www.woorank.com/ (~$) - Free Website Review Tool & SEO Checker
+* https://semji.com/ - Improve the ROI of your content. Create high-performing SEO content in no time
+* https://web.dev/ - Measure the performance of your website and get actionable insights 
+* https://www.webpagetest.org/ - Test a website's performance
+* https://fast.com/ - Measure your internet speed, latency, and upload
+* https://tools.pingdom.com/ ($) - Enter a URL to test the page load time, analyze it, and find bottlenecks
+* https://downloadtimecalculator.com/ - Estimate the time required to download any file based on your transfer speed without actually downloading any file
+* https://validator.w3.org/checklink - Check links and anchors in Web pages or full Web sites 
+* https://www.urlvoid.com/ - Website Reputation/Safety Checker. This service helps you detect potentially malicious websites
+* https://www.similarsites.com/ - Find similar websites and learn about its statistics
+* https://www.locabrowser.com/ - How is your website looks like from a different country? Test geo-targeted website from different locations in real time
+* https://statusvista.com/ - An all-in-one status page of the systems your product depends on
+* https://builtwith.com/ - Find out what websites are Built With. Database of 59,905+ web technologies and over 673 million websites. See which sites use shopping carts, analytics, hosting and many more. Filter by location, traffic, vertical and more
+* https://camelcamelcamel.com/ - Free Amazon price tracker monitors millions of products and alerts you when prices drop, helping you decide when to buy
+* http://cloudping.bastionhost.org/en/ - Perform an HTTP ping to measure the network latency from your browser to the various cloud data centers around the world
+* https://downforeveryoneorjustme.com/ - Check if a website is down
+* https://downdetector.in/ - Real-time problem & outage monitoring
+* https://gtmetrix.com/ - See how your site performs, reveal why it's slow and discover optimization opportunities
+* https://webhookwizard.com/ - Unlock data with webhooks
+* [chrome.google.com/webstore/lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en) - Open-source, automated tool for improving the performance, quality, and correctness of your web apps
+
+
 
 
 
@@ -1273,7 +1312,6 @@ Feel free to share and star
 ## Software
 * https://oldergeeks.com/ - Software download site without ads, misleading download links or annoyances. This site is 100% supported by donations
 * https://alternativeto.net/ - Best alternatives of popular softwares
-* https://www.electronjs.org/ - Build cross-platform desktop apps with JavaScript, HTML, and CSS
 * https://localstack.cloud/ - Develop and test your cloud and serverless apps offline
 * https://markwhen.com/ - Markwhen is a text-to-timeline tool. You write markdown-ish text and it gets converted into a nice looking cascading timeline
 * https://asciinema.org/ - Record and share your terminal sessions. Purely text-based approach to terminal recording
