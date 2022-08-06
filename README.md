@@ -696,6 +696,7 @@ Feel free to share and star
 * https://onlinebooks.library.upenn.edu/ - Listing over 3 million free books on the Web
 * https://libgen.li/ - Community aiming at collecting and cataloging items descriptions for the most part of scientific, scientific and technical directions, as well as file metadata
 * https://www.audible.com/ ($) - Largest producer and provider of premium audio storytelling
+* https://www.goodbooks.io/ - 8,500+ book recommendations from the most successful and interesting people in the world
 
 
 ### Book Summary And Recommendations
@@ -787,6 +788,7 @@ Feel free to share and star
 * https://rejected.us/ - Read rejection stories and share yours
 * https://anonfriendly.com/ - Find anon friendly jobs
 * https://about.me/ (~$) - Freelancers and entrepreneurs use about.me to grow their audience and get more clients
+* https://www.coolstartupjobs.com/ - Join a growing startup and give your stock options a fighting chance
 
 
 
@@ -992,7 +994,7 @@ Feel free to share and star
 
 
 
-## MOOC (Massive Open Online Courses)
+### MOOC (Massive Open Online Courses)
 * https://en.wikiversity.org/wiki/Wikiversity:Main_Page 
 * https://ocw.mit.edu/
 * https://www.coursera.org/ 
@@ -1056,6 +1058,10 @@ Feel free to share and star
 * https://www.submarinecablemap.com/ - Submarine cables around the world  
 * https://observablehq.com/ - Explore, analyze, and explain data. As a team
 
+
+
+### Philosophy
+* https://www.desolhar-philo.com/ - Notes about philosophy
 
 
 
