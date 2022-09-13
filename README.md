@@ -157,6 +157,7 @@ Feel free to share and star
 
 ## Tools
 * http://5000best.com/tools/
+* https://10015.io/ - Free all-in-one toolbox (image, text, coding, CSS, color, social media, miscellaneous)
 * https://untools.co/ - Collection of thinking tools and frameworks 
 * http://timetravel.mementoweb.org/ - Find Mementos in Internet Archive, Archive-It, British Library, archive.today, GitHub and many more
 
@@ -192,6 +193,7 @@ Feel free to share and star
 
 
 ### Texts
+* https://freecodetools.org/word-counter/ - Word counter
 * https://textfac.es/ - Write unicode faces
 * https://titlecase.com/ - Cenvert a text into all kinds of cases
 * https://lingojam.com/FancyTextGenerator - Cenvert a text into all kinds of fonts
@@ -308,17 +310,20 @@ Feel free to share and star
 * http://www.healthypasswords.com/index-2.html - Everything About Passwords and Internet Security
 * https://random-password-gen.web.app/
 * https://www.security.org/how-secure-is-my-password/ - Check How Secure Is Your Password. Entries are 100% secure and not stored in any way or shared with anyone
+* https://freecodetools.org/password-generator/
 
 
 
 ### URL
 * https://shrtco.de/tools/ - URL tools
 * https://www.onelink.to/ - Link and QR code for your apps
+* https://freecodetools.org/qr-code-generator/ - QR generator
 * https://appopener.com/ - Create smart links to open desired apps from url without login
 * https://digital.com/best-web-hosting/who-is/ - Find Out Who is Hosting Any Domain in Seconds and learn about the web host, IP address, name servers and more
 * https://webhook.site/ - Inspect, test and automate (with the visual Custom Actions builder, or WebhookScript) any incoming HTTP request or e-mail
 * http://scr.im/ - Convert your email address into a short and safe link you can share on the web without becoming an easy spam target
 * https://goqr.me/ - High resolution QR codes, print quality
+* https://freecodetools.org/ogp/ - Open graph generator
 
 
 #### URL Shortener
@@ -513,6 +518,8 @@ Feel free to share and star
 * https://smallworld.kiwi/signin - Small World uses the location from your Twitter profile to find nearby friends
 * https://chirpty.com/ - Create your own Twitter interaction circle
 * https://capturemytweet.in/ - Turn your tweets into wonderful images for free
+* https://freecodetools.org/twitter-card-generator/ - Twitter Card Generator tool. Use this tool to attach rich content to Tweets completely free.
+
 
 
 
@@ -1186,6 +1193,8 @@ Feel free to share and star
 
 ## Developer
 * https://webdevhome.github.io/
+* https://tech-blogs.dev/ - List of Awesome Tech Blogs
+* https://web-dev-resources.com/#/ - Awesome Web Development Resources 
 * https://www.mailinator.com/ (~$) - Mailinator allows Developers and QA Testing teams to automatically test their SMS and Email workflows like 2FA verifications, sign-ups, and password resets with trillions of inboxes at your fingertips. Whether you do Manual Testing, use an API, or a framework like Selenium, Cypress, Playwright, or Puppeteer - Mailinator will close the loop on email/SMS testing
 * https://bbcmic.ro/ - Basic editor from BBC
 * https://blog.demofox.org/ - Blog with many links
@@ -1213,6 +1222,7 @@ Feel free to share and star
 * https://egghead.io/ ($) - Concise Full Stack Courses. High-quality video tutorials and curated learning resources with zero cruft 
 
 
+
 ### GitHub
 * https://gitstalk.netlify.app/ - Discover who's upto what on github
 * https://gitexplorer.com/ - Find the right commands you need without digging through the web
@@ -1221,12 +1231,11 @@ Feel free to share and star
 
 
 
-
-
 ## Web Dev
 * https://toolkit.addy.codes/ - 657 hand-picked tools & resources for web designers & developers
 * https://visbug.web.app/ - Open Source Browser Design Tools
 * https://webdesignrepo.com/ - Links to sources
+
 
 
 ### Front-end
@@ -1299,6 +1308,9 @@ Feel free to share and star
 * [chrome.google.com/webstore/lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en) - Open-source, automated tool for improving the performance, quality, and correctness of your web apps
 
 
+## APIs
+* https://publicapis.dev/ - Discover public APIs
+
 
 
 ## Web3
@@ -1364,6 +1376,9 @@ Feel free to share and star
 * https://explainshell.com/ - Write down a command-line to see the help text that matches each argument
 * http://showthedocs.com/ - Documentation browser that finds the relevant docs for your code
 * https://mango-slra1-ckwssph7iq-ue.a.run.app/readme - Technique to interpret specifications and automatically identify defects such as logical contradictions, over-complexity and inconsistency of entity names
+* https://freecodetools.org/minifier/ - CODE MINIFIER
+* https://freecodetools.org/markdown-preview/ - 
+* https://freecodetools.org/beautifier/ - CODE BEAUTIFIER
 
 
 ### GAFA Alternatives
@@ -1418,8 +1433,12 @@ Feel free to share and star
 
 
 
-## Coding
+## Coding Practice
 * https://www.codewars.com/
+* https://www.hackerrank.com/dashboard 
+* https://leetcode.com/
+* https://javascriptquiz.com/
+* https://www.dailycodingproblem.com/
 
 
 ### Documentation
@@ -1492,6 +1511,7 @@ Feel free to share and star
 * https://tennessine.co.uk/ - Collection of political, mathematical and fun projects for the web
 * https://blakeir.com/blog/smart-youtube - List of some YouTube pages
 * [awesomeopensource](https://awesomeopensource.com/project/jivoi/awesome-osint#-pastebins)
+* https://www.madewithbubble.xyz/ - Discover apps and websites made with bubble
 
 
 
