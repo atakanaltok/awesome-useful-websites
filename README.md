@@ -1108,6 +1108,7 @@ Feel free to share and star
 * https://mathhints.com/ - Free website that includes hundreds of pages of math, explained in simple terms, with thousands of examples of worked-out problems
 * https://betterexplained.com/ - Learn to understand math, not memorize it. Enjoy clear, intuitive lessons about imaginary numbers, exponents, and more
 * https://www.mathway.com/ - Free math problem solver
+* https://www.chilimath.com/ - 
 
 
 ### Math + Programming
@@ -1226,11 +1227,13 @@ Feel free to share and star
 * https://caniuse.com/
 * https://www.eggradients.com/ - Gradient Background Colors
 * https://frontendchecklist.io/ - Exhaustive list of all elements you need to have / to test before launching your website / HTML page to production
-* https://css-tricks.com/ - Web design community powered by Digital Ocean
 * https://www.frontendmentor.io/ - Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs
 * https://codepen.io/ - Build, test, and discover front-end code (explore [topics](https://codepen.io/topics/))
 * https://www.electronjs.org/ - Build cross-platform desktop apps with JavaScript, HTML, and CSS
 * https://developer.mozilla.org/en-US/ - Documenting web technologies, including CSS, HTML, and JavaScript
+* https://htmldog.com/ - Everything about HTML, CSS, and JavaScript
+* https://learn.shayhowe.com/ - Learn to Code HTML & CSS
+
 
 #### HTML
 * https://htmlreference.io/ - Free guide to HTML. It features all elements and attributes
@@ -1240,6 +1243,7 @@ Feel free to share and star
 #### CSS
 * https://cssbattle.dev/ - Test your CSS skills by replicating targets with smallest possible code
 * https://www.csssolid.com/ - CSS references, tutorials, and articles
+* https://css-tricks.com/ - Web design community powered by Digital Ocean
 
 
 #### JavaScript
@@ -1290,6 +1294,12 @@ Feel free to share and star
 
 
 
+## Web3
+
+* https://web3isgoinggreat.com/ - Track some examples of how things in the blockchains/crypto/web3 technology space aren't actually going as well as its proponents might like you to believe. The timeline tracks events in cryptocurrency and blockchain-based technologies, dating back to the beginning of 2021
+
+* https://andersbrownworth.com/blockchain/coinbase - Blockchain Demo
+
 
 
 
@@ -1322,10 +1332,13 @@ Feel free to share and star
 * https://markwhen.com/ - Markwhen is a text-to-timeline tool. You write markdown-ish text and it gets converted into a nice looking cascading timeline
 * https://asciinema.org/ - Record and share your terminal sessions. Purely text-based approach to terminal recording
 * https://guacamole.apache.org/ - Clientless (no plugins or client software are required) remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH
-* https://codeclippet.com/ - Allows you to stop storing code snippets within text files and start sharing them with others, around a community focused environment
 * https://dockerswarm.rocks/ - Deploy your application stacks to production, in a distributed cluster, using the same files used by Docker Compose locally
 * https://www.easycron.com/ (~$) - Online cron job service
 
+
+### Snippets
+* https://codeclippet.com/ - Allows you to stop storing code snippets within text files and start sharing them with others, around a community focused environment
+* https://kod.so/ - Create visual snippets, you can also download and share
 
 
 ### Linters
@@ -1369,6 +1382,7 @@ Feel free to share and star
 * https://theia-ide.org/ - Flexible and Extensible Cloud & Desktop IDE Platform. Efficiently develop and deliver Cloud & Desktop IDEs and tools with modern web technologies
 * https://learnxinyminutes.com/ - Take a whirlwind tour of your next favorite language
 * https://ecomputernotes.com/ - Learning Resource for Online Education
+* https://libraries.io/ - Find new open source packages, modules and frameworks and keep track of ones you depend upon
 
 
 ### Python
@@ -1381,6 +1395,7 @@ Feel free to share and star
 * https://pythonbasics.org/
 * https://www.majyori.com/
 * https://miguendes.me/
+* https://www.runpython.live/ - Run python on your web 
 
 
 ### Linux
@@ -1418,6 +1433,7 @@ Feel free to share and star
 * https://cheatography.com/
 * https://htmlcheatsheet.com
 * https://panthema.net/2013/sound-of-sorting/SoS-CheatSheet.pdf - The Sound of Sorting Algorithm 
+* https://www.pythoncheatsheet.org/ - Based on the book Automate the Boring Stuff with Python and many other sources
 
 
 
@@ -1440,14 +1456,6 @@ Feel free to share and star
 * https://en.wikipedia.org/wiki/XY_problem
 * https://mywiki.wooledge.org/XyProblem
 * https://lmgtfy.app/#gsc.tab=0 - Share a sub-link of this site to show someone that they need to google their question before asking
-
-
-
-
-
-
-
-
 
 
 
