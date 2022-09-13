@@ -144,6 +144,7 @@ Feel free to share and star
 * https://www.visualcapitalist.com/ - Data-driven visuals on various topics including markets, technology, energy and the global economy
 * https://infographicjournal.com/ - Infographic archive
 * https://d3js.org/ - JavaScript library for manipulating documents based on data
+* https://www.denizcemonduygu.com/ - Especially [this](https://www.denizcemonduygu.com/portfolio/the-history-of-philosophy/) interactive timeline of philosophical ideas
 
 
 ### Diagrams
@@ -622,6 +623,7 @@ Feel free to share and star
 #### Business English
 * https://howtoprofessionallysay.akashrajpurohit.com/ - Guide for your daily "professional" interactions
 * https://www.businessenglishresources.com/ - Free Resources for business english
+* https://www.digital-glossary.com/ - Turkish, English, and German terminological words
 
 
 
@@ -747,6 +749,7 @@ Feel free to share and star
 * https://patents.google.com/ - Search and read the full text of patents from around the world
 * https://alias.co/ - Stay up to date with the best of the bests
 * https://patentscope.wipo.int/search/en/search.jsf - Search 105 million patent documents including 4.3 million published international patent applications (PCT)
+* https://littlesis.org/ - Free database of who-knows-who at the heights of business and government
 
 
 ### Marketing
@@ -789,6 +792,7 @@ Feel free to share and star
 * https://anonfriendly.com/ - Find anon friendly jobs
 * https://about.me/ (~$) - Freelancers and entrepreneurs use about.me to grow their audience and get more clients
 * https://www.coolstartupjobs.com/ - Join a growing startup and give your stock options a fighting chance
+* https://www.coroflot.com/discover - Job search specific to designers
 
 
 
@@ -866,6 +870,7 @@ Feel free to share and star
 * https://sumo.app/ - Drawing Tool and Image Editor
 * https://randomdesignstuff.com/ - Browse handpicked websites for designers, either useful websites or unuseful
 * https://www.discovernft.club/ - Discover latest NFT Projects
+* https://app.haikei.app/ - Web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more
 
 
 #### Color
@@ -897,6 +902,8 @@ Feel free to share and star
 * https://icomoon.io/ 
 * https://fontello.com/ - Icon fonts generator
 * https://iconz.design/ (~$) - Premium 3D library of 223 icons
+* https://passionhacks.com/free-isometric-illustrations/ - Free Isometric Illustrations
+* [https://www.pixelbazaar.com](https://www.pixelbazaar.com/?utm_campaign=Black+Friday&utm_medium=Social&utm_source=Product+Hunt&ref=producthunt) - Opinionated icons for brands with a character
 
 
 #### Tools for Social Media
