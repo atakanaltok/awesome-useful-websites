@@ -467,6 +467,7 @@ Feel free to share and star
 * https://www.doityourself.com/ 
 * https://www.wonderhowto.com/ 
 * https://www.howstuffworks.com/ 
+* http://bookcrossing.com/ - Release your books "into the wild" for a stranger to find, or "controlled release" to another BookCrossing member, and track where they go via journal entries from around the world
 
 
 
@@ -597,6 +598,7 @@ Feel free to share and star
 * https://culturalatlas.sbs.com.au/ - Educational resource providing comprehensive information on the cultural backgrounds
 * https://www.quotemaster.org/ - 98,683 categories and 1,488,431 quotes
 * https://www.factslides.com/ - 1001 facts about many topics with sources
+* https://starkeycomics.com/ - Colourful images and posts about culture and language
 
 
 ### Language
@@ -823,12 +825,17 @@ Feel free to share and star
 
 ## Economy
 * https://edition.cnn.com/markets/fear-and-greed - Learn what emotion is driving the market now
+* https://www.whereswilly.com/ - International non-profit volunteer project dedicated to tracking Canadian paper money around the world
+* https://www.wheresgeorge.com/ - International non-profit volunteer project dedicated to tracking American paper money around the world
+* https://en.eurobilltracker.com/ - International non-profit volunteer project dedicated to tracking Euro notes around the world
+* https://www.tradingview.com/ - platform and social network used by 30M+ traders and investors worldwide to spot opportunities across global markets
 
 
 
 ## Startups
 * https://theangelphilosopher.com/ - Compilation of Naval's wisdom, knowledge and thoughts
-* https://www.failory.com/ - All-In-One Newsletter for Startup Founders and more!
+* https://www.failory.com/ - All-In-One Newsletter for Startup Founders and more
+* https://growth.tlb.org/ - Startup growth calculator. Calculate how much funding your startup needs
 * [docs.google.com/spreadsheets](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - 500+ Free Tools For Startups 
 * https://www.failory.com/google - Learn from Google's 100+ failures to build profitable businesses and scale acquired companies
 * https://harishgarg.gumroad.com/l/wiSvc?ref=producthunt - Curated list of 100+ resources on GPT-3
@@ -1071,7 +1078,7 @@ Feel free to share and star
 * [google.maps](https://www.google.com/maps/d/u/0/viewer?mid=1ckm_TSM8mbCrnhA8COpBNG-qJqTR2IW3&ll=43.664774893391936%2C24.56718262638249&z=5) - United States International College Campuses on Google Maps
 * https://www.submarinecablemap.com/ - Submarine cables around the world  
 * https://observablehq.com/ - Explore, analyze, and explain data. As a team
-
+* https://fixphrase.com/ - Locate any place on Earth with just four words (This could be useful in situations where it's easier to deal with a few words instead of a long series of numbers)
 
 
 ### Philosophy
@@ -1115,6 +1122,10 @@ Feel free to share and star
 * http://histography.io/ - Interactive timeline that spans across 14 billion years of history, from the Big Bang to 2015
 
 
+#### History
+* http://unenumerated.blogspot.com/ - Comprehensive and highly detailed blog about vairous history topics
+
+
 
 ## Mathematics
 * https://pdodds.w3.uvm.edu/ - First principles of some math topics
@@ -1122,7 +1133,8 @@ Feel free to share and star
 * https://mathhints.com/ - Free website that includes hundreds of pages of math, explained in simple terms, with thousands of examples of worked-out problems
 * https://betterexplained.com/ - Learn to understand math, not memorize it. Enjoy clear, intuitive lessons about imaginary numbers, exponents, and more
 * https://www.mathway.com/ - Free math problem solver
-* https://www.chilimath.com/ - 
+* https://www.chilimath.com/ 
+* https://complex-analysis.com/ - Visual and Interactive Introduction to Complex Analysis
 
 
 ### Math + Programming
@@ -1216,6 +1228,7 @@ Feel free to share and star
 * https://www.freeprivacypolicy.com/ - Free Privacy Policy Generator. Comply with requirements from CCPA, GDPR, CalOPPA, Google Analytics & AdSense and many others
 * https://www.dbdesigner.net/ - Online Database Schema Design and Modeling Tool for Free
 * https://projectsinnetworking.com/ - Networking Projects, Network Security Projects, Cyber Security case studies, projects and source code for students, engineering graduates and professionals along with detailed reports. The site also contains ideas and topics for projects, research papers, assignments, and presentation in computer networking and security domain
+* (https://jvns.ca/blog/)[https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/] - A list of new(ish) command line tools
 
 
 ### Learning
@@ -1228,13 +1241,14 @@ Feel free to share and star
 * https://gitexplorer.com/ - Find the right commands you need without digging through the web
 * https://gitstats.me/ - Open-source GitHub contribution analyzer
 * https://gitcoin.co/ - Platform where you get paid to work on open source software in Python, Rust, Ruby, JavaScript, Solidity, HTML, CSS, Design, and more
-
+* https://ohshitgit.com/ 
 
 
 ## Web Dev
 * https://toolkit.addy.codes/ - 657 hand-picked tools & resources for web designers & developers
 * https://visbug.web.app/ - Open Source Browser Design Tools
 * https://webdesignrepo.com/ - Links to sources
+* https://web.dev/learn
 
 
 
