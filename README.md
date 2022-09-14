@@ -1068,6 +1068,7 @@ Feel free to share and star
 * https://lettersofnote.com/ - History’s most fascinating letters
 * https://www.organism.earth/library/ 
 * https://www.opensourceshakespeare.org/ - Open source Shakespeare
+* https://www.leonardodavinci.net/ - Leonardo da Vinci, his Life and Artworks
 
 
 ### Data
