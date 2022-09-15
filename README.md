@@ -1069,6 +1069,7 @@ Feel free to share and star
 * https://www.organism.earth/library/ 
 * https://www.opensourceshakespeare.org/ - Open source Shakespeare
 * https://www.leonardodavinci.net/ - Leonardo da Vinci, his Life and Artworks
+* https://ourkarlpopper.net/ - How Karl Popper Has Made a Difference in Our Lives (Testimonies from the five continents)
 
 
 ### Data
@@ -1230,6 +1231,12 @@ Feel free to share and star
 * https://www.dbdesigner.net/ - Online Database Schema Design and Modeling Tool for Free
 * https://projectsinnetworking.com/ - Networking Projects, Network Security Projects, Cyber Security case studies, projects and source code for students, engineering graduates and professionals along with detailed reports. The site also contains ideas and topics for projects, research papers, assignments, and presentation in computer networking and security domain
 * (https://jvns.ca/blog/)[https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/] - A list of new(ish) command line tools
+
+
+
+### Open Source
+* https://awesomeopensource.com/ - Find Open Source By Searching, Browsing and Combining 170,950 Topics Across 59 Categories And 5,851,571 Projects
+
 
 
 ### Learning
