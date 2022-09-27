@@ -256,6 +256,7 @@ Feel free to share and star
 * https://burnermail.io/ - Hide your personal email address, control who can send you emails, and generate new burners with one click
 * https://www.security.org/security-score/ - Learn about your security score
 * https://www.startpage.com/ - Get privacy protection across the web. Extension for instant tracker blocking & more
+* https://cookiepedia.co.uk/ - Largest database of pre-categories cookies and online tracking technologies.
 
 
 
@@ -651,12 +652,15 @@ Feel free to share and star
 * https://www.freecycle.org/ - Network people who are giving and getting stuff for free in their own Towns. Membership is free
 * https://roadtrippers.com/ - Build your route in Roadtrippers and then use our turn-by-turn navigation to lead the way
 * https://www.mountainproject.com/ - Free, Crowd-Sourced Guide to Climbing the World
+* https://welcometomygarden.org/ - Non-profit network of citizens offering free camping spots in their gardens to slow travellers
+* https://www.warmshowers.org/ - Community of bicycle tourists and those who support them
 
 
 #### Globetrotting 
 * https://randomstreetview.com/ - Travel the streets from home
 * https://virtualvacation.us/ - Travel the world from home
 * https://www.mapcrunch.com/ - Explore the world via Google Street View. Teleports you to a random place in the world
+
 
 #### Time Zone
 * https://everytimezone.com/ - Visual time zone comparison of countries
