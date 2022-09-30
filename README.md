@@ -930,6 +930,9 @@ Feel free to share and star
 * https://www.ocoya.net/ ($) - Platform to create, auto-generate and schedule content
 * https://imgupscaler.com/?ref=producthunt - AI-based PNG / JPG Image Upscaler
 * https://namechk.com/ - Check the availability of a username or domain name within seconds. 30 domains and more than 90 social media accounts
+* https://inflact.com/downloader/instagram/video/ - Save original high-quality videos from Instagram to your device
+
+
 
 
 #### Stock Images
@@ -1130,6 +1133,7 @@ Feel free to share and star
 
 #### History
 * http://unenumerated.blogspot.com/ - Comprehensive and highly detailed blog about vairous history topics
+* https://humanorigins.si.edu/evidence/human-family-tree - Interactive Human Family Tree
 
 
 
