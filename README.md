@@ -354,6 +354,7 @@ Feel free to share and star
 * https://techspecs.io/ Search engine that connects you with the consumer electronics products
 * https://www.kimovil.com/en/ - Compare specifications and prices of smartphones and tablets
 * https://www.diffchecker.com/# - Compare text, image, PDF, and many more to find the difference between two of these files
+* https://dontkillmyapp.com/ - Android manufacturers listed below prefer battery life over proper functionality of your apps. See below on how you can fix it, or Read more
 
 
 
@@ -1242,6 +1243,9 @@ Feel free to share and star
 
 
 
+
+
+
 ### Open Source
 * https://awesomeopensource.com/ - Find Open Source By Searching, Browsing and Combining 170,950 Topics Across 59 Categories And 5,851,571 Projects
 
@@ -1280,7 +1284,6 @@ Feel free to share and star
 * https://htmldog.com/ - Everything about HTML, CSS, and JavaScript
 * https://learn.shayhowe.com/ - Learn to Code HTML & CSS
 
-
 #### HTML
 * https://htmlreference.io/ - Free guide to HTML. It features all elements and attributes
 * https://htmlmail.pro/ - Create and send beautiful HTML emails, or save in Gmail drafts (Email services like Gmail and Outlook support rich HTML emails but they do not offer an option to compose email messages directly using HTML and CSS markup)
@@ -1299,6 +1302,8 @@ Feel free to share and star
 
 
 ### Back-End
+* https://www.runsidekick.com/ - Collect traces and generate logs on-demand without stopping & redeploying your applications
+
 
 
 #### SQL
