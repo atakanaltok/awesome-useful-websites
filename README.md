@@ -260,6 +260,13 @@ Feel free to share and star
 
 
 
+### GAFA Alternatives
+* https://degoogle.jmoore.dev/#mobile-applications-mobile-apps-installable-from-stores - Huge list of alternatives to Google products. Privacy tips, tricks, and links
+* https://degooglisons-internet.org/en/ - Alternatives to FAANG
+* https://www.accountkiller.com/en/home - AccountKiller collects direct links and deleting instructions to make account termination easy
+
+
+
 #### Data Breach
 * https://haveibeenpwned.com/ - Check if your email or phone is in a data breach
 * https://tineye.com/ - Find where images appear online
@@ -1208,8 +1215,9 @@ Feel free to share and star
 
 
 
-## Robotics
-* https://aerospacerobotics.caltech.edu/aerospacerobotics - Aerospace Robotics and Control at Caltech
+
+
+
 
 
 
@@ -1244,15 +1252,45 @@ Feel free to share and star
 
 
 
-
-
 ### Open Source
 * https://awesomeopensource.com/ - Find Open Source By Searching, Browsing and Combining 170,950 Topics Across 59 Categories And 5,851,571 Projects
 
 
 
-### Learning
-* https://egghead.io/ ($) - Concise Full Stack Courses. High-quality video tutorials and curated learning resources with zero cruft 
+
+
+### Documentation
+* https://nota-lang.org/ - Document Language for the Browser
+
+
+
+
+### Cheat Sheets
+* https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/ - Cheat Sheets available for quick reference
+* https://devhints.io
+* https://gitsheet.wtf
+* https://overapi.com
+* https://grid.malven.co
+* https://cssreference.io
+* https://cheatography.com/
+* https://htmlcheatsheet.com
+* https://panthema.net/2013/sound-of-sorting/SoS-CheatSheet.pdf - The Sound of Sorting Algorithm 
+* https://www.pythoncheatsheet.org/ - Based on the book Automate the Boring Stuff with Python and many other sources
+
+
+### Linux
+* https://linuxjourney.com/ - Learn Linux
+* https://bellard.org/jslinux/ - Run Linux or other Operating Systems in your browser
+* https://os.directory/ - The platform emulates a linux distribution in your web browser
+* https://ss64.com/ - Reference guide containing syntax and examples for the most prevalent computing commands (Database and Operating System)
+* https://ss64.com/bash/syntax-keyboard.html - For bash
+
+
+### Git
+* https://rogerdudler.github.io/git-guide/ - simple guide for getting started with git
+
+
+
 
 
 
@@ -1264,11 +1302,29 @@ Feel free to share and star
 * https://ohshitgit.com/ 
 
 
+
+
+
+
+
+## Web 3.0 Dev
+* https://dappradar.com/ - Discover, Track & Trade Everything DeFi, NFT and Gaming
+* https://www.defipulse.com/ - DeFi list
+
+
+
+
+
+
+
+
 ## Web Dev
 * https://toolkit.addy.codes/ - 657 hand-picked tools & resources for web designers & developers
 * https://visbug.web.app/ - Open Source Browser Design Tools
 * https://webdesignrepo.com/ - Links to sources
 * https://web.dev/learn
+* https://devopedia.org/ 
+* https://www.madewithbubble.xyz/ - Discover cool apps and websites made with bubble
 
 
 
@@ -1284,9 +1340,11 @@ Feel free to share and star
 * https://htmldog.com/ - Everything about HTML, CSS, and JavaScript
 * https://learn.shayhowe.com/ - Learn to Code HTML & CSS
 
+
 #### HTML
 * https://htmlreference.io/ - Free guide to HTML. It features all elements and attributes
 * https://htmlmail.pro/ - Create and send beautiful HTML emails, or save in Gmail drafts (Email services like Gmail and Outlook support rich HTML emails but they do not offer an option to compose email messages directly using HTML and CSS markup)
+* https://tailwindcss.com/ - Rapidly build modern websites without ever leaving your HTML
 
 
 #### CSS
@@ -1301,19 +1359,28 @@ Feel free to share and star
 
 
 
+
+
 ### Back-End
 * https://www.runsidekick.com/ - Collect traces and generate logs on-demand without stopping & redeploying your applications
 
+
+#### APIs
+* https://publicapis.dev/ - Discover public APIs
 
 
 #### SQL
 * https://sqlzoo.net/wiki/SQL_Tutorial - Learn SQL in stages
 
 
-
-
-### RubyGems
+#### RubyGems
 * https://guides.rubygems.org/ - Learn how RubyGems works, and how to make your own
+
+
+#### Server
+* https://serversforhackers.com/ - Server Admin for Programmers. Learn the server tech you need for development and production. Eliminate the frustration of server configuration
+
+
 
 
 
@@ -1343,16 +1410,24 @@ Feel free to share and star
 * [chrome.google.com/webstore/lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en) - Open-source, automated tool for improving the performance, quality, and correctness of your web apps
 
 
-## APIs
-* https://publicapis.dev/ - Discover public APIs
+
+
+
+
+
 
 
 
 ## Web3
-
 * https://web3isgoinggreat.com/ - Track some examples of how things in the blockchains/crypto/web3 technology space aren't actually going as well as its proponents might like you to believe. The timeline tracks events in cryptocurrency and blockchain-based technologies, dating back to the beginning of 2021
 
 * https://andersbrownworth.com/blockchain/coinbase - Blockchain Demo
+
+
+
+
+
+
 
 
 
@@ -1365,6 +1440,12 @@ Feel free to share and star
 * https://dontkillmyapp.com/ 
 
 
+
+
+
+
+
+
 ## Game Development
 * https://itch.io/ - Simple way to find and share indie games online for free
 * https://www.systemrequirementslab.com/cyri - System Requirements Lab analyzes your computer in just seconds, and it's FREE
@@ -1373,6 +1454,9 @@ Feel free to share and star
 ### Chess
 * https://www.thechesswebsite.com/ - Learn, Practice and Play Chess
 * https://en.lichess.org/ - Free/libre, open-source chess server powered by volunteers and donations
+
+
+
 
 
 
@@ -1390,9 +1474,13 @@ Feel free to share and star
 * https://www.easycron.com/ (~$) - Online cron job service
 
 
+
+
 ### Snippets
 * https://codeclippet.com/ - Allows you to stop storing code snippets within text files and start sharing them with others, around a community focused environment
 * https://kod.so/ - Create visual snippets, you can also download and share
+
+
 
 
 ### Linters
@@ -1416,18 +1504,13 @@ Feel free to share and star
 * https://freecodetools.org/beautifier/ - CODE BEAUTIFIER
 
 
-### GAFA Alternatives
-* https://degoogle.jmoore.dev/#mobile-applications-mobile-apps-installable-from-stores - Huge list of alternatives to Google products. Privacy tips, tricks, and links
-* https://degooglisons-internet.org/en/ - Alternatives to FAANG
-* https://www.accountkiller.com/en/home - AccountKiller collects direct links and deleting instructions to make account termination easy
+
 
 
 ### No-Code
 * https://www.spacebarcounter.net/no-code-revolution - See how NoCode is spreading around the world
 
 
-### Server
-* https://serversforhackers.com/ - Server Admin for Programmers. Learn the server tech you need for development and production. Eliminate the frustration of server configuration
 
 
 
@@ -1455,20 +1538,8 @@ Feel free to share and star
 * https://www.runpython.live/ - Run python on your web 
 
 
-### Linux
-* https://linuxjourney.com/ - Learn Linux
-* https://bellard.org/jslinux/ - Run Linux or other Operating Systems in your browser
-* https://os.directory/ - The platform emulates a linux distribution in your web browser
 
-
-
-### Git
-* https://rogerdudler.github.io/git-guide/ - simple guide for getting started with git
-
-
-
-
-## Coding Practice
+### Coding Practice
 * https://www.codewars.com/
 * https://www.hackerrank.com/dashboard 
 * https://leetcode.com/
@@ -1476,25 +1547,10 @@ Feel free to share and star
 * https://www.dailycodingproblem.com/
 
 
-### Documentation
-* https://nota-lang.org/ - Document Language for the Browser
 
 
-### Project Resources
-* https://www.madewithbubble.xyz/ - Curated tools
 
 
-### Cheat Sheets
-* https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/ - Cheat Sheets available for quick reference
-* https://devhints.io
-* https://gitsheet.wtf
-* https://overapi.com
-* https://grid.malven.co
-* https://cssreference.io
-* https://cheatography.com/
-* https://htmlcheatsheet.com
-* https://panthema.net/2013/sound-of-sorting/SoS-CheatSheet.pdf - The Sound of Sorting Algorithm 
-* https://www.pythoncheatsheet.org/ - Based on the book Automate the Boring Stuff with Python and many other sources
 
 
 
