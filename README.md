@@ -134,42 +134,46 @@ Feel free to share and star
       - [Thermodynamics](#thermodynamics)
     + [Electronics Engineering](#electronics-engineering)
   * [Web Development](#web-development)
+    + [Curated Websites](#curated-websites)
+    + [Web Dev Blogs](#web-dev-blogs)
+    + [Interview](#interview)
     + [Front-end](#front-end)
+        * [Front-end Cheat Sheet](#front-end-cheat-sheet)
+        * [Media Queries Cheat Sheet](#media-queries-cheat-sheet)
+        * [Bootstrap Cheat Sheet](#bootstrap-cheat-sheet)
       - [HTML](#html)
+        * [HTML Cheat Sheet](#html-cheat-sheet)
       - [CSS](#css)
+        * [CSS Cheat Sheet](#css-cheat-sheet)
       - [JavaScript](#javascript)
     + [Back-End](#back-end)
       - [APIs](#apis)
       - [SQL](#sql)
       - [RubyGems](#rubygems)
       - [Server](#server)
+      - [Data Science](#data-science)
     + [Web Analytics](#web-analytics)
   * [Web 3.0 Dev](#web-30-dev)
   * [Android Development](#android-development)
   * [Game Development](#game-development)
     + [Chess](#chess)
   * [Programming Languages](#programming-languages)
+      - [Programming Languages Cheat Sheet](#programming-languages-cheat-sheet)
     + [Python](#python)
     + [Coding Practice](#coding-practice)
+  * [Linux](#linux)
+  * [Git](#git)
+    + [GitHub](#github)
   * [Softwares](#softwares)
     + [Snippets](#snippets)
       - [Learn from snippets](#learn-from-snippets)
     + [Linters](#linters)
+    + [Carbon](#carbon)
     + [Regex](#regex)
     + [No-Code](#no-code)
     + [Open Source](#open-source)
     + [Documentation](#documentation)
   * [Cheat Sheets](#cheat-sheets)
-    + [Programming Languages And Frameworks](#programming-languages-and-frameworks)
-    + [Git](#git)
-    + [Front-end](#front-end-1)
-      - [Media Queries](#media-queries)
-      - [Bootstrap](#bootstrap)
-      - [CSS](#css-1)
-      - [HTML](#html-1)
-    + [Linux](#linux)
-    + [Git](#git-1)
-    + [GitHub](#github)
   * [How To Ask A Good Question](#how-to-ask-a-good-question)
     + [XY Problem](#xy-problem)
   * [Health](#health)
@@ -194,9 +198,10 @@ Feel free to share and star
 
 ### Diagrams
 * https://creately.com/ - Data-connected Visual Workspace to brainstorm, plan, execute and capture knowledge
-* https://www.diagrams.net/ - Security-first diagramming for teams
+* https://www.diagrams.net/ - Security-first diagramming for teams (For [web](https://app.diagrams.net/) usage)
 * https://orgpad.com/?ref=producthunt (~$) - Interactive online mindmap 
 * https://www.lucidchart.com/pages/ (~$) - Diagramming and flowchart app that brings teams together to make better decisions and build the future
+  
 
 
 
@@ -243,6 +248,7 @@ Feel free to share and star
 * https://titlecase.com/ - Cenvert a text into all kinds of cases
 * https://lingojam.com/FancyTextGenerator - Cenvert a text into all kinds of fonts
 * https://www.calligraphr.com/en/ - Transform your handwriting or calligraphy into a font
+* http://dongerlist.com/ - Set of unicode characters assembled to form a text emoticon
 
 
 
@@ -266,7 +272,7 @@ Feel free to share and star
 
 
 ### Search
-* https://neeva.com/ (~$) - World’s first ad-free, private search engine
+* https://neeva.com/ (~$) - Ad-free, private search engine
 * https://andisearch.com/ - Ad-free and anonymous searching
 * https://plex.page/ - Search summarization tool
 * https://unlistedvideos.com/ - For submitting, searching for, and watching unlisted YouTube videos. No registration required
@@ -301,7 +307,8 @@ Feel free to share and star
 * https://burnermail.io/ - Hide your personal email address, control who can send you emails, and generate new burners with one click
 * https://www.security.org/security-score/ - Learn about your security score
 * https://www.startpage.com/ - Get privacy protection across the web. Extension for instant tracker blocking & more
-* https://cookiepedia.co.uk/ - Largest database of pre-categories cookies and online tracking technologies.
+* https://cookiepedia.co.uk/ - Largest database of pre-categories cookies and online tracking technologies
+* https://proton.me/ - Encrypted mail, calendar, drive, vpn
 
 
 
@@ -993,6 +1000,7 @@ Feel free to share and star
 * https://www.pexels.com/
 * https://unsplash.com/
 * https://www.freeimages.com/ 
+* https://pixabay.com/ - high quality stock images, videos and music shared by our talented community
 * https://www.pngguru.in/ - Free PNG Images, Background, And Template
 * https://www.pond5.com/free - Free Stock Videos, Photos, and Music
 * https://www.critter.pics/ - Critter pictures
@@ -1256,6 +1264,7 @@ Feel free to share and star
 ### Electronics Engineering
 * https://www.electrical4u.com/ - Learn Electrical Engineering
 * https://www.electronics-tutorials.ws/
+* https://octopart.com/ - Electronic parts 
 
 
 
@@ -1267,8 +1276,8 @@ Feel free to share and star
 
 
 ## Web Development
+* https://roadmap.sh/ - Roadmaps of development areas
 * https://webdevhome.github.io/
-* https://tech-blogs.dev/ - List of Awesome Tech Blogs
 * https://web-dev-resources.com/#/ - Awesome Web Development Resources 
 * https://www.mailinator.com/ (~$) - Mailinator allows Developers and QA Testing teams to automatically test their SMS and Email workflows like 2FA verifications, sign-ups, and password resets with trillions of inboxes at your fingertips. Whether you do Manual Testing, use an API, or a framework like Selenium, Cypress, Playwright, or Puppeteer - Mailinator will close the loop on email/SMS testing
 * https://bbcmic.ro/ - Basic editor from BBC
@@ -1276,7 +1285,7 @@ Feel free to share and star
 * https://www.w3.org/ - Makes it possible to use Web technologies with different languages, scripts, and cultures
 * https://super-static-assets.s3.amazonaws.com/bc2689f0-a124-4777-93dc-416ee1aa4858/images/7db6532c-14f1-4c51-a337-b3021a7293bf.svg - Timeline of web browsers till 2019
 * https://ishoudinireadyyet.com/
-* [MiXLab](https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb#scrollTo=e-0yDs4C0HkB) - Mixture of Google Colab notebooks found on github
+
 * https://www.auxiliary.tools/ - AI experiments and tools for humans
 * https://www.artillery.io/ - Modern load testing & smoke testing for SRE and DevOps
 * https://rentry.org/ - Markdown pastebin service with preview, custom urls and editing. Fast, simple and free (Your entries will be kept forever)
@@ -1300,6 +1309,19 @@ Feel free to share and star
 
 
 
+### Curated Websites
+* https://free-for.dev/#/ - List of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers
+
+
+
+### Web Dev Blogs
+* https://tech-blogs.dev/ - List of Awesome Tech Blogs
+
+
+
+### Interview
+* https://www.techinterviewhandbook.org/ - Free curated interview preparation materials
+
 
 
 
@@ -1314,12 +1336,36 @@ Feel free to share and star
 * https://htmldog.com/ - Everything about HTML, CSS, and JavaScript
 * https://learn.shayhowe.com/ - Learn to Code HTML & CSS
 * https://thisthat.dev/ - What is the difference between ___ and ___ in the front-end development?
+* https://know-it-all.io/ - List of what you know and what you don't about web development
+
+##### Front-end Cheat Sheet
+* https://caniuse.com/ 
+* https://easings.net/en# - Specify the rate of change of a parameter over time
+* https://webcode.tools/ - Code generators to help you with your front-end web projects
+
+
+##### Media Queries Cheat Sheet
+* https://uxpin.s3.amazonaws.com/responsive_web_design_cheatsheet.pdf - Responsive web design 
+* https://mac-blog.org.ua/css-3-media-queries-cheat-sheet - Media Queries Cheat Sheet
+
+
+##### Bootstrap Cheat Sheet
+* https://bootsnipp.com/ - Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework
+* https://hackerthemes.com/bootstrap-cheatsheet/ - Bootstrap framework
+* https://hackerthemes.com/ - UI/UX based on Bootstrap
+
 
 
 #### HTML
 * https://htmlreference.io/ - Free guide to HTML. It features all elements and attributes
 * https://htmlmail.pro/ - Create and send beautiful HTML emails, or save in Gmail drafts (Email services like Gmail and Outlook support rich HTML emails but they do not offer an option to compose email messages directly using HTML and CSS markup)
 * https://tailwindcss.com/ - Rapidly build modern websites without ever leaving your HTML
+
+##### HTML Cheat Sheet
+* https://htmlcheatsheet.com
+* http://html5doctor.com/element-index/ - Quick reference of elements that are new or have been redefined in HTML5
+* https://simon.html5.org/dump/html5-canvas-cheat-sheet.html
+* http://apps.workflower.fi/vocabs/html/en#children - html vocabulary
 
 
 #### CSS
@@ -1328,12 +1374,24 @@ Feel free to share and star
 * https://css-tricks.com/ - Web design community powered by Digital Ocean
 
 
+##### CSS Cheat Sheet
+* https://cssreference.io
+* https://grid.malven.co
+* http://www.justinaguilar.com/animations/
+* https://alialaa.github.io/css-grid-cheat-sheet/
+
+
 #### JavaScript
 * https://thecodingcards.com/ ($) - JavaScript & Data Structures Flashcards. Essential Coding Concepts with Syntax and Examples
 * https://standardjs.com/ - JavaScript style guide, linter, and formatter
 * https://mbeaudru.github.io/modern-js-cheatsheet/ - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects
+* https://jsonplaceholder.typicode.com/ - Free fake API for testing and prototyping
+* https://marozed.com/vue-cheatsheet/ - Vue.js cheat sheet
 
 
+
+* https://jsbin.com/ - Open source collaborative web development debugging tool
+* https://www.toptal.com/developers/keycode - JavaScript Event Keycode Info
 
 
 
@@ -1347,6 +1405,7 @@ Feel free to share and star
 
 #### APIs
 * https://publicapis.dev/ - Discover public APIs
+* https://github.com/public-apis/public-apis - Collective list of free APIs for use in software and web development
 
 
 #### SQL
@@ -1361,6 +1420,9 @@ Feel free to share and star
 * https://serversforhackers.com/ - Server Admin for Programmers. Learn the server tech you need for development and production. Eliminate the frustration of server configuration
 
 
+
+#### Data Science
+* http://www.datatau.com/news - Hackernews but for data
 
 
 
@@ -1395,9 +1457,6 @@ Feel free to share and star
 
 
 
-
-
-
 ## Web 3.0 Dev
 * https://web3isgoinggreat.com/ - Track some examples of how things in the blockchains/crypto/web3 technology space aren't actually going as well as its proponents might like you to believe. The timeline tracks events in cryptocurrency and blockchain-based technologies, dating back to the beginning of 2021
 
@@ -1422,9 +1481,6 @@ Feel free to share and star
 
 
 
-
-
-
 ## Game Development
 * https://itch.io/ - Simple way to find and share indie games online for free
 * https://www.systemrequirementslab.com/cyri - System Requirements Lab analyzes your computer in just seconds, and it's FREE
@@ -1440,16 +1496,19 @@ Feel free to share and star
 
 
 
-
-
-
-
-
 ## Programming Languages
 * https://theia-ide.org/ - Flexible and Extensible Cloud & Desktop IDE Platform. Efficiently develop and deliver Cloud & Desktop IDEs and tools with modern web technologies
 * https://learnxinyminutes.com/ - Take a whirlwind tour of your next favorite language
 * https://ecomputernotes.com/ - Learning Resource for Online Education
 * https://libraries.io/ - Find new open source packages, modules and frameworks and keep track of ones you depend upon
+
+
+
+
+#### Programming Languages Cheat Sheet
+* https://lecoupa.github.io/awesome-cheatsheets/
+* https://overapi.com/ 
+
 
 
 ### Python
@@ -1463,6 +1522,7 @@ Feel free to share and star
 * https://www.majyori.com/
 * https://miguendes.me/
 * https://www.runpython.live/ - Run python on your web 
+* https://awesome-python.com/ - Curated list of awesome Python frameworks, libraries, software and resources
 
 
 
@@ -1473,6 +1533,36 @@ Feel free to share and star
 * https://javascriptquiz.com/
 * https://www.dailycodingproblem.com/
 * https://www.codeply.com/ - Free online editor that includes dozens of frameworks, starter templates, and over 50,000 code snippets
+
+
+
+
+
+## Linux
+* https://linuxjourney.com/ - Learn Linux
+* https://bellard.org/jslinux/ - Run Linux or other Operating Systems in your browser
+* https://os.directory/ - The platform emulates a linux distribution in your web browser
+* https://ss64.com/ - Reference guide containing syntax and examples for the most prevalent computing commands (Database and Operating System)
+* https://ss64.com/bash/syntax-keyboard.html - For bash
+* https://ubuntu.com/tutorials/command-line-for-beginners#1-overview - Linux command line for beginners
+* https://vim.rtorr.com/ - Vim cheat sheet
+
+
+
+
+## Git
+* https://rogerdudler.github.io/git-guide/ - simple guide for getting started with git
+* https://gitsheet.wtf
+* [MiXLab](https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb#scrollTo=e-0yDs4C0HkB) - Mixture of Google Colab notebooks found on github
+
+
+
+### GitHub
+* https://gitstalk.netlify.app/ - Discover who's upto what on github
+* https://gitexplorer.com/ - Find the right commands you need without digging through the web
+* https://gitstats.me/ - Open-source GitHub contribution analyzer
+* https://gitcoin.co/ - Platform where you get paid to work on open source software in Python, Rust, Ruby, JavaScript, Solidity, HTML, CSS, Design, and more
+* https://ohshitgit.com/ 
 
 
 
@@ -1489,6 +1579,7 @@ Feel free to share and star
 * https://guacamole.apache.org/ - Clientless (no plugins or client software are required) remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH
 * https://dockerswarm.rocks/ - Deploy your application stacks to production, in a distributed cluster, using the same files used by Docker Compose locally
 * https://www.easycron.com/ (~$) - Online cron job service
+* https://cdecl.org/ - C gibberish to English
 
 
 
@@ -1521,8 +1612,6 @@ Feel free to share and star
 * https://jsonlint.com/ - Validator and reformatter for JSON, a lightweight data-interchange format. Copy and paste, directly type, or input a URL in the editor above and let JSONLint tidy and validate your messy JSON code
 * https://algorithm-visualizer.org/ - Interactive online platform that visualizes algorithms from code
 * https://codebeautify.org/ - Code Formatter, JSON Beautifier, XML Viewer, Hex Converters and more
-* https://crontab.guru/ - The quick and simple editor for cron schedule expressions
-* https://crontab-generator.org/ - Generate crontab syntax
 * https://explainshell.com/ - Write down a command-line to see the help text that matches each argument
 * http://showthedocs.com/ - Documentation browser that finds the relevant docs for your code
 * https://mango-slra1-ckwssph7iq-ue.a.run.app/readme - Technique to interpret specifications and automatically identify defects such as logical contradictions, over-complexity and inconsistency of entity names
@@ -1532,9 +1621,20 @@ Feel free to share and star
 * http://codepad.org/ - Online compiler/interpreter, and a simple collaboration tool. Paste your code, and codepad will run it and give you a short URL
 
 
+
+### Carbon
+* https://crontab.guru/ - The quick and simple editor for cron schedule expressions
+* https://crontab-generator.org/ - Generate crontab syntax
+* https://carbon.now.sh/
+
+
+
 ### Regex
 * https://dev.to/emmabostian/regex-cheat-sheet-2j2a - Regex cheat sheet
 * https://regexr.com/ - Online tool to learn, build, & test Regular Expressions (RegEx / RegExp)
+* https://jex.im/regulex/ - JavaScript Regular Expression Visualizer
+* https://regex101.com/ 
+* https://www.debuggex.com/ - 
 
 
 
@@ -1562,80 +1662,6 @@ Feel free to share and star
 * https://panthema.net/2013/sound-of-sorting/SoS-CheatSheet.pdf - The Sound of Sorting Algorithm 
 * https://www.pythoncheatsheet.org/ - Based on the book Automate the Boring Stuff with Python and many other sources
 * https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/ - General IT Security
-
-
-
-### Programming Languages And Frameworks
-* https://lecoupa.github.io/awesome-cheatsheets/
-* https://overapi.com/ 
-* https://marozed.com/vue-cheatsheet/ - Vue.js
-
-
-### Git
-* https://gitsheet.wtf
-
-
-### Front-end
-* https://caniuse.com/ 
-* https://easings.net/en# - Specify the rate of change of a parameter over time
-* https://webcode.tools/ - Code generators to help you with your front-end web projects
-
-
-#### Media Queries
-* https://uxpin.s3.amazonaws.com/responsive_web_design_cheatsheet.pdf - Responsive web design 
-* https://mac-blog.org.ua/css-3-media-queries-cheat-sheet - Media Queries Cheat Sheet
-
-
-#### Bootstrap
-* https://bootsnipp.com/ - Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework
-* https://hackerthemes.com/bootstrap-cheatsheet/ - Bootstrap framework
-* https://hackerthemes.com/ - UI/UX based on Bootstrap
-
-#### CSS
-* https://cssreference.io
-* https://grid.malven.co
-* http://www.justinaguilar.com/animations/
-* https://alialaa.github.io/css-grid-cheat-sheet/
-
-
-#### HTML
-* https://htmlcheatsheet.com
-* http://html5doctor.com/element-index/ - Quick reference of elements that are new or have been redefined in HTML5
-* https://simon.html5.org/dump/html5-canvas-cheat-sheet.html
-* http://apps.workflower.fi/vocabs/html/en#children - html vocabulary
-
-
-
-
-
-### Linux
-* https://linuxjourney.com/ - Learn Linux
-* https://bellard.org/jslinux/ - Run Linux or other Operating Systems in your browser
-* https://os.directory/ - The platform emulates a linux distribution in your web browser
-* https://ss64.com/ - Reference guide containing syntax and examples for the most prevalent computing commands (Database and Operating System)
-* https://ss64.com/bash/syntax-keyboard.html - For bash
-* https://ubuntu.com/tutorials/command-line-for-beginners#1-overview - Linux command line for beginners
-
-
-### Git
-* https://rogerdudler.github.io/git-guide/ - simple guide for getting started with git
-
-
-### GitHub
-* https://gitstalk.netlify.app/ - Discover who's upto what on github
-* https://gitexplorer.com/ - Find the right commands you need without digging through the web
-* https://gitstats.me/ - Open-source GitHub contribution analyzer
-* https://gitcoin.co/ - Platform where you get paid to work on open source software in Python, Rust, Ruby, JavaScript, Solidity, HTML, CSS, Design, and more
-* https://ohshitgit.com/ 
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1670,14 +1696,11 @@ Feel free to share and star
 
 
 ## Health
-* https://apps.npr.org/joy-generator/#story=intro&page=0 - Some ideas to help you tap into positive emotions, online and offline
 * https://musclewiki.com/ - Learn about your body and muscles
-* http://bitesize.io/ - Learn how to apply psychology based tips and notions in your daily life
 * https://jinay.dev/just-a-minute/ - To test your chronoception (sene of passing time)
 * https://www.futureme.org/ - Write a Letter to your future self 
 * https://strobe.cool/ - Create visual stimuli
 * https://untools.co/ - Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems
-* https://www.7cups.com/ - Connects you to caring listeners for free emotional support
 * https://www.puzzle-loop.com/ - Logic puzzles with simple rules and challenging solutions
 * https://guzey.com/personal/what-should-you-do-with-your-life/ - What Should You Do with Your Life? Directions and Advice
 
