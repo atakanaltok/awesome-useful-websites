@@ -1179,7 +1179,6 @@ Feel free to share and star
 ### Mechanical Engineering
 * http://507movements.com/toc.html - Animated Mechanical Movements
 * http://www.madehow.com/ - Explains and details the manufacturing process of a wide variety of products
-* https://ctms.engin.umich.edu/CTMS/index.php?aux=Home
 * https://temple.manifoldapp.org/projects/structural-analysis - Comprehensive Structural Analysis Book
 * https://calcresource.com/resources.html - Regularly updated list of resources on mechanics and statics
 * https://www.engineersedge.com/ - Articles and resources on structural and mechanical engineering topics
@@ -1222,7 +1221,7 @@ Feel free to share and star
 
 
 
-## Developer
+## Web Development
 * https://webdevhome.github.io/
 * https://tech-blogs.dev/ - List of Awesome Tech Blogs
 * https://web-dev-resources.com/#/ - Awesome Web Development Resources 
@@ -1232,12 +1231,9 @@ Feel free to share and star
 * https://www.w3.org/ - Makes it possible to use Web technologies with different languages, scripts, and cultures
 * https://super-static-assets.s3.amazonaws.com/bc2689f0-a124-4777-93dc-416ee1aa4858/images/7db6532c-14f1-4c51-a337-b3021a7293bf.svg - Timeline of web browsers till 2019
 * https://ishoudinireadyyet.com/
-* https://thisthat.dev/ - What is the difference between ___ and ___ in the front-end development?
 * [MiXLab](https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb#scrollTo=e-0yDs4C0HkB) - Mixture of Google Colab notebooks found on github
 * https://www.auxiliary.tools/ - AI experiments and tools for humans
 * https://www.artillery.io/ - Modern load testing & smoke testing for SRE and DevOps
-
-
 * https://rentry.org/ - Markdown pastebin service with preview, custom urls and editing. Fast, simple and free (Your entries will be kept forever)
 * https://ide.onelang.io/ - For converting code from one programming language to another
 
@@ -1249,88 +1245,21 @@ Feel free to share and star
 * https://projectsinnetworking.com/ - Networking Projects, Network Security Projects, Cyber Security case studies, projects and source code for students, engineering graduates and professionals along with detailed reports. The site also contains ideas and topics for projects, research papers, assignments, and presentation in computer networking and security domain
 * (https://jvns.ca/blog/)[https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/] - A list of new(ish) command line tools
 
-
-
-
-### Open Source
-* https://awesomeopensource.com/ - Find Open Source By Searching, Browsing and Combining 170,950 Topics Across 59 Categories And 5,851,571 Projects
-
-
-
-
-
-### Documentation
-* https://nota-lang.org/ - Document Language for the Browser
-
-
-
-
-### Cheat Sheets
-* https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/ - Cheat Sheets available for quick reference
-* https://devhints.io
-* https://gitsheet.wtf
-* https://overapi.com
-* https://grid.malven.co
-* https://cssreference.io
-* https://cheatography.com/
-* https://htmlcheatsheet.com
-* https://panthema.net/2013/sound-of-sorting/SoS-CheatSheet.pdf - The Sound of Sorting Algorithm 
-* https://www.pythoncheatsheet.org/ - Based on the book Automate the Boring Stuff with Python and many other sources
-
-
-### Linux
-* https://linuxjourney.com/ - Learn Linux
-* https://bellard.org/jslinux/ - Run Linux or other Operating Systems in your browser
-* https://os.directory/ - The platform emulates a linux distribution in your web browser
-* https://ss64.com/ - Reference guide containing syntax and examples for the most prevalent computing commands (Database and Operating System)
-* https://ss64.com/bash/syntax-keyboard.html - For bash
-
-
-### Git
-* https://rogerdudler.github.io/git-guide/ - simple guide for getting started with git
-
-
-
-
-
-
-### GitHub
-* https://gitstalk.netlify.app/ - Discover who's upto what on github
-* https://gitexplorer.com/ - Find the right commands you need without digging through the web
-* https://gitstats.me/ - Open-source GitHub contribution analyzer
-* https://gitcoin.co/ - Platform where you get paid to work on open source software in Python, Rust, Ruby, JavaScript, Solidity, HTML, CSS, Design, and more
-* https://ohshitgit.com/ 
-
-
-
-
-
-
-
-## Web 3.0 Dev
-* https://dappradar.com/ - Discover, Track & Trade Everything DeFi, NFT and Gaming
-* https://www.defipulse.com/ - DeFi list
-
-
-
-
-
-
-
-
-## Web Dev
 * https://toolkit.addy.codes/ - 657 hand-picked tools & resources for web designers & developers
 * https://visbug.web.app/ - Open Source Browser Design Tools
-* https://webdesignrepo.com/ - Links to sources
+* https://webdesignrepo.com/ 
 * https://web.dev/learn
 * https://devopedia.org/ 
 * https://www.madewithbubble.xyz/ - Discover cool apps and websites made with bubble
+* https://www.internetingishard.com/ - Friendly web development tutorials for complete beginners
+
+
+
 
 
 
 ### Front-end
 * https://www.caniemail.com/
-* https://caniuse.com/
 * https://www.eggradients.com/ - Gradient Background Colors
 * https://frontendchecklist.io/ - Exhaustive list of all elements you need to have / to test before launching your website / HTML page to production
 * https://www.frontendmentor.io/ - Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs
@@ -1339,6 +1268,7 @@ Feel free to share and star
 * https://developer.mozilla.org/en-US/ - Documenting web technologies, including CSS, HTML, and JavaScript
 * https://htmldog.com/ - Everything about HTML, CSS, and JavaScript
 * https://learn.shayhowe.com/ - Learn to Code HTML & CSS
+* https://thisthat.dev/ - What is the difference between ___ and ___ in the front-end development?
 
 
 #### HTML
@@ -1356,6 +1286,11 @@ Feel free to share and star
 #### JavaScript
 * https://thecodingcards.com/ ($) - JavaScript & Data Structures Flashcards. Essential Coding Concepts with Syntax and Examples
 * https://standardjs.com/ - JavaScript style guide, linter, and formatter
+* https://mbeaudru.github.io/modern-js-cheatsheet/ - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects
+
+
+
+
 
 
 
@@ -1418,13 +1353,12 @@ Feel free to share and star
 
 
 
-## Web3
+## Web 3.0 Dev
 * https://web3isgoinggreat.com/ - Track some examples of how things in the blockchains/crypto/web3 technology space aren't actually going as well as its proponents might like you to believe. The timeline tracks events in cryptocurrency and blockchain-based technologies, dating back to the beginning of 2021
 
 * https://andersbrownworth.com/blockchain/coinbase - Blockchain Demo
-
-
-
+* https://dappradar.com/ - Discover, Track & Trade Everything DeFi, NFT and Gaming
+* https://www.defipulse.com/ - DeFi list
 
 
 
@@ -1463,58 +1397,6 @@ Feel free to share and star
 
 
 
-## Software
-* https://oldergeeks.com/ - Software download site without ads, misleading download links or annoyances. This site is 100% supported by donations
-* https://alternativeto.net/ - Best alternatives of popular softwares
-* https://localstack.cloud/ - Develop and test your cloud and serverless apps offline
-* https://markwhen.com/ - Markwhen is a text-to-timeline tool. You write markdown-ish text and it gets converted into a nice looking cascading timeline
-* https://asciinema.org/ - Record and share your terminal sessions. Purely text-based approach to terminal recording
-* https://guacamole.apache.org/ - Clientless (no plugins or client software are required) remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH
-* https://dockerswarm.rocks/ - Deploy your application stacks to production, in a distributed cluster, using the same files used by Docker Compose locally
-* https://www.easycron.com/ (~$) - Online cron job service
-
-
-
-
-### Snippets
-* https://codeclippet.com/ - Allows you to stop storing code snippets within text files and start sharing them with others, around a community focused environment
-* https://kod.so/ - Create visual snippets, you can also download and share
-
-
-
-
-### Linters
-* https://www.fromlatest.io/#/ - Dockerfile linter
-* http://www.yamllint.com/ - Paste in your YAML and click "Go" - we'll tell you if it's valid or not, and give you a nice clean UTF-8 version of it. Optimized for Ruby
-* https://k8syaml.com/ - Kubernetes YAML Generator
-* https://validate.puppet.com/ - Check the validity of your Puppet code (only validates syntax and doesn't actually compile or enforce a catalog)
-* https://www.shellcheck.net/ - Finds bugs in your shell scripts
-* https://regexr.com/ - Online tool to learn, build, & test Regular Expressions (RegEx / RegExp)
-* https://beautifier.io/ - Beautify, unpack or deobfuscate JavaScript and HTML, make JSON/JSONP readable, etc.
-* https://jsonlint.com/ - Validator and reformatter for JSON, a lightweight data-interchange format. Copy and paste, directly type, or input a URL in the editor above and let JSONLint tidy and validate your messy JSON code
-* https://algorithm-visualizer.org/ - Interactive online platform that visualizes algorithms from code
-* https://codebeautify.org/ - Code Formatter, JSON Beautifier, XML Viewer, Hex Converters and more
-* https://crontab.guru/ - The quick and simple editor for cron schedule expressions
-* https://crontab-generator.org/ - Generate crontab syntax
-* https://explainshell.com/ - Write down a command-line to see the help text that matches each argument
-* http://showthedocs.com/ - Documentation browser that finds the relevant docs for your code
-* https://mango-slra1-ckwssph7iq-ue.a.run.app/readme - Technique to interpret specifications and automatically identify defects such as logical contradictions, over-complexity and inconsistency of entity names
-* https://freecodetools.org/minifier/ - CODE MINIFIER
-* https://freecodetools.org/markdown-preview/ - 
-* https://freecodetools.org/beautifier/ - CODE BEAUTIFIER
-
-
-
-
-
-### No-Code
-* https://www.spacebarcounter.net/no-code-revolution - See how NoCode is spreading around the world
-
-
-
-
-
-
 
 
 
@@ -1545,6 +1427,167 @@ Feel free to share and star
 * https://leetcode.com/
 * https://javascriptquiz.com/
 * https://www.dailycodingproblem.com/
+* https://www.codeply.com/ - Free online editor that includes dozens of frameworks, starter templates, and over 50,000 code snippets
+
+
+
+
+
+
+
+## Softwares
+* https://oldergeeks.com/ - Software download site without ads, misleading download links or annoyances. This site is 100% supported by donations
+* https://alternativeto.net/ - Best alternatives of popular softwares
+* https://localstack.cloud/ - Develop and test your cloud and serverless apps offline
+* https://markwhen.com/ - Markwhen is a text-to-timeline tool. You write markdown-ish text and it gets converted into a nice looking cascading timeline
+* https://asciinema.org/ - Record and share your terminal sessions. Purely text-based approach to terminal recording
+* https://guacamole.apache.org/ - Clientless (no plugins or client software are required) remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH
+* https://dockerswarm.rocks/ - Deploy your application stacks to production, in a distributed cluster, using the same files used by Docker Compose locally
+* https://www.easycron.com/ (~$) - Online cron job service
+
+
+
+
+### Snippets
+* https://codeclippet.com/ - Allows you to stop storing code snippets within text files and start sharing them with others, around a community focused environment
+* https://kod.so/ - Create visual snippets, you can also download and share
+
+
+#### Learn from snippets
+* https://codemyui.com/ - Web Design & UI Inspiration with Code Snippets
+* https://www.30secondsofcode.org/list/p/1 - Curated collection of short code snippets for all your development needs
+* https://www.w3schools.com/howto/default.asp - Code snippets for HTML, CSS and JavaScript
+* https://snipplr.com/ - you can keep all of your frequently used code snippets in one place that's accessible from any computer. You can share your code with other visitors and use what they post, too
+* https://littlesnippets.net/
+* https://codetogo.io/ - Find up to date snippets for JavaScript & React use cases
+* https://tweetsnippet.com/ - Curated list of tips and tricks from Twitter
+* https://css-tricks.com/snippets/ - 
+
+
+
+
+### Linters
+* https://www.fromlatest.io/#/ - Dockerfile linter
+* http://www.yamllint.com/ - Paste in your YAML and click "Go" - we'll tell you if it's valid or not, and give you a nice clean UTF-8 version of it. Optimized for Ruby
+* https://k8syaml.com/ - Kubernetes YAML Generator
+* https://validate.puppet.com/ - Check the validity of your Puppet code (only validates syntax and doesn't actually compile or enforce a catalog)
+* https://www.shellcheck.net/ - Finds bugs in your shell scripts
+* https://beautifier.io/ - Beautify, unpack or deobfuscate JavaScript and HTML, make JSON/JSONP readable, etc.
+* https://jsonlint.com/ - Validator and reformatter for JSON, a lightweight data-interchange format. Copy and paste, directly type, or input a URL in the editor above and let JSONLint tidy and validate your messy JSON code
+* https://algorithm-visualizer.org/ - Interactive online platform that visualizes algorithms from code
+* https://codebeautify.org/ - Code Formatter, JSON Beautifier, XML Viewer, Hex Converters and more
+* https://crontab.guru/ - The quick and simple editor for cron schedule expressions
+* https://crontab-generator.org/ - Generate crontab syntax
+* https://explainshell.com/ - Write down a command-line to see the help text that matches each argument
+* http://showthedocs.com/ - Documentation browser that finds the relevant docs for your code
+* https://mango-slra1-ckwssph7iq-ue.a.run.app/readme - Technique to interpret specifications and automatically identify defects such as logical contradictions, over-complexity and inconsistency of entity names
+* https://freecodetools.org/minifier/ - CODE MINIFIER
+* https://freecodetools.org/markdown-preview/ - 
+* https://freecodetools.org/beautifier/ - CODE BEAUTIFIER
+* http://codepad.org/ - Online compiler/interpreter, and a simple collaboration tool. Paste your code, and codepad will run it and give you a short URL
+
+
+### Regex
+* https://dev.to/emmabostian/regex-cheat-sheet-2j2a - Regex cheat sheet
+* https://regexr.com/ - Online tool to learn, build, & test Regular Expressions (RegEx / RegExp)
+
+
+
+### No-Code
+* https://www.spacebarcounter.net/no-code-revolution - See how NoCode is spreading around the world
+
+
+### Open Source
+* https://awesomeopensource.com/ - Find Open Source By Searching, Browsing and Combining 170,950 Topics Across 59 Categories And 5,851,571 Projects
+
+
+### Documentation
+* https://nota-lang.org/ - Document Language for the Browser
+
+
+
+
+
+
+
+
+## Cheat Sheets
+* https://devhints.io
+* https://cheatography.com/
+* https://panthema.net/2013/sound-of-sorting/SoS-CheatSheet.pdf - The Sound of Sorting Algorithm 
+* https://www.pythoncheatsheet.org/ - Based on the book Automate the Boring Stuff with Python and many other sources
+* https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/ - General IT Security
+
+
+
+### Programming Languages And Frameworks
+* https://lecoupa.github.io/awesome-cheatsheets/
+* https://overapi.com/ 
+* https://marozed.com/vue-cheatsheet/ - Vue.js
+
+
+### Git
+* https://gitsheet.wtf
+
+
+### Front-end
+* https://caniuse.com/ 
+* https://easings.net/en# - Specify the rate of change of a parameter over time
+* https://webcode.tools/ - Code generators to help you with your front-end web projects
+
+
+#### Media Queries
+* https://uxpin.s3.amazonaws.com/responsive_web_design_cheatsheet.pdf - Responsive web design 
+* https://mac-blog.org.ua/css-3-media-queries-cheat-sheet - Media Queries Cheat Sheet
+
+
+#### Bootstrap
+* https://bootsnipp.com/ - Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework
+* https://hackerthemes.com/bootstrap-cheatsheet/ - Bootstrap framework
+* https://hackerthemes.com/ - UI/UX based on Bootstrap
+
+#### CSS
+* https://cssreference.io
+* https://grid.malven.co
+* http://www.justinaguilar.com/animations/
+* https://alialaa.github.io/css-grid-cheat-sheet/
+
+
+#### HTML
+* https://htmlcheatsheet.com
+* http://html5doctor.com/element-index/ - Quick reference of elements that are new or have been redefined in HTML5
+* https://simon.html5.org/dump/html5-canvas-cheat-sheet.html
+* http://apps.workflower.fi/vocabs/html/en#children - html vocabulary
+
+
+
+
+
+### Linux
+* https://linuxjourney.com/ - Learn Linux
+* https://bellard.org/jslinux/ - Run Linux or other Operating Systems in your browser
+* https://os.directory/ - The platform emulates a linux distribution in your web browser
+* https://ss64.com/ - Reference guide containing syntax and examples for the most prevalent computing commands (Database and Operating System)
+* https://ss64.com/bash/syntax-keyboard.html - For bash
+* https://ubuntu.com/tutorials/command-line-for-beginners#1-overview - Linux command line for beginners
+
+
+### Git
+* https://rogerdudler.github.io/git-guide/ - simple guide for getting started with git
+
+
+### GitHub
+* https://gitstalk.netlify.app/ - Discover who's upto what on github
+* https://gitexplorer.com/ - Find the right commands you need without digging through the web
+* https://gitstats.me/ - Open-source GitHub contribution analyzer
+* https://gitcoin.co/ - Platform where you get paid to work on open source software in Python, Rust, Ruby, JavaScript, Solidity, HTML, CSS, Design, and more
+* https://ohshitgit.com/ 
+
+
+
+
+
+
 
 
 
