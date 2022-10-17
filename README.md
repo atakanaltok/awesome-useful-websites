@@ -33,19 +33,10 @@ Feel free to share and star
     + [Mind Map / Note Taking](#mind-map---note-taking)
     + [Keyboard](#keyboard)
     + [Texts](#texts)
-    + [Disposable Email](#disposable-email)
+    + [Emails](#emails)
+      - [Disposable Email](#disposable-email)
     + [Search](#search)
     + [Automating browser](#automating-browser)
-    + [Privacy](#privacy)
-    + [GAFA Alternatives](#gafa-alternatives)
-      - [Data Breach](#data-breach)
-      - [Internet](#internet)
-      - [VPN](#vpn)
-      - [Fake Information](#fake-information)
-      - [Torrent](#torrent)
-      - [Password Generation](#password-generation)
-    + [URL](#url)
-      - [URL Shortener](#url-shortener)
     + [Bookmarks](#bookmarks)
     + [Comparision](#comparision)
     + [File](#file)
@@ -56,6 +47,17 @@ Feel free to share and star
     + [Time](#time)
     + [To Do](#to-do)
     + [Some Other Tools](#some-other-tools)
+  * [Privacy](#privacy)
+    + [Cryptography](#cryptography)
+    + [GAFA Alternatives](#gafa-alternatives)
+    + [Data Breach](#data-breach)
+    + [Internet](#internet)
+      - [URL](#url)
+        * [URL Shortener](#url-shortener)
+      - [VPN](#vpn)
+      - [Fake Information](#fake-information)
+      - [Torrent](#torrent)
+    + [Password Generation](#password-generation)
   * [DIY](#diy)
   * [Visual Entertainment](#visual-entertainment)
   * [Media](#media)
@@ -88,10 +90,12 @@ Feel free to share and star
     + [Patents](#patents)
     + [Networking](#networking)
     + [Marketing](#marketing)
+      - [Office Programs](#office-programs)
     + [Trends](#trends)
     + [Creating Websites](#creating-websites)
     + [Meetings](#meetings)
   * [Jobs](#jobs)
+    + [Interview](#interview)
     + [Protfolio / CV / Resume](#protfolio---cv---resume)
     + [Careers](#careers)
   * [Economy](#economy)
@@ -99,6 +103,7 @@ Feel free to share and star
     + [Technology](#technology)
     + [Finding Ideas](#finding-ideas)
     + [Connectivity](#connectivity)
+      - [Must Reads](#must-reads)
     + [Productivity](#productivity)
     + [Design](#design)
       - [Color](#color)
@@ -132,11 +137,14 @@ Feel free to share and star
     + [Mechanical Engineering](#mechanical-engineering)
       - [Materials / Nanotechnology](#materials---nanotechnology)
       - [Thermodynamics](#thermodynamics)
+      - [Control](#control)
     + [Electronics Engineering](#electronics-engineering)
+    + [Computer Science](#computer-science)
+      - [A & DS](#a---ds)
+      - [Big-O notation](#big-o-notation)
   * [Web Development](#web-development)
     + [Curated Websites](#curated-websites)
     + [Web Dev Blogs](#web-dev-blogs)
-    + [Interview](#interview)
     + [Front-end](#front-end)
         * [Front-end Cheat Sheet](#front-end-cheat-sheet)
         * [Media Queries Cheat Sheet](#media-queries-cheat-sheet)
@@ -178,13 +186,12 @@ Feel free to share and star
     + [XY Problem](#xy-problem)
   * [Health](#health)
   * [Other Websites of Websites](#other-websites-of-websites)
-  * [Some Useful Blogs](#some-useful-blogs)
+  * [Useful Blogs](#useful-blogs)
 - [Contributing](#contributing)
 - [DISCLAIMER](#disclaimer)
 - [LICENSE](#license)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 
 
@@ -194,6 +201,8 @@ Feel free to share and star
 * https://infographicjournal.com/ - Infographic archive
 * https://d3js.org/ - JavaScript library for manipulating documents based on data
 * https://www.denizcemonduygu.com/ - Especially [this](https://www.denizcemonduygu.com/portfolio/the-history-of-philosophy/) interactive timeline of philosophical ideas
+* https://datavizcatalogue.com/index.html - Data Visualisation Catalogue
+* https://public.tableau.com/app/discover - Free platform to explore, create, and publicly share data visualizations online
 
 
 ### Diagrams
@@ -202,7 +211,8 @@ Feel free to share and star
 * https://orgpad.com/?ref=producthunt (~$) - Interactive online mindmap 
 * https://www.lucidchart.com/pages/ (~$) - Diagramming and flowchart app that brings teams together to make better decisions and build the future
   
-
+* https://learn-anything.xyz/ - Platform for organizing world's knowledge, explore connections and curate learning paths
+ 
 
 
 ## Tools
@@ -254,7 +264,14 @@ Feel free to share and star
 
 
 
-### Disposable Email
+### Emails
+* https://burnermail.io/ - Hide your personal email address, control who can send you emails, and generate new burners with one click
+* http://scr.im/ - Convert your email address into a short and safe link you can share on the web without becoming an easy spam target
+* https://kill-the-newsletter.com/ - Convert email newsletters into Atom feeds
+* https://www.deadmansswitch.net/ (~$) - Tool that sends your emails to your loved ones if you pass away
+
+
+#### Disposable Email
 * https://temp-mail.to/ - Free and reliable temporary email addresses with no registeration
 * https://erine.email/ - Anti-spam for your existing email address
 * https://maildrop.cc/ - Use Maildrop when you don't want to give out your real address
@@ -288,116 +305,7 @@ Feel free to share and star
 
 
 
-### Privacy
-* https://www.nothingprivate.ml/ - See why you are not anonymous by using private browsing mode or incognito mode (or you can directly read from [here](https://github.com/gautamkrishnar/nothing-private))
-* https://www.privacytools.io/ - Q: How much privacy do you want?  A: Yes
-* https://securityplanner.consumerreports.org/ ($) - Cut down on data collection and prevent hackers from invading your laptop, tablet and even your phone. Answer a few simple questions to get customized recommendations to help you
-* https://mywhisper.net/ - Text encryption tool, based on AES cryptography
-* https://beencrypted.com/ - To become more encrypted
-* https://prism-break.org/en/all/ - Private and safe alternatives of most used apps & services
-* https://www.reddit.com/r/piracy/wiki/megathread/tools - List of Apps / tools / web services
-* https://gitlab.com/tzkuat/Ressources - List of websites on different areas such as Security, OSINT, etc. 
-* https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/ - Privacy Tools List by CHEF-KOCH
-* https://github.com/arkenfox/user.js/wiki/4.1-Extensions - Privacy and security related extensions
-* https://privacy.net/analyzer/#pre-load 
-* https://shutuptrackers.com/ - Provides information for protecting your data security and privacy
-* https://ssd.eff.org/ - SURVEILLANCE SELF-DEFENSE: TIPS, TOOLS AND HOW-TOS FOR SAFER ONLINE COMMUNICATIONS
-* https://www.routerpasswords.com/ - Router Passwords is officially the most updated default router password repository on the internet
-* http://bugmenot.com/ - Find and share logins. Enter a website below to see if the bugmenot community has shared any logins for it
-* https://burnermail.io/ - Hide your personal email address, control who can send you emails, and generate new burners with one click
-* https://www.security.org/security-score/ - Learn about your security score
-* https://www.startpage.com/ - Get privacy protection across the web. Extension for instant tracker blocking & more
-* https://cookiepedia.co.uk/ - Largest database of pre-categories cookies and online tracking technologies
-* https://proton.me/ - Encrypted mail, calendar, drive, vpn
 
-
-
-### GAFA Alternatives
-* https://degoogle.jmoore.dev/#mobile-applications-mobile-apps-installable-from-stores - Huge list of alternatives to Google products. Privacy tips, tricks, and links
-* https://degooglisons-internet.org/en/ - Alternatives to FAANG
-* https://www.accountkiller.com/en/home - AccountKiller collects direct links and deleting instructions to make account termination easy
-
-
-
-#### Data Breach
-* https://haveibeenpwned.com/ - Check if your email or phone is in a data breach
-* https://tineye.com/ - Find where images appear online
-* https://ipleak.net/ - See the kind of information that all the sites you visit can see and collect about you
-* https://coveryourtracks.eff.org/ - Test your browser to see how well you are protected from tracking and fingerprinting
-* https://amifloced.org/ - Google is testing FLoC on Chrome users worldwide. Find out if you're one of them
-
-
-
-#### Internet
-* https://www.internetlivestats.com/ - Every statics of the internet
-* http://internet-map.net/ - The map of the Internet
-* https://test-ipv6.com/ - Test your IPv6 connectivity
-* https://kb.adguard.com/en/general/dns-providers - You can configure any DNS server to be used instead of the system default provided by the router or ISP
-* https://tls12.xargs.org/ - Every byte of a TLS connection is explained and reproduced
-* https://cidr.xyz/ - Interactive IP address and CIDR range visualizer
-* https://icanhazip.com/ - Only your IP address on the top os the page
-* https://iplocation.io/ - Provides you free location tracking of an entered IP Address. It tracks the IP's city, country, latitude, and longitude data instantly through various Geo IP Databases available in the market
-* https://ifconfig.co/ - Find your own IP address, and information about it
-* https://ipinfo.io/ (~$) - Accurate IP address data that keeps pace with secure, specific, and forward-looking use cases
-* https://dnschecker.org/ - Provides a free DNS lookup service to check Domain Name System records against a selected list of DNS servers located in multiple regions worldwide
-* https://www.davidc.net/sites/default/subnets/subnets.html - Visual Subnet Calculator 
-* https://howdns.works/ - Colorful explanation of how DNS works with comics
-
-
-#### VPN
-* https://www.top10vpn.com/
-* https://www.whatsmybrowser.org/
-* [docs.google.com/spreadsheets/vpn](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit#gid=231869418) - Detailed list of all vpns available with analysis and comparisons
-* https://njal.la/ ($) - Provides an encrypted tunnel from your computer to the Internet. We hide your real IP address behind one of ours
-
-
-
-#### Fake Information
-* https://www.fakenamegenerator.com/ - Generate fake profile information (names, addresses, phone numbers, etc., from 37 languages and 31 countries)
-* https://www.burnerapp.com/ ($) - Original second phone number app for calling and texting. With Burner, you can protect yourself from spam or junk calls, separate different types of contacts by phone number, and switch phone numbers
-* https://www.random.org/ (~$) - True Random Games and Lotteries, Numbers, Lists and Strings and Maps Generator
-
-
-#### Torrent
-* https://ahmia.fi/ - Searches hidden services on the Tor network (to access these hidden services, you need the Tor browser bundle)
-* https://webtorrent.io/ - Streaming torrent client for browser 
-* http://iknowwhatyoudownload.com/ - Torrent downloads and distributions for your IP address
-
-
-
-
-#### Password Generation
-* http://www.healthypasswords.com/index-2.html - Everything About Passwords and Internet Security
-* https://random-password-gen.web.app/
-* https://www.security.org/how-secure-is-my-password/ - Check How Secure Is Your Password. Entries are 100% secure and not stored in any way or shared with anyone
-* https://freecodetools.org/password-generator/
-
-
-
-### URL
-* https://shrtco.de/tools/ - URL tools
-* https://www.onelink.to/ - Link and QR code for your apps
-* https://freecodetools.org/qr-code-generator/ - QR generator
-* https://appopener.com/ - Create smart links to open desired apps from url without login
-* https://digital.com/best-web-hosting/who-is/ - Find Out Who is Hosting Any Domain in Seconds and learn about the web host, IP address, name servers and more
-* https://webhook.site/ - Inspect, test and automate (with the visual Custom Actions builder, or WebhookScript) any incoming HTTP request or e-mail
-* http://scr.im/ - Convert your email address into a short and safe link you can share on the web without becoming an easy spam target
-* https://goqr.me/ - High resolution QR codes, print quality
-* https://freecodetools.org/ogp/ - Open graph generator
-
-
-#### URL Shortener
-* https://cutr.ml/ 
-* https://is.gd/ 
-* http://gg.gg/ 
-* https://www.shrunken.com/
-* https://www.rebrandly.com/ (~$) - Link management platform to brand, track, and share short URLs using a custom domain name
-* https://bit.do/ - Get real-time traffic statistics for your links for free 
-* https://home.s.id/ - Link Shortener and Microsite builder
-* https://tinyurl.com/app - With optional short link ending
-* https://tiny.cc/ - With optional short link ending
-* https://bitly.com/ - web/mobile link management and campaign management analytics as well as branded links
-* https://iplogger.org/ - URL Shortener with advanced analytics for the traffic through your links, visitors on your online store, blog or website
 
 
 
@@ -501,16 +409,135 @@ Feel free to share and star
 * https://www.azurespeed.com/Azure/Latency - Many tools from Azure, Microsoft
 * https://willrobotstakemyjob.com/ - See the estimated automation risk, growth, wages, polling, volume and many more features of your job
 * https://signature-maker.net/ - Create handwritten digital signature
-* https://kill-the-newsletter.com/ - Convert email newsletters into Atom feeds
+* https://discu.eu/ - 
 * https://promowizard.softr.app/ - Get promocodes without consuming hours of content on youtube
 * https://en.everybodywiki.com/Everybodywiki:Welcome - Rescues deleted articles and rejected drafts from WikiPedia in many languages and welcomes new articles
 * https://loader.io/ - Free load testing service that allows you to stress test your web-apps & apis with thousands of concurrent connections
 * https://lunar.fyi/ (~$) - Multi-featured, defacto app for controlling monitors
-* https://www.deadmansswitch.net/ (~$) - Tool that sends your emails to your loved ones if you pass away
 * https://gethuman.com/ - Get a rep on the phone faster & get better help from most known companies
 * https://www.byclickdownloader.com/ - Backup videos from: YouTube, Dailymotion, Vimeo, Facebook and +40 sites in HD, MP3, MP4, AVI and all other formats using our software
 * https://www.preceden.com/ (~$) - Online timeline and Roadmaps maker 
 
+
+
+
+## Privacy
+* https://www.nothingprivate.ml/ - See why you are not anonymous by using private browsing mode or incognito mode (or you can directly read from [here](https://github.com/gautamkrishnar/nothing-private))
+* https://www.privacytools.io/ - Q: How much privacy do you want?  A: Yes
+* https://securityplanner.consumerreports.org/ ($) - Cut down on data collection and prevent hackers from invading your laptop, tablet and even your phone. Answer a few simple questions to get customized recommendations to help you
+* https://mywhisper.net/ - Text encryption tool, based on AES cryptography
+* https://beencrypted.com/ - To become more encrypted
+* https://prism-break.org/en/all/ - Private and safe alternatives of most used apps & services
+* https://www.reddit.com/r/piracy/wiki/megathread/tools - List of Apps / tools / web services
+* https://gitlab.com/tzkuat/Ressources - List of websites on different areas such as Security, OSINT, etc. 
+* https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/ - Privacy Tools List by CHEF-KOCH
+* https://github.com/arkenfox/user.js/wiki/4.1-Extensions - Privacy and security related extensions
+* https://privacy.net/analyzer/#pre-load 
+* https://shutuptrackers.com/ - Provides information for protecting your data security and privacy
+* https://ssd.eff.org/ - SURVEILLANCE SELF-DEFENSE: TIPS, TOOLS AND HOW-TOS FOR SAFER ONLINE COMMUNICATIONS
+* https://www.routerpasswords.com/ - Router Passwords is officially the most updated default router password repository on the internet
+* http://bugmenot.com/ - Find and share logins. Enter a website below to see if the bugmenot community has shared any logins for it
+* https://www.security.org/security-score/ - Learn about your security score
+* https://www.startpage.com/ - Get privacy protection across the web. Extension for instant tracker blocking & more
+* https://cookiepedia.co.uk/ - Largest database of pre-categories cookies and online tracking technologies
+* https://proton.me/ - Encrypted mail, calendar, drive, vpn
+
+
+* https://libreprojects.net/#favs=wikipedia,joindiaspora-com,nextcloud,openstreetmap,jamendo,plos - 118 open source hosted web services
+* https://tosdr.org/ - Terms of Service; Didn't Read (short: ToS;DR)
+
+
+### Cryptography
+* https://www.cryptologie.net/ - (Self note: Read his Real-World Cryptography book)
+
+
+
+### GAFA Alternatives
+* https://degoogle.jmoore.dev/#mobile-applications-mobile-apps-installable-from-stores - Huge list of alternatives to Google products. Privacy tips, tricks, and links
+* https://degooglisons-internet.org/en/ - Alternatives to FAANG
+* https://www.accountkiller.com/en/home - AccountKiller collects direct links and deleting instructions to make account termination easy
+* https://github.com/yuliskov/SmartTubeNext - Ad free app for watching tube videos on Android TV boxes
+
+
+
+### Data Breach
+* https://haveibeenpwned.com/ - Check if your email or phone is in a data breach
+* https://tineye.com/ - Find where images appear online
+* https://ipleak.net/ - See the kind of information that all the sites you visit can see and collect about you
+* https://coveryourtracks.eff.org/ - Test your browser to see how well you are protected from tracking and fingerprinting
+* https://amifloced.org/ - Google is testing FLoC on Chrome users worldwide. Find out if you're one of them
+
+
+
+### Internet
+* https://www.internetlivestats.com/ - Every statics of the internet
+* http://internet-map.net/ - The map of the Internet
+* https://test-ipv6.com/ - Test your IPv6 connectivity
+* https://kb.adguard.com/en/general/dns-providers - You can configure any DNS server to be used instead of the system default provided by the router or ISP
+* https://tls12.xargs.org/ - Every byte of a TLS connection is explained and reproduced
+* https://cidr.xyz/ - Interactive IP address and CIDR range visualizer
+* https://icanhazip.com/ - Only your IP address on the top os the page
+* https://iplocation.io/ - Provides you free location tracking of an entered IP Address. It tracks the IP's city, country, latitude, and longitude data instantly through various Geo IP Databases available in the market
+* https://ifconfig.co/ - Find your own IP address, and information about it
+* https://ipinfo.io/ (~$) - Accurate IP address data that keeps pace with secure, specific, and forward-looking use cases
+* https://dnschecker.org/ - Provides a free DNS lookup service to check Domain Name System records against a selected list of DNS servers located in multiple regions worldwide
+* https://www.davidc.net/sites/default/subnets/subnets.html - Visual Subnet Calculator 
+* https://howdns.works/ - Colorful explanation of how DNS works with comics
+
+
+#### URL
+* https://shrtco.de/tools/ - URL tools
+* https://www.onelink.to/ - Link and QR code for your apps
+* https://freecodetools.org/qr-code-generator/ - QR generator
+* https://appopener.com/ - Create smart links to open desired apps from url without login
+* https://digital.com/best-web-hosting/who-is/ - Find Out Who is Hosting Any Domain in Seconds and learn about the web host, IP address, name servers and more
+* https://webhook.site/ - Inspect, test and automate (with the visual Custom Actions builder, or WebhookScript) any incoming HTTP request or e-mail
+* https://goqr.me/ - High resolution QR codes, print quality
+* https://freecodetools.org/ogp/ - Open graph generator
+
+
+##### URL Shortener
+* https://cutr.ml/ 
+* https://is.gd/ 
+* http://gg.gg/ 
+* https://www.shrunken.com/
+* https://www.rebrandly.com/ (~$) - Link management platform to brand, track, and share short URLs using a custom domain name
+* https://bit.do/ - Get real-time traffic statistics for your links for free 
+* https://home.s.id/ - Link Shortener and Microsite builder
+* https://tinyurl.com/app - With optional short link ending
+* https://tiny.cc/ - With optional short link ending
+* https://bitly.com/ - web/mobile link management and campaign management analytics as well as branded links
+* https://iplogger.org/ - URL Shortener with advanced analytics for the traffic through your links, visitors on your online store, blog or website
+
+
+
+#### VPN
+* https://www.top10vpn.com/
+* https://www.whatsmybrowser.org/
+* [docs.google.com/spreadsheets/vpn](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit#gid=231869418) - Detailed list of all vpns available with analysis and comparisons
+* https://njal.la/ ($) - Provides an encrypted tunnel from your computer to the Internet. We hide your real IP address behind one of ours
+
+
+
+#### Fake Information
+* https://www.fakenamegenerator.com/ - Generate fake profile information (names, addresses, phone numbers, etc., from 37 languages and 31 countries)
+* https://www.burnerapp.com/ ($) - Original second phone number app for calling and texting. With Burner, you can protect yourself from spam or junk calls, separate different types of contacts by phone number, and switch phone numbers
+* https://www.random.org/ (~$) - True Random Games and Lotteries, Numbers, Lists and Strings and Maps Generator
+
+
+#### Torrent
+* https://ahmia.fi/ - Searches hidden services on the Tor network (to access these hidden services, you need the Tor browser bundle)
+* https://webtorrent.io/ - Streaming torrent client for browser 
+* http://iknowwhatyoudownload.com/ - Torrent downloads and distributions for your IP address
+
+
+
+
+### Password Generation
+* http://www.healthypasswords.com/index-2.html - Everything About Passwords and Internet Security
+* https://random-password-gen.web.app/
+* https://www.security.org/how-secure-is-my-password/ - Check How Secure Is Your Password. Entries are 100% secure and not stored in any way or shared with anyone
+* https://freecodetools.org/password-generator/
 
 
 
@@ -772,6 +799,8 @@ Feel free to share and star
 * https://libgen.li/ - Community aiming at collecting and cataloging items descriptions for the most part of scientific, scientific and technical directions, as well as file metadata
 * https://www.audible.com/ ($) - Largest producer and provider of premium audio storytelling
 * https://www.goodbooks.io/ - 8,500+ book recommendations from the most successful and interesting people in the world
+* https://www.manning.com/ - Programming books
+* https://archive.vcu.edu/english/engweb/transcendentalism/ - American Transcendentalism
 
 
 ### Book Summary And Recommendations
@@ -834,6 +863,9 @@ Feel free to share and star
 * https://arraylist.org/ - List database in the cloud. You can use it for storing things like form submissions, email-subscription forms or make a AJAX/REST call to store values in the list
 
 
+#### Office Programs
+* https://www.toptal.com/finance/financial-consultants/powerpoint-presentation-tips-and-hacks - PowerPoint Presentations explained with GIFs
+
 
 ### Trends
 * https://trends.google.com/trends/?geo=US
@@ -866,6 +898,16 @@ Feel free to share and star
 * https://about.me/ (~$) - Freelancers and entrepreneurs use about.me to grow their audience and get more clients
 * https://www.coolstartupjobs.com/ - Join a growing startup and give your stock options a fighting chance
 * https://www.coroflot.com/discover - Job search specific to designers
+* https://www.keyvalues.com/ - Find engineering teams that share your values
+
+
+
+
+### Interview
+* https://www.techinterviewhandbook.org/ - Free curated interview preparation materials
+* https://www.pramp.com/ - Free, online peer-to-peer platform for practicing technical interviews run by Exponent
+
+
 
 
 
@@ -904,7 +946,7 @@ Feel free to share and star
 * https://www.failory.com/google - Learn from Google's 100+ failures to build profitable businesses and scale acquired companies
 * https://harishgarg.gumroad.com/l/wiSvc?ref=producthunt - Curated list of 100+ resources on GPT-3
 * [github-email-hunter](https://chrome.google.com/webstore/detail/github-email-hunter/ppcegaekdbgcgbapfdcjbhednhmgcjnk) - Find email addresses for Github users & repos with just one click
-
+* https://www.feedough.com/startup-resources/ - Startup Resources with categories
 
 
 ### Technology 
@@ -927,6 +969,10 @@ Feel free to share and star
 * https://remotedesktop.google.com/ - Remotely connect with your home or work computer, or share your screen with others
 * https://www.recwide.com/ - Screen and webcam recorder. Free, Online (No Downlaod Required)
 
+
+
+#### Must Reads
+* https://kk.org/thetechnium/1000-true-fans/ - 1,000 True Fans
 
 
 ### Productivity
@@ -959,6 +1005,8 @@ Feel free to share and star
 * https://www.degraeve.com/color-palette/ - Color Palette Generator
 * https://0to255.com/ - Color tool that makes it easy to find lighter and darker colors, or tints and shades, based on any color. This makes it perfect for button hover states, gradients, borders, and more
 * https://www.colorhexa.com/ - Color tool providing information about any color and generating matching color palettes for your designs (such as complementary, analogous, triadic, tetradic or monochromatic colors schemes)
+* https://colorhunt.co/ - Discover the newest hand-picked palettes
+
 
 
 #### Fonts
@@ -1153,6 +1201,7 @@ Feel free to share and star
 
 ### Philosophy
 * https://www.desolhar-philo.com/ - Notes about philosophy
+* https://www.visualizingsep.com/# - Interactive visualization and search engine for exploring the Stanford Encyclopedia of Philosophy
 
 
 
@@ -1185,6 +1234,7 @@ Feel free to share and star
 * http://www.fearofphysics.com/ - Free "Astronomy 101" course
 * http://galileo.phys.virginia.edu/classes/109N/more_stuff/Applets/home.html - Early Lunar Observations and some Planetary Models, applets on various motion
 * https://stars.chromeexperiments.com/ - Visualization of 100,000 nearby stars
+* https://planetplanet.net/2018/06/01/the-million-earth-solar-system/ - The Million Earth Solar System
 
 
 ### Social Sciences
@@ -1206,6 +1256,12 @@ Feel free to share and star
 * https://www.mathway.com/ - Free math problem solver
 * https://www.chilimath.com/ 
 * https://complex-analysis.com/ - Visual and Interactive Introduction to Complex Analysis
+* https://www.math3ma.com/blog/matrices-as-tensor-network-diagrams - Matrices as Tensor Network Diagrams
+* https://www.math3ma.com/blog/what-is-category-theory-anyway - The grand scheme of (mathematical) things with category theory
+* https://www.algebrapracticeproblems.com/ - Algebra Practice Problems and clear explanations 
+* https://pdodds.w3.uvm.edu/teaching/courses/2016-08UVM-122/ - Matrixology
+* https://sam.nitk.ac.in/courses-taught.html - Math courses
+* https://mathhints.com/ - Easy Mathematical Tricks from Counting Through Calculus
 
 
 ### Math + Programming
@@ -1261,22 +1317,40 @@ Feel free to share and star
 
 
 
+#### Control
+* https://linklab-uva.github.io/modeling_cps/schedule.html - Principles of Modeling for Cyber-Physical Systems
+
+
+
 ### Electronics Engineering
 * https://www.electrical4u.com/ - Learn Electrical Engineering
 * https://www.electronics-tutorials.ws/
 * https://octopart.com/ - Electronic parts 
+* https://www.techspot.com/article/1821-how-cpus-are-designed-and-built/ - Series that cover computer architecture, processor circuit design, VLSI (very-large-scale integration), chip fabrication, and future trends in computing
 
 
 
+### Computer Science
+* https://teachyourselfcs.com/
+* https://www.menimagerie.com/ - Explore all the tantalising concepts in theoretical computer science - from our number system, via Cantor infinities, to Godel's theorems and automat
 
 
 
+#### A & DS
+* https://entcheva.github.io/ - Adventures In Coding & Algorithms
+* http://blog.notdot.net/tag/damn-cool-algorithms
+
+
+
+#### Big-O notation
+* http://cooervo.github.io/Algorithms-DataStructures-BigONotation/
 
 
 
 
 ## Web Development
 * https://roadmap.sh/ - Roadmaps of development areas
+* https://novicedock.com/learn/computer-science/web-development 
 * https://webdevhome.github.io/
 * https://web-dev-resources.com/#/ - Awesome Web Development Resources 
 * https://www.mailinator.com/ (~$) - Mailinator allows Developers and QA Testing teams to automatically test their SMS and Email workflows like 2FA verifications, sign-ups, and password resets with trillions of inboxes at your fingertips. Whether you do Manual Testing, use an API, or a framework like Selenium, Cypress, Playwright, or Puppeteer - Mailinator will close the loop on email/SMS testing
@@ -1317,10 +1391,6 @@ Feel free to share and star
 ### Web Dev Blogs
 * https://tech-blogs.dev/ - List of Awesome Tech Blogs
 
-
-
-### Interview
-* https://www.techinterviewhandbook.org/ - Free curated interview preparation materials
 
 
 
@@ -1377,6 +1447,7 @@ Feel free to share and star
 ##### CSS Cheat Sheet
 * https://cssreference.io
 * https://grid.malven.co
+* https://flexbox.malven.co/ 
 * http://www.justinaguilar.com/animations/
 * https://alialaa.github.io/css-grid-cheat-sheet/
 
@@ -1406,10 +1477,12 @@ Feel free to share and star
 #### APIs
 * https://publicapis.dev/ - Discover public APIs
 * https://github.com/public-apis/public-apis - Collective list of free APIs for use in software and web development
+* https://www.restapitutorial.com/ - Learn REST
 
 
 #### SQL
 * https://sqlzoo.net/wiki/SQL_Tutorial - Learn SQL in stages
+* https://bipp.io/sql-tutorial - Free 
 
 
 #### RubyGems
@@ -1423,7 +1496,7 @@ Feel free to share and star
 
 #### Data Science
 * http://www.datatau.com/news - Hackernews but for data
-
+* https://www.datasetlist.com/ - List of machine learning datasets from across the web
 
 
 
@@ -1502,7 +1575,7 @@ Feel free to share and star
 * https://ecomputernotes.com/ - Learning Resource for Online Education
 * https://libraries.io/ - Find new open source packages, modules and frameworks and keep track of ones you depend upon
 
-
+* https://www.learnbyexample.org/ - Learn Pyhton, SQL, and R languages with examples
 
 
 #### Programming Languages Cheat Sheet
@@ -1512,17 +1585,24 @@ Feel free to share and star
 
 
 ### Python
-* https://docs.python.org/3/tutorial/index.html
+* https://docs.python.org/3/
 * http://projectpython.net/
-* https://rawcdn.githack.com/diveintomark/diveintopython3/master/table-of-contents.html
+* https://rawcdn.githack.com/diveintomark/diveintopython3/master/index.html
 * https://www.learnpython.org/
 * https://docs.python-guide.org/
 * https://cscircles.cemc.uwaterloo.ca/
 * https://pythonbasics.org/
 * https://www.majyori.com/
-* https://miguendes.me/
 * https://www.runpython.live/ - Run python on your web 
 * https://awesome-python.com/ - Curated list of awesome Python frameworks, libraries, software and resources
+* https://wiki.python.org/moin/BeginnersGuide - Beginner's Guide to Python
+* https://pyformat.info/ - Python Formats compared with old versions
+
+
+
+#### Python Cheat Sheet
+* https://www.pythoncheatsheet.org/ - Based on the book Automate the Boring Stuff with Python and many other sources
+
 
 
 
@@ -1644,6 +1724,7 @@ Feel free to share and star
 
 ### Open Source
 * https://awesomeopensource.com/ - Find Open Source By Searching, Browsing and Combining 170,950 Topics Across 59 Categories And 5,851,571 Projects
+* https://opensourcelibs.com/ - Massive collection of the world's best open source software
 
 
 ### Documentation
@@ -1660,7 +1741,6 @@ Feel free to share and star
 * https://devhints.io
 * https://cheatography.com/
 * https://panthema.net/2013/sound-of-sorting/SoS-CheatSheet.pdf - The Sound of Sorting Algorithm 
-* https://www.pythoncheatsheet.org/ - Based on the book Automate the Boring Stuff with Python and many other sources
 * https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/ - General IT Security
 
 
@@ -1714,17 +1794,19 @@ Feel free to share and star
 * https://blakeir.com/blog/smart-youtube - List of some YouTube pages
 * [awesomeopensource](https://awesomeopensource.com/project/jivoi/awesome-osint#-pastebins)
 * https://www.madewithbubble.xyz/ - Discover apps and websites made with bubble
+* https://novicedock.com/ 
 
 
 
-## Some Useful Blogs
+## Useful Blogs
 * https://lmalmanza.wordpress.com/
 * https://www.menimagerie.com/
 * https://tarikyildirim.com/
 * http://www.paulgraham.com/
 * https://www.jaakkoj.com/blog/graham
-* https://durmonski.com/ (?)
-
+* https://durmonski.com/ 
+* https://www.benkuhn.net/blogroll/
+* https://moultano.wordpress.com/
 
 
 
