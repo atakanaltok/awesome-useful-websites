@@ -1,7 +1,7 @@
 # Awesome Useful Websites
 <p><a href="https://awesome.re" target="_blank"><img src="https://awesome.re/badge-flat.svg"></a></p>
 
-A hand-curated list of awesome useful websites.
+Hand-curated list of awesome useful websites
 
 
 Most of these websites are gathered from: 
