@@ -240,16 +240,6 @@ Feel free to share and star
 * https://privnote.com/ - Send notes that will self-destruct after being read.
 
 
-### Keyboard
-* https://usethekeyboard.com/ - Collection of keyboard shortcuts for Mac apps, Windows programs, and websites
-* https://www.vimified.com/ - Learn and practice Vim (a free and open-source, screen-based text editor program)
-* https://www.keybr.com/
-* https://10fastfingers.com/typing-test/english
-* https://www.pairtype.com/
-* https://www.typingclub.com/
-* https://www.typing.com/
-* https://keycombiner.com/
-* https://www.yip-yip.com/
 
 
 ### Texts
@@ -295,7 +285,7 @@ Feel free to share and star
 * https://unlistedvideos.com/ - For submitting, searching for, and watching unlisted YouTube videos. No registration required
 * https://filmot.com/ - Search within YouTube subtitles
 * https://xn--1-zfa.com/ - Advance Search for Google, DuckDuckGo, Twitter, YouTube, Reddit
-
+* https://www.seekr.com/ - Search engine that utilizes AI to analyze and score the quality of content, starting with news articles, delivering uncensored web results that identify misinformation and highlight real journalism
 
 
 ### Automating browser
@@ -457,7 +447,7 @@ Feel free to share and star
 * https://degooglisons-internet.org/en/ - Alternatives to FAANG
 * https://www.accountkiller.com/en/home - AccountKiller collects direct links and deleting instructions to make account termination easy
 * https://github.com/yuliskov/SmartTubeNext - Ad free app for watching tube videos on Android TV boxes
-
+* https://libredirect.github.io/ - Web extension that redirects YouTube, Twitter, Instagram... requests to alternative privacy friendly frontends and backends
 
 
 ### Data Breach
@@ -661,6 +651,9 @@ Feel free to share and star
 ### Music Theory
 * https://www.teoria.com/
 * https://www.musictheory.net/
+* https://www.allaboutmusictheory.com/ - Piano keyboard, Music notation, Major scale
+* https://studioguru.co/producer-tools/note-frequency-chart/ - Note Frequency Chart
+
 
 
 ### Mix Sounds
@@ -1398,11 +1391,11 @@ Feel free to share and star
 ### Front-end
 * https://www.caniemail.com/
 * https://www.eggradients.com/ - Gradient Background Colors
+* https://developer.mozilla.org/en-US/ - Documenting web technologies, including CSS, HTML, and JavaScript
 * https://frontendchecklist.io/ - Exhaustive list of all elements you need to have / to test before launching your website / HTML page to production
 * https://www.frontendmentor.io/ - Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs
 * https://codepen.io/ - Build, test, and discover front-end code (explore [topics](https://codepen.io/topics/))
 * https://www.electronjs.org/ - Build cross-platform desktop apps with JavaScript, HTML, and CSS
-* https://developer.mozilla.org/en-US/ - Documenting web technologies, including CSS, HTML, and JavaScript
 * https://htmldog.com/ - Everything about HTML, CSS, and JavaScript
 * https://learn.shayhowe.com/ - Learn to Code HTML & CSS
 * https://thisthat.dev/ - What is the difference between ___ and ___ in the front-end development?
@@ -1571,8 +1564,11 @@ Feel free to share and star
 
 ## Programming Languages
 * https://theia-ide.org/ - Flexible and Extensible Cloud & Desktop IDE Platform. Efficiently develop and deliver Cloud & Desktop IDEs and tools with modern web technologies
+
 * https://learnxinyminutes.com/ - Take a whirlwind tour of your next favorite language
+
 * https://ecomputernotes.com/ - Learning Resource for Online Education
+
 * https://libraries.io/ - Find new open source packages, modules and frameworks and keep track of ones you depend upon
 
 * https://www.learnbyexample.org/ - Learn Pyhton, SQL, and R languages with examples
@@ -1581,7 +1577,6 @@ Feel free to share and star
 #### Programming Languages Cheat Sheet
 * https://lecoupa.github.io/awesome-cheatsheets/
 * https://overapi.com/ 
-
 
 
 ### Python
@@ -1597,6 +1592,9 @@ Feel free to share and star
 * https://awesome-python.com/ - Curated list of awesome Python frameworks, libraries, software and resources
 * https://wiki.python.org/moin/BeginnersGuide - Beginner's Guide to Python
 * https://pyformat.info/ - Python Formats compared with old versions
+* https://learnbyexample.github.io/py_resources/
+
+* [notion](https://www.notion.so/Programming-Course-4d4331de1a0c4ae894133cb1ca1e9315) - Self-study course for learning to build basic web applications in Django
 
 
 
@@ -1742,6 +1740,27 @@ Feel free to share and star
 * https://cheatography.com/
 * https://panthema.net/2013/sound-of-sorting/SoS-CheatSheet.pdf - The Sound of Sorting Algorithm 
 * https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/ - General IT Security
+* https://www.codecademy.com/resources/cheatsheets/all - Cheat sheets for all kinds of languages and concepts
+
+
+
+
+## Keyboard
+* https://www.vimified.com/ - Learn and practice Vim (a free and open-source, screen-based text editor program)
+* https://www.keybr.com/
+* https://10fastfingers.com/typing-test/english
+* https://www.pairtype.com/
+* https://www.typingclub.com/
+* https://www.typing.com/
+* https://keycombiner.com/
+* https://www.yip-yip.com/
+
+
+#### Keyboard Shortcuts
+* https://usethekeyboard.com/ - Collection of keyboard shortcuts for Mac apps, Windows programs, and websites (This includes almost all common applications and their original shortcut pages)
+* https://ascii-tables.com/ - ASCII Table, ALT Codes, Z Score Table, Greek Alphabet, T Distribution Table, Binary Translator
+* https://www.shortcutfoo.com/ - Practice Shortcuts for Free (Supports Mac/Win/Linux and not just apps but also languages and terminals. There are also cheat sheets)  
+
 
 
 
