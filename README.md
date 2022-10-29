@@ -1,6 +1,4 @@
-# Awesome Useful Websites
-
-<p><a href="https://awesome.re" target="_blank"><img src="https://awesome.re/badge-flat.svg"></a></p>
+# Awesome Useful Websites  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Hand-curated list of awesome useful websites
 
@@ -22,178 +20,178 @@ Feel free to share and star
 
 # Contents
 
-- [Awesome Useful Websites](#awesome-useful-websites)
-  - [Lexicon](#lexicon)
-- [Contents](#contents)
-  - [Infographics](#infographics)
-    - [Diagrams](#diagrams)
-  - [Tools](#tools)
-    - [White Board / Notepad](#white-board--notepad)
-    - [Mind Map / Note Taking](#mind-map--note-taking)
-    - [Texts](#texts)
-    - [Emails](#emails)
-      - [Disposable Email](#disposable-email)
-    - [Search](#search)
-    - [Automating browser](#automating-browser)
-    - [Bookmarks](#bookmarks)
-    - [Comparision](#comparision)
-    - [File](#file)
-    - [Converter / Conversion](#converter--conversion)
-      - [Unit Conversion](#unit-conversion)
-    - [Visual](#visual)
-    - [Audio](#audio)
-    - [Time](#time)
-    - [To Do](#to-do)
-    - [Some Other Tools](#some-other-tools)
-  - [Privacy](#privacy)
-    - [Cryptography](#cryptography)
-    - [GAFA Alternatives](#gafa-alternatives)
-    - [Data Breach](#data-breach)
-    - [Internet](#internet)
-      - [URL](#url)
-        - [URL Shortener](#url-shortener)
-      - [VPN](#vpn)
-      - [Fake Information](#fake-information)
-      - [Torrent](#torrent)
-    - [Password Generation](#password-generation)
-  - [DIY](#diy)
-  - [Visual Entertainment](#visual-entertainment)
-  - [Media](#media)
-    - [Fact Chacking](#fact-chacking)
-    - [Twitter](#twitter)
-    - [Reddit](#reddit)
-      - [Better Reddit Search](#better-reddit-search)
-  - [Music](#music)
-    - [Music Theory](#music-theory)
-    - [Mix Sounds](#mix-sounds)
-    - [Spotify](#spotify)
-  - [Culture](#culture)
-    - [Language](#language)
-      - [Grammer](#grammer)
-      - [Writing](#writing)
-      - [Words & Meanings](#words--meanings)
-      - [Business English](#business-english)
-    - [Travel](#travel)
-      - [Globetrotting](#globetrotting)
-      - [Time Zone](#time-zone)
-      - [Flight](#flight)
-      - [Weather](#weather)
-    - [Food](#food)
-  - [Books](#books)
-    - [Book Summary And Recommendations](#book-summary-and-recommendations)
-    - [Book Forums](#book-forums)
-  - [Business](#business)
-    - [Finance](#finance)
-    - [Freelaning/Freelance](#freelaningfreelance)
-    - [Patents](#patents)
-    - [Networking](#networking)
-    - [Marketing](#marketing)
-      - [Office Programs](#office-programs)
-    - [Trends](#trends)
-    - [Creating Websites](#creating-websites)
-    - [Meetings](#meetings)
-  - [Jobs](#jobs)
-    - [Interview](#interview)
-    - [Protfolio / CV / Resume](#protfolio--cv--resume)
-    - [Careers](#careers)
-  - [Economy](#economy)
-  - [Startups](#startups)
-    - [Technology](#technology)
-    - [Finding Ideas](#finding-ideas)
-    - [Connectivity](#connectivity)
-      - [Must Reads](#must-reads)
-    - [Productivity](#productivity)
-    - [Design](#design)
-      - [Color](#color)
-      - [Fonts](#fonts)
-      - [Icons / Icon Packs](#icons--icon-packs)
-      - [Tools for Social Media](#tools-for-social-media)
-      - [Stock Images](#stock-images)
-      - [Wallpapers](#wallpapers)
-  - [Art](#art)
-    - [Photography](#photography)
-    - [Art Communities](#art-communities)
-  - [Academic](#academic)
-    - [Studying](#studying)
-    - [Calculators](#calculators)
-      - [Periodic Table](#periodic-table)
-    - [MOOC (Massive Open Online Courses)](#mooc-massive-open-online-courses)
-  - [Science](#science)
-    - [Biographies](#biographies)
-    - [Data](#data)
-    - [Philosophy](#philosophy)
-    - [Geoscience](#geoscience)
-    - [Biology](#biology)
-    - [Physics](#physics)
-      - [Quantum](#quantum)
-      - [Astronomy](#astronomy)
-    - [Social Sciences](#social-sciences)
-      - [History](#history)
-  - [Mathematics](#mathematics)
-    - [Math + Programming](#math--programming)
-    - [Math + Art](#math--art)
-  - [Engineerings](#engineerings)
-    - [Mechanical Engineering](#mechanical-engineering)
-      - [Materials / Nanotechnology](#materials--nanotechnology)
-      - [Thermodynamics](#thermodynamics)
-      - [Control](#control)
-    - [Electronics Engineering](#electronics-engineering)
-    - [Computer Science](#computer-science)
-      - [A & DS](#a--ds)
-      - [Big-O notation](#big-o-notation)
-  - [Web Development](#web-development)
-    - [Curated Websites](#curated-websites)
-    - [Web Dev Blogs](#web-dev-blogs)
-    - [Front-end](#front-end)
-        - [Front-end Cheat Sheet](#front-end-cheat-sheet)
-        - [Media Queries Cheat Sheet](#media-queries-cheat-sheet)
-        - [Bootstrap Cheat Sheet](#bootstrap-cheat-sheet)
-      - [HTML](#html)
-        - [HTML Cheat Sheet](#html-cheat-sheet)
-      - [CSS](#css)
-        - [CSS Cheat Sheet](#css-cheat-sheet)
-      - [JavaScript](#javascript)
-    - [Back-End](#back-end)
-      - [APIs](#apis)
-      - [SQL](#sql)
-      - [RubyGems](#rubygems)
-      - [Server](#server)
-      - [Data Science](#data-science)
-    - [Web Analytics](#web-analytics)
-  - [Web 3.0 Dev](#web-30-dev)
-  - [Android Development](#android-development)
-  - [Game Development](#game-development)
-    - [Chess](#chess)
-  - [Programming Languages](#programming-languages)
-      - [Programming Languages Cheat Sheet](#programming-languages-cheat-sheet)
-    - [Python](#python)
-      - [Python Cheat Sheet](#python-cheat-sheet)
-    - [Coding Practice](#coding-practice)
-      - [Learn with Projects](#learn-with-projects)
-  - [Linux](#linux)
-  - [Git](#git)
-    - [GitHub](#github)
-  - [Softwares](#softwares)
-    - [Snippets](#snippets)
-      - [Learn from snippets](#learn-from-snippets)
-    - [Linters](#linters)
-    - [Program on Website](#program-on-website)
-    - [Carbon](#carbon)
-    - [Regex](#regex)
-    - [No-Code](#no-code)
-    - [Open Source](#open-source)
-    - [Documentation](#documentation)
-  - [Cheat Sheets](#cheat-sheets)
-  - [Keyboard](#keyboard)
-      - [Keyboard Shortcuts](#keyboard-shortcuts)
-  - [How To Ask A Good Question](#how-to-ask-a-good-question)
-    - [XY Problem](#xy-problem)
-  - [Health](#health)
-  - [Other Websites of Websites](#other-websites-of-websites)
-  - [Useful Blogs](#useful-blogs)
-- [Contributing](#contributing)
-- [DISCLAIMER](#disclaimer)
-- [LICENSE](#license)
+* [Awesome Useful Websites  ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-useful-websites--)
+  * [Lexicon](#lexicon)
+* [Contents](#contents)
+  * [Infographics](#infographics)
+    * [Diagrams](#diagrams)
+  * [Tools](#tools)
+    * [White Board / Notepad](#white-board--notepad)
+    * [Mind Map / Note Taking](#mind-map--note-taking)
+    * [Texts](#texts)
+    * [Emails](#emails)
+      * [Disposable Email](#disposable-email)
+    * [Search](#search)
+    * [Automating browser](#automating-browser)
+    * [Bookmarks](#bookmarks)
+    * [Comparision](#comparision)
+    * [File](#file)
+    * [Converter / Conversion](#converter--conversion)
+      * [Unit Conversion](#unit-conversion)
+    * [Visual](#visual)
+    * [Audio](#audio)
+    * [Time](#time)
+    * [To Do](#to-do)
+    * [Some Other Tools](#some-other-tools)
+  * [Privacy](#privacy)
+    * [Cryptography](#cryptography)
+    * [GAFA Alternatives](#gafa-alternatives)
+    * [Data Breach](#data-breach)
+    * [Internet](#internet)
+      * [URL](#url)
+        * [URL Shortener](#url-shortener)
+      * [VPN](#vpn)
+      * [Fake Information](#fake-information)
+      * [Torrent](#torrent)
+    * [Password Generation](#password-generation)
+  * [DIY](#diy)
+  * [Visual Entertainment](#visual-entertainment)
+  * [Media](#media)
+    * [Fact Chacking](#fact-chacking)
+    * [Twitter](#twitter)
+    * [Reddit](#reddit)
+      * [Better Reddit Search](#better-reddit-search)
+  * [Music](#music)
+    * [Music Theory](#music-theory)
+    * [Mix Sounds](#mix-sounds)
+    * [Spotify](#spotify)
+  * [Culture](#culture)
+    * [Language](#language)
+      * [Grammer](#grammer)
+      * [Writing](#writing)
+      * [Words & Meanings](#words--meanings)
+      * [Business English](#business-english)
+    * [Travel](#travel)
+      * [Globetrotting](#globetrotting)
+      * [Time Zone](#time-zone)
+      * [Flight](#flight)
+      * [Weather](#weather)
+    * [Food](#food)
+  * [Books](#books)
+    * [Book Summary And Recommendations](#book-summary-and-recommendations)
+    * [Book Forums](#book-forums)
+  * [Business](#business)
+    * [Finance](#finance)
+    * [Freelaning/Freelance](#freelaningfreelance)
+    * [Patents](#patents)
+    * [Networking](#networking)
+    * [Marketing](#marketing)
+      * [Office Programs](#office-programs)
+    * [Trends](#trends)
+    * [Creating Websites](#creating-websites)
+    * [Meetings](#meetings)
+  * [Jobs](#jobs)
+    * [Interview](#interview)
+    * [Protfolio / CV / Resume](#protfolio--cv--resume)
+    * [Careers](#careers)
+  * [Economy](#economy)
+  * [Startups](#startups)
+    * [Technology](#technology)
+    * [Finding Ideas](#finding-ideas)
+    * [Connectivity](#connectivity)
+      * [Must Reads](#must-reads)
+    * [Productivity](#productivity)
+    * [Design](#design)
+      * [Color](#color)
+      * [Fonts](#fonts)
+      * [Icons / Icon Packs](#icons--icon-packs)
+      * [Tools for Social Media](#tools-for-social-media)
+      * [Stock Images](#stock-images)
+      * [Wallpapers](#wallpapers)
+  * [Art](#art)
+    * [Photography](#photography)
+    * [Art Communities](#art-communities)
+  * [Academic](#academic)
+    * [Studying](#studying)
+    * [Calculators](#calculators)
+      * [Periodic Table](#periodic-table)
+    * [MOOC (Massive Open Online Courses)](#mooc-massive-open-online-courses)
+  * [Science](#science)
+    * [Biographies](#biographies)
+    * [Data](#data)
+    * [Philosophy](#philosophy)
+    * [Geoscience](#geoscience)
+    * [Biology](#biology)
+    * [Physics](#physics)
+      * [Quantum](#quantum)
+      * [Astronomy](#astronomy)
+    * [Social Sciences](#social-sciences)
+      * [History](#history)
+  * [Mathematics](#mathematics)
+    * [Math + Programming](#math--programming)
+    * [Math + Art](#math--art)
+  * [Engineerings](#engineerings)
+    * [Mechanical Engineering](#mechanical-engineering)
+      * [Materials / Nanotechnology](#materials--nanotechnology)
+      * [Thermodynamics](#thermodynamics)
+      * [Control](#control)
+    * [Electronics Engineering](#electronics-engineering)
+    * [Computer Science](#computer-science)
+      * [A & DS](#a--ds)
+      * [Big-O notation](#big-o-notation)
+  * [Web Development](#web-development)
+    * [Curated Websites](#curated-websites)
+    * [Web Dev Blogs](#web-dev-blogs)
+    * [Front-end](#front-end)
+      * [Front-end Cheat Sheet](#front-end-cheat-sheet)
+      * [Media Queries Cheat Sheet](#media-queries-cheat-sheet)
+      * [Bootstrap Cheat Sheet](#bootstrap-cheat-sheet)
+      * [HTML](#html)
+        * [HTML Cheat Sheet](#html-cheat-sheet)
+      * [CSS](#css)
+        * [CSS Cheat Sheet](#css-cheat-sheet)
+      * [JavaScript](#javascript)
+    * [Back-End](#back-end)
+      * [APIs](#apis)
+      * [SQL](#sql)
+      * [RubyGems](#rubygems)
+      * [Server](#server)
+      * [Data Science](#data-science)
+    * [Web Analytics](#web-analytics)
+  * [Web 3.0 Dev](#web-30-dev)
+  * [Android Development](#android-development)
+  * [Game Development](#game-development)
+    * [Chess](#chess)
+  * [Programming Languages](#programming-languages)
+    * [Programming Languages Cheat Sheet](#programming-languages-cheat-sheet)
+    * [Python](#python)
+      * [Python Cheat Sheet](#python-cheat-sheet)
+    * [Coding Practice](#coding-practice)
+      * [Learn with Projects](#learn-with-projects)
+  * [Linux](#linux)
+  * [Git](#git)
+    * [GitHub](#github)
+  * [Softwares](#softwares)
+    * [Snippets](#snippets)
+      * [Learn from snippets](#learn-from-snippets)
+    * [Linters](#linters)
+    * [Program on Website](#program-on-website)
+    * [Carbon](#carbon)
+    * [Regex](#regex)
+    * [No-Code](#no-code)
+    * [Open Source](#open-source)
+    * [Documentation](#documentation)
+  * [Cheat Sheets](#cheat-sheets)
+  * [Keyboard](#keyboard)
+    * [Keyboard Shortcuts](#keyboard-shortcuts)
+  * [How To Ask A Good Question](#how-to-ask-a-good-question)
+    * [XY Problem](#xy-problem)
+  * [Health](#health)
+  * [Other Websites of Websites](#other-websites-of-websites)
+  * [Useful Blogs](#useful-blogs)
+* [Contributing](#contributing)
+* [DISCLAIMER](#disclaimer)
+* [LICENSE](#license)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -275,10 +273,12 @@ Feel free to share and star
 * <https://neeva.com/> (~$) - Ad-free, private search engine
 * <https://andisearch.com/> - Ad-free and anonymous searching
 * <https://plex.page/> - Search summarization tool
+* <https://search.marginalia.nu/> - Independent DIY search engine that focuses on non-commercial content, and attempts to show you sites you perhaps weren't aware of in favor of the sort of sites you probably already knew existed
 * <https://unlistedvideos.com/> - For submitting, searching for, and watching unlisted YouTube videos. No registration required
 * <https://filmot.com/> - Search within YouTube subtitles
 * <https://xn--1-zfa.com/> - Advance Search for Google, DuckDuckGo, Twitter, YouTube, Reddit
 * <https://www.seekr.com/> - Search engine that utilizes AI to analyze and score the quality of content, starting with news articles, delivering uncensored web results that identify misinformation and highlight real journalism
+* <https://millionshort.com/>
 
 ### Automating browser
 
@@ -303,6 +303,7 @@ Feel free to share and star
 ### File
 
 * <https://wormhole.app/> - Share files with end-to-end encryption and a link that automatically expires
+* <https://keybase.io/> - End-to-end encrypted secure messaging and file-sharing
 * <https://www.mediafire.com/> (~$) - File storage and sharing
 * <https://www.zippyshare.com/> - No sign up required, no dowload limits, free, umlimited disk space
 
@@ -536,6 +537,8 @@ Feel free to share and star
 * <https://kisscartoon.xyz/> - Free kisscartoon. No bad advertise, pupup, etc.
 * <https://reelgood.com/roulette/netflix> - Netflix Roulette: What Should You Watch?
 * <https://reelgood.com/> - Browse, search, and watch TV & Movies from over 150 services, Netflix, Hulu, HBO, Disney+, Prime Video, Free Services and more
+* <https://movie-sounds.org/> - Free movie quotes archive featuring short sound clips and SFX
+* <https://imsdb.com/> - Biggest collection of movie scripts available anywhere on the web
 
 ## Media
 
@@ -547,6 +550,8 @@ Feel free to share and star
 * <https://kassellabs.io/> - Use your texts on famous intros of movies and series
 * <https://ustvgo.tv/> - Free live TV channels
 * <https://www.allyoucanread.com/> - The largest database of magazines and newspapers on the Internet, with listings for about 25,000 magazines, newspapers and top news sites from all over the world
+* <https://karpathy.ai/lexicap/> - Transcripts for Lex Fridman episodes
+* <http://www.aniketvartak.com/html/hall-index.html> - Transcripts for Brett Hall's TokCast podcast
 
 ### Fact Chacking
 
@@ -640,6 +645,8 @@ Feel free to share and star
 * <https://www.quotemaster.org/> - 98,683 categories and 1,488,431 quotes
 * <https://www.factslides.com/> - 1001 facts about many topics with sources
 * <https://starkeycomics.com/> - Colourful images and posts about culture and language
+* <https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles> - Unusual wikipedia articles
+* <https://en.wikipedia.org/wiki/List_of_common_misconceptions> - List of common misconceptions
 
 ### Language
 
@@ -647,6 +654,7 @@ Feel free to share and star
 * <https://www.voscreen.com/> - Video snippets of english sentences, test your understanding by choosing paraphrased sentences
 * <https://www.newsinlevels.com/> - World news for students of English
 * <https://dood.al/pinktrombone/> - Human mouth and its sounds interactive voicebox
+* <https://www.japanese-wiki-corpus.org/> - Generated from the Japanese-English Bilingual Corpus of Wikipedia's Kyoto Articles
 
 #### Grammer
 
@@ -693,6 +701,7 @@ Feel free to share and star
 * <https://www.mountainproject.com/> - Free, Crowd-Sourced Guide to Climbing the World
 * <https://welcometomygarden.org/> - Non-profit network of citizens offering free camping spots in their gardens to slow travellers
 * <https://www.warmshowers.org/> - Community of bicycle tourists and those who support them
+* <https://www.slowby.travel/> - Highly-curated slow travel trips
 
 #### Globetrotting
 
@@ -971,6 +980,7 @@ Feel free to share and star
 * <https://iconz.design/> (~$) - Premium 3D library of 223 icons
 * <https://passionhacks.com/free-isometric-illustrations/> - Free Isometric Illustrations
 * [https://www.pixelbazaar.com](https://www.pixelbazaar.com/?utm_campaign=Black+Friday&utm_medium=Social&utm_source=Product+Hunt&ref=producthunt) - Opinionated icons for brands with a character
+* <https://illlustrations.co/> - Open source illustrations kit  
 
 #### Tools for Social Media
 
@@ -1090,10 +1100,7 @@ Feel free to share and star
 * <https://doaj.org/>
 * <https://www.learningontheinternet.com/?ref=producthunt>
 * <https://www.classcentral.com/>
-
----
-
-* <https://yokdersleri.yok.gov.tr/> ders
+* <https://yokdersleri.yok.gov.tr/>
 * <https://acikders.tuba.gov.tr/>
 * <https://ocw.metu.edu.tr/>
 * <https://buplus.boun.edu.tr/etkinlik-turu/acik-ders>
@@ -1139,6 +1146,7 @@ Feel free to share and star
 * <https://www.desolhar-philo.com/> - Notes about philosophy
 * <https://www.visualizingsep.com/># - Interactive visualization and search engine for exploring the Stanford Encyclopedia of Philosophy
 * <http://hakobsandbox.openetext.utoronto.ca/> - Online book on introduction to history and philosophy of science
+* <https://philosophyalevel.com/> 
 
 ### Geoscience
 
@@ -1329,6 +1337,7 @@ Feel free to share and star
 * <https://learn.shayhowe.com/> - Learn to Code HTML & CSS
 * <https://thisthat.dev/> - What is the difference between _**and**_ in the front-end development?
 * <https://know-it-all.io/> - List of what you know and what you don't about web development
+* <https://youmightnotneedjquery.com/> - jQuery alternatives
 
 ##### Front-end Cheat Sheet
 
@@ -1384,6 +1393,7 @@ Feel free to share and star
 
 * <https://jsbin.com/> - Open source collaborative web development debugging tool
 * <https://www.toptal.com/developers/keycode> - JavaScript Event Keycode Info
+* <https://www.jsdelivr.com/> - Free CDN for Open Source. Fast, reliable, and automated
 
 ### Back-End
 
@@ -1619,6 +1629,7 @@ Feel free to share and star
 
 * <https://awesomeopensource.com/> - Find Open Source By Searching, Browsing and Combining 170,950 Topics Across 59 Categories And 5,851,571 Projects
 * <https://opensourcelibs.com/> - Massive collection of the world's best open source software
+* <https://www.codetriage.com/> - List of open source repos' issues that you can contribute. You can also receive issues via email if you sign up
 
 ### Documentation
 
