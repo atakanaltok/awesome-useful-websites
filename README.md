@@ -53,13 +53,12 @@ Feel free to share and star
       - [URL](#url)
         - [URL Shortener](#url-shortener)
       - [VPN](#vpn)
-      - [Fake Information](#fake-information)
+      - [Fake Information Generation](#fake-information-generation)
       - [Torrent](#torrent)
     - [Password Generation](#password-generation)
   - [DIY](#diy)
   - [Visual Entertainment](#visual-entertainment)
   - [Media](#media)
-    - [Fact Chacking](#fact-chacking)
     - [Twitter](#twitter)
     - [Reddit](#reddit)
       - [Better Reddit Search](#better-reddit-search)
@@ -81,7 +80,6 @@ Feel free to share and star
     - [Food](#food)
   - [Books](#books)
     - [Book Summary And Recommendations](#book-summary-and-recommendations)
-    - [Book Forums](#book-forums)
   - [Business](#business)
     - [Finance](#finance)
     - [Freelaning/Freelance](#freelaningfreelance)
@@ -489,7 +487,7 @@ Feel free to share and star
 * [docs.google.com/spreadsheets/vpn](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit#gid=231869418) - Detailed list of all vpns available with analysis and comparisons
 * <https://njal.la/> ($) - Provides an encrypted tunnel from your computer to the Internet. We hide your real IP address behind one of ours
 
-#### Fake Information
+#### Fake Information Generation
 
 * <https://www.fakenamegenerator.com/> - Generate fake profile information (names, addresses, phone numbers, etc., from 37 languages and 31 countries)
 * <https://www.burnerapp.com/> ($) - Original second phone number app for calling and texting. With Burner, you can protect yourself from spam or junk calls, separate different types of contacts by phone number, and switch phone numbers
@@ -554,10 +552,7 @@ Feel free to share and star
 * <https://www.allyoucanread.com/> - The largest database of magazines and newspapers on the Internet, with listings for about 25,000 magazines, newspapers and top news sites from all over the world
 * <https://karpathy.ai/lexicap/> - Transcripts for Lex Fridman episodes
 * <http://www.aniketvartak.com/html/hall-index.html> - Transcripts for Brett Hall's TokCast podcast
-
-### Fact Chacking
-
-* <https://teyit.org/> - For Turkish news and media
+* <https://teyit.org/> - Fact Chacking for Turkish news and media
 
 ### Twitter
 
@@ -740,41 +735,36 @@ Feel free to share and star
 ## Books
 
 * <https://archive.org/>
-* <https://www.gutenberg.org/>
-* <https://en.wikibooks.org/wiki/Main_Page>
-* <https://wikisource.org/wiki/Main_Page>
-* <https://www.bookbub.com/welcome>
-* <https://openlibrary.org/>
+* <https://openlibrary.org/> - Universal catalog for book metadata
+* <https://www.gutenberg.org/> - Library of over 60,000 free eBooks
+* <https://en.wikibooks.org/wiki/Main_Page> - Open-content textbooks collection that anyone can edit
+* <https://wikisource.org/wiki/Main_Page> - Free library that anyone can improve
+* <http://classics.mit.edu/> - Select from a list of 441 works of classical literature by 59 different authors
 * <https://www.goodreads.com/ebooks?sort=readable>
-* <https://kingauthor.net/> - MORE THAN 10,000 FREE E-BOOKS in MOBI (Kindle) and PDF (Universal) formats
 * <https://holybooks.com/> - Download Spiritual Texts as free PDF e-books
-* <https://www.anarchistlibraries.net/libraries> - Archive focusing on anarchism, anarchist texts, and texts of interest for anarchists
 * <https://etc.usf.edu/lit2go/> - Free online collection of stories and poems in Mp3 (audiobook) format
 * <https://booksc.org/> - World's largest scientific articles store. 70,000,000+ articles for free
-* <https://btdig.com/> - BitTorrent DHT search engine. It is not a tracker and doesn't store any content and only collects torrent metadata (such as file names and file sizes) and a magnet link (torrent identifier). This means BTDigg is the entirely legal system
-* <http://classics.mit.edu/> - Select from a list of 441 works of classical literature by 59 different authors
 * <https://www.intechopen.com/books> - Read, share and download more than 5,800 peer-reviewed Open Access books
 * <https://www.freetechbooks.com/> - Database of Free / Open Access Online Computer Science Books, Textbooks, and Lecture Notes (1264 books and growing)
 * <https://librivox.org/> - Free public domain audiobooks that are read by volunteers from around the world
 * <https://onlinebooks.library.upenn.edu/> - Listing over 3 million free books on the Web
 * <https://libgen.li/> - Community aiming at collecting and cataloging items descriptions for the most part of scientific, scientific and technical directions, as well as file metadata
-* <https://www.audible.com/> ($) - Largest producer and provider of premium audio storytelling
-* <https://www.goodbooks.io/> - 8,500+ book recommendations from the most successful and interesting people in the world
 * <https://www.manning.com/> - Programming books
-* <https://archive.vcu.edu/english/engweb/transcendentalism/> - American Transcendentalism
+* <https://www.audible.com/> ($) - Largest producer and provider of premium audio storytelling
+* <https://btdig.com/> - BitTorrent DHT search engine. It is not a tracker and doesn't store any content and only collects torrent metadata (such as file names and file sizes) and a magnet link (torrent identifier). This means BTDigg is the entirely legal system
+* <https://archive.vcu.edu/english/engweb/transcendentalism/> -  Educational hypertext, open to new files, notes on transcendental texts, and links among and within files and texts, within this space and to other Internet spaces
 
 ### Book Summary And Recommendations
 
-* <https://read-next.com/> - 3000+ books recommended by famous people from diverse domains (Scientists, Investors, Entrepreneurs, Celebrities, Authors, etc.)
-* <https://blas.com/> - More than 400 summarized books by Blas Moros
+* <https://read-next.com/> - 3,000+ books recommended by famous people from diverse domains (Scientists, Investors, Entrepreneurs, Celebrities, Authors, etc.)
+* <https://www.goodbooks.io/> - 8,500+ book recommendations from the most successful and interesting people in the world
 * <https://mostrecommendedbooks.com/> - 500+ experts. 600+ lists. 500+ book series. 100% verified book recommendations
+* <https://blas.com/> - More than 400 summarized books by Blas Moros
 * <https://bookschatter.com/> - Find book recommendations from people's tweets (with tweets shown)
 * <https://abakcus.com/books/> - Collection of all kinds of books about mathematics (and some science)
 * <https://www.leafmarks.com/> - Explore book recommendations of famous authors, top CEOs, legendary Investors and your Favorite Celebrities
 * <https://bookstash.io/> - Top books recommended by famous folk, in 3m or less
-
-### Book Forums
-
+* <https://www.bookbub.com/welcome> - Get your own, personalized recommendations
 * <https://hackernewsbooks.com/> - The Best Books Mentioned On Hacker News This Week
 * <https://www.goodreads.com/> - World's largest site for readers and book recommendations
 
@@ -917,7 +907,7 @@ Feel free to share and star
 * <https://answersocrates.com/> - Discover the questions people are asking on Google about almost any topic, for free
 * <https://ideasai.com/> - Ideas that are generated by OpenAI's GPT-3
 * <https://answerthepublic.com/> - Discover what people are asking about in popular search engines
-* <https://en.wikipedia.org/wiki/List_of_emerging_technologies> - List of emerging technologies 
+* <https://en.wikipedia.org/wiki/List_of_emerging_technologies> - List of emerging technologies
 * <https://unicorner.news/> - Newsletter that delivers a 2-minute rundown of an up-and-coming startup to your inbox every Monday morning
 
 ### Connectivity
@@ -972,21 +962,22 @@ Feel free to share and star
 
 #### Icons / Icon Packs
 
-* <https://www.iconfinder.com/> (~$) - Icons, Illustrations, 3D illustrations, Designers, Free icons
 * <https://www.iconpacks.net/>
 * [notion.so/Doodlicons](https://www.notion.so/Doodlicons-519314a92ed3474093a10e44946bbb72) - Doodle icons for your next Project's Wireframe
 * <https://illustrationkit.com/> - Free vector illustrations for personal & commercial projects
 * <https://fontawesome.com/> - Internet's icon library and toolkit, used by millions of designers, developers, and content creators
 * <https://www.iconshock.com/freeicons/> - All the icons from absolutely all the open source icon collections available. 100k icons for you to free download
 * <https://3dicons.co/> - 3D icons that are 100% free for commercial and personal use under CC0
+* <https://fontello.com/> - Icon fonts generator
 * <https://healthicons.org/> - Free, open source health icons
+* <https://tablericons.com/> - 1424 Open source free SVG icons. Highly customizable. No attribution required. For commercial use
 * <http://david.li/> - Particle-based 3D simulations and renderings
 * <https://icomoon.io/>
-* <https://fontello.com/> - Icon fonts generator
-* <https://iconz.design/> (~$) - Premium 3D library of 223 icons
 * <https://passionhacks.com/free-isometric-illustrations/> - Free Isometric Illustrations
-* [https://www.pixelbazaar.com](https://www.pixelbazaar.com/?utm_campaign=Black+Friday&utm_medium=Social&utm_source=Product+Hunt&ref=producthunt) - Opinionated icons for brands with a character
 * <https://illlustrations.co/> - Open source illustrations kit  
+* [https://www.pixelbazaar.com](https://www.pixelbazaar.com/?utm_campaign=Black+Friday&utm_medium=Social&utm_source=Product+Hunt&ref=producthunt) - Opinionated icons for brands with a character
+* <https://www.iconfinder.com/> (~$) - Icons, Illustrations, 3D illustrations, Designers, Free icons
+* <https://iconz.design/> (~$) - Premium 3D library of 223 icons
 
 #### Tools for Social Media
 
@@ -1058,10 +1049,10 @@ Feel free to share and star
 * [webstore/wikiwand-wikipedia-modern](https://chrome.google.com/webstore/detail/wikiwand-wikipedia-modern/emffkefkbkpkgpdeeooapgaicgmcbolj) - Wikiwand is a new award-winning interface that optimizes Wikipedia's amazing content for a quicker and significantly improved reading experience
 * <https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines> - List of academic databases and search engines
 * <https://www.scribbr.com/citation/generator/apa/> - Accurate APA citations, verified by experts, trusted by millions
+* <https://temple.manifoldapp.org/projects/bridges> - About institutions, histories, and artifacts of United States college and university life
 
 ### Studying
 
-* <https://temple.manifoldapp.org/projects/bridges> - About institutions, histories, and artifacts of United States college and university life
 * <https://www.bartleby.com/> - Search for textbooks, step-by-step explanations to homework questions, and more
 * <https://www.chegg.com/> ($) - 24/7 COURSE HELP
 * <https://www.chegg.com/flashcards> (@) - Study with flashcards for your course created by students and experts alike
@@ -1071,7 +1062,7 @@ Feel free to share and star
 * <https://calcresource.com/index.html>
 * <https://www.efunda.com/home.cfm> - Calculators, formulas, materials and processes
 
-* [lcm-calculator](<https://www.calculator.net/lcm-calculator.html> - Least Common Multiple)
+* [lcm-calculator](<https://www.calculator.net/lcm-calculator.html>) - Least Common Multiple
 * [gcf-calculator](https://www.calculator.net/gcf-calculator.html?numberinputs=9%2C+57%2C+72&x=75&y=22) - Greatest Common Factor
 * <https://www.calculatorsoup.com/>
 * <https://www.rapidtables.com/>
@@ -1497,6 +1488,8 @@ Feel free to share and star
 
 * <https://www.learnbyexample.org/> - Learn Pyhton, SQL, and R languages with examples
 
+* <https://pythontutor.com/> - This tool helps you learn Python, JavaScript, C, C++, and Java programming by visualizing code execution
+
 #### Programming Languages Cheat Sheet
 
 * <https://lecoupa.github.io/awesome-cheatsheets/>
@@ -1505,24 +1498,26 @@ Feel free to share and star
 ### Python
 
 * <https://docs.python.org/3/>
+* <https://wiki.python.org/moin/FrontPage> - Python Wiki
+
+* <[python.books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#python)>
+* <https://awesome-python.com/> - Curated list of awesome Python frameworks, libraries, software and resources
+
 * <http://projectpython.net/>
-* <https://rawcdn.githack.com/diveintomark/diveintopython3/master/index.html>
 * <https://www.learnpython.org/>
-* <https://docs.python-guide.org/>
 * <https://cscircles.cemc.uwaterloo.ca/>
 * <https://pythonbasics.org/>
 * <https://www.majyori.com/>
-* <https://awesome-python.com/> - Curated list of awesome Python frameworks, libraries, software and resources
-* <https://wiki.python.org/moin/BeginnersGuide> - Beginner's Guide to Python
 * <https://pyformat.info/> - Python Formats compared with old versions
 * <https://learnbyexample.github.io/py_resources/>
-* <https://datatofish.com/python-tutorials/> - Clear python tutorials
+* <https://datatofish.com/python-tutorials/> - Clear python tutorials (ML, databases, pandas, GUI, installations and upgrades, Matplotlib)
 
 * [notion](https://www.notion.so/Programming-Course-4d4331de1a0c4ae894133cb1ca1e9315) - Self-study course for learning to build basic web applications in Django
 
 #### Python Cheat Sheet
 
 * <https://www.pythoncheatsheet.org/> - Based on the book Automate the Boring Stuff with Python and many other sources
+* <https://zerotomastery.io/cheatsheets/python-cheat-sheet/>
 
 ### Coding Practice
 
