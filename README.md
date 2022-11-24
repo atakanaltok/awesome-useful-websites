@@ -14,11 +14,11 @@ Feel free to share and star
 
 ## Lexicon
 
-| Symbol | Meaning |
-| :---: | --- |
-| $ | Payment Required (There are no free options) |
-| ~$ | Freemium (Offers a free version but requires payment for additional features) |
-| @ | Student Friendly |
+| Symbol | Meaning                                                                       |
+| :----: | ----------------------------------------------------------------------------- |
+|   $    | Payment Required (There are no free options)                                  |
+|   ~$   | Freemium (Offers a free version but requires payment for additional features) |
+|   @    | Student Friendly (Offers discounts or a free version for students)            |
 
 # Contents
 
@@ -567,6 +567,7 @@ Feel free to share and star
 * <https://chirpty.com/> - Create your own Twitter interaction circle
 * <https://capturemytweet.in/> - Turn your tweets into wonderful images for free
 * <https://freecodetools.org/twitter-card-generator/> - Twitter Card Generator tool. Use this tool to attach rich content to Tweets completely free.
+* <https://rattibha.com/> - Twitter threads by categories and authors with time, language, and sorting options
 
 ### Reddit
 
@@ -1266,6 +1267,7 @@ Feel free to share and star
 * <https://www.electronics-tutorials.ws/>
 * <https://octopart.com/> - Electronic parts
 * <https://www.techspot.com/article/1821-how-cpus-are-designed-and-built/> - Series that cover computer architecture, processor circuit design, VLSI (very-large-scale integration), chip fabrication, and future trends in computing
+* <https://www.opencircuitsbook.com/> - Open Circuits is a photographic exploration of the beautiful design inside everyday electronics
 
 ### Computer Science
 
@@ -1703,6 +1705,7 @@ Feel free to share and star
 * <https://www.madewithbubble.xyz/> - Discover apps and websites made with bubble
 * <https://novicedock.com/>
 * <https://hackr.io/> - Find the Programming Courses & Tutorials
+* <https://limnology.co/en> - Curation of educational channels of YouTube in 20 different langauges. Select by topic and find out all the channels and videos on that topic. You can also find similar channels that you know of
 
 ## Useful Blogs
 
