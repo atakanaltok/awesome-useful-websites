@@ -1273,6 +1273,7 @@ Feel free to share and star
 
 * <https://teachyourselfcs.com/>
 * <https://www.menimagerie.com/> - Explore all the tantalising concepts in theoretical computer science - from our number system, via Cantor infinities, to Godel's theorems and automat
+* <https://www.compscilib.com/> - Helps you master concepts in Computer Science and Math courses with automated step-by-step solutions and practice problems.
 
 #### A & DS
 
