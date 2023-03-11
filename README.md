@@ -141,16 +141,10 @@ Feel free to share and star
       - [A \& DS](#a--ds)
       - [Big-O notation](#big-o-notation)
   - [Web Development](#web-development)
-    - [Curated Websites](#curated-websites)
     - [Web Dev Blogs](#web-dev-blogs)
     - [Front-end](#front-end)
-        - [Front-end Cheat Sheet](#front-end-cheat-sheet)
-        - [Media Queries Cheat Sheet](#media-queries-cheat-sheet)
-        - [Bootstrap Cheat Sheet](#bootstrap-cheat-sheet)
       - [HTML](#html)
-        - [HTML Cheat Sheet](#html-cheat-sheet)
       - [CSS](#css)
-        - [CSS Cheat Sheet](#css-cheat-sheet)
       - [JavaScript](#javascript)
     - [Back-End](#back-end)
       - [APIs](#apis)
@@ -162,11 +156,10 @@ Feel free to share and star
   - [Web 3.0 Dev](#web-30-dev)
   - [Android Development](#android-development)
   - [Game Development](#game-development)
+    - [Pokemon](#pokemon)
     - [Chess](#chess)
   - [Programming Languages](#programming-languages)
-      - [Programming Languages Cheat Sheet](#programming-languages-cheat-sheet)
     - [Python](#python)
-      - [Python Cheat Sheet](#python-cheat-sheet)
     - [Coding Practice](#coding-practice)
       - [Learn with Projects](#learn-with-projects)
   - [Linux](#linux)
@@ -183,6 +176,13 @@ Feel free to share and star
     - [Open Source](#open-source)
     - [Documentation](#documentation)
   - [Cheat Sheets](#cheat-sheets)
+    - [Programming Languages Cheat Sheet](#programming-languages-cheat-sheet)
+    - [Python](#python-1)
+    - [Front-end Cheat Sheet](#front-end-cheat-sheet)
+      - [Media Queries Cheat Sheet](#media-queries-cheat-sheet)
+      - [Bootstrap Cheat Sheet](#bootstrap-cheat-sheet)
+      - [HTML Cheat Sheet](#html-cheat-sheet)
+      - [CSS Cheat Sheet](#css-cheat-sheet)
   - [Keyboard](#keyboard)
       - [Keyboard Shortcuts](#keyboard-shortcuts)
   - [How To Ask A Good Question](#how-to-ask-a-good-question)
@@ -194,7 +194,7 @@ Feel free to share and star
 - [DISCLAIMER](#disclaimer)
 - [LICENSE](#license)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+<small><i><a href='https://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## Infographics
 
@@ -217,14 +217,14 @@ Feel free to share and star
 
 ## Tools
 
-* <http://5000best.com/tools/>
+* <https://5000best.com/tools/>
 * <https://10015.io/> - Free all-in-one toolbox (image, text, coding, CSS, color, social media, miscellaneous)
 * <https://untools.co/> - Collection of thinking tools and frameworks
-* <http://timetravel.mementoweb.org/> - Find Mementos in Internet Archive, Archive-It, British Library, archive.today, GitHub and many more
+* <https://timetravel.mementoweb.org/> - Find Mementos in Internet Archive, Archive-It, British Library, archive.today, GitHub and many more
 
 ### White Board / Notepad
 
-* <http://typehere.co/> - Blank website where you can only type
+* <https://typehere.co/> - Blank website where you can only type
 * <https://pixelpaper.io/> - Free-forever digital whiteboard with no registeration (Can be embedded into SaaS products)
 * <https://excalidraw.com/> - In this whiteboard, you can also sketch **hand-drawn** like diagrams
 * <https://excalideck.com/> - App for authoring slide decks that look hand-drawn. Excalideck is based on the Excalidraw
@@ -246,14 +246,15 @@ Feel free to share and star
 * <https://titlecase.com/> - Cenvert a text into all kinds of cases
 * <https://lingojam.com/FancyTextGenerator> - Cenvert a text into all kinds of fonts
 * <https://www.calligraphr.com/en/> - Transform your handwriting or calligraphy into a font
-* <http://dongerlist.com/> - Set of unicode characters assembled to form a text emoticon
+* <https://dongerlist.com/> - Set of unicode characters assembled to form a text emoticon
 
 ### Emails
 
 * <https://burnermail.io/> - Hide your personal email address, control who can send you emails, and generate new burners with one click
-* <http://scr.im/> - Convert your email address into a short and safe link you can share on the web without becoming an easy spam target
+* <https://scr.im/> - Convert your email address into a short and safe link you can share on the web without becoming an easy spam target
 * <https://kill-the-newsletter.com/> - Convert email newsletters into Atom feeds
 * <https://www.deadmansswitch.net/> (~$) - Tool that sends your emails to your loved ones if you pass away
+* <https://yamm.com/> ($) -  Mail merge for Gmail.  Send mass emails with Gmail.  Reach the primary inbox, not promotion tab or spam.  Track results in real-time directly from Google Sheets
 
 #### Disposable Email
 
@@ -339,7 +340,7 @@ Feel free to share and star
 * <https://www.fococlipping.com/> - Remove Image Background
 * <https://www.designify.com/> ($) - Create AI-powered designs by automatically removing backgrounds, enhancing colors, adjusting smart shadows, and so much more
 * <https://pfpmaker.com/> - Make profile picture from any photo
-* <http://jpeg-optimizer.com/> - Free online tool for resizing and compressing your digital photos and images
+* <https://jpeg-optimizer.com/> - Free online tool for resizing and compressing your digital photos and images
 * <https://extract.pics/> - Extract images from any public website by using a virtual browser
 * <https://generated.photos/> - Unique, worry-free (AI-generated), free to download model photos
 * <https://zoom.it/> - Create high-resolution, zoomable images
@@ -411,7 +412,7 @@ Feel free to share and star
 * <https://shutuptrackers.com/> - Provides information for protecting your data security and privacy
 * <https://ssd.eff.org/> - SURVEILLANCE SELF-DEFENSE: TIPS, TOOLS AND HOW-TOS FOR SAFER ONLINE COMMUNICATIONS
 * <https://www.routerpasswords.com/> - Router Passwords is officially the most updated default router password repository on the internet
-* <http://bugmenot.com/> - Find and share logins. Enter a website below to see if the bugmenot community has shared any logins for it
+* <https://bugmenot.com/> - Find and share logins. Enter a website below to see if the bugmenot community has shared any logins for it
 * <https://www.security.org/security-score/> - Learn about your security score
 * <https://www.startpage.com/> - Get privacy protection across the web. Extension for instant tracker blocking & more
 * <https://cookiepedia.co.uk/> - Largest database of pre-categories cookies and online tracking technologies
@@ -443,7 +444,7 @@ Feel free to share and star
 ### Internet
 
 * <https://www.internetlivestats.com/> - Every statics of the internet
-* <http://internet-map.net/> - The map of the Internet
+* <https://internet-map.net/> - The map of the Internet
 * <https://test-ipv6.com/> - Test your IPv6 connectivity
 * <https://kb.adguard.com/en/general/dns-providers> - You can configure any DNS server to be used instead of the system default provided by the router or ISP
 * <https://tls12.xargs.org/> - Every byte of a TLS connection is explained and reproduced
@@ -471,7 +472,7 @@ Feel free to share and star
 
 * <https://cutr.ml/>
 * <https://is.gd/>
-* <http://gg.gg/>
+* <https://gg.gg/>
 * <https://www.shrunken.com/>
 * <https://www.rebrandly.com/> (~$) - Link management platform to brand, track, and share short URLs using a custom domain name
 * <https://bit.do/> - Get real-time traffic statistics for your links for free
@@ -498,11 +499,11 @@ Feel free to share and star
 
 * <https://ahmia.fi/> - Searches hidden services on the Tor network (to access these hidden services, you need the Tor browser bundle)
 * <https://webtorrent.io/> - Streaming torrent client for browser
-* <http://iknowwhatyoudownload.com/> - Torrent downloads and distributions for your IP address
+* <https://iknowwhatyoudownload.com/> - Torrent downloads and distributions for your IP address
 
 ### Password Generation
 
-* <http://www.healthypasswords.com/index-2.html> - Everything About Passwords and Internet Security
+* <https://www.healthypasswords.com/index-2.html> - Everything About Passwords and Internet Security
 * <https://random-password-gen.web.app/>
 * <https://www.security.org/how-secure-is-my-password/> - Check How Secure Is Your Password. Entries are 100% secure and not stored in any way or shared with anyone
 * <https://freecodetools.org/password-generator/>
@@ -510,7 +511,7 @@ Feel free to share and star
 ## DIY
 
 * <https://www.jscreenfix.com/> - Pixel fixing algorithm that has been applied to millions of screens and is the most effective software solution available for repairing defective pixels (A stuck pixel is a bright dot of colour that fails to update when neighbouring pixels change). Nothing to install, totally free
-* <http://thistothat.com/> - Learn how to glue to materials together
+* <https://thistothat.com/> - Learn how to glue to materials together
 * <https://www.donkeycar.com/> - Opensource DIY self driving platform for small scale cars. RC CAR  +  Raspberry Pi + Python (tornado, keras, tensorflow, opencv, ....)
 * <https://www.instructables.com/>
 * <https://www.ifixit.com/> - Repair guides for every thing, written by everyone
@@ -520,7 +521,7 @@ Feel free to share and star
 * <https://www.doityourself.com/>
 * <https://www.wonderhowto.com/>
 * <https://www.howstuffworks.com/>
-* <http://bookcrossing.com/> - Release your books "into the wild" for a stranger to find, or "controlled release" to another BookCrossing member, and track where they go via journal entries from around the world
+* <https://bookcrossing.com/> - Release your books "into the wild" for a stranger to find, or "controlled release" to another BookCrossing member, and track where they go via journal entries from around the world
 
 ## Visual Entertainment
 
@@ -531,7 +532,7 @@ Feel free to share and star
 * <https://agoodmovietowatch.com/>
 * <https://animixplay.to/>
 * <https://tubitv.com/home>
-* <http://rarefilm.net/> - Old films
+* <https://rarefilm.net/> - Old films
 * <https://tiii.me/> - Calculate your total time spent watching TV shows
 * <https://www.moviesettingsdatabase.com/> - Over 30k Movies & TV Shows Organized By Where (And When) The Story Took Place
 * <https://m.wcostream.com/> - Free cartoon and anime series
@@ -543,16 +544,16 @@ Feel free to share and star
 
 ## Media
 
-* <http://radio.garden/> - Radio stations represented as green dots on Google Earth map and you can listen any of them by just one click
+* <https://radio.garden/> - Radio stations represented as green dots on Google Earth map and you can listen any of them by just one click
 * <https://radiooooo.com/> - The Musical Time Machine
-* <http://www.lightyear.fm/> - Radio broadcasts leave Earth at the speed of light
+* <https://www.lightyear.fm/> - Radio broadcasts leave Earth at the speed of light
 * <https://tastedive.com/> - Find mucis, books, movies, and many more
 * <https://www.pidgi.net/wiki/Main_Page> - Community-driven video game media database, including artwork, promotional materials, logos, and more
 * <https://kassellabs.io/> - Use your texts on famous intros of movies and series
 * <https://ustvgo.tv/> - Free live TV channels
 * <https://www.allyoucanread.com/> - The largest database of magazines and newspapers on the Internet, with listings for about 25,000 magazines, newspapers and top news sites from all over the world
 * <https://karpathy.ai/lexicap/> - Transcripts for Lex Fridman episodes
-* <http://www.aniketvartak.com/html/hall-index.html> - Transcripts for Brett Hall's TokCast podcast
+* <https://www.aniketvartak.com/html/hall-index.html> - Transcripts for Brett Hall's TokCast podcast
 * <https://teyit.org/> - Fact Chacking for Turkish news and media
 
 ### Twitter
@@ -572,7 +573,7 @@ Feel free to share and star
 
 ### Reddit
 
-* <http://redditlist.com/> - A subreddit list
+* <https://redditlist.com/> - A subreddit list
 * <https://anvaka.github.io/redsim/> - Find similar subreddits
 * <https://www.reveddit.com/about/> - For revealing reddit's removed content. Search by username, subreddit (r/), link or domain
 * <https://www.spacebarcounter.net/reddit-list> - 100+ Subreddits
@@ -595,7 +596,7 @@ Feel free to share and star
 * <https://music.tello.app/> - Find out the latest music charts of all the countries in the world
 * <https://www.lalal.ai/> - Extract vocal, accompaniment and various instruments from any audio
 * <https://musiclab.chromeexperiments.com/Experiments> - Learning music more accessible through fun, hands-on experiments
-* <http://www.rap4ever.org/> - Rap songs, lyrics, mixtapes, albumes, artists, and more
+* <https://www.rap4ever.org/> - Rap songs, lyrics, mixtapes, albumes, artists, and more
 * <https://everynoise.com/> - Ongoing attempt at an algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space
 * <https://audd.io/> - Recognize music (or what's playing) from sound or from streams
 * <https://mp3cut.net/> - Trim or cut any audio file online
@@ -607,9 +608,9 @@ Feel free to share and star
 * <https://audionautix.com/> - Music that is composed and produced by Jason Shaw. Completely free - for you to download and use (even for commercial purposes) as long as you provide credit
 * <https://www.rhymezone.com/> - Find rhymes, synonyms, adjectives, and more
 * <https://rhymer.com/> - FREE Online Rhyming Dictionary
-* <http://typatone.com/> - Generate your own music by typing on keyboard
-* <http://www.commercialtunage.com/> - Find out the songs in commercials
-* <http://incompetech.com/> - Collection of royalty-free music
+* <https://typatone.com/> - Generate your own music by typing on keyboard
+* <https://www.commercialtunage.com/> - Find out the songs in commercials
+* <https://incompetech.com/> - Collection of royalty-free music
 * <https://www.incredibox.com/> - Music app that lets you create your own music with the help of a merry crew of beatboxers
 * <https://www.pretzel.rocks/> - Stream-safe music for Twitch and YouTube
 
@@ -626,7 +627,7 @@ Feel free to share and star
 * <https://www.noisli.com/>
 * <https://naim30.github.io/soundrop/>
 * <https://www.producthunt.com/posts/soundlove>
-* <http://rainymood.com/> - Rain Sounds for Sleep & Study
+* <https://rainymood.com/> - Rain Sounds for Sleep & Study
 * <https://imisstheoffice.eu/> - Office noise generator - providing you with the soothing tones of modern office life to help you focus when working from home
 
 ### Spotify
@@ -654,6 +655,7 @@ Feel free to share and star
 * <https://www.newsinlevels.com/> - World news for students of English
 * <https://dood.al/pinktrombone/> - Human mouth and its sounds interactive voicebox
 * <https://www.japanese-wiki-corpus.org/> - Generated from the Japanese-English Bilingual Corpus of Wikipedia's Kyoto Articles
+* <https://latin-phrases.co.uk/> - Look up for the translation of the latin phrases
 
 #### Grammer
 
@@ -675,7 +677,7 @@ Feel free to share and star
 * <https://www.crownacademyenglish.com/articles/> - Simple, succint, and clear explanations of some English language concepts
 * <https://www.askdifference.com/> - Short and clean differences of two similar subjects
 * <https://keydifferences.com/> - Website on differences and comparisons, that not only emphasizes on the distinction between two topics, but also provides a better understanding of each subject with the help of an enriched content
-* <http://www.differencebetween.info/> - Descriptive Analysis and Comparisons
+* <https://www.differencebetween.info/> - Descriptive Analysis and Comparisons
 * <https://www.allacronyms.com/> - Community-driven Acronyms and Abbreviations Dictionary
 
 #### Business English
@@ -721,7 +723,7 @@ Feel free to share and star
 
 #### Weather
 
-* <http://hint.fm/wind/> - Delicate tracery of wind flowing over the US
+* <https://hint.fm/wind/> - Delicate tracery of wind flowing over the US
 * <https://www.windy.com/> - Nearly everything about the weather of the any location
 * <https://zoom.earth/> - Visualizes the world in real-time. Track tropical storms, hurricanes, severe weather, wildfires and more
 * <https://earth.nullschool.net/> - Visualization of global weather conditions forecast by supercomputers updated every three hours
@@ -742,7 +744,7 @@ Feel free to share and star
 * <https://www.gutenberg.org/> - Library of over 60,000 free eBooks
 * <https://en.wikibooks.org/wiki/Main_Page> - Open-content textbooks collection that anyone can edit
 * <https://wikisource.org/wiki/Main_Page> - Free library that anyone can improve
-* <http://classics.mit.edu/> - Select from a list of 441 works of classical literature by 59 different authors
+* <https://classics.mit.edu/> - Select from a list of 441 works of classical literature by 59 different authors
 * <https://www.goodreads.com/ebooks?sort=readable>
 * <https://holybooks.com/> - Download Spiritual Texts as free PDF e-books
 * <https://etc.usf.edu/lit2go/> - Free online collection of stories and poems in Mp3 (audiobook) format
@@ -756,6 +758,7 @@ Feel free to share and star
 * <https://www.audible.com/> ($) - Largest producer and provider of premium audio storytelling
 * <https://btdig.com/> - BitTorrent DHT search engine. It is not a tracker and doesn't store any content and only collects torrent metadata (such as file names and file sizes) and a magnet link (torrent identifier). This means BTDigg is the entirely legal system
 * <https://archive.vcu.edu/english/engweb/transcendentalism/> -  Educational hypertext, open to new files, notes on transcendental texts, and links among and within files and texts, within this space and to other Internet spaces
+* <https://www.libraryofshortstories.com/> - An online library of over 1000 classic short stories. Read and download history’s best
 
 ### Book Summary And Recommendations
 
@@ -813,6 +816,8 @@ Feel free to share and star
 * <https://www.welovenocode.com/marketingforstartups> - Free e-book with 47 practical tactics to get customers and achieve hockey stick growth
 * <https://arraylist.org/> - List database in the cloud. You can use it for storing things like form submissions, email-subscription forms or make a AJAX/REST call to store values in the list
 * <https://www.supermeme.ai/> ($) - Generate original memes powered by AI in 110+ languages
+* <https://www.apollo.io/> - Search, engage and convert over 250 million contacts at over 60 million companies with Apollo’s sales intelligence and engagement platform
+* <https://vocus.io/> - Personalize email campaigns, track and automate email followups, schedule appointments, sync with your CRM, and collaborate with your team
 
 #### Office Programs
 
@@ -849,21 +854,21 @@ Feel free to share and star
 
 ### Remote Jobs
 
-* <https://remoteok.com/> 
-* <https://jsremotely.com/> 
-* <https://flexjobs.com/> 
-* <https://remote.co/> 
-* <https://justremote.co/> 
-* <https://weworkremotely.com/> 
-* <https://jobspresso.co/> 
-* <https://remotive.com/> 
-* <https://dailyremote.com/> 
+* <https://remoteok.com/>
+* <https://jsremotely.com/>
+* <https://flexjobs.com/>
+* <https://remote.co/>
+* <https://justremote.co/>
+* <https://weworkremotely.com/>
+* <https://jobspresso.co/>
+* <https://remotive.com/>
+* <https://dailyremote.com/>
 * <https://angel.co/candidates/overview>
-* <https://remoteleaf.com/> 
-* <https://remoteleads.io/> 
-* <https://hired.com/> 
-* <https://remotebear.io/> 
-* <https://justjoin.it/> 
+* <https://remoteleaf.com/>
+* <https://remoteleads.io/>
+* <https://hired.com/>
+* <https://remotebear.io/>
+* <https://justjoin.it/>
 
 ### Interview
 
@@ -878,14 +883,14 @@ Feel free to share and star
 * <https://www.referd.ai/resume-scanner> - Free resume scanner
 * <https://rxresu.me/> - Free and open source resume builder
 * <https://www.goodcv.com/> - Create a professional Resume/CV in minutes. The simplest way to have impressive Resume without Photoshop, AI technique
-* <http://jsonresume.io/> - You can upload your JSON resume according to the spec and we'll render it all pretty for you
+* <https://jsonresume.io/> - You can upload your JSON resume according to the spec and we'll render it all pretty for you
 * <https://cvmkr.com/> - Create, maintain, publish, and share your CVs for free
 * <https://novoresume.com/> (~$) - Online resume builder
 * <https://hellotechrecruiters.com/> - For tech recruiters
 
 ### Careers
 
-* <http://www.wtfshouldidowithmylife.com/> - Learn about different occupations
+* <https://www.wtfshouldidowithmylife.com/> - Learn about different occupations
 * [path-to-polymath.notion](https://path-to-polymathy.notion.site/path-to-polymathy/Path-To-Polymathy-d7586429b7ce4db1889fc539822b9670) - Arrangement of every discipline and field out there, and what specific topics make them up
 
 ## Economy
@@ -919,7 +924,7 @@ Feel free to share and star
 
 ### Technology
 
-* <http://oldcomputers.net/> - Museum of old and vintage computers. View 150 old computers
+* <https://oldcomputers.net/> - Museum of old and vintage computers. View 150 old computers
 * <https://www.kapwing.com/museum-of-websites> - Gallery of how famous internet companies have changed over time
 
 ### Finding Ideas
@@ -991,7 +996,7 @@ Feel free to share and star
 * <https://fontello.com/> - Icon fonts generator
 * <https://healthicons.org/> - Free, open source health icons
 * <https://tablericons.com/> - 1424 Open source free SVG icons. Highly customizable. No attribution required. For commercial use
-* <http://david.li/> - Particle-based 3D simulations and renderings
+* <https://david.li/> - Particle-based 3D simulations and renderings
 * <https://icomoon.io/>
 * <https://www.utf8icons.com/> - All the unicode symbols that are part of the utf-8 standard
 * <https://passionhacks.com/free-isometric-illustrations/> - Free Isometric Illustrations
@@ -1011,7 +1016,7 @@ Feel free to share and star
 
 #### Stock Images
 
-* <http://thestocks.im/>
+* <https://thestocks.im/>
 * <https://www.pexels.com/>
 * <https://unsplash.com/>
 * <https://www.freeimages.com/>
@@ -1033,15 +1038,15 @@ Feel free to share and star
 * <https://wallhaven.cc/>
 * <https://www.moviemania.io/phone> - Textless high-resolution movie wallpapers database on the Internet
 * <https://www.wallpapertip.com/> - Upload & discover free hd wallpapers
-* <http://simpledesktops.com/browse/> - Minimal wallpapers
+* <https://simpledesktops.com/browse/> - Minimal wallpapers
 * <https://www.wallpaperflare.com/search?wallpaper=vertical> - High resolution vertical wallpapers
 * <https://www.positrondream.com/wallpapers-all> - Abstract wallpapers
 
 ## Art
 
-* <http://weavesilk.com/> - Create beautiful flowing art with Silk
+* <https://weavesilk.com/> - Create beautiful flowing art with Silk
 * <https://artsandculture.google.com/> - Bringing the world’s art and culture online for everyone
-* <http://www.artgraphica.net/> - Free Drawing, Sketching and Painting techniques
+* <https://www.artgraphica.net/> - Free Drawing, Sketching and Painting techniques
 * <https://tattooswizard.com/> - Find Tattoo Artists and Studios near you
 * <https://www.artic.edu/collection> - Explore thousands of artworks in the museum’s collection
 * <https://zoomquilt.org/> - Collaborative infinitely zooming painting
@@ -1064,7 +1069,7 @@ Feel free to share and star
 * <https://www.homeworkhelpglobal.com/> - Online professional and custom essay writing services
 * <https://sites.dartmouth.edu/nyhan/academic-careers/>
 * <https://cnx.org/> - View and share free educational materials
-* <http://www.reachoutmichigan.org/learn/tutorials.html#math> - On-Line Tutorials & References
+* <https://www.reachoutmichigan.org/learn/tutorials.html#math> - On-Line Tutorials & References
 * <https://opentextbc.ca/> - Simple book production software. You can use Pressbooks to publish textbooks, scholarly monographs, syllabi, fiction and non-fiction books, white papers, and more in multiple formats including: MOBI, EPUB, PDF
 * [webstore/modern-for-wikipedia](https://chrome.google.com/webstore/detail/modern-for-wikipedia/emdkdnnopdnajipoapepbeeiemahbjcn) - Enhance your Wikipedia experience with a beautiful, clean, modern design that's fully customizable
 * [webstore/wikiwand-wikipedia-modern](https://chrome.google.com/webstore/detail/wikiwand-wikipedia-modern/emffkefkbkpkgpdeeooapgaicgmcbolj) - Wikiwand is a new award-winning interface that optimizes Wikipedia's amazing content for a quicker and significantly improved reading experience
@@ -1106,7 +1111,8 @@ Feel free to share and star
 * <https://www.edx.org/>
 * <https://www.udacity.com/>
 * <https://online.stanford.edu/>
-* <http://oli.cmu.edu/>
+* <https://www.open.edu/openlearn/>
+* <https://oli.cmu.edu/>
 * <https://www.mitx.org/>
 * <https://oyc.yale.edu/>
 * <https://alison.com/>
@@ -1141,9 +1147,9 @@ Feel free to share and star
 * <https://mathshistory.st-andrews.ac.uk/> - Free online resource containing biographies of more than 3000 mathematicians and over 2000 pages of essays and supporting materials
 * <https://www.webofstories.com/> - Listen to some of the greatest people of our time telling their life stories
 * <https://www.darwinproject.ac.uk/> - Letters written by the evolutionary scientist, Charles Darwin (1809–1882)
-* <http://darwin-online.org.uk/> - The world's largest and most widely used resource on Charles Darwin
+* <https://darwin-online.org.uk/> - The world's largest and most widely used resource on Charles Darwin
 * <https://www.newtonproject.ox.ac.uk/> - Online edition of all of Sir Isaac Newton’s (1642–1727) writings
-* <http://bethe.cornell.edu/index.html> - Personal and historical perspectives of Hans Bethe
+* <https://bethe.cornell.edu/index.html> - Personal and historical perspectives of Hans Bethe
 * <https://lettersofnote.com/> - History’s most fascinating letters
 * <https://www.organism.earth/library/>
 * <https://www.opensourceshakespeare.org/> - Open source Shakespeare
@@ -1153,9 +1159,9 @@ Feel free to share and star
 ### Data
 
 * <https://ourworldindata.org/covid-vaccinations> - Corona data by country
-* <http://websdr.org/> - Software-Defined Radio receiver connected to the internet, allowing many listeners to listen and tune it simultaneously (Current signals of earths)
+* <https://websdr.org/> - Software-Defined Radio receiver connected to the internet, allowing many listeners to listen and tune it simultaneously (Current signals of earths)
 * <https://gsmmap.org/> - This GSM Security Map compares the protection capabilities of mobile networks
-* <http://cbert.org/resources-data/intl-campus/> - List of International Campuses
+* <https://cbert.org/resources-data/intl-campus/> - List of International Campuses
 * [google.maps](https://www.google.com/maps/d/u/0/viewer?mid=1ckm_TSM8mbCrnhA8COpBNG-qJqTR2IW3&ll=43.664774893391936%2C24.56718262638249&z=5) - United States International College Campuses on Google Maps
 * <https://www.submarinecablemap.com/> - Submarine cables around the world  
 * <https://observablehq.com/> - Explore, analyze, and explain data. As a team
@@ -1165,7 +1171,7 @@ Feel free to share and star
 
 * <https://www.desolhar-philo.com/> - Notes about philosophy
 * <https://www.visualizingsep.com/># - Interactive visualization and search engine for exploring the Stanford Encyclopedia of Philosophy
-* <http://hakobsandbox.openetext.utoronto.ca/> - Online book on introduction to history and philosophy of science
+* <https://hakobsandbox.openetext.utoronto.ca/> - Online book on introduction to history and philosophy of science
 * <https://philosophyalevel.com/>
 * <https://www.denizcemonduygu.com/philo/browse/> - History of Philosophy - Summarized & Visualized
 
@@ -1187,32 +1193,34 @@ Feel free to share and star
 ### Physics
 
 * <https://theoreticalminimum.com/home> - Series of Stanford Continuing Studies courses taught by world renowned physicist Leonard Susskind
-* <http://www.damtp.cam.ac.uk/user/tong/index.html> - Theoretical Physics
-* <http://galileo.phys.virginia.edu/classes/632.ral5q.summer06/lectures.html> - University of Virginia Classical and Modern Physics II
+* <https://www.damtp.cam.ac.uk/user/tong/index.html> - Theoretical Physics
+* <https://galileo.phys.virginia.edu/classes/632.ral5q.summer06/lectures.html> - University of Virginia Classical and Modern Physics II
 
 * <https://muellergroup.lassp.cornell.edu/index.html> - Laboratory of Atomic and Solid State Physics
 
 #### Quantum
 
-* <http://vsg.quasihome.com/interfer.htm> - Applet of Young's Double Slit Interference
+* <https://vsg.quasihome.com/interfer.htm> - Applet of Young's Double Slit Interference
 
 #### Astronomy
 
-* <http://www.fearofphysics.com/> - Free "Astronomy 101" course
-* <http://galileo.phys.virginia.edu/classes/109N/more_stuff/Applets/home.html> - Early Lunar Observations and some Planetary Models, applets on various motion
+* <https://www.fearofphysics.com/> - Free "Astronomy 101" course
+* <https://galileo.phys.virginia.edu/classes/109N/more_stuff/Applets/home.html> - Early Lunar Observations and some Planetary Models, applets on various motion
 * <https://stars.chromeexperiments.com/> - Visualization of 100,000 nearby stars
 * <https://planetplanet.net/2018/06/01/the-million-earth-solar-system/> - The Million Earth Solar System
 
 ### Social Sciences
 
 * <https://temple.manifoldapp.org/projects/all> - Many great resources on various social sciences
-* <http://histography.io/> - Interactive timeline that spans across 14 billion years of history, from the Big Bang to 2015
+* <https://histography.io/> - Interactive timeline that spans across 14 billion years of history, from the Big Bang to 2015
 
 #### History
 
-* <http://unenumerated.blogspot.com/> - Comprehensive and highly detailed blog about vairous history topics
+* <https://unenumerated.blogspot.com/> - Comprehensive and highly detailed blog about vairous history topics
 * <https://humanorigins.si.edu/evidence/human-family-tree> - Interactive Human Family Tree
 * <https://timeline.oldera.org/> - View entire history on a zoomable timeline
+* <https://blog.nuclearsecrecy.com/> - Historical information about nuclear secrecy
+* <https://ascentofhumanity.com/> - The Age of Separation, the Age of Reunion, and the convergence of crises that is birthing the transition
 
 ## Mathematics
 
@@ -1237,7 +1245,10 @@ Feel free to share and star
 ### Math + Art
 
 * <https://www.gregegan.net/> - Science fiction writer and computer programmer's information, illustrations, and applets
-* <http://bugman123.com/> - favorite hobbies and interests, especially science, and art of Paul Nylander
+* <https://bugman123.com/> - favorite hobbies and interests, especially science, and art of Paul Nylander
+* <https://nycdoe-cs4all.github.io/> - Introduction to Computational Media with p5.js
+* https://texample.net/ - Examples and community of LaTeX 
+
 
 ## Engineerings
 
@@ -1249,8 +1260,8 @@ Feel free to share and star
 
 ### Mechanical Engineering
 
-* <http://507movements.com/toc.html> - Animated Mechanical Movements
-* <http://www.madehow.com/> - Explains and details the manufacturing process of a wide variety of products
+* <https://507movements.com/toc.html> - Animated Mechanical Movements
+* <https://www.madehow.com/> - Explains and details the manufacturing process of a wide variety of products
 * <https://temple.manifoldapp.org/projects/structural-analysis> - Comprehensive Structural Analysis Book
 * <https://calcresource.com/resources.html> - Regularly updated list of resources on mechanics and statics
 * <https://www.engineersedge.com/> - Articles and resources on structural and mechanical engineering topics
@@ -1267,7 +1278,7 @@ Feel free to share and star
 
 * <https://www.doitpoms.ac.uk/index.php> - DoITPoMS from Department of Materials Science and Metallurgy, University of Cambridge
 * <https://ssd.phys.strath.ac.uk/> - Nanoscience resources of the Department of Physics at the University of Strathclyde
-* <http://web.mit.edu/16.unified/www/SPRING/materials/index.html> - Concepts are deeply examined
+* <https://web.mit.edu/16.unified/www/SPRING/materials/index.html> - Concepts are deeply examined
 * <https://product.statnano.com/> - Reliable source of information about nanotechnology products, currently used in a broad range of industrial applications
 * <https://www.myminifactory.com/> - World’s largest ecosystem of free to download, 3D printable objects of cultural significance
 
@@ -1276,7 +1287,7 @@ Feel free to share and star
 * <https://users.wpi.edu/~sullivan/ES3001/Lectures/> - For thermo, go to [Lectures/Lecture-A](https://users.wpi.edu/~sullivan/ES3001/Lectures/Lecture-A/) (or [Lectures/Lecture-B/](https://users.wpi.edu/~sullivan/ES3001/Lectures/Lecture-B/)) and then go to [Lectures/Lecture-A/Lecture-1](https://users.wpi.edu/~sullivan/ES3001/Lectures/Lecture-A/Lecture-1.htm)
 * <https://web.mit.edu/16.unified/www/FALL/thermodynamics/notes/notes.html>
 * <https://sites.google.com/site/hallmanenergyunit/home> - All about energy
-* <http://ouopentextbooks.org/thermodynamics/> - Web-based, open educational resource (no longer being actively developed)
+* <https://ouopentextbooks.org/thermodynamics/> - Web-based, open educational resource (no longer being actively developed)
 
 #### Control
 
@@ -1299,16 +1310,16 @@ Feel free to share and star
 #### A & DS
 
 * <https://entcheva.github.io/> - Adventures In Coding & Algorithms
-* <http://blog.notdot.net/tag/damn-cool-algorithms>
+* <https://blog.notdot.net/tag/damn-cool-algorithms>
 
 #### Big-O notation
 
-* <http://cooervo.github.io/Algorithms-DataStructures-BigONotation/>
+* <https://cooervo.github.io/Algorithms-DataStructures-BigONotation/>
 
 ## Web Development
 
 * <https://roadmap.sh/> - Roadmaps of development areas
-* <https://coggle.it/diagram/Vz9LvW8byvN0I38x/t/web-development> - 
+* <https://coggle.it/diagram/Vz9LvW8byvN0I38x/t/web-development> -
 * <https://novicedock.com/learn/computer-science/web-development>
 * <https://webdevhome.github.io/>
 * <https://web-dev-resources.com/#/> - Awesome Web Development Resources
@@ -1340,9 +1351,7 @@ Feel free to share and star
 * <https://www.madewithbubble.xyz/> - Discover cool apps and websites made with bubble
 * <https://www.internetingishard.com/> - Friendly web development tutorials for complete beginners
 * <https://www.airtable.com/home/toolkit> - Now anyone can build apps that connect every part of their work, while staying in sync with the rest of their business
-* <https://resources.grey.software/> - Most up-to-date software resources from professionals and academics worldwide that are curated and crowd-sourced 
-
-### Curated Websites
+* <https://resources.grey.software/> - Most up-to-date software resources from professionals and academics worldwide that are curated and crowd-sourced
 
 * <https://free-for.dev/#/> - List of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers
 
@@ -1365,49 +1374,17 @@ Feel free to share and star
 * <https://know-it-all.io/> - List of what you know and what you don't about web development
 * <https://youmightnotneedjquery.com/> - jQuery alternatives
 
-##### Front-end Cheat Sheet
-
-* <https://caniuse.com/>
-* <https://easings.net/en># - Specify the rate of change of a parameter over time
-* <https://webcode.tools/> - Code generators to help you with your front-end web projects
-
-##### Media Queries Cheat Sheet
-
-* <https://uxpin.s3.amazonaws.com/responsive_web_design_cheatsheet.pdf> - Responsive web design
-* <https://mac-blog.org.ua/css-3-media-queries-cheat-sheet> - Media Queries Cheat Sheet
-
-##### Bootstrap Cheat Sheet
-
-* <https://bootsnipp.com/> - Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework
-* <https://hackerthemes.com/bootstrap-cheatsheet/> - Bootstrap framework
-* <https://hackerthemes.com/> - UI/UX based on Bootstrap
-
 #### HTML
-
-* <https://htmlreference.io/> - Free guide to HTML. It features all elements and attributes
-* <https://htmlmail.pro/> - Create and send beautiful HTML emails, or save in Gmail drafts (Email services like Gmail and Outlook support rich HTML emails but they do not offer an option to compose email messages directly using HTML and CSS markup)
-* <https://tailwindcss.com/> - Rapidly build modern websites without ever leaving your HTML
-
-##### HTML Cheat Sheet
-
-* <https://htmlcheatsheet.com>
-* <http://html5doctor.com/element-index/> - Quick reference of elements that are new or have been redefined in HTML5
-* <https://simon.html5.org/dump/html5-canvas-cheat-sheet.html>
-* <http://apps.workflower.fi/vocabs/html/en#children> - html vocabulary
-
+* <https://hyperscript.org/> - Make websites written in plain-old markup a joy to use
+* <https://htmx.org/> - htmx gives you access to AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext
+  
 #### CSS
 
 * <https://cssbattle.dev/> - Test your CSS skills by replicating targets with smallest possible code
 * <https://www.csssolid.com/> - CSS references, tutorials, and articles
 * <https://css-tricks.com/> - Web design community powered by Digital Ocean
 
-##### CSS Cheat Sheet
 
-* <https://cssreference.io>
-* <https://grid.malven.co>
-* <https://flexbox.malven.co/>
-* <http://www.justinaguilar.com/animations/>
-* <https://alialaa.github.io/css-grid-cheat-sheet/>
 
 #### JavaScript
 
@@ -1435,6 +1412,8 @@ Feel free to share and star
 
 * <https://sqlzoo.net/wiki/SQL_Tutorial> - Learn SQL in stages
 * <https://bipp.io/sql-tutorial> - Free
+* <https://selectstarsql.com/> - Interactive book which aims to be the best place on the internet for learning SQL. It is free of charge, free of ads and doesn't require registration or downloads
+* <https://quip.com/2gwZArKuWk7W> - Medium-Hard Data Analyst SQL Interview Questions
 
 #### RubyGems
 
@@ -1446,13 +1425,13 @@ Feel free to share and star
 
 #### Data Science
 
-* <http://www.datatau.com/news> - Hackernews but for data
+* <https://www.datatau.com/news> - Hackernews but for data
 * <https://www.datasetlist.com/> - List of machine learning datasets from across the web
 
 ### Web Analytics
 
 * <https://pirsch.io/> - Open-source, cookie-free web analytics
-* <http://websites.milonic.com/> - Find all important website data neatly reported in one place
+* <https://websites.milonic.com/> - Find all important website data neatly reported in one place
 * <https://www.woorank.com/> (~$) - Free Website Review Tool & SEO Checker
 * <https://semji.com/> - Improve the ROI of your content. Create high-performing SEO content in no time
 * <https://web.dev/> - Measure the performance of your website and get actionable insights
@@ -1467,7 +1446,7 @@ Feel free to share and star
 * <https://statusvista.com/> - An all-in-one status page of the systems your product depends on
 * <https://builtwith.com/> - Find out what websites are Built With. Database of 59,905+ web technologies and over 673 million websites. See which sites use shopping carts, analytics, hosting and many more. Filter by location, traffic, vertical and more
 * <https://camelcamelcamel.com/> - Free Amazon price tracker monitors millions of products and alerts you when prices drop, helping you decide when to buy
-* <http://cloudping.bastionhost.org/en/> - Perform an HTTP ping to measure the network latency from your browser to the various cloud data centers around the world
+* <https://cloudping.bastionhost.org/en/> - Perform an HTTP ping to measure the network latency from your browser to the various cloud data centers around the world
 * <https://downforeveryoneorjustme.com/> - Check if a website is down
 * <https://downdetector.in/> - Real-time problem & outage monitoring
 * <https://gtmetrix.com/> - See how your site performs, reveal why it's slow and discover optimization opportunities
@@ -1497,6 +1476,11 @@ Feel free to share and star
 * <https://itch.io/> - Simple way to find and share indie games online for free
 * <https://www.systemrequirementslab.com/cyri> - System Requirements Lab analyzes your computer in just seconds, and it's FREE
 
+### Pokemon
+
+* <https://pokemondb.net/> - Pokémon Database - News & Updates
+* <https://serebii.net/> - All kinds of news, features, archives, and explanations
+
 ### Chess
 
 * <https://www.thechesswebsite.com/> - Learn, Practice and Play Chess
@@ -1516,11 +1500,6 @@ Feel free to share and star
 
 * <https://pythontutor.com/> - This tool helps you learn Python, JavaScript, C, C++, and Java programming by visualizing code execution
 
-#### Programming Languages Cheat Sheet
-
-* <https://lecoupa.github.io/awesome-cheatsheets/>
-* <https://overapi.com/>
-
 ### Python
 
 * <https://docs.python.org/3/>
@@ -1529,7 +1508,7 @@ Feel free to share and star
 * <[python.books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#python)>
 * <https://awesome-python.com/> - Curated list of awesome Python frameworks, libraries, software and resources
 
-* <http://projectpython.net/>
+* <https://projectpython.net/>
 * <https://www.learnpython.org/>
 * <https://cscircles.cemc.uwaterloo.ca/>
 * <https://pythonbasics.org/>
@@ -1540,13 +1519,9 @@ Feel free to share and star
 
 * [notion](https://www.notion.so/Programming-Course-4d4331de1a0c4ae894133cb1ca1e9315) - Self-study course for learning to build basic web applications in Django
 
-#### Python Cheat Sheet
-
-* <https://www.pythoncheatsheet.org/> - Based on the book Automate the Boring Stuff with Python and many other sources
-* <https://zerotomastery.io/cheatsheets/python-cheat-sheet/>
-
 ### Coding Practice
 
+* <https://clist.by/> - List of competitions from various programming websites
 * <https://www.codewars.com/>
 * <https://www.hackerrank.com/dashboard>
 * <https://leetcode.com/>
@@ -1617,7 +1592,7 @@ Feel free to share and star
 ### Linters
 
 * <https://www.fromlatest.io/#/> - Dockerfile linter
-* <http://www.yamllint.com/> - Paste in your YAML and click "Go" - we'll tell you if it's valid or not, and give you a nice clean UTF-8 version of it. Optimized for Ruby
+* <https://www.yamllint.com/> - Paste in your YAML and click "Go" - we'll tell you if it's valid or not, and give you a nice clean UTF-8 version of it. Optimized for Ruby
 * <https://k8syaml.com/> - Kubernetes YAML Generator
 * <https://validate.puppet.com/> - Check the validity of your Puppet code (only validates syntax and doesn't actually compile or enforce a catalog)
 * <https://www.shellcheck.net/> - Finds bugs in your shell scripts
@@ -1626,12 +1601,12 @@ Feel free to share and star
 * <https://algorithm-visualizer.org/> - Interactive online platform that visualizes algorithms from code
 * <https://codebeautify.org/> - Code Formatter, JSON Beautifier, XML Viewer, Hex Converters and more
 * <https://explainshell.com/> - Write down a command-line to see the help text that matches each argument
-* <http://showthedocs.com/> - Documentation browser that finds the relevant docs for your code
+* <https://showthedocs.com/> - Documentation browser that finds the relevant docs for your code
 * <https://mango-slra1-ckwssph7iq-ue.a.run.app/readme> - Technique to interpret specifications and automatically identify defects such as logical contradictions, over-complexity and inconsistency of entity names
 * <https://freecodetools.org/minifier/> - CODE MINIFIER
 * <https://freecodetools.org/markdown-preview/> -
 * <https://freecodetools.org/beautifier/> - CODE BEAUTIFIER
-* <http://codepad.org/> - Online compiler/interpreter, and a simple collaboration tool. Paste your code, and codepad will run it and give you a short URL
+* <https://codepad.org/> - Online compiler/interpreter, and a simple collaboration tool. Paste your code, and codepad will run it and give you a short URL
 
 ### Program on Website
 
@@ -1673,8 +1648,54 @@ Feel free to share and star
 * <https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/> - General IT Security
 * <https://www.codecademy.com/resources/cheatsheets/all> - Cheat sheets for all kinds of languages and concepts
 
+### Programming Languages Cheat Sheet
+
+* <https://lecoupa.github.io/awesome-cheatsheets/>
+* <https://overapi.com/>
+
+### Python
+
+* <https://speedsheet.io/> - Faster, better, interactive python cheatsheet
+* <https://www.pythoncheatsheet.org/> - Cheat sheet based on the book Automate the Boring Stuff with Python and many other sources
+* <https://zerotomastery.io/cheatsheets/python-cheat-sheet/>
+### Front-end Cheat Sheet
+
+* <https://caniuse.com/>
+* <https://easings.net/en># - Specify the rate of change of a parameter over time
+* <https://webcode.tools/> - Code generators to help you with your front-end web projects
+
+#### Media Queries Cheat Sheet
+
+* <https://uxpin.s3.amazonaws.com/responsive_web_design_cheatsheet.pdf> - Responsive web design
+* <https://mac-blog.org.ua/css-3-media-queries-cheat-sheet> - Media Queries Cheat Sheet
+
+#### Bootstrap Cheat Sheet
+
+* <https://bootsnipp.com/> - Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework
+* <https://hackerthemes.com/bootstrap-cheatsheet/> - Bootstrap framework
+* <https://hackerthemes.com/> - UI/UX based on Bootstrap
+#### HTML Cheat Sheet
+
+* <https://htmlcheatsheet.com>
+* <https://html5doctor.com/element-index/> - Quick reference of elements that are new or have been redefined in HTML5
+* <https://simon.html5.org/dump/html5-canvas-cheat-sheet.html>
+* <https://apps.workflower.fi/vocabs/html/en#children> - html vocabulary
+* <https://htmlreference.io/> - Free guide to HTML. It features all elements and attributes
+
+
+#### CSS Cheat Sheet
+
+* <https://cssreference.io>
+* <https://grid.malven.co>
+* <https://flexbox.malven.co/>
+* <https://www.justinaguilar.com/animations/>
+* <https://alialaa.github.io/css-grid-cheat-sheet/>
+* 
+
+
 ## Keyboard
 
+* <https://mechanicalkeyboards.com/index.php> - Largest dedicated catalog of mechanical keyboards in the world while providing industry leading ship speeds and after-sale support for our customers
 * <https://www.vimified.com/> - Learn and practice Vim (a free and open-source, screen-based text editor program)
 * <https://www.keybr.com/>
 * <https://10fastfingers.com/typing-test/english>
@@ -1693,7 +1714,7 @@ Feel free to share and star
 ## How To Ask A Good Question
 
 * <https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603>
-* <http://catb.org/~esr/faqs/smart-questions.html>
+* <https://catb.org/~esr/faqs/smart-questions.html>
 * <https://www.nohello.com/>
 * <https://dontasktoask.com/>
 * <https://meta.stackexchange.com/q/66377/>
@@ -1722,7 +1743,7 @@ Feel free to share and star
 ## Other Websites of Websites
 
 * <https://stumbled.to/>
-* <http://5000best.com/websites/>
+* <https://5000best.com/websites/>
 * <https://neal.fun/>
 * <https://tennessine.co.uk/> - Collection of political, mathematical and fun projects for the web
 * <https://blakeir.com/blog/smart-youtube> - List of some YouTube pages
@@ -1737,7 +1758,7 @@ Feel free to share and star
 * <https://lmalmanza.wordpress.com/>
 * <https://www.menimagerie.com/>
 * <https://tarikyildirim.com/>
-* <http://www.paulgraham.com/>
+* <https://www.paulgraham.com/>
 * <https://www.jaakkoj.com/blog/graham>
 * <https://durmonski.com/>
 * <https://www.benkuhn.net/blogroll/>
@@ -1754,4 +1775,4 @@ This github page maintains no affiliate relationship with the websites mentioned
 
 # LICENSE
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>
