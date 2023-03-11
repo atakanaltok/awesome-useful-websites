@@ -70,7 +70,7 @@ Feel free to share and star
     - [Language](#language)
       - [Grammer](#grammer)
       - [Writing](#writing)
-      - [Words & Meanings](#words--meanings)
+      - [Words \& Meanings](#words--meanings)
       - [Business English](#business-english)
     - [Travel](#travel)
       - [Globetrotting](#globetrotting)
@@ -91,6 +91,7 @@ Feel free to share and star
     - [Creating Websites](#creating-websites)
     - [Meetings](#meetings)
   - [Jobs](#jobs)
+    - [Remote Jobs](#remote-jobs)
     - [Interview](#interview)
     - [Protfolio / CV / Resume](#protfolio--cv--resume)
     - [Careers](#careers)
@@ -137,7 +138,7 @@ Feel free to share and star
       - [Control](#control)
     - [Electronics Engineering](#electronics-engineering)
     - [Computer Science](#computer-science)
-      - [A & DS](#a--ds)
+      - [A \& DS](#a--ds)
       - [Big-O notation](#big-o-notation)
   - [Web Development](#web-development)
     - [Curated Websites](#curated-websites)
@@ -673,6 +674,7 @@ Feel free to share and star
 * <https://www.finedictionary.com/> - Shows everything about a word
 * <https://www.crownacademyenglish.com/articles/> - Simple, succint, and clear explanations of some English language concepts
 * <https://www.askdifference.com/> - Short and clean differences of two similar subjects
+* <https://keydifferences.com/> - Website on differences and comparisons, that not only emphasizes on the distinction between two topics, but also provides a better understanding of each subject with the help of an enriched content
 * <http://www.differencebetween.info/> - Descriptive Analysis and Comparisons
 * <https://www.allacronyms.com/> - Community-driven Acronyms and Abbreviations Dictionary
 
@@ -835,17 +837,33 @@ Feel free to share and star
 
 ## Jobs
 
-* <https://angel.co/candidates/overview>
 * <https://mentorcruise.com/> ($) - Online mentoring
 * <https://hireclub.com/> ($) - A career coach in your pocket. Find your dream job with the help of a certified career coach
-* <https://remoteok.com/>
-* <https://remotive.com/> - Remote Work Community, Remotive Handpicks Remote Jobs
 * <https://rejected.us/> - Read rejection stories and share yours
 * <https://anonfriendly.com/> - Find anon friendly jobs
 * <https://about.me/> (~$) - Freelancers and entrepreneurs use about.me to grow their audience and get more clients
 * <https://www.coolstartupjobs.com/> - Join a growing startup and give your stock options a fighting chance
 * <https://www.coroflot.com/discover> - Job search specific to designers
 * <https://www.keyvalues.com/> - Find engineering teams that share your values
+* <https://www.ycombinator.com/jobs> - Find the best startup jobs, curated by Y Combinator
+
+### Remote Jobs
+
+* <https://remoteok.com/> 
+* <https://jsremotely.com/> 
+* <https://flexjobs.com/> 
+* <https://remote.co/> 
+* <https://justremote.co/> 
+* <https://weworkremotely.com/> 
+* <https://jobspresso.co/> 
+* <https://remotive.com/> 
+* <https://dailyremote.com/> 
+* <https://angel.co/candidates/overview>
+* <https://remoteleaf.com/> 
+* <https://remoteleads.io/> 
+* <https://hired.com/> 
+* <https://remotebear.io/> 
+* <https://justjoin.it/> 
 
 ### Interview
 
@@ -897,6 +915,7 @@ Feel free to share and star
 * [accelerators.xlsx](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fattachments.convertkitcdnn2.com%2F587796%2F16ab0442-1232-4a49-956c-acafd6df4189%2F2%2C500%2520Accelerators%2520Incubators.xlsx&wdOrigin=BROWSELINK) - 2,500 Accelerators Incubators
 * [the_perfect_pitch_deck](https://attachments.convertkitcdnn2.com/587796/1e723803-ab50-4a61-9b3a-f347aa436408/The%20Perfect%20Pitch%20Deck.pdf) - Lessons From Analyzing 350+ Startup Pitch Decks
 * [notion.founder](https://cerdeira.notion.site/b3b5f44d37cf4843b3fcd2f300354467?v=8f3458522f4542d8896ebb3720c14b2d) - 100+ resources for building a successful startup
+* <[excel.companies](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fattachments.convertkitcdnn2.com%2F587796%2F476863f4-bda0-4132-8bd0-d25728513cfd%2FThe%2520Complete%2520Unicorn%2520List.xlsx&wdOrigin=BROWSELINK)> - The Complete Unicorn List. 1,016 Unicorns (Private Companies Valued +$1B)
 
 ### Technology
 
@@ -974,6 +993,7 @@ Feel free to share and star
 * <https://tablericons.com/> - 1424 Open source free SVG icons. Highly customizable. No attribution required. For commercial use
 * <http://david.li/> - Particle-based 3D simulations and renderings
 * <https://icomoon.io/>
+* <https://www.utf8icons.com/> - All the unicode symbols that are part of the utf-8 standard
 * <https://passionhacks.com/free-isometric-illustrations/> - Free Isometric Illustrations
 * <https://illlustrations.co/> - Open source illustrations kit  
 * [https://www.pixelbazaar.com](https://www.pixelbazaar.com/?utm_campaign=Black+Friday&utm_medium=Social&utm_source=Product+Hunt&ref=producthunt) - Opinionated icons for brands with a character
@@ -1147,6 +1167,7 @@ Feel free to share and star
 * <https://www.visualizingsep.com/># - Interactive visualization and search engine for exploring the Stanford Encyclopedia of Philosophy
 * <http://hakobsandbox.openetext.utoronto.ca/> - Online book on introduction to history and philosophy of science
 * <https://philosophyalevel.com/>
+* <https://www.denizcemonduygu.com/philo/browse/> - History of Philosophy - Summarized & Visualized
 
 ### Geoscience
 
@@ -1273,6 +1294,7 @@ Feel free to share and star
 
 * <https://teachyourselfcs.com/>
 * <https://www.menimagerie.com/> - Explore all the tantalising concepts in theoretical computer science - from our number system, via Cantor infinities, to Godel's theorems and automat
+* <https://www.compscilib.com/> - Helps you master concepts in Computer Science and Math courses with automated step-by-step solutions and practice problems.
 
 #### A & DS
 
@@ -1286,6 +1308,7 @@ Feel free to share and star
 ## Web Development
 
 * <https://roadmap.sh/> - Roadmaps of development areas
+* <https://coggle.it/diagram/Vz9LvW8byvN0I38x/t/web-development> - 
 * <https://novicedock.com/learn/computer-science/web-development>
 * <https://webdevhome.github.io/>
 * <https://web-dev-resources.com/#/> - Awesome Web Development Resources
@@ -1317,6 +1340,7 @@ Feel free to share and star
 * <https://www.madewithbubble.xyz/> - Discover cool apps and websites made with bubble
 * <https://www.internetingishard.com/> - Friendly web development tutorials for complete beginners
 * <https://www.airtable.com/home/toolkit> - Now anyone can build apps that connect every part of their work, while staying in sync with the rest of their business
+* <https://resources.grey.software/> - Most up-to-date software resources from professionals and academics worldwide that are curated and crowd-sourced 
 
 ### Curated Websites
 
@@ -1692,7 +1716,8 @@ Feel free to share and star
 * <https://strobe.cool/> - Create visual stimuli
 * <https://untools.co/> - Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems
 * <https://www.puzzle-loop.com/> - Logic puzzles with simple rules and challenging solutions
-* <https://guzey.com/personal/what-should-you-do-with-your-life/> - What Should You Do with Your Life? Directions and Advice
+* <https://guzey.com/personal/what-should-you-do-with-your-life/> - What Should You Do with Your Life? Directions and Advic
+* <https://keepsimple.io/uxcore> - UX Core lets you explore many cognitive biases while creating **software**
 
 ## Other Websites of Websites
 
