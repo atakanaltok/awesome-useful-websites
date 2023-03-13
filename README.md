@@ -63,7 +63,10 @@ Feel free to share and star
     - [Reddit](#reddit)
       - [Better Reddit Search](#better-reddit-search)
   - [Music](#music)
+    - [Find Music](#find-music)
+    - [Free Music](#free-music)
     - [Music Theory](#music-theory)
+      - [Rhyme](#rhyme)
     - [Mix Sounds](#mix-sounds)
     - [Spotify](#spotify)
   - [Culture](#culture)
@@ -588,31 +591,34 @@ Feel free to share and star
 
 ## Music
 
-* <https://github.com/Sangwan5688/BlackHole>
-* <https://www.music-map.com/> - Find Similar Music
 * <https://downloads.khinsider.com/> - Video and PC game soundtracks for download in a very otherwise difficult to get MP3 and lossless forms
 * <https://onlinetonegenerator.com/> - Generate tones, you can also download in wav format
-* <https://www.chosic.com/> - Free background music for you to use in your next project, free for commercial and non-commercial use
 * <https://music.tello.app/> - Find out the latest music charts of all the countries in the world
-* <https://www.lalal.ai/> - Extract vocal, accompaniment and various instruments from any audio
 * <https://musiclab.chromeexperiments.com/Experiments> - Learning music more accessible through fun, hands-on experiments
 * <https://www.rap4ever.org/> - Rap songs, lyrics, mixtapes, albumes, artists, and more
 * <https://everynoise.com/> - Ongoing attempt at an algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space
-* <https://audd.io/> - Recognize music (or what's playing) from sound or from streams
 * <https://mp3cut.net/> - Trim or cut any audio file online
 * <https://mp3gain.flowsoft7.com/> - Increase, decrease, and normalize the volume level of MP3 audio files (60M size limit per a file)
 * <https://create.magicplaylist.co/#/?_k=m5jobg> - Type your favorite song and create the perfect playlist
-* <https://moises.ai/> - (This is for musicians) Play with your favorite artists in any key, at any speed
+* <https://moises.ai/> - Play with your favorite artists in any key, at any speed
 * <https://www.drumeo.com/> - Learn to play the drums with the best teachers in the world
 * <https://soundlove.se/> - Unusual synthesis algorithms - or combination of common ones in unusual ways - to add a touch of randomness and unpredictability to our products
 * <https://audionautix.com/> - Music that is composed and produced by Jason Shaw. Completely free - for you to download and use (even for commercial purposes) as long as you provide credit
-* <https://www.rhymezone.com/> - Find rhymes, synonyms, adjectives, and more
-* <https://rhymer.com/> - FREE Online Rhyming Dictionary
 * <https://typatone.com/> - Generate your own music by typing on keyboard
-* <https://www.commercialtunage.com/> - Find out the songs in commercials
-* <https://incompetech.com/> - Collection of royalty-free music
 * <https://www.incredibox.com/> - Music app that lets you create your own music with the help of a merry crew of beatboxers
+
+### Find Music
+
+* <https://www.lalal.ai/> - Extract vocal, accompaniment and various instruments from any audio
+* <https://audd.io/> - Recognize music (or what's playing) from sound or from streams
+* <https://www.music-map.com/> - Find Similar Music
+* <https://www.commercialtunage.com/> - Find out the songs in commercials
+
+### Free Music
+
 * <https://www.pretzel.rocks/> - Stream-safe music for Twitch and YouTube
+* <https://incompetech.com/> - Collection of royalty-free music
+* <https://www.chosic.com/> - Free background music for you to use in your next project, free for commercial and non-commercial use
 
 ### Music Theory
 
@@ -620,6 +626,11 @@ Feel free to share and star
 * <https://www.musictheory.net/>
 * <https://www.allaboutmusictheory.com/> - Piano keyboard, Music notation, Major scale
 * <https://studioguru.co/producer-tools/note-frequency-chart/> - Note Frequency Chart
+
+#### Rhyme
+
+* <https://www.rhymezone.com/> - Find rhymes, synonyms, adjectives, and more
+* <https://rhymer.com/> - FREE Online Rhyming Dictionary
 
 ### Mix Sounds
 
