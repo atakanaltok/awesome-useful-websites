@@ -141,7 +141,7 @@ Feel free to share and star
       - [Control](#control)
     - [Electronics Engineering](#electronics-engineering)
     - [Computer Science](#computer-science)
-      - [A \& DS](#a--ds)
+      - [Data Structures and Algorithms (DS\&A)](#data-structures-and-algorithms-dsa)
       - [Big-O notation](#big-o-notation)
   - [Web Development](#web-development)
     - [Web Dev Blogs](#web-dev-blogs)
@@ -978,6 +978,7 @@ Feel free to share and star
 * <https://randomdesignstuff.com/> - Browse handpicked websites for designers, either useful websites or unuseful
 * <https://www.discovernft.club/> - Discover latest NFT Projects
 * <https://app.haikei.app/> - Web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more
+* <https://spline.design/> - Create 3D scenes, edit materials, and model 3D objects. Control the outcome of your design work
 
 #### Color
 
@@ -1166,6 +1167,7 @@ Feel free to share and star
 * <https://www.opensourceshakespeare.org/> - Open source Shakespeare
 * <https://www.leonardodavinci.net/> - Leonardo da Vinci, his Life and Artworks
 * <https://ourkarlpopper.net/> - How Karl Popper Has Made a Difference in Our Lives (Testimonies from the five continents)
+* <https://shalamov.ru/en/> - Writings and historical background of Varlam Shalamov, a Russian writer best known for his series of short stories about imprisonment in Soviet labour camps
 
 ### Data
 
@@ -1318,19 +1320,26 @@ Feel free to share and star
 * <https://www.menimagerie.com/> - Explore all the tantalising concepts in theoretical computer science - from our number system, via Cantor infinities, to Godel's theorems and automat
 * <https://www.compscilib.com/> - Helps you master concepts in Computer Science and Math courses with automated step-by-step solutions and practice problems.
 
-#### A & DS
+#### Data Structures and Algorithms (DS&A)
 
 * <https://entcheva.github.io/> - Adventures In Coding & Algorithms
 * <https://blog.notdot.net/tag/damn-cool-algorithms>
+* <https://visualgo.net/en> - Visualising data structures and algorithms through animation
+* <https://www3.cs.stonybrook.edu/~algorith/video-lectures/> - Skiena's Algorithms Lectures
+* <https://thimbleby.gitlab.io/algorithm-wiki-site/> - This wiki is an experiment in making algorithms interactive on the web. The algorithms on this wiki are not just some clever animations but are built on a real interpreter, and the visualisations are based on the actual Javascript code running. The code is guaranteed to work
+* <https://sinon.org/algorithms/> - This page sums up some important results from computer science
 
 #### Big-O notation
 
 * <https://cooervo.github.io/Algorithms-DataStructures-BigONotation/>
+* <https://www.bigocheatsheet.com/> - This webpage covers the space and time Big-O complexities of common algorithms used in Computer Science
+* <https://www.clear.rice.edu/comp160/data_cheat.html>
+
 
 ## Web Development
 
 * <https://roadmap.sh/> - Roadmaps of development areas
-* <https://coggle.it/diagram/Vz9LvW8byvN0I38x/t/web-development> -
+* <https://coggle.it/diagram/Vz9LvW8byvN0I38x/t/web-development>
 * <https://novicedock.com/learn/computer-science/web-development>
 * <https://webdevhome.github.io/>
 * <https://web-dev-resources.com/#/> - Awesome Web Development Resources
@@ -1425,6 +1434,7 @@ Feel free to share and star
 * <https://bipp.io/sql-tutorial> - Free
 * <https://selectstarsql.com/> - Interactive book which aims to be the best place on the internet for learning SQL. It is free of charge, free of ads and doesn't require registration or downloads
 * <https://quip.com/2gwZArKuWk7W> - Medium-Hard Data Analyst SQL Interview Questions
+* <https://www.sqltranslate.app/> - SQL to Natural Language and Natural Language to SQL translator. 100% free and open source
 
 #### RubyGems
 
