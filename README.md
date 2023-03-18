@@ -85,7 +85,7 @@ Feel free to share and star
     - [Book Summary And Recommendations](#book-summary-and-recommendations)
   - [Business](#business)
     - [Finance](#finance)
-    - [Freelaning/Freelance](#freelaningfreelance)
+    - [Freelancing](#freelancing)
     - [Patents](#patents)
     - [Networking](#networking)
     - [Marketing](#marketing)
@@ -143,6 +143,7 @@ Feel free to share and star
     - [Computer Science](#computer-science)
       - [Data Structures and Algorithms (DS\&A)](#data-structures-and-algorithms-dsa)
       - [Big-O notation](#big-o-notation)
+  - [AI](#ai)
   - [Web Development](#web-development)
     - [Web Dev Blogs](#web-dev-blogs)
     - [Front-end](#front-end)
@@ -172,6 +173,7 @@ Feel free to share and star
     - [Snippets](#snippets)
       - [Learn from snippets](#learn-from-snippets)
     - [Linters](#linters)
+    - [Fuzzing](#fuzzing)
     - [Program on Website](#program-on-website)
     - [Carbon](#carbon)
     - [Regex](#regex)
@@ -182,6 +184,7 @@ Feel free to share and star
     - [Programming Languages Cheat Sheet](#programming-languages-cheat-sheet)
     - [Python](#python-1)
     - [Front-end Cheat Sheet](#front-end-cheat-sheet)
+      - [Emmet](#emmet)
       - [Media Queries Cheat Sheet](#media-queries-cheat-sheet)
       - [Bootstrap Cheat Sheet](#bootstrap-cheat-sheet)
       - [HTML Cheat Sheet](#html-cheat-sheet)
@@ -370,6 +373,7 @@ Feel free to share and star
 * <https://hovancik.net/stretchly/> - Cross-platform open source app that reminds you to take breaks when working on your compute
 * <https://www.timeanddate.com/> - Calendars, clocks, and many more
 * <https://time.is/> - Displays exact, official atomic clock time for any time zone (more than 7 million locations) in 51 languages
+* <https://www.when2meet.com/> - Find the best time for a group to meet. When2meet is a free service. Anyone can create and participate in availability surveys at no cost
 
 ### To Do
 
@@ -658,6 +662,9 @@ Feel free to share and star
 * <https://starkeycomics.com/> - Colourful images and posts about culture and language
 * <https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles> - Unusual wikipedia articles
 * <https://en.wikipedia.org/wiki/List_of_common_misconceptions> - List of common misconceptions
+* <https://www.behindthename.com/> - Etymology and history of first names
+* <https://surnames.behindthename.com/> - Etymology and history of first surnames
+* <https://nameberry.com/> - Baby names by the experts at Nameberry, including popular names and unique names, baby girl names and baby boy names and gender neutral names too
 
 ### Language
 
@@ -756,16 +763,16 @@ Feel free to share and star
 * <https://en.wikibooks.org/wiki/Main_Page> - Open-content textbooks collection that anyone can edit
 * <https://wikisource.org/wiki/Main_Page> - Free library that anyone can improve
 * <https://classics.mit.edu/> - Select from a list of 441 works of classical literature by 59 different authors
-* <https://www.goodreads.com/ebooks?sort=readable>
-* <https://holybooks.com/> - Download Spiritual Texts as free PDF e-books
+* <https://www.goodreads.com/ebooks?sort=readable> - Free books from goodreads
 * <https://etc.usf.edu/lit2go/> - Free online collection of stories and poems in Mp3 (audiobook) format
 * <https://booksc.org/> - World's largest scientific articles store. 70,000,000+ articles for free
 * <https://www.intechopen.com/books> - Read, share and download more than 5,800 peer-reviewed Open Access books
 * <https://www.freetechbooks.com/> - Database of Free / Open Access Online Computer Science Books, Textbooks, and Lecture Notes (1264 books and growing)
+* <https://www.manning.com/> - Programming books
+* <https://holybooks.com/> - Download Spiritual Texts as free PDF e-books
 * <https://librivox.org/> - Free public domain audiobooks that are read by volunteers from around the world
 * <https://onlinebooks.library.upenn.edu/> - Listing over 3 million free books on the Web
 * <https://libgen.li/> - Community aiming at collecting and cataloging items descriptions for the most part of scientific, scientific and technical directions, as well as file metadata
-* <https://www.manning.com/> - Programming books
 * <https://www.audible.com/> ($) - Largest producer and provider of premium audio storytelling
 * <https://btdig.com/> - BitTorrent DHT search engine. It is not a tracker and doesn't store any content and only collects torrent metadata (such as file names and file sizes) and a magnet link (torrent identifier). This means BTDigg is the entirely legal system
 * <https://archive.vcu.edu/english/engweb/transcendentalism/> -  Educational hypertext, open to new files, notes on transcendental texts, and links among and within files and texts, within this space and to other Internet spaces
@@ -802,7 +809,7 @@ Feel free to share and star
 * <https://www.figr.app/> - Google Docs + Calculator = Personal finances
 * <https://app.livefortunately.com/> - Plan for a better financial future. Create a complete financial plan to make the most of your money
 
-### Freelaning/Freelance
+### Freelancing
 
 * <https://www.fiverr.com/> - Find the perfect freelance services for your business
 * <https://www.upwork.com/> - Hire freelancers and get freelancers jobs online
@@ -1260,8 +1267,7 @@ Feel free to share and star
 * <https://www.gregegan.net/> - Science fiction writer and computer programmer's information, illustrations, and applets
 * <https://bugman123.com/> - favorite hobbies and interests, especially science, and art of Paul Nylander
 * <https://nycdoe-cs4all.github.io/> - Introduction to Computational Media with p5.js
-* https://texample.net/ - Examples and community of LaTeX 
-
+* <https://texample.net/> - Examples and community of LaTeX
 
 ## Engineerings
 
@@ -1335,6 +1341,9 @@ Feel free to share and star
 * <https://www.bigocheatsheet.com/> - This webpage covers the space and time Big-O complexities of common algorithms used in Computer Science
 * <https://www.clear.rice.edu/comp160/data_cheat.html>
 
+## AI
+
+* <>
 
 ## Web Development
 
@@ -1363,7 +1372,7 @@ Feel free to share and star
 * <https://projectsinnetworking.com/> - Networking Projects, Network Security Projects, Cyber Security case studies, projects and source code for students, engineering graduates and professionals along with detailed reports. The site also contains ideas and topics for projects, research papers, assignments, and presentation in computer networking and security domain
 * [<https://jvns.ca/blog/](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/>) - A list of new(ish) command line tools
 
-* <https://toolkit.addy.codes/> - 657 hand-picked tools & resources for web designers & developers
+* <https://toolkit.addy.codes/> - 704 hand-picked tools & resources for web designers & developers
 * <https://visbug.web.app/> - Open Source Browser Design Tools
 * <https://webdesignrepo.com/>
 * <https://web.dev/learn>
@@ -1395,6 +1404,7 @@ Feel free to share and star
 * <https://youmightnotneedjquery.com/> - jQuery alternatives
 
 #### HTML
+
 * <https://hyperscript.org/> - Make websites written in plain-old markup a joy to use
 * <https://htmx.org/> - htmx gives you access to AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext
   
@@ -1403,8 +1413,6 @@ Feel free to share and star
 * <https://cssbattle.dev/> - Test your CSS skills by replicating targets with smallest possible code
 * <https://www.csssolid.com/> - CSS references, tutorials, and articles
 * <https://css-tricks.com/> - Web design community powered by Digital Ocean
-
-
 
 #### JavaScript
 
@@ -1542,17 +1550,25 @@ Feel free to share and star
 
 ### Coding Practice
 
-* <https://clist.by/> - List of competitions from various programming websites
-* <https://www.codewars.com/>
-* <https://www.hackerrank.com/dashboard>
 * <https://leetcode.com/>
+* <https://www.hackerrank.com/dashboard>
+* <https://www.codewars.com/>
+* <https://projecteuler.net/about>
+* <https://www.interviewbit.com/coding-interview-questions/>
+* <https://clist.by/> - List of competitions from various programming websites
 * <https://javascriptquiz.com/>
 * <https://www.dailycodingproblem.com/>
-* <https://www.codeply.com/> - Free online editor that includes dozens of frameworks, starter templates, and over 50,000 code snippets
-* <https://projecteuler.net/about>
-* <https://coderbyte.com/>
 * <https://www.reddit.com/r/dailyprogrammer/>
+* <https://cssbattle.dev/> - Use your CSS skills to replicate targets with smallest possible code
+* <https://www.codeply.com/> - Free online editor that includes dozens of frameworks, starter templates, and over 50,000 code snippets
+* <https://coderbyte.com/>
 * <https://www.codingame.com/start>
+* <https://www.urionlinejudge.com.br/judge/en/login> - Train algorithms and programming challenges and become the expert you always dreamed to be (Previously known as URI Online Judge)
+* <[thehuxley](https://www.thehuxley.com/problems?page=1&problemType=ALGORITHM)>
+* <https://rosalind.info/problems/locations/> - Rosalind is a platform for learning bioinformatics and programming through problem solving
+* <https://open.kattis.com/> - Find hundreds of programming problems to solve
+* <https://exercism.org/tracks> - Develop fluency in 67 programming languages with our unique blend of learning, practice and mentoring, for free
+* <https://codility.com/programmers/challenges>
 
 #### Learn with Projects
 
@@ -1629,6 +1645,11 @@ Feel free to share and star
 * <https://freecodetools.org/beautifier/> - CODE BEAUTIFIER
 * <https://codepad.org/> - Online compiler/interpreter, and a simple collaboration tool. Paste your code, and codepad will run it and give you a short URL
 
+### Fuzzing
+
+* <https://owasp.org/www-community/Fuzzing>
+* <https://github.com/secfigo/Awesome-Fuzzing>
+
 ### Program on Website
 
 * <https://www.runpython.live/> - Run python on your web
@@ -1679,11 +1700,17 @@ Feel free to share and star
 * <https://speedsheet.io/> - Faster, better, interactive python cheatsheet
 * <https://www.pythoncheatsheet.org/> - Cheat sheet based on the book Automate the Boring Stuff with Python and many other sources
 * <https://zerotomastery.io/cheatsheets/python-cheat-sheet/>
+
 ### Front-end Cheat Sheet
 
 * <https://caniuse.com/>
 * <https://easings.net/en># - Specify the rate of change of a parameter over time
 * <https://webcode.tools/> - Code generators to help you with your front-end web projects
+
+#### Emmet
+
+* <https://devhints.io/emmet>
+* <https://docs.emmet.io/cheat-sheet/>
 
 #### Media Queries Cheat Sheet
 
@@ -1695,6 +1722,7 @@ Feel free to share and star
 * <https://bootsnipp.com/> - Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework
 * <https://hackerthemes.com/bootstrap-cheatsheet/> - Bootstrap framework
 * <https://hackerthemes.com/> - UI/UX based on Bootstrap
+
 #### HTML Cheat Sheet
 
 * <https://htmlcheatsheet.com>
@@ -1703,7 +1731,6 @@ Feel free to share and star
 * <https://apps.workflower.fi/vocabs/html/en#children> - html vocabulary
 * <https://htmlreference.io/> - Free guide to HTML. It features all elements and attributes
 
-
 #### CSS Cheat Sheet
 
 * <https://cssreference.io>
@@ -1711,8 +1738,7 @@ Feel free to share and star
 * <https://flexbox.malven.co/>
 * <https://www.justinaguilar.com/animations/>
 * <https://alialaa.github.io/css-grid-cheat-sheet/>
-* 
-
+*
 
 ## Keyboard
 
