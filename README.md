@@ -25,8 +25,6 @@ Feel free to share and star
 - [Awesome Useful Websites](#awesome-useful-websites)
   - [Lexicon](#lexicon)
 - [Contents](#contents)
-  - [Infographic](#infographic)
-    - [Diagrams](#diagrams)
   - [Tools](#tools)
     - [White Board / Notepad](#white-board--notepad)
     - [Mind Map / Note Taking](#mind-map--note-taking)
@@ -41,34 +39,10 @@ Feel free to share and star
     - [Converter / Conversion](#converter--conversion)
       - [Unit Conversion](#unit-conversion)
     - [Visual](#visual)
-    - [Audio](#audio)
     - [Time](#time)
     - [To Do](#to-do)
     - [Other Tools](#other-tools)
-  - [Privacy](#privacy)
-    - [Cryptography](#cryptography)
-    - [GAFA Alternatives](#gafa-alternatives)
-    - [Data Breach](#data-breach)
-    - [Internet](#internet)
-      - [URL](#url)
-        - [URL Shortener](#url-shortener)
-      - [VPN](#vpn)
-      - [Fake Information Generation](#fake-information-generation)
-      - [Torrent](#torrent)
-    - [Password Generation](#password-generation)
   - [DIY](#diy)
-  - [Visual Entertainment](#visual-entertainment)
-  - [Media](#media)
-    - [Twitter](#twitter)
-    - [Reddit](#reddit)
-      - [Better Reddit Search](#better-reddit-search)
-  - [Music](#music)
-    - [Find Music](#find-music)
-    - [Free Music](#free-music)
-    - [Music Theory](#music-theory)
-      - [Rhyme](#rhyme)
-    - [Mix Sounds](#mix-sounds)
-    - [Spotify](#spotify)
   - [Culture](#culture)
     - [Language](#language)
       - [Grammar](#grammar)
@@ -81,8 +55,23 @@ Feel free to share and star
       - [Flight](#flight)
       - [Weather](#weather)
     - [Food](#food)
+  - [Health](#health)
+  - [Visual Entertainment](#visual-entertainment)
+    - [Anime](#anime)
+  - [Media](#media)
+    - [Twitter](#twitter)
+    - [Reddit](#reddit)
+      - [Better Reddit Search](#better-reddit-search)
+  - [Music / Audio](#music--audio)
+    - [Find Music](#find-music)
+    - [Free Music](#free-music)
+    - [Music Theory](#music-theory)
+      - [Rhyme](#rhyme)
+    - [Mix Sounds](#mix-sounds)
+    - [Spotify](#spotify)
   - [Books](#books)
     - [Book Summary And Recommendations](#book-summary-and-recommendations)
+  - [Economy](#economy)
   - [Business](#business)
     - [Finance](#finance)
     - [Freelancing](#freelancing)
@@ -98,12 +87,10 @@ Feel free to share and star
     - [Interview](#interview)
     - [Portfolio / CV / Resume](#portfolio--cv--resume)
     - [Careers](#careers)
-  - [Economy](#economy)
   - [Startups](#startups)
     - [Technology](#technology)
     - [Finding Ideas](#finding-ideas)
     - [Connectivity](#connectivity)
-      - [Must Reads](#must-reads)
     - [Productivity](#productivity)
     - [Design](#design)
       - [Color](#color)
@@ -123,6 +110,8 @@ Feel free to share and star
   - [Science](#science)
     - [Biographies](#biographies)
     - [Data](#data)
+    - [Infographic](#infographic)
+    - [Diagrams](#diagrams)
     - [Philosophy](#philosophy)
     - [Geoscience](#geoscience)
     - [Biology](#biology)
@@ -162,6 +151,17 @@ Feel free to share and star
   - [Game Development](#game-development)
     - [Pokemon](#pokemon)
     - [Chess](#chess)
+  - [Privacy](#privacy)
+    - [Cryptography](#cryptography)
+    - [GAFA Alternatives](#gafa-alternatives)
+    - [Data Breach](#data-breach)
+    - [Internet](#internet)
+      - [URL](#url)
+        - [URL Shortener](#url-shortener)
+      - [VPN](#vpn)
+      - [Fake Information Generation](#fake-information-generation)
+      - [Torrent](#torrent)
+    - [Password Generation](#password-generation)
   - [Programming Languages](#programming-languages)
     - [Python](#python)
     - [Coding Practice](#coding-practice)
@@ -194,32 +194,12 @@ Feel free to share and star
     - [Keyboard Shortcuts](#keyboard-shortcuts)
   - [How To Ask A Good Question](#how-to-ask-a-good-question)
     - [XY Problem](#xy-problem)
-  - [Health](#health)
   - [Other Websites of Websites](#other-websites-of-websites)
-  - [Useful Blogs](#useful-blogs)
 - [Contributing](#contributing)
 - [DISCLAIMER](#disclaimer)
 - [LICENSE](#license)
 
 \*Table of contents generated with [markdown-toc](https://ecotrust-canada.github.io/markdown-toc/)\*
-
-## Infographic
-
-- <https://informationisbeautiful.net/> - Fact- and data-based decisions
-- <https://www.visualcapitalist.com/> - Data-driven visuals on various topics including markets, technology, energy and the global economy
-- <https://infographicjournal.com/> - Infographic archive
-- <https://d3js.org/> - JavaScript library for manipulating documents based on data
-- <https://www.denizcemonduygu.com/> - Especially [this](https://www.denizcemonduygu.com/portfolio/the-history-of-philosophy/) interactive timeline of philosophical ideas
-- <https://datavizcatalogue.com/index.html> - Data Visualization Catalogue
-- <https://public.tableau.com/app/discover> - Free platform to explore, create, and publicly share data visualizations online
-
-### Diagrams
-
-- <https://creately.com/> - Data-connected Visual Workspace to brainstorm, plan, execute and capture knowledge
-- <https://www.diagrams.net/> - Security-first diagramming for teams (For [web](https://app.diagrams.net/) usage)
-- <https://orgpad.com/?ref=producthunt> (~$) - Interactive online mindmap
-- <https://www.lucidchart.com/pages/> (~$) - Diagramming and flowchart app that brings teams together to make better decisions and build the future
-- <https://learn-anything.xyz/> - Platform for organizing world's knowledge, explore connections and curate learning paths
 
 ## Tools
 
@@ -264,7 +244,7 @@ Feel free to share and star
 
 #### Disposable Email
 
-- <https://temp-mail.to/> - Free and reliable temporary email addresses with no registeration
+- <https://temp-mail.to/> - Free and reliable temporary email addresses with no registration
 - <https://erine.email/> - Anti-spam for your existing email address
 - <https://maildrop.cc/> - Use Maildrop when you don't want to give out your real address
 - <https://mailsac.com/> (~$)
@@ -358,15 +338,9 @@ Feel free to share and star
 - <https://darkmodelist.com/> - List of 300 Apps That Support Dark Mode
 - <https://goproheroes.com/> - GoPro videos across the web
 - <https://www.synthesia.io/> ($) - AI video creation platform that create videos from text in minutes
-- <https://clipdrop.co/> (~$) - Create stunning visuals in seconds (ppowered by AI)
+- <https://clipdrop.co/> (~$) - Create stunning visuals in seconds (powered by AI)
 - <https://hey.reface.ai/> - Create face swap videos (mobile app that is powered by AI)
 - <https://photosonic.writesonic.com/> (~$) - AI that paints your dreams with pixels (another version of Dall-E)
-
-### Audio
-
-- <https://www.sampurr.com/> - Sample an audio from the web (For [usage](https://www.sampurr.com/about.html))
-- <https://www.audiocheck.net/> - Test your audio equipment, online
-- <https://mixlr.com/> ($) - Share quality live audio online. Broadcast using any source, invite people to listen, chat in real-time (Free for just listening)
 
 ### Time
 
@@ -389,7 +363,6 @@ Feel free to share and star
 - <https://hidemyweb.wordpress.com/> - Hide, Blur and Highlight any webpage content
 - <https://app.readwok.com/lib> - Online text reader with a progressive viewing mode, which allows you to read paragraph by paragraph and edit as you read
 - <https://wikifox.ml/> - Clean and simplified version of the official Wikipedia
-- <https://incoggo.com/> - Adblocker for Paywalls
 - <https://scribe.rip/> - Alternative frontend to Medium
 - <https://www.azurespeed.com/Azure/Latency> - Many tools from Azure, Microsoft
 - <https://willrobotstakemyjob.com/> - See the estimated automation risk, growth, wages, polling, volume and many more features of your job
@@ -402,124 +375,12 @@ Feel free to share and star
 - <https://gethuman.com/> - Get a rep on the phone faster & get better help from most known companies
 - <https://www.byclickdownloader.com/> - Backup videos from: YouTube, Dailymotion, Vimeo, Facebook and +40 sites in HD, MP3, MP4, AVI and all other formats using our software
 - <https://www.preceden.com/> (~$) - Online timeline and Roadmaps maker
+- <https://incoggo.com/> - Adblocker for Paywalls
 - <https://12ft.io/> - Remove the paywall and get you access to the article
-
-## Privacy
-
-- <https://www.nothingprivate.ml/> - See why you are not anonymous by using private browsing mode or incognito mode (or you can directly read from [here](https://github.com/gautamkrishnar/nothing-private))
-- <https://www.privacytools.io/> - Q: How much privacy do you want? A: Yes
-- <https://securityplanner.consumerreports.org/> ($) - Cut down on data collection and prevent hackers from invading your laptop, tablet and even your phone. Answer a few simple questions to get customized recommendations to help you
-- <https://mywhisper.net/> - Text encryption tool, based on AES cryptography
-- <https://beencrypted.com/> - To become more encrypted
-- <https://prism-break.org/en/all/> - Private and safe alternatives of most used apps & services
-- <https://www.reddit.com/r/piracy/wiki/megathread/tools> - List of Apps / tools / web services
-- <https://gitlab.com/tzkuat/Ressources> - List of websites on different areas such as Security, OSINT, etc.
-- <https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/> - Privacy Tools List by CHEF-KOCH
-- <https://github.com/arkenfox/user.js/wiki/4.1-Extensions> - Privacy and security related extensions
-- <https://privacy.net/analyzer/#pre-load>
-- <https://shutuptrackers.com/> - Provides information for protecting your data security and privacy
-- <https://ssd.eff.org/> - SURVEILLANCE SELF-DEFENSE: TIPS, TOOLS AND HOW-TOS FOR SAFER ONLINE COMMUNICATIONS
-- <https://www.routerpasswords.com/> - Router Passwords is officially the most updated default router password repository on the internet
-- <https://bugmenot.com/> - Find and share logins. Enter a website below to see if the bugmenot community has shared any logins for it
-- <https://www.security.org/security-score/> - Learn about your security score
-- <https://www.startpage.com/> - Get privacy protection across the web. Extension for instant tracker blocking & more
-- <https://cookiepedia.co.uk/> - Largest database of pre-categories cookies and online tracking technologies
-- <https://proton.me/> - Encrypted mail, calendar, drive, vpn
-
-- <https://libreprojects.net/#favs=wikipedia,joindiaspora-com,nextcloud,openstreetmap,jamendo,plos> - 118 open source hosted web services
-- <https://tosdr.org/> - Terms of Service; Didn't Read (short: ToS;DR)
-
-### Cryptography
-
-- <https://www.cryptologie.net/> - (note: Read his Real-World Cryptography book)
-- <https://mikebradley.me/invisible/index.html> - Hide text in images. Find hidden text.
-
-### GAFA Alternatives
-
-- <https://degoogle.jmoore.dev/#mobile-applications-mobile-apps-installable-from-stores> - Huge list of alternatives to Google products. Privacy tips, tricks, and links
-- <https://degooglisons-internet.org/en/> - Alternatives to FAANG
-- <https://www.accountkiller.com/en/home> - AccountKiller collects direct links and deleting instructions to make account termination easy
-- <https://github.com/yuliskov/SmartTubeNext> - Ad free app for watching tube videos on Android TV boxes
-- <https://libredirect.github.io/> - Web extension that redirects YouTube, Twitter, Instagram... requests to alternative privacy friendly frontends and backends
-
-### Data Breach
-
-- <https://haveibeenpwned.com/> - Check if your email or phone is in a data breach
-- <https://tineye.com/> - Find where images appear online
-- <https://ipleak.net/> - See the kind of information that all the sites you visit can see and collect about you
-- <https://coveryourtracks.eff.org/> - Test your browser to see how well you are protected from tracking and fingerprinting
-- <https://amifloced.org/> - Google is testing FLoC on Chrome users worldwide. Find out if you're one of them
-
-### Internet
-
-- <https://www.internetlivestats.com/> - Every statics of the internet
-- <https://internet-map.net/> - The map of the Internet
-- <https://test-ipv6.com/> - Test your IPv6 connectivity
-- <https://kb.adguard.com/en/general/dns-providers> - You can configure any DNS server to be used instead of the system default provided by the router or ISP
-- <https://tls12.xargs.org/> - Every byte of a TLS connection is explained and reproduced
-- <https://cidr.xyz/> - Interactive IP address and CIDR range visualizer
-- <https://icanhazip.com/> - Only your IP address on the top os the page
-- <https://iplocation.io/> - Provides you free location tracking of an entered IP Address. It tracks the IP's city, country, latitude, and longitude data instantly through various Geo IP Databases available in the market
-- <https://ifconfig.co/> - Find your own IP address, and information about it
-- <https://ipinfo.io/> (~$) - Accurate IP address data that keeps pace with secure, specific, and forward-looking use cases
-- <https://dnschecker.org/> - Provides a free DNS lookup service to check Domain Name System records against a selected list of DNS servers located in multiple regions worldwide
-- <https://www.davidc.net/sites/default/subnets/subnets.html> - Visual Subnet Calculator
-- <https://howdns.works/> - Colorful explanation of how DNS works with comics
-
-#### URL
-
-- <https://shrtco.de/tools/> - URL tools
-- <https://www.onelink.to/> - Link and QR code for your apps
-- <https://freecodetools.org/qr-code-generator/> - QR generator
-- <https://appopener.com/> - Create smart links to open desired apps from url without login
-- <https://digital.com/best-web-hosting/who-is/> - Find Out Who is Hosting Any Domain in Seconds and learn about the web host, IP address, name servers and more
-- <https://webhook.site/> - Inspect, test and automate (with the visual Custom Actions builder, or WebhookScript) any incoming HTTP request or e-mail
-- <https://goqr.me/> - High resolution QR codes, print quality
-- <https://freecodetools.org/ogp/> - Open graph generator
-
-##### URL Shortener
-
-- <https://cutr.ml/>
-- <https://is.gd/>
-- <https://gg.gg/>
-- <https://www.shrunken.com/>
-- <https://www.rebrandly.com/> (~$) - Link management platform to brand, track, and share short URLs using a custom domain name
-- <https://bit.do/> - Get real-time traffic statistics for your links for free
-- <https://home.s.id/> - Link Shortener and Microsite builder
-- <https://tinyurl.com/app> - With optional short link ending
-- <https://tiny.cc/> - With optional short link ending
-- <https://bitly.com/> - web/mobile link management and campaign management analytics as well as branded links
-- <https://iplogger.org/> - URL Shortener with advanced analytics for the traffic through your links, visitors on your online store, blog or website
-
-#### VPN
-
-- <https://www.top10vpn.com/>
-- <https://www.whatsmybrowser.org/>
-- [docs.google.com/spreadsheets/vpn](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit#gid=231869418) - Detailed list of all vpns available with analysis and comparisons
-- <https://njal.la/> ($) - Provides an encrypted tunnel from your computer to the Internet. We hide your real IP address behind one of ours
-
-#### Fake Information Generation
-
-- <https://www.fakenamegenerator.com/> - Generate fake profile information (names, addresses, phone numbers, etc., from 37 languages and 31 countries)
-- <https://www.burnerapp.com/> ($) - Original second phone number app for calling and texting. With Burner, you can protect yourself from spam or junk calls, separate different types of contacts by phone number, and switch phone numbers
-- <https://www.random.org/> (~$) - True Random Games and Lotteries, Numbers, Lists and Strings and Maps Generator
-
-#### Torrent
-
-- <https://ahmia.fi/> - Searches hidden services on the Tor network (to access these hidden services, you need the Tor browser bundle)
-- <https://webtorrent.io/> - Streaming torrent client for browser
-- <https://iknowwhatyoudownload.com/> - Torrent downloads and distributions for your IP address
-
-### Password Generation
-
-- <https://www.healthypasswords.com/index-2.html> - Everything About Passwords and Internet Security
-- <https://random-password-gen.web.app/>
-- <https://www.security.org/how-secure-is-my-password/> - Check How Secure Is Your Password. Entries are 100% secure and not stored in any way or shared with anyone
-- <https://freecodetools.org/password-generator/>
 
 ## DIY
 
-- <https://www.jscreenfix.com/> - Pixel fixing algorithm that has been applied to millions of screens and is the most effective software solution available for repairing defective pixels (A stuck pixel is a bright dot of colour that fails to update when neighbouring pixels change). Nothing to install, totally free
+- <https://www.jscreenfix.com/> - Pixel fixing algorithm that has been applied to millions of screens and is the most effective software solution available for repairing defective pixels (A stuck pixel is a bright dot of color that fails to update when neighboring pixels change). Nothing to install, totally free
 - <https://thistothat.com/> - Learn how to glue to materials together
 - <https://www.donkeycar.com/> - Opensource DIY self driving platform for small scale cars. RC CAR + Raspberry Pi + Python (tornado, keras, tensorflow, opencv, ....)
 - <https://www.instructables.com/>
@@ -532,6 +393,119 @@ Feel free to share and star
 - <https://www.howstuffworks.com/>
 - <https://bookcrossing.com/> - Release your books "into the wild" for a stranger to find, or "controlled release" to another BookCrossing member, and track where they go via journal entries from around the world
 
+## Culture
+
+- <https://culturalatlas.sbs.com.au/> - Educational resource providing comprehensive information on the cultural backgrounds
+- <https://www.quotemaster.org/> - 98,683 categories and 1,488,431 quotes
+- <https://www.factslides.com/> - 1001 facts about many topics with sources
+- <https://starkeycomics.com/> - Colorful images and posts about culture and language
+- <https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles> - Unusual wikipedia articles
+- <https://en.wikipedia.org/wiki/List_of_common_misconceptions> - List of common misconceptions
+- <https://www.behindthename.com/> - Etymology and history of first names
+- <https://surnames.behindthename.com/> - Etymology and history of first surnames
+- <https://nameberry.com/> - Baby names by the experts at Nameberry, including popular names and unique names, baby girl names and baby boy names and gender neutral names too
+
+### Language
+
+- <https://youglish.com/> - Use YouTube to improve your English pronunciation, no YouTube ads
+- <https://www.voscreen.com/> - Video snippets of english sentences, test your understanding by choosing paraphrased sentences
+- <https://www.newsinlevels.com/> - World news for students of English
+- <https://dood.al/pinktrombone/> - Human mouth and its sounds interactive voicebox
+- <https://www.japanese-wiki-corpus.org/> - Generated from the Japanese-English Bilingual Corpus of Wikipedia's Kyoto Articles
+- <https://latin-phrases.co.uk/> - Look up for the translation of the latin phrases
+
+#### Grammar
+
+- <https://www.grammarbook.com/english_rules.asp> - English Grammar Rules
+- <https://www.thepunctuationguide.com/index.html> - Guide to American punctuation
+- <https://progressivepunctuation.com/> - Collection of non-standard punctuation marks
+- <https://owl.purdue.edu/site_map.html> - Purdue University's Online Writing Lab (OWL)
+- <https://webapps.towson.edu/ows/index.asp> - Online Writing Support & Grammar
+- <https://www.grammar-monster.com/index.html> - Free English Grammar Lessons and Tests
+
+#### Writing
+
+- <https://fraze.it/> - Platform with more than 100 millions sentences
+
+#### Words & Meanings
+
+- <https://educalingo.com/en/dic-en> - Find synonyms, uses, trends, statistics and much more
+- <https://www.finedictionary.com/> - Shows everything about a word
+- <https://www.crownacademyenglish.com/articles/> - Simple, succinct, and clear explanations of some English language concepts
+- <https://www.askdifference.com/> - Short and clean differences of two similar subjects
+- <https://keydifferences.com/> - Website on differences and comparisons, that not only emphasizes on the distinction between two topics, but also provides a better understanding of each subject with the help of an enriched content
+- <https://www.differencebetween.info/> - Descriptive Analysis and Comparisons
+- <https://www.allacronyms.com/> - Community-driven Acronyms and Abbreviations Dictionary
+
+#### Business English
+
+- <https://howtoprofessionallysay.akashrajpurohit.com/> - Guide for your daily "professional" interactions
+- <https://www.businessenglishresources.com/> - Free Resources for business english
+- <https://www.digital-glossary.com/> - Turkish, English, and German terminological words
+
+### Travel
+
+- <https://airheart.com/travel-restrictions/united-states-vaccinated> - Learn about travel restrictions and what's required for your trip (For example, Corona restrictions)
+- <https://countrycode.org/> - Guide to call anywhere in the world
+- <https://www.passportindex.org/> - Explore the world of passports
+- <https://www.countriesbeen.com/> - Phone app to list the countries you have been with many features
+- <https://www.couchsurfing.com/> - Global community of 14 million people in more than 200,000 cities who share their life, their world, their journey. Couchsurfing connects travelers with a global network of people willing to share in profound and meaningful ways, making travel a truly social experience
+- <https://www.puffinmaps.com/> - All in one trip planner. No adds
+- <https://www.alltrails.com/> - Explore 300k trails w/ reviews & photos from 35m outdoor enthusiasts like you
+- <https://www.wanderprep.com/> - Advice on gear, apps, and gotchas to help busy people travel smarter (No more new articles)
+- <https://looria.com/> - Trusted place to find honest product information
+- <https://apps.apple.com/us/app/id1580599572> - Free Iphone app for trip destination searching and planning platform
+- <https://www.freecycle.org/> - Network people who are giving and getting stuff for free in their own Towns. Membership is free
+- <https://roadtrippers.com/> - Build your route in Roadtrippers and then use our turn-by-turn navigation to lead the way
+- <https://www.mountainproject.com/> - Free, Crowd-Sourced Guide to Climbing the World
+- <https://welcometomygarden.org/> - Non-profit network of citizens offering free camping spots in their gardens to slow travelers
+- <https://www.warmshowers.org/> - Community of bicycle tourists and those who support them
+- <https://www.slowby.travel/> - Highly-curated slow travel trips
+
+#### Globetrotting
+
+- <https://randomstreetview.com/> - Travel the streets from home
+- <https://virtualvacation.us/> - Travel the world from home
+- <https://www.mapcrunch.com/> - Explore the world via Google Street View. Teleports you to a random place in the world
+
+#### Time Zone
+
+- <https://everytimezone.com/> - Visual time zone comparison of countries
+
+#### Flight
+
+- <https://seatguru.com/> - Find your seat map. Explore 1,278 aircraft
+- <https://www.flightradar24.com/43,24.35/7> - Global flight tracking service that provides you with real-time information about thousands of aircraft around the world
+- <https://www.skyscanner.co.in/> - Search flights by date, price, and budget
+
+#### Weather
+
+- <https://hint.fm/wind/> - Delicate tracery of wind flowing over the US
+- <https://www.windy.com/> - Nearly everything about the weather of the any location
+- <https://zoom.earth/> - Visualizes the world in real-time. Track tropical storms, hurricanes, severe weather, wildfires and more
+- <https://earth.nullschool.net/> - Visualization of global weather conditions forecast by supercomputers updated every three hours
+- <https://openweathermap.org/> - Weather forecasts, newscasts and history in a fast and elegant way
+- <https://radiosondy.info/> - Tracks of meteorological radiosondes. It provides a database of current and past radiosonde flights, including information such as launch site, type, last frame, course, speed, altitude, and frequency (A radiosonde is a battery-powered telemetry instrument that is usually carried into the atmosphere by a weather balloon)
+
+### Food
+
+- <https://www.gobento.com/> - Engagement platform that improves the health and well-being of your most at-risk members, starting with those who experience food insecurity
+- <https://myfridgefood.com/> - Check off the ingredients that you have to find recipes you can make
+- <https://www.justtherecipe.com/> - Directly get the instructions from any recipe site (Ad and pop-up free recipe)
+- <https://www.twopeasandtheirpod.com/> - Recipe site
+- <https://www.hellofresh.com/> - You choose recipes, hellofresh deliver them straight to your door!
+
+## Health
+
+- <https://musclewiki.com/> - Learn about your body and muscles
+- <https://jinay.dev/just-a-minute/> - To test your chronoception (sene of passing time)
+- <https://www.futureme.org/> - Write a Letter to your future self
+- <https://strobe.cool/> - Create visual stimuli
+- <https://untools.co/> - Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems
+- <https://www.puzzle-loop.com/> - Logic puzzles with simple rules and challenging solutions
+- <https://guzey.com/personal/what-should-you-do-with-your-life/> - What Should You Do with Your Life? Directions and Advic
+- <https://keepsimple.io/uxcore> - UX Core lets you explore many cognitive biases while creating software
+
 ## Visual Entertainment
 
 - <https://www.kanopy.com/en/> (@) - You can stream thousands of films for free if your public library or university supports
@@ -539,31 +513,36 @@ Feel free to share and star
 - <https://www.movie-map.com/> - Find Similar Movies
 - <https://www.reddit.com/r/MovieSuggestions/wiki/faq> - List of movies from all genres
 - <https://agoodmovietowatch.com/>
-- <https://animixplay.to/>
 - <https://tubitv.com/home>
 - <https://rarefilm.net/> - Old films
 - <https://tiii.me/> - Calculate your total time spent watching TV shows
 - <https://www.moviesettingsdatabase.com/> - Over 30k Movies & TV Shows Organized By Where (And When) The Story Took Place
 - <https://m.wcostream.com/> - Free cartoon and anime series
-- <https://kisscartoon.xyz/> - Free kisscartoon. No bad advertise, pupup, etc.
+- <https://kisscartoon.xyz/> - Free kisscartoon. No bad advertise, popup, etc.
 - <https://reelgood.com/roulette/netflix> - Netflix Roulette: What Should You Watch?
 - <https://reelgood.com/> - Browse, search, and watch TV & Movies from over 150 services, Netflix, Hulu, HBO, Disney+, Prime Video, Free Services and more
 - <https://movie-sounds.org/> - Free movie quotes archive featuring short sound clips and SFX
 - <https://imsdb.com/> - Biggest collection of movie scripts available anywhere on the web
+
+### Anime
+
+- <https://animixplay.to/>
+- <https://reddit.com/r/streamingAnime/wiki/topsites/>
+- <https://reddit.com/r/anime/wiki/legal_streams/>
 
 ## Media
 
 - <https://radio.garden/> - Radio stations represented as green dots on Google Earth map and you can listen any of them by just one click
 - <https://radiooooo.com/> - The Musical Time Machine
 - <https://www.lightyear.fm/> - Radio broadcasts leave Earth at the speed of light
-- <https://tastedive.com/> - Find mucis, books, movies, and many more
+- <https://tastedive.com/> - Find musics, books, movies, and many more
 - <https://www.pidgi.net/wiki/Main_Page> - Community-driven video game media database, including artwork, promotional materials, logos, and more
 - <https://kassellabs.io/> - Use your texts on famous intros of movies and series
 - <https://ustvgo.tv/> - Free live TV channels
 - <https://www.allyoucanread.com/> - The largest database of magazines and newspapers on the Internet, with listings for about 25,000 magazines, newspapers and top news sites from all over the world
 - <https://karpathy.ai/lexicap/> - Transcripts for Lex Fridman episodes
 - <https://www.aniketvartak.com/html/hall-index.html> - Transcripts for Brett Hall's TokCast podcast
-- <https://teyit.org/> - Fact Chacking for Turkish news and media
+- <https://thumbly.ai/> - Turn your script into attention-grabbing thumbnails that increase your YouTube view
 
 ### Twitter
 
@@ -595,7 +574,7 @@ Feel free to share and star
 - <https://redditsearch.io/>
 - <https://betterredditsearch.web.app/>
 
-## Music
+## Music / Audio
 
 - <https://downloads.khinsider.com/> - Video and PC game soundtracks for download in a very otherwise difficult to get MP3 and lossless forms
 - <https://onlinetonegenerator.com/> - Generate tones, you can also download in wav format
@@ -612,6 +591,9 @@ Feel free to share and star
 - <https://audionautix.com/> - Music that is composed and produced by Jason Shaw. Completely free - for you to download and use (even for commercial purposes) as long as you provide credit
 - <https://typatone.com/> - Generate your own music by typing on keyboard
 - <https://www.incredibox.com/> - Music app that lets you create your own music with the help of a merry crew of beatboxers
+- <https://www.sampurr.com/> - Sample an audio from the web (For [usage](https://www.sampurr.com/about.html))
+- <https://www.audiocheck.net/> - Test your audio equipment, online
+- <https://mixlr.com/> ($) - Share quality live audio online. Broadcast using any source, invite people to listen, chat in real-time (Free for just listening)
 
 ### Find Music
 
@@ -656,108 +638,6 @@ Feel free to share and star
 - <https://playlistmutator.com/> - Provides a tool for users to "mutate" existing playlists in React
 - <https://www.tunemymusic.com/> - Transfer playlists between music services
 
-## Culture
-
-- <https://culturalatlas.sbs.com.au/> - Educational resource providing comprehensive information on the cultural backgrounds
-- <https://www.quotemaster.org/> - 98,683 categories and 1,488,431 quotes
-- <https://www.factslides.com/> - 1001 facts about many topics with sources
-- <https://starkeycomics.com/> - Colourful images and posts about culture and language
-- <https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles> - Unusual wikipedia articles
-- <https://en.wikipedia.org/wiki/List_of_common_misconceptions> - List of common misconceptions
-- <https://www.behindthename.com/> - Etymology and history of first names
-- <https://surnames.behindthename.com/> - Etymology and history of first surnames
-- <https://nameberry.com/> - Baby names by the experts at Nameberry, including popular names and unique names, baby girl names and baby boy names and gender neutral names too
-
-### Language
-
-- <https://youglish.com/> - Use YouTube to improve your English pronunciation, no YouTube ads
-- <https://www.voscreen.com/> - Video snippets of english sentences, test your understanding by choosing paraphrased sentences
-- <https://www.newsinlevels.com/> - World news for students of English
-- <https://dood.al/pinktrombone/> - Human mouth and its sounds interactive voicebox
-- <https://www.japanese-wiki-corpus.org/> - Generated from the Japanese-English Bilingual Corpus of Wikipedia's Kyoto Articles
-- <https://latin-phrases.co.uk/> - Look up for the translation of the latin phrases
-
-#### Grammar
-
-- <https://www.grammarbook.com/english_rules.asp> - English Grammar Rules
-- <https://www.thepunctuationguide.com/index.html> - Guide to American punctuation
-- <https://progressivepunctuation.com/> - Collection of non-standard punctuation marks
-- <https://owl.purdue.edu/site_map.html> - Purdue University's Online Writing Lab (OWL)
-- <https://webapps.towson.edu/ows/index.asp> - Online Writing Support & Grammer
-- <https://www.grammar-monster.com/index.html> - Free English Grammar Lessons and Tests
-
-#### Writing
-
-- <https://fraze.it/> - Platform with more than 100 millions sentences
-
-#### Words & Meanings
-
-- <https://educalingo.com/en/dic-en> - Find synonyms, uses, trends, statistics and much more
-- <https://www.finedictionary.com/> - Shows everything about a word
-- <https://www.crownacademyenglish.com/articles/> - Simple, succint, and clear explanations of some English language concepts
-- <https://www.askdifference.com/> - Short and clean differences of two similar subjects
-- <https://keydifferences.com/> - Website on differences and comparisons, that not only emphasizes on the distinction between two topics, but also provides a better understanding of each subject with the help of an enriched content
-- <https://www.differencebetween.info/> - Descriptive Analysis and Comparisons
-- <https://www.allacronyms.com/> - Community-driven Acronyms and Abbreviations Dictionary
-
-#### Business English
-
-- <https://howtoprofessionallysay.akashrajpurohit.com/> - Guide for your daily "professional" interactions
-- <https://www.businessenglishresources.com/> - Free Resources for business english
-- <https://www.digital-glossary.com/> - Turkish, English, and German terminological words
-
-### Travel
-
-- <https://airheart.com/travel-restrictions/united-states-vaccinated> - Learn about travel restrictions and what's required for your trip (For example, Corona restrictions)
-- <https://countrycode.org/> - Guide to call anywhere in the world
-- <https://www.passportindex.org/> - Explore the world of passports
-- <https://www.countriesbeen.com/> - Phone app to list the countries you have been with many fetures
-- <https://www.couchsurfing.com/> - Global community of 14 million people in more than 200,000 cities who share their life, their world, their journey. Couchsurfing connects travelers with a global network of people willing to share in profound and meaningful ways, making travel a truly social experience
-- <https://www.puffinmaps.com/> - All in one trip planner. No adds
-- <https://www.alltrails.com/> - Explore 300k trails w/ reviews & photos from 35m outdoor enthusiasts like you
-- <https://www.wanderprep.com/> - Advice on gear, apps, and gotchas to help busy people travel smarter (No more new articles)
-- <https://looria.com/> - Trusted place to find honest product information
-- <https://apps.apple.com/us/app/id1580599572> - Free Iphone app for trip destination searching and planning platform
-- <https://www.freecycle.org/> - Network people who are giving and getting stuff for free in their own Towns. Membership is free
-- <https://roadtrippers.com/> - Build your route in Roadtrippers and then use our turn-by-turn navigation to lead the way
-- <https://www.mountainproject.com/> - Free, Crowd-Sourced Guide to Climbing the World
-- <https://welcometomygarden.org/> - Non-profit network of citizens offering free camping spots in their gardens to slow travellers
-- <https://www.warmshowers.org/> - Community of bicycle tourists and those who support them
-- <https://www.slowby.travel/> - Highly-curated slow travel trips
-
-#### Globetrotting
-
-- <https://randomstreetview.com/> - Travel the streets from home
-- <https://virtualvacation.us/> - Travel the world from home
-- <https://www.mapcrunch.com/> - Explore the world via Google Street View. Teleports you to a random place in the world
-
-#### Time Zone
-
-- <https://everytimezone.com/> - Visual time zone comparison of countries
-
-#### Flight
-
-- <https://seatguru.com/> - Find your seat map. Explore 1,278 aircraft
-- <https://www.flightradar24.com/43,24.35/7> - Global flight tracking service that provides you with real-time information about thousands of aircraft around the world
-- <https://www.skyscanner.co.in/> - Search flights by date, price, and budget
-
-#### Weather
-
-- <https://hint.fm/wind/> - Delicate tracery of wind flowing over the US
-- <https://www.windy.com/> - Nearly everything about the weather of the any location
-- <https://zoom.earth/> - Visualizes the world in real-time. Track tropical storms, hurricanes, severe weather, wildfires and more
-- <https://earth.nullschool.net/> - Visualization of global weather conditions forecast by supercomputers updated every three hours
-- <https://openweathermap.org/> - Weather forecasts, nowcasts and history in a fast and elegant way
-- <https://radiosondy.info/> - Tracks of meteorological radiosondes. It provides a database of current and past radiosonde flights, including information such as launch site, type, last frame, course, speed, altitude, and frequency (A radiosonde is a battery-powered telemetry instrument that is usually carried into the atmosphere by a weather balloon)
-
-### Food
-
-- <https://www.gobento.com/> - Engagement platform that improves the health and well-being of your most at-risk members, starting with those who experience food insecurity
-- <https://myfridgefood.com/> - Check off the ingredients that you have to find recipes you can make
-- <https://www.justtherecipe.com/> - Directly get the instructions from any recipe site (Ad and pop-up free recipe)
-- <https://www.twopeasandtheirpod.com/> - Recipe site
-- <https://www.hellofresh.com/> - You choose recipes, hellofresh deliver them straight to your door!
-
 ## Books
 
 - <https://archive.org/>
@@ -795,6 +675,19 @@ Feel free to share and star
 - <https://www.bookbub.com/welcome> - Get your own, personalized recommendations
 - <https://hackernewsbooks.com/> - The Best Books Mentioned On Hacker News This Week
 - <https://www.goodreads.com/> - World's largest site for readers and book recommendations
+
+## Economy
+
+- <https://edition.cnn.com/markets/fear-and-greed> - Learn what emotion is driving the market now
+- <https://www.whereswilly.com/> - International non-profit volunteer project dedicated to tracking Canadian paper money around the world
+- <https://www.wheresgeorge.com/> - International non-profit volunteer project dedicated to tracking American paper money around the world
+- <https://en.eurobilltracker.com/> - International non-profit volunteer project dedicated to tracking Euro notes around the world
+- <https://www.tradingview.com/> - platform and social network used by 30M+ traders and investors worldwide to spot opportunities across global markets
+- <https://www.lendingtree.com/> - Marketplace, built to save you money—we don’t make loans, we find them
+- <https://www.masterworks.com/> - Exclusive community investing in blue-chip art
+- <https://equitybee.com/> - Provides startup employees the funding they need to exercise their stock options. With a global network of investors competing to get you funded, you get the best possible terms
+- <https://equityzen.com/> - Invest or sell shares in the secondary market with EquityZen funds
+- <https://money.com/>
 
 ## Business
 
@@ -917,18 +810,6 @@ Feel free to share and star
 - <https://www.wtfshouldidowithmylife.com/> - Learn about different occupations
 - [path-to-polymath.notion](https://path-to-polymathy.notion.site/path-to-polymathy/Path-To-Polymathy-d7586429b7ce4db1889fc539822b9670) - Arrangement of every discipline and field out there, and what specific topics make them up
 
-## Economy
-
-- <https://edition.cnn.com/markets/fear-and-greed> - Learn what emotion is driving the market now
-- <https://www.whereswilly.com/> - International non-profit volunteer project dedicated to tracking Canadian paper money around the world
-- <https://www.wheresgeorge.com/> - International non-profit volunteer project dedicated to tracking American paper money around the world
-- <https://en.eurobilltracker.com/> - International non-profit volunteer project dedicated to tracking Euro notes around the world
-- <https://www.tradingview.com/> - platform and social network used by 30M+ traders and investors worldwide to spot opportunities across global markets
-- <https://www.lendingtree.com/> - Marketplace, built to save you money—we don’t make loans, we find them
-- <https://www.masterworks.com/> - Exclusive community investing in blue-chip art
-- <https://equitybee.com/> - Provides startup employees the funding they need to exercise their stock options. With a global network of investors competing to get you funded, you get the best possible terms
-- <https://equityzen.com/> - Invest or sell shares in the secondary market with EquityZen funds
-
 ## Startups
 
 - <https://theangelphilosopher.com/> - Compilation of Naval's wisdom, knowledge and thoughts
@@ -968,9 +849,6 @@ Feel free to share and star
 - <https://meetfranz.com/> - Platform where you can manage all your messaging apps like WhatsApp, Facebook Messenger, Slack, Telegram and many more
 - <https://remotedesktop.google.com/> - Remotely connect with your home or work computer, or share your screen with others
 - <https://www.recwide.com/> - Screen and webcam recorder. Free, Online (No Download Required)
-
-#### Must Reads
-
 - <https://kk.org/thetechnium/1000-true-fans/> - 1,000 True Fans
 
 ### Productivity
@@ -1127,7 +1005,7 @@ Feel free to share and star
 
 #### Periodic Table
 
-- <https://ptable.com/?lang=en#Properties>
+- <https://ptable.com/?lang=en>
 
 ### MOOC (Massive Open Online Courses)
 
@@ -1154,11 +1032,6 @@ Feel free to share and star
 - <https://doaj.org/>
 - <https://www.learningontheinternet.com/?ref=producthunt>
 - <https://www.classcentral.com/>
-- <https://yokdersleri.yok.gov.tr/>
-- <https://acikders.tuba.gov.tr/>
-- <https://ocw.metu.edu.tr/>
-- <https://buplus.boun.edu.tr/etkinlik-turu/acik-ders>
-- <https://www.iienstitu.com/>
 
 ## Science
 
@@ -1199,6 +1072,24 @@ Feel free to share and star
 - <https://observablehq.com/> - Explore, analyze, and explain data. As a team
 - <https://fixphrase.com/> - Locate any place on Earth with just four words (This could be useful in situations where it's easier to deal with a few words instead of a long series of numbers)
 - <https://commoncrawl.org/> - We build and maintain an open repository of web crawl data that can be accessed and analyzed by anyone. Need years of free web page data to help change the world
+
+### Infographic
+
+- <https://informationisbeautiful.net/> - Fact- and data-based decisions
+- <https://www.visualcapitalist.com/> - Data-driven visuals on various topics including markets, technology, energy and the global economy
+- <https://infographicjournal.com/> - Infographic archive
+- <https://d3js.org/> - JavaScript library for manipulating documents based on data
+- <https://www.denizcemonduygu.com/> - Especially [this](https://www.denizcemonduygu.com/portfolio/the-history-of-philosophy/) interactive timeline of philosophical ideas
+- <https://datavizcatalogue.com/index.html> - Data Visualization Catalogue
+- <https://public.tableau.com/app/discover> - Free platform to explore, create, and publicly share data visualizations online
+
+### Diagrams
+
+- <https://creately.com/> - Data-connected Visual Workspace to brainstorm, plan, execute and capture knowledge
+- <https://www.diagrams.net/> - Security-first diagramming for teams (For [web](https://app.diagrams.net/) usage)
+- <https://orgpad.com/?ref=producthunt> (~$) - Interactive online mindmap
+- <https://www.lucidchart.com/pages/> (~$) - Diagramming and flowchart app that brings teams together to make better decisions and build the future
+- <https://learn-anything.xyz/> - Platform for organizing world's knowledge, explore connections and curate learning paths
 
 ### Philosophy
 
@@ -1360,6 +1251,13 @@ Feel free to share and star
 
 - <https://klavier.ai/> - Do Q&A with ChatGPT on web pages and docs you choose
 - <https://promptperfect.jina.ai/> - Cutting-edge prompt optimizer designed for large language models (LLMs), large models (LMs) and LMOps
+- <https://doublespeak.chat/#/handbook> - Empirical, non-academic, and practical guide to LLM hacking
+- <https://www.warpsound.ai/> - Create high-quality generative AI music in seconds with just prompts
+- <https://aivalley.ai/> - The Latest Source of AI Tools & Prompts
+- <https://www.bardeen.ai/> - Automate manual work and tasks with  AI without any code in minutes
+- <https://speechify.com/> - Power through docs, articles, PDFs, email — anything you read — by listening with our leading AI text to speech reader
+- <https://www.humata.ai/> - Upload any PDF or document and get answers from it in seconds
+
 
 ## Web Development
 
@@ -1532,6 +1430,119 @@ Feel free to share and star
 
 - <https://www.thechesswebsite.com/> - Learn, Practice and Play Chess
 - <https://en.lichess.org/> - Free/libre, open-source chess server powered by volunteers and donations
+
+## Privacy
+
+- <https://www.nothingprivate.ml/> - See why you are not anonymous by using private browsing mode or incognito mode (or you can directly read from [here](https://github.com/gautamkrishnar/nothing-private))
+- <https://www.privacytools.io/> - Q: How much privacy do you want? A: Yes
+- <https://securityplanner.consumerreports.org/> ($) - Cut down on data collection and prevent hackers from invading your laptop, tablet and even your phone. Answer a few simple questions to get customized recommendations to help you
+- <https://mywhisper.net/> - Text encryption tool, based on AES cryptography
+- <https://beencrypted.com/> - To become more encrypted
+- <https://prism-break.org/en/all/> - Private and safe alternatives of most used apps & services
+- <https://www.reddit.com/r/piracy/wiki/megathread/tools> - List of Apps / tools / web services
+- <https://gitlab.com/tzkuat/Ressources> - List of websites on different areas such as Security, OSINT, etc.
+- <https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/> - Privacy Tools List by CHEF-KOCH
+- <https://github.com/arkenfox/user.js/wiki/4.1-Extensions> - Privacy and security related extensions
+- <https://privacy.net/analyzer/#pre-load>
+- <https://shutuptrackers.com/> - Provides information for protecting your data security and privacy
+- <https://ssd.eff.org/> - SURVEILLANCE SELF-DEFENSE: TIPS, TOOLS AND HOW-TOS FOR SAFER ONLINE COMMUNICATIONS
+- <https://www.routerpasswords.com/> - Router Passwords is officially the most updated default router password repository on the internet
+- <https://bugmenot.com/> - Find and share logins. Enter a website below to see if the bugmenot community has shared any logins for it
+- <https://www.security.org/security-score/> - Learn about your security score
+- <https://www.startpage.com/> - Get privacy protection across the web. Extension for instant tracker blocking & more
+- <https://cookiepedia.co.uk/> - Largest database of pre-categories cookies and online tracking technologies
+- <https://proton.me/> - Encrypted mail, calendar, drive, vpn
+
+- <https://libreprojects.net/#favs=wikipedia,joindiaspora-com,nextcloud,openstreetmap,jamendo,plos> - 118 open source hosted web services
+- <https://tosdr.org/> - Terms of Service; Didn't Read (short: ToS;DR)
+
+### Cryptography
+
+- <https://www.cryptologie.net/> - (note: Read his Real-World Cryptography book)
+- <https://mikebradley.me/invisible/index.html> - Hide text in images. Find hidden text.
+
+### GAFA Alternatives
+
+- <https://degoogle.jmoore.dev/#mobile-applications-mobile-apps-installable-from-stores> - Huge list of alternatives to Google products. Privacy tips, tricks, and links
+- <https://degooglisons-internet.org/en/> - Alternatives to FAANG
+- <https://www.accountkiller.com/en/home> - AccountKiller collects direct links and deleting instructions to make account termination easy
+- <https://github.com/yuliskov/SmartTubeNext> - Ad free app for watching tube videos on Android TV boxes
+- <https://libredirect.github.io/> - Web extension that redirects YouTube, Twitter, Instagram... requests to alternative privacy friendly frontends and backends
+
+### Data Breach
+
+- <https://haveibeenpwned.com/> - Check if your email or phone is in a data breach
+- <https://tineye.com/> - Find where images appear online
+- <https://ipleak.net/> - See the kind of information that all the sites you visit can see and collect about you
+- <https://coveryourtracks.eff.org/> - Test your browser to see how well you are protected from tracking and fingerprinting
+- <https://amifloced.org/> - Google is testing FLoC on Chrome users worldwide. Find out if you're one of them
+
+### Internet
+
+- <https://www.internetlivestats.com/> - Every statics of the internet
+- <https://internet-map.net/> - The map of the Internet
+- <https://test-ipv6.com/> - Test your IPv6 connectivity
+- <https://kb.adguard.com/en/general/dns-providers> - You can configure any DNS server to be used instead of the system default provided by the router or ISP
+- <https://tls12.xargs.org/> - Every byte of a TLS connection is explained and reproduced
+- <https://cidr.xyz/> - Interactive IP address and CIDR range visualizer
+- <https://icanhazip.com/> - Only your IP address on the top os the page
+- <https://iplocation.io/> - Provides you free location tracking of an entered IP Address. It tracks the IP's city, country, latitude, and longitude data instantly through various Geo IP Databases available in the market
+- <https://ifconfig.co/> - Find your own IP address, and information about it
+- <https://ipinfo.io/> (~$) - Accurate IP address data that keeps pace with secure, specific, and forward-looking use cases
+- <https://dnschecker.org/> - Provides a free DNS lookup service to check Domain Name System records against a selected list of DNS servers located in multiple regions worldwide
+- <https://www.davidc.net/sites/default/subnets/subnets.html> - Visual Subnet Calculator
+- <https://howdns.works/> - Colorful explanation of how DNS works with comics
+
+#### URL
+
+- <https://shrtco.de/tools/> - URL tools
+- <https://www.onelink.to/> - Link and QR code for your apps
+- <https://freecodetools.org/qr-code-generator/> - QR generator
+- <https://appopener.com/> - Create smart links to open desired apps from url without login
+- <https://digital.com/best-web-hosting/who-is/> - Find Out Who is Hosting Any Domain in Seconds and learn about the web host, IP address, name servers and more
+- <https://webhook.site/> - Inspect, test and automate (with the visual Custom Actions builder, or WebhookScript) any incoming HTTP request or e-mail
+- <https://goqr.me/> - High resolution QR codes, print quality
+- <https://freecodetools.org/ogp/> - Open graph generator
+
+##### URL Shortener
+
+- <https://cutr.ml/>
+- <https://is.gd/>
+- <https://gg.gg/>
+- <https://www.shrunken.com/>
+- <https://www.rebrandly.com/> (~$) - Link management platform to brand, track, and share short URLs using a custom domain name
+- <https://bit.do/> - Get real-time traffic statistics for your links for free
+- <https://home.s.id/> - Link Shortener and Microsite builder
+- <https://tinyurl.com/app> - With optional short link ending
+- <https://tiny.cc/> - With optional short link ending
+- <https://bitly.com/> - web/mobile link management and campaign management analytics as well as branded links
+- <https://iplogger.org/> - URL Shortener with advanced analytics for the traffic through your links, visitors on your online store, blog or website
+
+#### VPN
+
+- <https://www.top10vpn.com/>
+- <https://www.whatsmybrowser.org/>
+- [docs.google.com/spreadsheets/vpn](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit#gid=231869418) - Detailed list of all vpns available with analysis and comparisons
+- <https://njal.la/> ($) - Provides an encrypted tunnel from your computer to the Internet. We hide your real IP address behind one of ours
+
+#### Fake Information Generation
+
+- <https://www.fakenamegenerator.com/> - Generate fake profile information (names, addresses, phone numbers, etc., from 37 languages and 31 countries)
+- <https://www.burnerapp.com/> ($) - Original second phone number app for calling and texting. With Burner, you can protect yourself from spam or junk calls, separate different types of contacts by phone number, and switch phone numbers
+- <https://www.random.org/> (~$) - True Random Games and Lotteries, Numbers, Lists and Strings and Maps Generator
+
+#### Torrent
+
+- <https://ahmia.fi/> - Searches hidden services on the Tor network (to access these hidden services, you need the Tor browser bundle)
+- <https://webtorrent.io/> - Streaming torrent client for browser
+- <https://iknowwhatyoudownload.com/> - Torrent downloads and distributions for your IP address
+
+### Password Generation
+
+- <https://www.healthypasswords.com/index-2.html> - Everything About Passwords and Internet Security
+- <https://random-password-gen.web.app/>
+- <https://www.security.org/how-secure-is-my-password/> - Check How Secure Is Your Password. Entries are 100% secure and not stored in any way or shared with anyone
+- <https://freecodetools.org/password-generator/>
 
 ## Programming Languages
 
@@ -1793,7 +1804,7 @@ Feel free to share and star
 ## How To Ask A Good Question
 
 - <https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603>
-- <https://catb.org/~esr/faqs/smart-questions.html>
+- <https://catb.org/~esr/faqs/smart-questions.html> - From blog of Eric Steven Raymond
 - <https://www.nohello.com/>
 - <https://dontasktoask.com/>
 - <https://meta.stackexchange.com/q/66377/>
@@ -1808,17 +1819,6 @@ Feel free to share and star
 - <https://mywiki.wooledge.org/XyProblem>
 - <https://lmgtfy.app/#gsc.tab=0> - Share a sub-link of this site to show someone that they need to google their question before asking
 
-## Health
-
-- <https://musclewiki.com/> - Learn about your body and muscles
-- <https://jinay.dev/just-a-minute/> - To test your chronoception (sene of passing time)
-- <https://www.futureme.org/> - Write a Letter to your future self
-- <https://strobe.cool/> - Create visual stimuli
-- <https://untools.co/> - Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems
-- <https://www.puzzle-loop.com/> - Logic puzzles with simple rules and challenging solutions
-- <https://guzey.com/personal/what-should-you-do-with-your-life/> - What Should You Do with Your Life? Directions and Advic
-- <https://keepsimple.io/uxcore> - UX Core lets you explore many cognitive biases while creating **software**
-
 ## Other Websites of Websites
 
 - <https://stumbled.to/>
@@ -1832,22 +1832,11 @@ Feel free to share and star
 - <https://hackr.io/> - Find the Programming Courses & Tutorials
 - <https://limnology.co/en> - Curation of educational channels of YouTube in 20 different langauges. Select by topic and find out all the channels and videos on that topic. You can also find similar channels that you know of
 
-## Useful Blogs
-
-- <https://lmalmanza.wordpress.com/>
-- <https://www.menimagerie.com/>
-- <https://tarikyildirim.com/>
-- <https://www.paulgraham.com/>
-- <https://www.jaakkoj.com/blog/graham>
-- <https://durmonski.com/>
-- <https://www.benkuhn.net/blogroll/>
-- <https://moultano.wordpress.com/>
-
 # Contributing
 
 - If you find out any broken link or any website that has been outdated, please rise an issue in [awesome-useful-websites/issues](https://github.com/atakanaltok/awesome-useful-websites/issues).
 
-- If you want to add a new category or website, create a pull request in [awesome-useful-websites/pulls](https://github.com/atakanaltok/awesome-useful-websites/pulls) (To avoiding duplications, seach whether your website is already included here).
+- If you want to add a new category or website, create a pull request in [awesome-useful-websites/pulls](https://github.com/atakanaltok/awesome-useful-websites/pulls) (To avoiding duplications, seach whether your website is already included).
 
 # DISCLAIMER
 
