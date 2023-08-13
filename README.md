@@ -377,6 +377,7 @@ Feel free to share and star
 - <https://www.preceden.com/> (~$) - Online timeline and Roadmaps maker
 - <https://incoggo.com/> - Adblocker for Paywalls
 - <https://12ft.io/> - Remove the paywall and get you access to the article
+- <https://3dhouseplanner.com/> - Free 3D floor planner application on the web
 
 ## DIY
 
