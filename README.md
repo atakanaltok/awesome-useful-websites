@@ -1163,6 +1163,7 @@ Feel free to share and star
 - <https://pdodds.w3.uvm.edu/teaching/courses/2016-08UVM-122/> - Matrixology
 - <https://sam.nitk.ac.in/courses-taught.html> - Math courses
 - <https://mathhints.com/> - Easy Mathematical Tricks from Counting Through Calculus
+- <https://www.math-salamanders.com/> - Really useful calculators (like Reverse Percentage Calculator) and math worksheets for kids or students.
 
 ### Math + Programming
 
