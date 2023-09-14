@@ -377,6 +377,8 @@ Feel free to share and star
 - <https://www.preceden.com/> (~$) - Online timeline and Roadmaps maker
 - <https://incoggo.com/> - Adblocker for Paywalls
 - <https://12ft.io/> - Remove the paywall and get you access to the article
+- <https://browser.lol/> - Browse anonymously with a free virtual Environment within your Browser
+- <https://3dhouseplanner.com/> - Free 3D floor planner application on the web
 
 ## DIY
 
@@ -1167,6 +1169,7 @@ Feel free to share and star
 - <https://pdodds.w3.uvm.edu/teaching/courses/2016-08UVM-122/> - Matrixology
 - <https://sam.nitk.ac.in/courses-taught.html> - Math courses
 - <https://mathhints.com/> - Easy Mathematical Tricks from Counting Through Calculus
+- <https://www.math-salamanders.com/> - Really useful calculators (like Reverse Percentage Calculator) and math worksheets for kids or students.
 
 ### Math + Programming
 
