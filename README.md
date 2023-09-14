@@ -128,6 +128,7 @@ Feel free to share and star
       - [Materials / Nanotechnology](#materials--nanotechnology)
       - [Thermodynamics](#thermodynamics)
       - [Control](#control)
+      - [Vibrations](#vibrations)
     - [Electronics Engineering](#electronics-engineering)
     - [Computer Science](#computer-science)
       - [Data Structures and Algorithms (DS\&A)](#data-structures-and-algorithms-dsa)
@@ -1225,6 +1226,10 @@ Feel free to share and star
 
 - <https://linklab-uva.github.io/modeling_cps/schedule.html> - Principles of Modeling for Cyber-Physical Systems
 
+#### Vibrations
+
+- <https://www.acs.psu.edu/drussell/demos.html> - Acoustics and Vibration Animations
+
 ### Electronics Engineering
 
 - <https://www.electrical4u.com/> - Learn Electrical Engineering
@@ -1856,3 +1861,4 @@ This github page maintains no affiliate relationship with the websites mentioned
 ![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+****
