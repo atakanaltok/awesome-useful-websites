@@ -70,7 +70,7 @@ Feel free to share and star
     - [Mix Sounds](#mix-sounds)
     - [Spotify](#spotify)
   - [Books](#books)
-    - [Book Summary And Recommendations](#book-summary-and-recommendations)
+    - [Book Summaries And Recommendations](#book-summaries-and-recommendations)
   - [Economy](#economy)
   - [Business](#business)
     - [Finance](#finance)
@@ -93,7 +93,7 @@ Feel free to share and star
     - [Connectivity](#connectivity)
     - [Productivity](#productivity)
     - [Design](#design)
-      - [Color](#color)
+      - [Colors](#colors)
       - [Fonts](#fonts)
       - [Icons / Icon Packs](#icons--icon-packs)
       - [Tools for Social Media](#tools-for-social-media)
@@ -662,7 +662,7 @@ Feel free to share and star
 - <https://archive.vcu.edu/english/engweb/transcendentalism/> - Educational hypertext, open to new files, notes on transcendental texts, and links among and within files and texts, within this space and to other Internet spaces
 - <https://www.libraryofshortstories.com/> - An online library of over 1000 classic short stories. Read and download history’s best
 
-### Book Summary And Recommendations
+### Book Summaries And Recommendations
 
 - <https://read-next.com/> - 3,000+ books recommended by famous people from diverse domains (Scientists, Investors, Entrepreneurs, Celebrities, Authors, etc.)
 - <https://www.goodbooks.io/> - 8,500+ book recommendations from the most successful and interesting people in the world
@@ -772,20 +772,26 @@ Feel free to share and star
 ### Remote Jobs
 
 - <https://remoteok.com/>
-- <https://jsremotely.com/>
-- <https://flexjobs.com/>
-- <https://remote.co/>
-- <https://justremote.co/>
-- <https://weworkremotely.com/>
-- <https://jobspresso.co/>
 - <https://remotive.com/>
-- <https://dailyremote.com/>
-- <https://angel.co/candidates/overview>
+- <https://remote.co/>
 - <https://remoteleaf.com/>
 - <https://remoteleads.io/>
-- <https://hired.com/>
 - <https://remotebear.io/>
+- <https://justremote.co/>
+- <https://jsremotely.com/>
+- <https://jobspresso.co/>
 - <https://justjoin.it/>
+- <https://flexjobs.com/>
+- <https://weworkremotely.com/>
+- <https://dailyremote.com/>
+- <https://angel.co/candidates/overview>
+- <https://hired.com/>
+- <https://powertofly.com/>
+- <https://skipthedrive.com/>
+- <https://authenticjobs.com/>
+- <https://workingnomads.co/>
+- <https://europeremotely.com/>
+- <https://virtualvocations.com/>
 
 ### Interview
 
@@ -873,7 +879,7 @@ Feel free to share and star
 - <https://app.haikei.app/> - Web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more
 - <https://spline.design/> - Create 3D scenes, edit materials, and model 3D objects. Control the outcome of your design work
 
-#### Color
+#### Colors
 
 - <https://hexcolor.co/> - The Best Free Color Tools
 - <https://color.adobe.com/create/color-wheel> - Color wheel can be used to generate color palette
