@@ -143,8 +143,6 @@ Feel free to share and star
     - [Back-End](#back-end)
       - [APIs](#apis)
       - [SQL](#sql)
-      - [RubyGems](#rubygems)
-      - [Server](#server)
       - [Data Science](#data-science)
     - [Web Analytics](#web-analytics)
   - [Web 3.0 Dev](#web-30-dev)
@@ -166,29 +164,20 @@ Feel free to share and star
   - [Programming Languages](#programming-languages)
     - [Python](#python)
     - [Coding Practice](#coding-practice)
-      - [Learn with Projects](#learn-with-projects)
       - [Competitive Programming](#competitive-programming)
   - [Linux](#linux)
   - [Git](#git)
     - [GitHub](#github)
   - [Softwares](#softwares)
     - [Snippets](#snippets)
-      - [Learn from snippets](#learn-from-snippets)
     - [Linters](#linters)
-    - [Fuzzing](#fuzzing)
-    - [Program on Website](#program-on-website)
-    - [Carbon](#carbon)
+    - [Testing](#testing)
     - [Regex](#regex)
     - [No-Code](#no-code)
     - [Open Source](#open-source)
-    - [Documentation](#documentation)
   - [Cheat Sheets](#cheat-sheets)
-    - [Programming Languages Cheat Sheet](#programming-languages-cheat-sheet)
     - [Python Cheat Sheet](#python-cheat-sheet)
     - [Front-end Cheat Sheet](#front-end-cheat-sheet)
-      - [Emmet](#emmet)
-      - [Media Queries Cheat Sheet](#media-queries-cheat-sheet)
-      - [Bootstrap Cheat Sheet](#bootstrap-cheat-sheet)
       - [HTML Cheat Sheet](#html-cheat-sheet)
       - [CSS Cheat Sheet](#css-cheat-sheet)
   - [Keyboard](#keyboard)
@@ -199,8 +188,6 @@ Feel free to share and star
 - [Contributing](#contributing)
 - [DISCLAIMER](#disclaimer)
 - [LICENSE](#license)
-
-\*Table of contents generated with [markdown-toc](https://ecotrust-canada.github.io/markdown-toc/)\*
 
 ## Tools
 
@@ -1268,10 +1255,9 @@ Feel free to share and star
 - <https://doublespeak.chat/#/handbook> - Empirical, non-academic, and practical guide to LLM hacking
 - <https://www.warpsound.ai/> - Create high-quality generative AI music in seconds with just prompts
 - <https://aivalley.ai/> - The Latest Source of AI Tools & Prompts
-- <https://www.bardeen.ai/> - Automate manual work and tasks with  AI without any code in minutes
+- <https://www.bardeen.ai/> - Automate manual work and tasks with AI without any code in minutes
 - <https://speechify.com/> - Power through docs, articles, PDFs, email — anything you read — by listening with our leading AI text to speech reader
 - <https://www.humata.ai/> - Upload any PDF or document and get answers from it in seconds
-
 
 ## Web Development
 
@@ -1365,6 +1351,8 @@ Feel free to share and star
 - <https://publicapis.dev/> - Discover public APIs
 - <https://github.com/public-apis/public-apis> - Collective list of free APIs for use in software and web development
 - <https://www.restapitutorial.com/> - Learn REST
+- <https://developer.spotify.com/documentation/web-api> - API documentation of the Spotify
+- <https://stripe.com/docs/api> - API documentation of the Stripe Stripe
 
 #### SQL
 
@@ -1373,14 +1361,8 @@ Feel free to share and star
 - <https://selectstarsql.com/> - Interactive book which aims to be the best place on the internet for learning SQL. It is free of charge, free of ads and doesn't require registration or downloads
 - <https://quip.com/2gwZArKuWk7W> - Medium-Hard Data Analyst SQL Interview Questions
 - <https://www.sqltranslate.app/> - SQL to Natural Language and Natural Language to SQL translator. 100% free and open source
-
-#### RubyGems
-
-- <https://guides.rubygems.org/> - Learn how RubyGems works, and how to make your own
-
-#### Server
-
 - <https://serversforhackers.com/> - Server Admin for Programmers. Learn the server tech you need for development and production. Eliminate the frustration of server configuration
+- <https://guides.rubygems.org/> - Learn how RubyGems works, and how to make your own
 
 #### Data Science
 
@@ -1417,7 +1399,6 @@ Feel free to share and star
 ## Web 3.0 Dev
 
 - <https://web3isgoinggreat.com/> - Track some examples of how things in the blockchains/crypto/web3 technology space aren't actually going as well as its proponents might like you to believe. The timeline tracks events in cryptocurrency and blockchain-based technologies, dating back to the beginning of 2021
-
 - <https://andersbrownworth.com/blockchain/coinbase> - Blockchain Demo
 - <https://dappradar.com/> - Discover, Track & Trade Everything DeFi, NFT and Gaming
 - <https://www.defipulse.com/> - DeFi list
@@ -1560,26 +1541,20 @@ Feel free to share and star
 
 ## Programming Languages
 
+- [EbookFoundation-Free-Programming-Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) - Free and open source programming books
+- <https://www.codecademy.com/catalog> - Catalog for languages and
 - <https://theia-ide.org/> - Flexible and Extensible Cloud & Desktop IDE Platform. Efficiently develop and deliver Cloud & Desktop IDEs and tools with modern web technologies
-
 - <https://learnxinyminutes.com/> - Take a whirlwind tour of your next favorite language
-
 - <https://ecomputernotes.com/> - Learning Resource for Online Education
-
 - <https://libraries.io/> - Find new open source packages, modules and frameworks and keep track of ones you depend upon
-
 - <https://www.learnbyexample.org/> - Learn Pyhton, SQL, and R languages with examples
-
 - <https://pythontutor.com/> - This tool helps you learn Python, JavaScript, C, C++, and Java programming by visualizing code execution
 
 ### Python
 
-- <https://docs.python.org/3/>
+- <https://docs.python.org/3/> - Python's official documetation
 - <https://wiki.python.org/moin/FrontPage> - Python Wiki
-
-- <[python.books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#python)>
 - <https://awesome-python.com/> - Curated list of awesome Python frameworks, libraries, software and resources
-
 - <https://projectpython.net/>
 - <https://www.learnpython.org/>
 - <https://cscircles.cemc.uwaterloo.ca/>
@@ -1613,10 +1588,7 @@ Feel free to share and star
 - <https://open.kattis.com/> - Find hundreds of programming problems to solve
 - <https://exercism.org/tracks> - Develop fluency in 67 programming languages with our unique blend of learning, practice and mentoring, for free
 - <https://codility.com/programmers/challenges>
-
-#### Learn with Projects
-
-- <https://github.com/karan/Projects-Solutions>
+- <https://github.com/karan/Projects-Solutions> - Learn coding by creating projects
 
 #### Competitive Programming
 
@@ -1671,9 +1643,6 @@ Feel free to share and star
 
 - <https://codeclippet.com/> - Allows you to stop storing code snippets within text files and start sharing them with others, around a community focused environment
 - <https://kod.so/> - Create visual snippets, you can also download and share
-
-#### Learn from snippets
-
 - <https://codemyui.com/> - Web Design & UI Inspiration with Code Snippets
 - <https://www.30secondsofcode.org/list/p/1> - Curated collection of short code snippets for all your development needs
 - <https://www.w3schools.com/howto/default.asp> - Code snippets for HTML, CSS and JavaScript
@@ -1682,6 +1651,9 @@ Feel free to share and star
 - <https://codetogo.io/> - Find up to date snippets for JavaScript & React use cases
 - <https://tweetsnippet.com/> - Curated list of tips and tricks from Twitter
 - <https://css-tricks.com/snippets/> -
+- <https://crontab.guru/> - The quick and simple editor for cron schedule expressions
+- <https://crontab-generator.org/> - Generate crontab syntax
+- <https://carbon.now.sh/>
 
 ### Linters
 
@@ -1702,20 +1674,10 @@ Feel free to share and star
 - <https://freecodetools.org/beautifier/> - CODE BEAUTIFIER
 - <https://codepad.org/> - Online compiler/interpreter, and a simple collaboration tool. Paste your code, and codepad will run it and give you a short URL
 
-### Fuzzing
+### Testing
 
 - <https://owasp.org/www-community/Fuzzing>
 - <https://github.com/secfigo/Awesome-Fuzzing>
-
-### Program on Website
-
-- <https://www.runpython.live/> - Run python on your web
-
-### Carbon
-
-- <https://crontab.guru/> - The quick and simple editor for cron schedule expressions
-- <https://crontab-generator.org/> - Generate crontab syntax
-- <https://carbon.now.sh/>
 
 ### Regex
 
@@ -1727,17 +1689,14 @@ Feel free to share and star
 
 ### No-Code
 
-- <https://www.spacebarcounter.net/no-code-revolution> - See how NoCode is spreading around the world
+- <https://nocodelist.co/> - Browse categories to see the 300+ no code tools
+- <https://www.spacebarcounter.net/no-code-tools> - No-Code Things
 
 ### Open Source
 
 - <https://awesomeopensource.com/> - Find Open Source By Searching, Browsing and Combining 170,950 Topics Across 59 Categories And 5,851,571 Projects
 - <https://opensourcelibs.com/> - Massive collection of the world's best open source software
 - <https://www.codetriage.com/> - List of open source repos' issues that you can contribute. You can also receive issues via email if you sign up
-
-### Documentation
-
-- <https://nota-lang.org/> - Document Language for the Browser
 
 ## Cheat Sheets
 
@@ -1746,11 +1705,9 @@ Feel free to share and star
 - <https://panthema.net/2013/sound-of-sorting/SoS-CheatSheet.pdf> - The Sound of Sorting Algorithm
 - <https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/> - General IT Security
 - <https://www.codecademy.com/resources/cheatsheets/all> - Cheat sheets for all kinds of languages and concepts
-
-### Programming Languages Cheat Sheet
-
 - <https://lecoupa.github.io/awesome-cheatsheets/>
 - <https://overapi.com/>
+- <https://nota-lang.org/> - Document Language for the Browser
 
 ### Python Cheat Sheet
 
@@ -1760,32 +1717,19 @@ Feel free to share and star
 
 ### Front-end Cheat Sheet
 
-- <https://caniuse.com/>
-- <https://easings.net/en># - Specify the rate of change of a parameter over time
+- <https://caniuse.com/> - Up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers
+- <https://easings.net/en> - Choose the right easing function
 - <https://webcode.tools/> - Code generators to help you with your front-end web projects
-
-#### Emmet
-
-- <https://devhints.io/emmet>
-- <https://docs.emmet.io/cheat-sheet/>
-
-#### Media Queries Cheat Sheet
-
-- <https://uxpin.s3.amazonaws.com/responsive_web_design_cheatsheet.pdf> - Responsive web design
-- <https://mac-blog.org.ua/css-3-media-queries-cheat-sheet> - Media Queries Cheat Sheet
-
-#### Bootstrap Cheat Sheet
-
-- <https://bootsnipp.com/> - Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework
-- <https://hackerthemes.com/bootstrap-cheatsheet/> - Bootstrap framework
-- <https://hackerthemes.com/> - UI/UX based on Bootstrap
+- <https://marksheet.io/> - Free HTML and CSS tutorial
+- <https://www.xul.fr/en/> - CSS, HTML, and Javascript tutorial and index
+- <https://docs.emmet.io/cheat-sheet/> - Emmet and abbreviations
 
 #### HTML Cheat Sheet
 
 - <https://htmlcheatsheet.com>
 - <https://html5doctor.com/element-index/> - Quick reference of elements that are new or have been redefined in HTML5
 - <https://simon.html5.org/dump/html5-canvas-cheat-sheet.html>
-- <https://apps.workflower.fi/vocabs/html/en#children> - html vocabulary
+- <https://apps.workflower.fi/vocabs/html/en#children> - HTML vocabulary
 - <https://htmlreference.io/> - Free guide to HTML. It features all elements and attributes
 
 #### CSS Cheat Sheet
@@ -1795,7 +1739,12 @@ Feel free to share and star
 - <https://flexbox.malven.co/>
 - <https://www.justinaguilar.com/animations/>
 - <https://alialaa.github.io/css-grid-cheat-sheet/>
--
+- <https://adam-marsden.co.uk/css-cheat-sheet>
+- <https://uxpin.s3.amazonaws.com/responsive_web_design_cheatsheet.pdf> - Responsive web design
+- <https://mac-blog.org.ua/css-3-media-queries-cheat-sheet> - Media Queries Cheat Sheet
+- <https://bootsnipp.com/> - Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework
+- <https://hackerthemes.com/bootstrap-cheatsheet/> - Bootstrap framework
+- <https://hackerthemes.com/> - UI/UX based on Bootstrap
 
 ## Keyboard
 
@@ -1861,4 +1810,3 @@ This github page maintains no affiliate relationship with the websites mentioned
 ![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-****
