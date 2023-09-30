@@ -33,7 +33,6 @@ Feel free to share and star
       - [Disposable Email](#disposable-email)
     - [Search](#search)
     - [Automating browser](#automating-browser)
-    - [Bookmarks](#bookmarks)
     - [Comparison](#comparison)
     - [File](#file)
     - [Converter / Conversion](#converter--conversion)
@@ -74,24 +73,19 @@ Feel free to share and star
   - [Economy](#economy)
   - [Business](#business)
     - [Finance](#finance)
-    - [Freelancing](#freelancing)
     - [Patents](#patents)
-    - [Networking](#networking)
     - [Marketing](#marketing)
-      - [Office Programs](#office-programs)
     - [Trends](#trends)
-    - [Creating Websites](#creating-websites)
     - [Meetings](#meetings)
   - [Jobs](#jobs)
     - [Remote Jobs](#remote-jobs)
+    - [Freelancing](#freelancing)
     - [Interview](#interview)
     - [Portfolio / CV / Resume](#portfolio--cv--resume)
     - [Careers](#careers)
   - [Startups](#startups)
-    - [Technology](#technology)
     - [Finding Ideas](#finding-ideas)
     - [Connectivity](#connectivity)
-    - [Productivity](#productivity)
     - [Design](#design)
       - [Colors](#colors)
       - [Fonts](#fonts)
@@ -163,6 +157,7 @@ Feel free to share and star
     - [Password Generation](#password-generation)
   - [Programming Languages](#programming-languages)
     - [Python](#python)
+    - [C++](#c)
     - [Coding Practice](#coding-practice)
       - [Competitive Programming](#competitive-programming)
   - [Linux](#linux)
@@ -261,9 +256,6 @@ Feel free to share and star
 - [Automa](https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca?ref=producthunt) - Chrome extension for automating your browser
 - <https://www.browse.ai/> - Extract, click-setup, and monitor data from any website
 - <https://www.tango.us/> - Create step-by-step documentation, how-to playbooks, and product guides with screenshots
-
-### Bookmarks
-
 - <https://bookmarkos.com/bookmark-manager-finder> - Filter every bookmark manager ever made
 
 ### Comparison
@@ -350,8 +342,6 @@ Feel free to share and star
 - <https://ninite.com/> - Install and Update All Your Programs at Once. No toolbars. No clicking next. Just pick your apps and go
 - <https://hidemyweb.wordpress.com/> - Hide, Blur and Highlight any webpage content
 - <https://app.readwok.com/lib> - Online text reader with a progressive viewing mode, which allows you to read paragraph by paragraph and edit as you read
-- <https://wikifox.ml/> - Clean and simplified version of the official Wikipedia
-- <https://scribe.rip/> - Alternative frontend to Medium
 - <https://www.azurespeed.com/Azure/Latency> - Many tools from Azure, Microsoft
 - <https://willrobotstakemyjob.com/> - See the estimated automation risk, growth, wages, polling, volume and many more features of your job
 - <https://signature-maker.net/> - Create handwritten digital signature
@@ -423,7 +413,7 @@ Feel free to share and star
 - <https://www.finedictionary.com/> - Shows everything about a word
 - <https://www.crownacademyenglish.com/articles/> - Simple, succinct, and clear explanations of some English language concepts
 - <https://www.askdifference.com/> - Short and clean differences of two similar subjects
-- <https://keydifferences.com/> - Website on differences and comparisons, that not only emphasizes on the distinction between two topics, but also provides a better understanding of each subject with the help of an enriched content
+- <https://keydifferences.com/> - Website on differences and comparisons
 - <https://www.differencebetween.info/> - Descriptive Analysis and Comparisons
 - <https://www.allacronyms.com/> - Community-driven Acronyms and Abbreviations Dictionary
 
@@ -439,7 +429,7 @@ Feel free to share and star
 - <https://countrycode.org/> - Guide to call anywhere in the world
 - <https://www.passportindex.org/> - Explore the world of passports
 - <https://www.countriesbeen.com/> - Phone app to list the countries you have been with many features
-- <https://www.couchsurfing.com/> - Global community of 14 million people in more than 200,000 cities who share their life, their world, their journey. Couchsurfing connects travelers with a global network of people willing to share in profound and meaningful ways, making travel a truly social experience
+- <https://www.couchsurfing.com/> - Global community of 14 million people in more than 200,000 cities who share their life, their world, their journey
 - <https://www.puffinmaps.com/> - All in one trip planner. No adds
 - <https://www.alltrails.com/> - Explore 300k trails w/ reviews & photos from 35m outdoor enthusiasts like you
 - <https://www.wanderprep.com/> - Advice on gear, apps, and gotchas to help busy people travel smarter (No more new articles)
@@ -608,7 +598,7 @@ Feel free to share and star
 #### Rhyme
 
 - <https://www.rhymezone.com/> - Find rhymes, synonyms, adjectives, and more
-- <https://rhymer.com/> - FREE Online Rhyming Dictionary
+- <https://rhymer.com/> - Free Online Rhyming Dictionary
 
 ### Mix Sounds
 
@@ -696,21 +686,11 @@ Feel free to share and star
 - <https://www.figr.app/> - Google Docs + Calculator = Personal finances
 - <https://app.livefortunately.com/> - Plan for a better financial future. Create a complete financial plan to make the most of your money
 
-### Freelancing
-
-- <https://www.fiverr.com/> - Find the perfect freelance services for your business
-- <https://www.upwork.com/> - Hire freelancers and get freelancers jobs online
-
 ### Patents
 
 - <https://worldwide.espacenet.com/> - Free access to over 130 million patent documents
-
-### Networking
-
 - <https://patents.google.com/> - Search and read the full text of patents from around the world
-- <https://alias.co/> - Stay up to date with the best of the bests
 - <https://patentscope.wipo.int/search/en/search.jsf> - Search 105 million patent documents including 4.3 million published international patent applications (PCT)
-- <https://littlesis.org/> - Free database of who-knows-who at the heights of business and government
 
 ### Marketing
 
@@ -724,21 +704,12 @@ Feel free to share and star
 - <https://www.apollo.io/> - Search, engage and convert over 250 million contacts at over 60 million companies with Apollo’s sales intelligence and engagement platform
 - <https://vocus.io/> - Personalize email campaigns, track and automate email followups, schedule appointments, sync with your CRM, and collaborate with your team
 
-#### Office Programs
-
-- <https://www.toptal.com/finance/financial-consultants/powerpoint-presentation-tips-and-hacks> - PowerPoint Presentations explained with GIFs
-
 ### Trends
 
 - <https://trends.google.com/trends/?geo=US>
 - <https://trends.google.com/trends/hottrends/visualize>
 - <https://www.statista.com/>
 - <https://books.google.com/ngrams> - Grapher showing how phrases have occurred in a corpus of books over the selected years
-
-### Creating Websites
-
-- <https://super.so/> ($) - Create websites with nothing but Notion. Custom domains, themes, password-protection, and more—no code required
-- <https://vsble.me/> (~$) - For creatives to effortlessly showcase their work with a website
 
 ### Meetings
 
@@ -750,12 +721,9 @@ Feel free to share and star
 - <https://www.ycombinator.com/jobs> - Find the best startup jobs, curated by Y Combinator
 - <https://www.coroflot.com/discover> - Job search specific to designers
 - <https://www.coolstartupjobs.com/> - Join a growing startup and give your stock options a fighting chance
-- <https://www.remotebase.com/> - Hire Top 1% Remote Developers Within 24 Hours
 - <https://anonfriendly.com/> - Find anon friendly jobs
 - <https://prompt-engineering-jobs.com> - Prompt Engineering Jobs
 - <https://www.keyvalues.com/> - Find engineering teams that share your values
-- <https://mentorcruise.com/> ($) - Online mentoring
-- <https://hireclub.com/> ($) - A career coach in your pocket. Find your dream job with the help of a certified career coach
 - <https://about.me/> (~$) - For freelancers and entrepreneurs to grow their audience and get more clients
 - <https://rejected.us/> - Read rejection stories and share yours
 
@@ -767,6 +735,7 @@ Feel free to share and star
 - <https://remoteleaf.com/>
 - <https://remoteleads.io/>
 - <https://remotebear.io/>
+- <https://remotebase.com/>
 - <https://justremote.co/>
 - <https://jsremotely.com/>
 - <https://jobspresso.co/>
@@ -782,6 +751,11 @@ Feel free to share and star
 - <https://workingnomads.co/>
 - <https://europeremotely.com/>
 - <https://virtualvocations.com/>
+
+### Freelancing
+
+- <https://www.fiverr.com/> - Find the perfect freelance services for your business
+- <https://www.upwork.com/> - Hire freelancers and get freelancers jobs online
 
 ### Interview
 
@@ -803,30 +777,27 @@ Feel free to share and star
 
 ### Careers
 
+- <https://roadmap.sh/> - Roadmaps of development areas
 - <https://www.wtfshouldidowithmylife.com/> - Learn about different occupations
 - [path-to-polymath.notion](https://path-to-polymathy.notion.site/path-to-polymathy/Path-To-Polymathy-d7586429b7ce4db1889fc539822b9670) - Arrangement of every discipline and field out there, and what specific topics make them up
 
 ## Startups
 
-- <https://theangelphilosopher.com/> - Compilation of Naval's wisdom, knowledge and thoughts
-- <https://www.failory.com/> - All-In-One Newsletter for Startup Founders and more
 - <https://growth.tlb.org/> - Startup growth calculator. Calculate how much funding your startup needs
+- <https://www.kapwing.com/museum-of-websites> - Gallery of how famous internet companies have changed over time
+- <https://ncase.me/> - Game Theory explanations with simple games
 - [docs.google.com/spreadsheets](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - 500+ Free Tools For Startups
 - <https://www.failory.com/google> - Learn from Google's 100+ failures to build profitable businesses and scale acquired companies
 - <https://harishgarg.gumroad.com/l/wiSvc?ref=producthunt> - Curated list of 100+ resources on GPT-3
 - [github-email-hunter](https://chrome.google.com/webstore/detail/github-email-hunter/ppcegaekdbgcgbapfdcjbhednhmgcjnk) - Find email addresses for Github users & repos with just one click
 - <https://www.feedough.com/startup-resources/> - Startup Resources with categories
-- <https://ncase.me/> - Game Theory explanations with simple games
+- <https://theangelphilosopher.com/> - Compilation of Naval's wisdom, knowledge and thoughts
 - <https://underglass.io/> - Analysis of the world's best digital products
 - [accelerators.xlsx](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fattachments.convertkitcdnn2.com%2F587796%2F16ab0442-1232-4a49-956c-acafd6df4189%2F2%2C500%2520Accelerators%2520Incubators.xlsx&wdOrigin=BROWSELINK) - 2,500 Accelerators Incubators
 - [the_perfect_pitch_deck](https://attachments.convertkitcdnn2.com/587796/1e723803-ab50-4a61-9b3a-f347aa436408/The%20Perfect%20Pitch%20Deck.pdf) - Lessons From Analyzing 350+ Startup Pitch Decks
 - [notion.founder](https://cerdeira.notion.site/b3b5f44d37cf4843b3fcd2f300354467?v=8f3458522f4542d8896ebb3720c14b2d) - 100+ resources for building a successful startup
 - <[excel.companies](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fattachments.convertkitcdnn2.com%2F587796%2F476863f4-bda0-4132-8bd0-d25728513cfd%2FThe%2520Complete%2520Unicorn%2520List.xlsx&wdOrigin=BROWSELINK)> - The Complete Unicorn List. 1,016 Unicorns (Private Companies Valued +$1B)
-
-### Technology
-
 - <https://oldcomputers.net/> - Museum of old and vintage computers. View 150 old computers
-- <https://www.kapwing.com/museum-of-websites> - Gallery of how famous internet companies have changed over time
 
 ### Finding Ideas
 
@@ -846,11 +817,8 @@ Feel free to share and star
 - <https://remotedesktop.google.com/> - Remotely connect with your home or work computer, or share your screen with others
 - <https://www.recwide.com/> - Screen and webcam recorder. Free, Online (No Download Required)
 - <https://kk.org/thetechnium/1000-true-fans/> - 1,000 True Fans
-
-### Productivity
-
-- <https://www.spreadsheet.com/>
-- <https://contentbot.ai/> ($) - AI Assistant for content creation
+- <https://alias.co/> - Stay up to date with the best of the bests
+- <https://littlesis.org/> - Free database of who-knows-who at the heights of business and government
 
 ### Design
 
@@ -1261,7 +1229,6 @@ Feel free to share and star
 
 ## Web Development
 
-- <https://roadmap.sh/> - Roadmaps of development areas
 - <https://coggle.it/diagram/Vz9LvW8byvN0I38x/t/web-development>
 - <https://novicedock.com/learn/computer-science/web-development>
 - <https://webdevhome.github.io/>
@@ -1429,7 +1396,6 @@ Feel free to share and star
 ## Privacy
 
 - <https://www.nothingprivate.ml/> - See why you are not anonymous by using private browsing mode or incognito mode (or you can directly read from [here](https://github.com/gautamkrishnar/nothing-private))
-- <https://www.privacytools.io/> - Q: How much privacy do you want? A: Yes
 - <https://securityplanner.consumerreports.org/> ($) - Cut down on data collection and prevent hackers from invading your laptop, tablet and even your phone. Answer a few simple questions to get customized recommendations to help you
 - <https://mywhisper.net/> - Text encryption tool, based on AES cryptography
 - <https://beencrypted.com/> - To become more encrypted
@@ -1563,8 +1529,11 @@ Feel free to share and star
 - <https://pyformat.info/> - Python Formats compared with old versions
 - <https://learnbyexample.github.io/py_resources/>
 - <https://datatofish.com/python-tutorials/> - Clear python tutorials (ML, databases, pandas, GUI, installations and upgrades, Matplotlib)
-
 - [notion/Programming-Course](https://www.notion.so/Programming-Course-4d4331de1a0c4ae894133cb1ca1e9315) - Self-study course for learning to build basic web applications in Django
+
+### C++
+
+- <https://www.learncpp.com/>
 
 ### Coding Practice
 
@@ -1807,6 +1776,6 @@ This github page maintains no affiliate relationship with the websites mentioned
 
 # LICENSE
 
-![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
