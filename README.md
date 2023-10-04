@@ -60,7 +60,6 @@ Feel free to share and star
   - [Media](#media)
     - [Twitter](#twitter)
     - [Reddit](#reddit)
-      - [Better Reddit Search](#better-reddit-search)
   - [Music / Audio](#music--audio)
     - [Find Music](#find-music)
     - [Free Music](#free-music)
@@ -526,14 +525,15 @@ Feel free to share and star
 
 ### Twitter
 
-- <https://murmel.social/top> - Latest thought-provoking stories from across the Twitterverse
 - <https://tweetdeck.twitter.com/> - Twitter dashboard application for management of Twitter accounts, tracking, and organizing
+- <https://twittervideodownloader.com> - Downloads any twitter video directly to your mobile or computer
 - <https://threadreaderapp.com/> - Helps you save as PDF, read, and share Twitter threads easily
-- <https://threadhunt.xyz/> - Hunted Quality Twitter Threads
 - <https://tweepsmap.com/> - AI Driven Twitter analytics and management
 - <https://shadowban.yuzurisa.com/> - Check whether a username is shadowbanned on Twitter
 - <https://twitternamegenerator.com/> - Free Online Tool to Generate Pretty Nicknames for Twitter
+- <https://threadhunt.xyz/> - Hunted Quality Twitter Threads
 - <https://smallworld.kiwi/signin> - Small World uses the location from your Twitter profile to find nearby friends
+- <https://murmel.social/top> - Latest thought-provoking stories from across the Twitterverse
 - <https://chirpty.com/> - Create your own Twitter interaction circle
 - <https://capturemytweet.in/> - Turn your tweets into wonderful images for free
 - <https://freecodetools.org/twitter-card-generator/> - Twitter Card Generator tool. Use this tool to attach rich content to Tweets completely free.
@@ -548,9 +548,6 @@ Feel free to share and star
 - <https://unreadit.com/> - Reddit-fueled Weekly Newsletters
 - <https://whatisthisthing.vercel.app/> - Posts and answers from r/whatisthisthing
 - <https://gummysearch.com/> - Explore pain points, content ideas, and what people are eager to pay for
-
-#### Better Reddit Search
-
 - <https://redditsearch.io/>
 - <https://betterredditsearch.web.app/>
 
@@ -1203,11 +1200,12 @@ Feel free to share and star
 
 #### Data Structures and Algorithms (DS&A)
 
+- <https://xlinux.nist.gov/dads/> - Dictionary of Algorithms and Data Structures
+- <https://visualgo.net/en> - Visualising data structures and algorithms through animation
 - <https://entcheva.github.io/> - Adventures In Coding & Algorithms
 - <https://blog.notdot.net/tag/damn-cool-algorithms>
-- <https://visualgo.net/en> - Visualising data structures and algorithms through animation
 - <https://www3.cs.stonybrook.edu/~algorith/video-lectures/> - Skiena's Algorithms Lectures
-- <https://thimbleby.gitlab.io/algorithm-wiki-site/> - This wiki is an experiment in making algorithms interactive on the web. The algorithms on this wiki are not just some clever animations but are built on a real interpreter, and the visualisations are based on the actual Javascript code running. The code is guaranteed to work
+- <https://thimbleby.gitlab.io/algorithm-wiki-site/> - Visual Algortihms
 - <https://sinon.org/algorithms/> - This page sums up some important results from computer science
 
 #### Big-O notation
@@ -1312,6 +1310,7 @@ Feel free to share and star
 ### Back-End
 
 - <https://www.runsidekick.com/> - Collect traces and generate logs on-demand without stopping & redeploying your applications
+- <https://instances.vantage.sh/> - Compare Amazon's instance type, pricing, and other pages.
 
 #### APIs
 
@@ -1778,4 +1777,4 @@ This github page maintains no affiliate relationship with the websites mentioned
 
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
