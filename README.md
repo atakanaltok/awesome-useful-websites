@@ -83,6 +83,7 @@ Feel free to share and star
     - [Portfolio / CV / Resume](#portfolio--cv--resume)
     - [Careers](#careers)
   - [Startups](#startups)
+    - [Failures](#failures)
     - [Finding Ideas](#finding-ideas)
     - [Connectivity](#connectivity)
     - [Design](#design)
@@ -194,7 +195,7 @@ Feel free to share and star
 
 - <https://typehere.co/> - Blank website where you can only type
 - <https://pixelpaper.io/> - Free-forever digital whiteboard with no registeration (Can be embedded into SaaS products)
-- <https://excalidraw.com/> - In this whiteboard, you can also sketch **hand-drawn** like diagrams
+- <https://excalidraw.com/> - In this whiteboard, you can also sketch hand-drawn like diagrams
 - <https://excalideck.com/> - App for authoring slide decks that look hand-drawn. Excalideck is based on the Excalidraw
 - <https://jamboard.google.com/> - White board from Google
 
@@ -260,12 +261,13 @@ Feel free to share and star
 ### Comparison
 
 - [docs.google.com/spreadsheets](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/edit#gid=0) - Detailed comparison and analysis of all social media messaging apps
-- <https://www.dxomark.com/category/smartphone-reviews/#tabs>
+- <https://www.dxomark.com/category/smartphone-reviews/> - Scientific tests and data on Smartphones, Sensors, Lenses, Speakers, Laptops.
 - <https://techspecs.io/vs/> - Compare phones
 - <https://techspecs.io/> Search engine that connects you with the consumer electronics products
 - <https://www.kimovil.com/en/> - Compare specifications and prices of smartphones and tablets
 - <https://www.diffchecker.com/># - Compare text, image, PDF, and many more to find the difference between two of these files
 - <https://dontkillmyapp.com/> - Android manufacturers listed below prefer battery life over proper functionality of your apps. See below on how you can fix it, or Read more
+- <https://www.codingfont.com/> - Gamified experience to compare and find the coding fonts you love
 
 ### File
 
@@ -320,6 +322,7 @@ Feel free to share and star
 - <https://clipdrop.co/> (~$) - Create stunning visuals in seconds (powered by AI)
 - <https://hey.reface.ai/> - Create face swap videos (mobile app that is powered by AI)
 - <https://photosonic.writesonic.com/> (~$) - AI that paints your dreams with pixels (another version of Dall-E)
+- <https://shottr.cc/> - Tiny and fast mac screenshot tool with annotations, scrolling screenshots and cloud upload capabilities
 
 ### Time
 
@@ -751,6 +754,7 @@ Feel free to share and star
 
 ### Freelancing
 
+- <https://www.remotestarterkit.com/> - The ultimate list of tools and processes for remote teams
 - <https://www.fiverr.com/> - Find the perfect freelance services for your business
 - <https://www.upwork.com/> - Hire freelancers and get freelancers jobs online
 
@@ -781,20 +785,27 @@ Feel free to share and star
 ## Startups
 
 - <https://growth.tlb.org/> - Startup growth calculator. Calculate how much funding your startup needs
+- <https://capbase.com/startup-equity-calculator/> - Startup equity calculator. Split equity based on different variables
 - <https://www.kapwing.com/museum-of-websites> - Gallery of how famous internet companies have changed over time
+- <https://hypercontext.com/goal-examples> - A curated list of goal examples for every role in tech
 - <https://ncase.me/> - Game Theory explanations with simple games
-- [docs.google.com/spreadsheets](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - 500+ Free Tools For Startups
-- <https://www.failory.com/google> - Learn from Google's 100+ failures to build profitable businesses and scale acquired companies
-- <https://harishgarg.gumroad.com/l/wiSvc?ref=producthunt> - Curated list of 100+ resources on GPT-3
-- [github-email-hunter](https://chrome.google.com/webstore/detail/github-email-hunter/ppcegaekdbgcgbapfdcjbhednhmgcjnk) - Find email addresses for Github users & repos with just one click
 - <https://www.feedough.com/startup-resources/> - Startup Resources with categories
+- [docs.google.com/spreadsheets](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - 500+ Free Tools For Startups
+- <https://www.founderresources.io/> - Free 500+ curated resources, templates & tools for startups
+- <https://harishgarg.gumroad.com/l/wiSvc?ref=producthunt> - Curated list of 100+ resources on GPT-3
+- [notion.founder](https://cerdeira.notion.site/b3b5f44d37cf4843b3fcd2f300354467?v=8f3458522f4542d8896ebb3720c14b2d) - 100+ resources for building a successful startup
+- [accelerators.xlsx](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fattachments.convertkitcdnn2.com%2F587796%2F16ab0442-1232-4a49-956c-acafd6df4189%2F2%2C500%2520Accelerators%2520Incubators.xlsx&wdOrigin=BROWSELINK) - 2,500 Accelerators Incubators
+- <[excel.companies](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fattachments.convertkitcdnn2.com%2F587796%2F476863f4-bda0-4132-8bd0-d25728513cfd%2FThe%2520Complete%2520Unicorn%2520List.xlsx&wdOrigin=BROWSELINK)> - The Complete Unicorn List. 1,016 Unicorns (Private Companies Valued +$1B)
+- [github-email-hunter](https://chrome.google.com/webstore/detail/github-email-hunter/ppcegaekdbgcgbapfdcjbhednhmgcjnk) - Find email addresses for Github users & repos with just one click
 - <https://theangelphilosopher.com/> - Compilation of Naval's wisdom, knowledge and thoughts
 - <https://underglass.io/> - Analysis of the world's best digital products
-- [accelerators.xlsx](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fattachments.convertkitcdnn2.com%2F587796%2F16ab0442-1232-4a49-956c-acafd6df4189%2F2%2C500%2520Accelerators%2520Incubators.xlsx&wdOrigin=BROWSELINK) - 2,500 Accelerators Incubators
 - [the_perfect_pitch_deck](https://attachments.convertkitcdnn2.com/587796/1e723803-ab50-4a61-9b3a-f347aa436408/The%20Perfect%20Pitch%20Deck.pdf) - Lessons From Analyzing 350+ Startup Pitch Decks
-- [notion.founder](https://cerdeira.notion.site/b3b5f44d37cf4843b3fcd2f300354467?v=8f3458522f4542d8896ebb3720c14b2d) - 100+ resources for building a successful startup
-- <[excel.companies](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fattachments.convertkitcdnn2.com%2F587796%2F476863f4-bda0-4132-8bd0-d25728513cfd%2FThe%2520Complete%2520Unicorn%2520List.xlsx&wdOrigin=BROWSELINK)> - The Complete Unicorn List. 1,016 Unicorns (Private Companies Valued +$1B)
 - <https://oldcomputers.net/> - Museum of old and vintage computers. View 150 old computers
+
+### Failures
+
+- <https://www.failory.com/google/> - Learn from Google's +100 failures to build profitable businesses and scale acquired companies
+- <https://killedbygoogle.com/> - Projects that Google launched and ended
 
 ### Finding Ideas
 
@@ -870,6 +881,7 @@ Feel free to share and star
 - [https://www.pixelbazaar.com](https://www.pixelbazaar.com/?utm_campaign=Black+Friday&utm_medium=Social&utm_source=Product+Hunt&ref=producthunt) - Opinionated icons for brands with a character
 - <https://www.iconfinder.com/> (~$) - Icons, Illustrations, 3D illustrations, Designers, Free icons
 - <https://iconz.design/> (~$) - Premium 3D library of 223 icons
+- <https://hugeicons.pro/> (~$) - 25,000+ icons in 5 unique styles, organized across 57 popular categories
 
 #### Tools for Social Media
 
@@ -1021,6 +1033,8 @@ Feel free to share and star
 - <https://www.samuel-beckett.net/> - The Samuel Beckett On-Line Resources and Links Pages ([Waiting for Godot](https://www.samuel-beckett.net/Waiting_for_Godot_Part1.html))
 - <https://philipdick.com/> - This website is devoted to the life and work of the late, great Science Fiction writer Philip K. Dick (1928-82)
 - <https://turingarchive.kings.cam.ac.uk/> - This digital archive contains many of Turing's letters, transcriptions of talks, photographs and unpublished papers, as well as memoirs and obituaries written about him. It contains images of the original documents that are held in the Turing collection at King's College, Cambridge.
+- <https://sherlock-holm.es/> - Sir. Arthur Conan Doyle's Sherlock Holmes series (Public Domain, Copyright-free)
+- <https://www.feynmanlectures.caltech.edu/> - Richard Feynman's Lectures online
 
 ### Data
 
@@ -1047,7 +1061,7 @@ Feel free to share and star
 ### Diagrams
 
 - <https://creately.com/> - Data-connected Visual Workspace to brainstorm, plan, execute and capture knowledge
-- <https://www.diagrams.net/> - Security-first diagramming for teams (For [web](https://app.diagrams.net/) usage)
+- <https://www.drawio.com/> - Open source, security-first technology stack for building diagramming applications (For [web](https://app.diagrams.net/?src=about) usage)
 - <https://orgpad.com/?ref=producthunt> (~$) - Interactive online mindmap
 - <https://www.lucidchart.com/pages/> (~$) - Diagramming and flowchart app that brings teams together to make better decisions and build the future
 - <https://learn-anything.xyz/> - Platform for organizing world's knowledge, explore connections and curate learning paths
@@ -1197,6 +1211,7 @@ Feel free to share and star
 - <https://functionalcs.github.io/curriculum/>
 - <https://www.menimagerie.com/> - Explore all the tantalising concepts in theoretical computer science - from our number system, via Cantor infinities, to Godel's theorems and automat
 - <https://www.compscilib.com/> - Helps you master concepts in Computer Science and Math courses with automated step-by-step solutions and practice problems.
+- <https://www.computerhope.com/jargon.htm> -
 
 #### Data Structures and Algorithms (DS&A)
 
@@ -1224,6 +1239,8 @@ Feel free to share and star
 - <https://www.bardeen.ai/> - Automate manual work and tasks with AI without any code in minutes
 - <https://speechify.com/> - Power through docs, articles, PDFs, email — anything you read — by listening with our leading AI text to speech reader
 - <https://www.humata.ai/> - Upload any PDF or document and get answers from it in seconds
+- <https://quickref.me/chatgpt> - ChatGPT cheatsheet
+- <https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference> - Styles and keywords for AI Image Generation
 
 ## Web Development
 
@@ -1395,6 +1412,7 @@ Feel free to share and star
 ## Privacy
 
 - <https://www.nothingprivate.ml/> - See why you are not anonymous by using private browsing mode or incognito mode (or you can directly read from [here](https://github.com/gautamkrishnar/nothing-private))
+- <https://trustpage.com/directory> - Find and compare security policies for thousands of companies. Choose the right software and services for your business based on security policies sourced from around the web
 - <https://securityplanner.consumerreports.org/> ($) - Cut down on data collection and prevent hackers from invading your laptop, tablet and even your phone. Answer a few simple questions to get customized recommendations to help you
 - <https://mywhisper.net/> - Text encryption tool, based on AES cryptography
 - <https://beencrypted.com/> - To become more encrypted
@@ -1611,6 +1629,7 @@ Feel free to share and star
 
 - <https://codeclippet.com/> - Allows you to stop storing code snippets within text files and start sharing them with others, around a community focused environment
 - <https://kod.so/> - Create visual snippets, you can also download and share
+- <https://www.codepng.app/> - Create pictures from your source code
 - <https://codemyui.com/> - Web Design & UI Inspiration with Code Snippets
 - <https://www.30secondsofcode.org/list/p/1> - Curated collection of short code snippets for all your development needs
 - <https://www.w3schools.com/howto/default.asp> - Code snippets for HTML, CSS and JavaScript
@@ -1765,13 +1784,13 @@ Feel free to share and star
 
 # Contributing
 
-- If you find out any broken link or any website that has been outdated, please rise an issue in [awesome-useful-websites/issues](https://github.com/atakanaltok/awesome-useful-websites/issues).
+- If you find out any broken link or any website that has been outdated, please [rise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues).
 
-- If you want to add a new category or website, create a pull request in [awesome-useful-websites/pulls](https://github.com/atakanaltok/awesome-useful-websites/pulls) (To avoiding duplications, seach whether your website is already included).
+- If you want to add a new category or website, create a [pull request](https://github.com/atakanaltok/awesome-useful-websites/pulls) (To avoiding duplications, seach whether your website is already included).
 
 # DISCLAIMER
 
-This github page maintains no affiliate relationship with the websites mentioned, is not responsible for their contents and accepts no liability for any damage that can be caused if you visit them. The descriptions of the websites are not guaranteed to be accurate or up to date. If you are a site owner and believe that your site is not described accurately, please [rise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues)
+This github page maintains no affiliate relationship with the websites mentioned, is not responsible for their contents, and accepts no liability for any damage that can be caused if you visit them. The descriptions of the websites are not guaranteed to be accurate or up to date. If you are a site owner and believe that your site is not described accurately, please [rise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues)
 
 # LICENSE
 
