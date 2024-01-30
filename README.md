@@ -162,9 +162,8 @@ Some websites are tagged with the symbols listed below for convenience.
   - [Programming Languages](#programming-languages)
     - [Python](#python)
     - [C++](#c)
-    - [Coding Practice](#coding-practice)
+    - [Coding Practice / Competitive Programming](#coding-practice--competitive-programming)
       - [Hackathons](#hackathons)
-      - [Competitive Programming](#competitive-programming)
   - [Linux](#linux)
   - [Git](#git)
     - [GitHub](#github)
@@ -901,20 +900,20 @@ Some websites are tagged with the symbols listed below for convenience.
 
 #### Stock Images
 
-- <https://thestocks.im/>
-- <https://www.pexels.com/>
-- <https://unsplash.com/>
-- <https://www.freeimages.com/>
-- <https://pixabay.com/> - high quality stock images, videos and music shared by our talented community
-- <https://www.pngguru.in/> - Free PNG Images, Background, And Template
-- <https://www.pond5.com/free> - Free Stock Videos, Photos, and Music
-- <https://www.critter.pics/> - Critter pictures
-- <https://stockup.sitebuilderreport.com/> - Stock Up indexes 35,356 photos from 31 different free stock photo websites
-- <https://www.shutterstock.com/>
-- <https://zoom.nl/> - Largest photography community in the Netherlands
-- <https://depositphotos.com/> - 232 million files: royalty-free images, videos, vectors, illustrations, and music
-- <https://skuawk.com/> - Public domain photos
-- <https://all-free-download.com/> - Graphics art and give away for free on personal or commercial projects
+- [The Stocks](https://thestocks.im/) - Aggregator providing access to free stock photos, videos, and music from various sources.
+- [Pexels](https://www.pexels.com/) - Platform offering high-quality stock photos and videos available for free download and use.
+- [Unsplash](https://unsplash.com/) - Website providing a large collection of high-resolution, royalty-free images for creative projects.
+- [FreeImages](https://www.freeimages.com/) - Platform offering a diverse collection of free stock photos for personal or commercial use.
+- [Pixabay](https://pixabay.com/) - Community-driven platform with high-quality stock images, videos, and music shared by contributors.
+- [PNG Guru](https://www.pngguru.in/) - Source for free PNG images, backgrounds, and templates.
+- [Pond5](https://www.pond5.com/free) - Platform offering free stock videos, photos, and music resources.
+- [Critter Pics](https://www.critter.pics/) - Collection of critter pictures for creative projects.
+- [Stock Up](https://stockup.sitebuilderreport.com/) - Indexing 35,356 photos from 31 different free stock photo websites for easy access.
+- [Shutterstock](https://www.shutterstock.com/) - Platform providing a vast library of royalty-free images, videos, vectors, illustrations, and music.
+- [Zoom.nl](https://zoom.nl/) - Largest photography community in the Netherlands, offering resources and a platform for photography enthusiasts.
+- [Depositphotos](https://depositphotos.com/) - Platform with 232 million files, including royalty-free images, videos, vectors, illustrations, and music.
+- [Skuawk](https://skuawk.com/) - Source of public domain photos for various creative projects.
+- [All-Free-Download](https://all-free-download.com/) - Platform offering graphics art available for free use in personal or commercial projects.
 
 #### Wallpapers
 
@@ -989,29 +988,29 @@ Some websites are tagged with the symbols listed below for convenience.
 
 ### MOOC (Massive Open Online Courses)
 
-- <https://en.wikiversity.org/wiki/Wikiversity:Main_Page>
-- <https://ocw.mit.edu/>
-- <https://www.coursera.org/>
-- <https://www.udemy.com/>
-- <https://www.openculture.com/>
-- <https://www.edx.org/>
-- <https://www.udacity.com/>
-- <https://online.stanford.edu/>
-- <https://www.open.edu/openlearn/>
-- <https://oli.cmu.edu/>
-- <https://www.mitx.org/>
-- <https://oyc.yale.edu/>
-- <https://alison.com/>
-- <https://academicearth.org/>
-- <https://nptel.ac.in/>
-- <https://www.uopeople.edu/>
-- <https://www.canvas.net/>
-- <https://www.newton.ac.uk/>
-- <https://www.saylor.org/>
-- <https://cnx.org/>
-- <https://doaj.org/>
-- <https://www.learningontheinternet.com/?ref=producthunt>
-- <https://www.classcentral.com/>
+- [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page) - Wikimedia Foundation project providing free educational content and resources.
+- [MIT OpenCourseWare](https://ocw.mit.edu/) - MIT's initiative offering free and open access to a wide range of course materials.
+- [Coursera](https://www.coursera.org/) - Online learning platform providing courses, certificates, and degree programs from universities and organizations worldwide.
+- [Udemy](https://www.udemy.com/) - Platform offering a vast array of online courses on various subjects, taught by experts.
+- [Open Culture](https://www.openculture.com/) - Website providing free cultural and educational media, including courses, textbooks, and audiobooks.
+- [edX](https://www.edx.org/) - Online learning platform offering courses, certificates, and degrees from universities and institutions around the world.
+- [Udacity](https://www.udacity.com/) - Platform specializing in tech-related courses and nanodegree programs designed in collaboration with industry leaders.
+- [Stanford Online](https://online.stanford.edu/) - Stanford University's platform for online learning, offering a variety of courses and programs.
+- [OpenLearn](https://www.open.edu/openlearn/) - The Open University's initiative providing free access to course materials and educational resources.
+- [Open Learning Initiative (OLI)](https://oli.cmu.edu/) - Carnegie Mellon University's platform offering openly available courses and resources.
+- [MITx](https://www.mitx.org/) - MIT's platform providing online courses and programs with a focus on cutting-edge research.
+- [Open Yale Courses](https://oyc.yale.edu/) - Yale University's initiative providing free access to introductory courses taught by distinguished faculty.
+- [Alison](https://alison.com/) - Platform offering free online courses and diplomas across a range of subjects.
+- [Academic Earth](https://academicearth.org/) - Website aggregating online courses from top universities worldwide.
+- [NPTEL](https://nptel.ac.in/) - National Programme on Technology Enhanced Learning, providing online courses in engineering and science.
+- [University of the People](https://www.uopeople.edu/) - Online university offering tuition-free, accredited degree programs.
+- [Canvas Network](https://www.canvas.net/) - Platform offering online courses and programs from various institutions using the Canvas learning management system.
+- [Isaac Newton Institute for Mathematical Sciences](https://www.newton.ac.uk/) - Institute's website providing access to mathematical science resources and programs.
+- [Saylor Academy](https://www.saylor.org/) - Nonprofit initiative offering free, self-paced online courses.
+- [Connexions](https://cnx.org/) - Platform providing open educational resources and textbooks in various subject areas.
+- [Directory of Open Access Journals (DOAJ)](https://doaj.org/) - Online directory providing access to high-quality, open-access scientific and scholarly journals.
+- [Learning on the Internet](https://www.learningontheinternet.com/?ref=producthunt) - Platform featuring curated educational content and resources from various sources.
+- [Class Central](https://www.classcentral.com/) - Search engine and reviews platform for online courses, aggregating courses from various providers.
 
 ## Science
 
@@ -1166,19 +1165,19 @@ Some websites are tagged with the symbols listed below for convenience.
 
 ### Mechanical Engineering
 
-- <https://507movements.com/toc.html> - Animated Mechanical Movements
-- <https://www.madehow.com/> - Explains and details the manufacturing process of a wide variety of products
-- <https://temple.manifoldapp.org/projects/structural-analysis> - Comprehensive Structural Analysis Book
-- <https://calcresource.com/resources.html> - Regularly updated list of resources on mechanics and statics
-- <https://www.engineersedge.com/> - Articles and resources on structural and mechanical engineering topics
-- <https://www.engineeringtoolbox.com/> - Everything (really)
-- <https://structx.com/> - Structural engineering resources
-- <https://www.amesweb.info/> - Calculators and articles
-- <https://www.roymech.co.uk/> - Reference site with in-depth articles on topics
-- <https://sections.arcelormittal.com/design_aid/design_software/EN> - Free design software for steel structures by Arcelor-Mittal
-- <https://www.bu.edu/moss/> - Cources and resources to understand Slender structures
-- <https://www.howacarworks.com/> - Complete & free guide to how cars work
-- <https://www.homestyler.com/> - Easy and time-saving online interior design tool for both professionals and amateurs
+- [507 Movements](https://507movements.com/toc.html) - Website featuring animated mechanical movements, providing a visual understanding of various mechanical systems.
+- [MadeHow](https://www.madehow.com/) - Resource explaining and detailing the manufacturing processes of a wide variety of products.
+- [Comprehensive Structural Analysis Book](https://temple.manifoldapp.org/projects/structural-analysis) - Online resource offering a comprehensive book on structural analysis.
+- [CalcResource](https://calcresource.com/resources.html) - Regularly updated list of resources focused on mechanics and statics, aiding in learning and understanding these subjects.
+- [Engineers Edge](https://www.engineersedge.com/) - Platform providing articles and resources on structural and mechanical engineering topics.
+- [Engineering Toolbox](https://www.engineeringtoolbox.com/) - Comprehensive resource covering a wide range of engineering topics.
+- [StructX](https://structx.com/) - Website offering structural engineering resources for professionals and students.
+- [Amesweb](https://www.amesweb.info/) - Platform with calculators and articles covering various engineering topics.
+- [RoyMech](https://www.roymech.co.uk/) - Reference site with in-depth articles on structural and mechanical engineering subjects.
+- [Arcelor-Mittal Design Software](https://sections.arcelormittal.com/design_aid/design_software/EN) - Free design software for steel structures provided by Arcelor-Mittal.
+- [BU Moss](https://www.bu.edu/moss/) - Courses and resources focused on understanding slender structures.
+- [How a Car Works](https://www.howacarworks.com/) - Complete and free guide explaining how cars work.
+- [Homestyler](https://www.homestyler.com/) - Easy and time-saving online interior design tool catering to both professionals and amateurs.
 
 #### Materials / Nanotechnology
 
@@ -1542,24 +1541,24 @@ Some websites are tagged with the symbols listed below for convenience.
 
 ### Python
 
-- <https://docs.python.org/3/> - Python's official documetation
-- <https://wiki.python.org/moin/FrontPage> - Python Wiki
-- <https://awesome-python.com/> - Curated list of awesome Python frameworks, libraries, software and resources
-- <https://projectpython.net/>
-- <https://www.learnpython.org/>
-- <https://cscircles.cemc.uwaterloo.ca/>
-- <https://pythonbasics.org/>
-- <https://www.majyori.com/>
-- <https://pyformat.info/> - Python Formats compared with old versions
-- <https://learnbyexample.github.io/py_resources/>
-- <https://datatofish.com/python-tutorials/> - Clear python tutorials (ML, databases, pandas, GUI, installations and upgrades, Matplotlib)
-- [notion/Programming-Course](https://www.notion.so/Programming-Course-4d4331de1a0c4ae894133cb1ca1e9315) - Self-study course for learning to build basic web applications in Django
+- [Python Documentation](https://docs.python.org/3/) - Official documentation for the Python programming language.
+- [Python Wiki](https://wiki.python.org/moin/FrontPage) - Collaborative platform providing information and resources related to Python.
+- [Awesome Python](https://awesome-python.com/) - Curated list of awesome Python frameworks, libraries, software, and resources.
+- [Project Python](https://projectpython.net/) - Platform offering Python tutorials and resources for learning and development.
+- [Learn Python](https://www.learnpython.org/) - Interactive platform providing tutorials and exercises to learn Python programming.
+- [CSCircles](https://cscircles.cemc.uwaterloo.ca/) - Online platform offering interactive Python exercises and resources, developed by the University of Waterloo.
+- [PythonBasics](https://pythonbasics.org/) - Website providing resources and tutorials for learning Python basics.
+- [Majyori](https://www.majyori.com/) - Platform offering Python tutorials and resources for learners of all levels.
+- [PyFormat](https://pyformat.info/) - Website comparing Python formatting styles with examples from different versions.
+- [Learn by Example - Python Resources](https://learnbyexample.github.io/py_resources/) - Collection of Python resources and tutorials for various topics.
+- [Data to Fish](https://datatofish.com/python-tutorials/) - Platform offering clear Python tutorials covering topics such as machine learning, databases, pandas, GUI, and more.
+- [Notion Programming Course](https://www.notion.so/Programming-Course-4d4331de1a0c4ae894133cb1ca1e9315) - Self-study course for learning to build basic web applications in Django, hosted on Notion.
 
 ### C++
 
 - <https://www.learncpp.com/>
 
-### Coding Practice
+### Coding Practice / Competitive Programming
 
 - [LeetCode](https://leetcode.com/) - Platform for practicing coding problems with a focus on algorithmic challenges.
 - [NeetCode](https://neetcode.io/) - Coding practice website designed to enhance your skills through real-world projects and collaborative coding.
@@ -1590,23 +1589,13 @@ Some websites are tagged with the symbols listed below for convenience.
 - [CodeChef](https://www.codechef.com/) - Competitive programming website with regular contests and a large problem archive, catering to a global coding community.
 - [Codeforces](https://codeforces.com/) - Online competitive programming platform offering contests and a vast problem set, attracting a diverse international user base.
 - [USACO](http://usaco.org/index.php?page=contests) - USA Computing Olympiad platform, providing programming contests to encourage and identify talented young programmers in the United States.
+- [USACO Guide](https://usaco.guide/) - Comprehensive, free resource collection guiding users from Bronze to Platinum levels and beyond in competitive programming.
+- [JoinCPI](https://joincpi.org/) - Platform dedicated to promoting competitive programming among students through resources, classes, outreach, and contests.
+- [CP-Algorithms](https://cp-algorithms.com/) - Website providing a detailed guide to algorithms specifically tailored for competitive programming, offering in-depth explanations and examples.
 
 #### Hackathons
 
 - <https://devpost.com/hackathons> - Find online and in-person hackathons
-
-#### Competitive Programming
-
-- <https://codeforces.com/>
-- <http://usaco.org/index.php?page=contests>
-- <https://www.codechef.com/>
-- <https://atcoder.jp/>
-- <https://a2oj.netlify.app/ladders>
-- <https://usaco.guide/> - A free collection of curated, high-quality resources
-  to take you from Bronze to Platinum and beyond
-- <https://joincpi.org/> - We promote competitive programming among students through resources, classes, outreach, and contests
-- [Problem Solving Sheet](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=84654839)
-- <https://cp-algorithms.com/> - Algorithms for Competitive Programming
 
 ## Linux
 
@@ -1755,15 +1744,15 @@ Some websites are tagged with the symbols listed below for convenience.
 
 ## Keyboard
 
-- <https://mechanicalkeyboards.com/index.php> - Largest dedicated catalog of mechanical keyboards in the world while providing industry leading ship speeds and after-sale support for our customers
-- <https://www.vimified.com/> - Learn and practice Vim (a free and open-source, screen-based text editor program)
-- <https://www.keybr.com/>
-- <https://10fastfingers.com/typing-test/english>
-- <https://www.pairtype.com/>
-- <https://www.typingclub.com/>
-- <https://www.typing.com/>
-- <https://keycombiner.com/>
-- <https://www.yip-yip.com/>
+- [MechanicalKeyboards](https://mechanicalkeyboards.com/index.php) - Largest dedicated catalog of mechanical keyboards worldwide, offering fast shipping and after-sale support.
+- [Vimified](https://www.vimified.com/) - Platform for learning and practicing Vim, a free and open-source, screen-based text editor program.
+- [Keybr](https://www.keybr.com/) - Website offering a platform for improving touch typing skills with customizable lessons.
+- [10FastFingers](https://10fastfingers.com/typing-test/english) - Typing test platform to measure typing speed and accuracy in English.
+- [PairType](https://www.pairtype.com/) - Online tool for practicing touch typing with a partner in real-time.
+- [TypingClub](https://www.typingclub.com/) - Platform providing interactive typing lessons and games to improve typing skills.
+- [Typing.com](https://www.typing.com/) - Online resource offering typing lessons, games, and tests for learners of all levels.
+- [KeyCombiner](https://keycombiner.com/) - Platform for learning and practicing keyboard shortcuts and key combinations.
+- [Yip-Yip](https://www.yip-yip.com/) - Online tool providing keyboard shortcuts for various applications and programs.
 
 ### Keyboard Shortcuts
 
@@ -1791,16 +1780,16 @@ Some websites are tagged with the symbols listed below for convenience.
 
 ## Other Websites of Websites
 
-- <https://stumbled.to/>
-- <https://5000best.com/websites/>
-- <https://neal.fun/>
-- <https://tennessine.co.uk/> - Collection of political, mathematical and fun projects for the web
-- <https://blakeir.com/blog/smart-youtube> - List of some YouTube pages
-- [awesomeopensource](https://awesomeopensource.com/project/jivoi/awesome-osint#-pastebins)
-- <https://www.madewithbubble.xyz/> - Discover apps and websites made with bubble
-- <https://novicedock.com/>
-- <https://hackr.io/> - Find the Programming Courses & Tutorials
-- <https://limnology.co/en> - Curation of educational channels of YouTube in 20 different langauges. Select by topic and find out all the channels and videos on that topic. You can also find similar channels that you know of
+- [Stumbled.to](https://stumbled.to/) - Platform for discovering and sharing interesting websites and content.
+- [5000Best](https://5000best.com/websites/) - Curated collection of the 5000 best websites across various categories.
+- [Neal.fun](https://neal.fun/) - Website featuring entertaining and interactive projects.
+- [Tennessine](https://tennessine.co.uk/) - Collection of political, mathematical, and fun projects for the web.
+- [Blakeir](https://blakeir.com/blog/smart-youtube) - Blog post listing some YouTube pages with smart and insightful content.
+- [AwesomeOSINT on GitHub](https://awesomeopensource.com/project/jivoi/awesome-osint#-pastebins) - GitHub repository containing a curated list of open-source intelligence tools and resources.
+- [MadeWithBubble](https://www.madewithbubble.xyz/) - Platform to discover apps and websites created using the Bubble development platform.
+- [NoviceDock](https://novicedock.com/) - Platform offering curated resources for learning programming and related topics.
+- [Hackr.io](https://hackr.io/) - Platform to find programming courses and tutorials recommended by the programming community.
+- [Limnology](https://limnology.co/en) - Curation of educational YouTube channels in 20 different languages, categorized by topic, with the option to find similar channels.
 
 <br>
 
