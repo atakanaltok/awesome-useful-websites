@@ -2,23 +2,27 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Hand-curated list of awesome useful websites
+Explore the internet's hidden gems with this list of awesome useful websites!
 
 Most of these websites are gathered from:
 
-- <https://www.producthunt.com/>
-- <https://www.reddit.com/r/InternetIsBeautiful/>
-- <https://news.ycombinator.com/>
+- [producthunt.com](https://www.producthunt.com/)
+- [reddit.com/r/InternetIsBeautiful](https://www.reddit.com/r/InternetIsBeautiful/)
+- [news.ycombinator.com](https://news.ycombinator.com/)
 
-Feel free to share and star
+Feel free to share this list, star it, and contribute your own awesome finds.
 
 ## Lexicon
+
+Some websites are tagged with the symbols listed below for convenience.
 
 | Symbol | Meaning                                                                       |
 | :----: | ----------------------------------------------------------------------------- |
 |   $    | Payment Required (There are no free options)                                  |
 |   ~$   | Freemium (Offers a free version but requires payment for additional features) |
 |   @    | Student Friendly (Offers discounts or a free version for students)            |
+
+<br>
 
 # Contents
 
@@ -159,6 +163,7 @@ Feel free to share and star
     - [Python](#python)
     - [C++](#c)
     - [Coding Practice](#coding-practice)
+      - [Hackathons](#hackathons)
       - [Competitive Programming](#competitive-programming)
   - [Linux](#linux)
   - [Git](#git)
@@ -180,14 +185,16 @@ Feel free to share and star
   - [How To Ask A Good Question](#how-to-ask-a-good-question)
     - [XY Problem](#xy-problem)
   - [Other Websites of Websites](#other-websites-of-websites)
-- [Contributing](#contributing)
 - [DISCLAIMER](#disclaimer)
+- [Contributing](#contributing)
 - [LICENSE](#license)
+
+<br>
 
 ## Tools
 
 - <https://5000best.com/tools/>
-- <https://10015.io/> - Free all-in-one toolbox (image, text, coding, CSS, color, social media, miscellaneous)
+- <https://10015.io/> - Free all-in-one toolbox (image, text, coding, CSS, color, social media, miscellaneous).
 - <https://untools.co/> - Collection of thinking tools and frameworks
 - <https://timetravel.mementoweb.org/> - Find Mementos in Internet Archive, Archive-It, British Library, archive.today, GitHub and many more
 
@@ -1554,27 +1561,39 @@ Feel free to share and star
 
 ### Coding Practice
 
-- <https://leetcode.com/>
-- <https://www.hackerrank.com/dashboard>
-- <https://www.codewars.com/>
-- <https://projecteuler.net/about>
+- [LeetCode](https://leetcode.com/) - Platform for practicing coding problems with a focus on algorithmic challenges.
+- [NeetCode](https://neetcode.io/) - Coding practice website designed to enhance your skills through real-world projects and collaborative coding.
+- [HackerRank](https://www.hackerrank.com/dashboard) - Coding platform offering challenges in various domains, from algorithms to artificial intelligence.
+- [CodeWars](https://www.codewars.com/) - Community-driven platform providing coding challenges with a focus on improving through peer-reviewed solutions.
+- [Project Euler](https://projecteuler.net/about) - Mathematics-oriented coding platform, featuring challenging problems to encourage problem-solving through programming.
+- [Kaggle](https://www.kaggle.com/) - Data science platform that hosts competitions, datasets, and notebooks, fostering collaboration and innovation in the field.
+- [Replit](https://replit.com/~) - Online coding environment facilitating collaborative coding, with features like live sharing and a wide range of supported languages.
 - <https://adventofcode.com/> - Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like
+- <https://www.algoleague.com/> - Competitive programming platform
 - <https://www.interviewbit.com/coding-interview-questions/>
 - <https://clist.by/> - List of competitions from various programming websites
-- <https://javascriptquiz.com/>
-- <https://www.dailycodingproblem.com/>
-- <https://www.reddit.com/r/dailyprogrammer/>
 - <https://cssbattle.dev/> - Use your CSS skills to replicate targets with smallest possible code
 - <https://www.codeply.com/> - Free online editor that includes dozens of frameworks, starter templates, and over 50,000 code snippets
-- <https://coderbyte.com/>
-- <https://www.codingame.com/start>
 - <https://www.urionlinejudge.com.br/judge/en/login> - Train algorithms and programming challenges and become the expert you always dreamed to be (Previously known as URI Online Judge)
-- <[thehuxley](https://www.thehuxley.com/problems?page=1&problemType=ALGORITHM)>
 - <https://rosalind.info/problems/locations/> - Rosalind is a platform for learning bioinformatics and programming through problem solving
 - <https://open.kattis.com/> - Find hundreds of programming problems to solve
 - <https://exercism.org/tracks> - Develop fluency in 67 programming languages with our unique blend of learning, practice and mentoring, for free
-- <https://codility.com/programmers/challenges>
-- <https://github.com/karan/Projects-Solutions> - Learn coding by creating projects
+- [Codility](https://codility.com/programmers/challenges) - Platform offering coding challenges to assess and improve algorithmic and problem-solving skills.
+- [Projects-Solutions on GitHub](https://github.com/karan/Projects-Solutions) - GitHub repository providing project-based coding challenges for learning programming through practical applications.
+- [JavaScript Quiz](https://javascriptquiz.com/) - Website offering quizzes focused on testing and enhancing knowledge of JavaScript programming language.
+- [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) - Subreddit on Reddit featuring daily programming challenges and discussions for coding enthusiasts.
+- [Daily Coding Problem](https://www.dailycodingproblem.com/) - Service that sends daily coding challenges to subscribers to improve coding and problem-solving skills.
+- [Coderbyte](https://coderbyte.com/) - Platform with coding challenges and interview preparation resources to enhance programming skills.
+- [CodinGame](https://www.codingame.com/start) - Online platform gamifying coding challenges, making learning and practicing programming more engaging.
+- [A2OJ](https://a2oj.netlify.app/) - Competitive programming resource providing a structured ladder system to improve problem-solving skills, categorized by difficulty levels and topics.
+- [AtCoder](https://atcoder.jp/) - Japanese competitive programming platform hosting contests and exercises to enhance algorithmic skills.
+- [CodeChef](https://www.codechef.com/) - Competitive programming website with regular contests and a large problem archive, catering to a global coding community.
+- [Codeforces](https://codeforces.com/) - Online competitive programming platform offering contests and a vast problem set, attracting a diverse international user base.
+- [USACO](http://usaco.org/index.php?page=contests) - USA Computing Olympiad platform, providing programming contests to encourage and identify talented young programmers in the United States.
+
+#### Hackathons
+
+- <https://devpost.com/hackathons> - Find online and in-person hackathons
 
 #### Competitive Programming
 
@@ -1684,6 +1703,7 @@ Feel free to share and star
 - <https://awesomeopensource.com/> - Find Open Source By Searching, Browsing and Combining 170,950 Topics Across 59 Categories And 5,851,571 Projects
 - <https://opensourcelibs.com/> - Massive collection of the world's best open source software
 - <https://www.codetriage.com/> - List of open source repos' issues that you can contribute. You can also receive issues via email if you sign up
+- <https://gitlab.com/explore/projects/starred/> - Explore projects in GitLab
 
 ## Cheat Sheets
 
@@ -1782,15 +1802,64 @@ Feel free to share and star
 - <https://hackr.io/> - Find the Programming Courses & Tutorials
 - <https://limnology.co/en> - Curation of educational channels of YouTube in 20 different langauges. Select by topic and find out all the channels and videos on that topic. You can also find similar channels that you know of
 
+<br>
+
+# DISCLAIMER
+
+By accessing and using the Awesome Useful Websites project ("the Project") on GitHub, you agree to the following terms:
+
+1. **Non-Affiliation:**
+
+   - The Project, its creators, and its maintainers are not associated with, sponsored by, or endorsed by any of the websites listed. The inclusion of links to any website, location, or source in this collection does not imply any form of endorsement or partnership of the site or its contents.
+
+2. **Content Accuracy:**
+
+   - While efforts are made to maintain accurate and up-to-date information, the Project makes no guarantees regarding the accuracy, completeness, or reliability of the content.
+
+3. **Link Disclaimer:**
+
+   - Clicking on external links provided in the Project is at the user's own risk. The Project is not responsible for the content, availability, or reliability of external websites. Users should exercise caution and consider the terms of use and privacy policies of linked websites.
+
+4. **Destination of Links:**
+
+   - The Project is not responsible for the content of linked websites or the potential changes to their content after inclusion in the collection. Users should be aware that websites may update, change ownership, or undergo alterations that are beyond the Project's control.
+
+5. **Security and Privacy:**
+
+   - The Project does not guarantee the security or privacy of linked websites. Users are encouraged to review the security measures and privacy policies of external websites before providing any personal or sensitive information.
+
+6. **Reliability of Websites:**
+
+   - Inclusion in the Project does not constitute an endorsement of the reliability of any website. Users should exercise their judgment and discretion when relying on the content or services provided by listed websites.
+
+7. **User Responsibility:**
+
+   - Users are solely responsible for their interactions with external websites listed in the Project. The Project disclaims any liability for damages or losses incurred as a result of using or relying on the information provided.
+
+8. **Changes to the Collection:**
+
+   - The Project reserves the right to modify, update, or remove any content, including website listings, without prior notice.
+
+9. **No Warranty:**
+
+   - The Project is provided "as is" without any warranties, express or implied. The Project disclaims all warranties, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+10. **No Legal Advice:**
+    - This disclaimer does not constitute legal advice. Users are encouraged to seek legal counsel for specific concerns related to their use of the Project.
+
+By accessing and using the Project, you acknowledge and agree to these terms. If you do not agree with these terms, you should refrain from using the Project.
+
+<br>
+
 # Contributing
 
 - If you find out any broken link or any website that has been outdated, please [rise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues).
 
 - If you want to add a new category or website, create a [pull request](https://github.com/atakanaltok/awesome-useful-websites/pulls) (To avoiding duplications, seach whether your website is already included).
 
-# DISCLAIMER
+- If you are a site owner and believe that your site is not described accurately, please [rise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues).
 
-This github page maintains no affiliate relationship with the websites mentioned, is not responsible for their contents, and accepts no liability for any damage that can be caused if you visit them. The descriptions of the websites are not guaranteed to be accurate or up to date. If you are a site owner and believe that your site is not described accurately, please [rise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues)
+<br>
 
 # LICENSE
 
