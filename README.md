@@ -2,7 +2,11 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+<br>
+
 Explore the internet's hidden gems with this list of awesome useful websites!
+
+<br>
 
 Most of these websites are gathered from:
 
@@ -10,9 +14,15 @@ Most of these websites are gathered from:
 - [reddit.com/r/InternetIsBeautiful](https://www.reddit.com/r/InternetIsBeautiful/)
 - [news.ycombinator.com](https://news.ycombinator.com/)
 
+<br>
+
 Feel free to share this list, star it, and contribute your own awesome finds.
 
+<br>
+
 (Please read the [DISCLAIMER](#disclaimer) before accessing any listed websites to understand the terms of this project)
+
+<br>
 
 ## Lexicon
 
@@ -80,7 +90,6 @@ Some websites are tagged with the symbols listed below for convenience.
   - [Jobs](#jobs)
     - [Remote Jobs](#remote-jobs)
     - [Freelancing](#freelancing)
-    - [Interview](#interview)
     - [Portfolio / CV / Resume](#portfolio--cv--resume)
     - [Careers](#careers)
   - [Startups](#startups)
@@ -115,7 +124,6 @@ Some websites are tagged with the symbols listed below for convenience.
     - [Social Sciences](#social-sciences)
       - [History](#history)
   - [Mathematics](#mathematics)
-    - [Math + Programming](#math--programming)
     - [Math + Art](#math--art)
   - [Engineering](#engineering)
     - [Mechanical Engineering](#mechanical-engineering)
@@ -222,10 +230,10 @@ Some websites are tagged with the symbols listed below for convenience.
 
 ### Automating browser
 
-- [Automa](https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca?ref=producthunt) - Chrome extension for automating your browser
-- <https://www.browse.ai/> - Extract, click-setup, and monitor data from any website
-- <https://www.tango.us/> - Create step-by-step documentation, how-to playbooks, and product guides with screenshots
-- <https://bookmarkos.com/bookmark-manager-finder> - Filter every bookmark manager ever made
+- [Automa](https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca?ref=producthunt) - Chrome extension for automating your browser.
+- [Browse.AI](https://www.browse.ai/) - Platform to extract, set up clicks, and monitor data from any website.
+- [Tango](https://www.tango.us/) - Tool to create step-by-step documentation, how-to playbooks, and product guides with screenshots.
+- [BookmarkOS](https://bookmarkos.com/bookmark-manager-finder) - Allows you to filter through various bookmark managers.
 
 ### Comparison
 
@@ -239,10 +247,10 @@ Some websites are tagged with the symbols listed below for convenience.
 
 ### File
 
-- <https://wormhole.app/> - Share files with end-to-end encryption and a link that automatically expires
-- <https://keybase.io/> - End-to-end encrypted secure messaging and file-sharing
-- <https://www.mediafire.com/> (~$) - File storage and sharing
-- <https://www.zippyshare.com/> - No sign up required, no download limits, free, unlimited disk space
+- [Wormhole](https://wormhole.app/) - Platform to share files with end-to-end encryption and a link that automatically expires.
+- [Keybase](https://keybase.io/) - End-to-end encrypted secure messaging and file-sharing.
+- [MediaFire](https://www.mediafire.com/) - File storage and sharing platform (with subscription options).
+- [Zippyshare](https://www.zippyshare.com/) - File-sharing service with no sign-up required, no download limits, free, and unlimited disk space.
 
 ### Converter / Conversion
 
@@ -261,9 +269,9 @@ Some websites are tagged with the symbols listed below for convenience.
 
 #### Unit Conversion
 
-- <https://www.unitconverters.net/>
-- <https://onlineconversion.com/> - Convert just about anything to anything else. Thousands of units, and millions of conversions
-- <https://www.online-toolz.com/tools/text-binary-convertor.php> - Text to Binary Conversion
+- [UnitConverters](https://www.unitconverters.net/) - Online platform for converting various units.
+- [OnlineConversion](https://onlineconversion.com/) - Tool to convert just about anything to anything else, with thousands of units and millions of conversions.
+- [Text to Binary Conversion](https://www.online-toolz.com/tools/text-binary-convertor.php) - Online tool for converting text to binary.
 
 ### Visual
 
@@ -331,118 +339,117 @@ Some websites are tagged with the symbols listed below for convenience.
 
 ## Culture
 
-- <https://culturalatlas.sbs.com.au/> - Educational resource providing comprehensive information on the cultural backgrounds
-- <https://www.quotemaster.org/> - 98,683 categories and 1,488,431 quotes
-- <https://www.factslides.com/> - 1001 facts about many topics with sources
-- <https://starkeycomics.com/> - Colorful images and posts about culture and language
-- <https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles> - Unusual wikipedia articles
-- <https://en.wikipedia.org/wiki/List_of_common_misconceptions> - List of common misconceptions
-- <https://www.behindthename.com/> - Etymology and history of first names
-- <https://surnames.behindthename.com/> - Etymology and history of first surnames
-- <https://nameberry.com/> - Baby names by the experts at Nameberry, including popular names and unique names, baby girl names and baby boy names and gender neutral names too
+- [Cultural Atlas](https://culturalatlas.sbs.com.au/) - Educational resource providing comprehensive information on cultural backgrounds.
+- [QuoteMaster](https://www.quotemaster.org/) - Platform with 98,683 categories and 1,488,431 quotes.
+- [FactSlides](https://www.factslides.com/) - Offers 1001 facts about various topics with sources.
+- [Starkey Comics](https://starkeycomics.com/) - Website featuring colorful images and posts about culture and language.
+- [Unusual Wikipedia Articles](https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles) - Compilation of unusual Wikipedia articles.
+- [List of Common Misconceptions](https://en.wikipedia.org/wiki/List_of_common_misconceptions) - Wikipedia page listing common misconceptions.
+- [Behind the Name](https://www.behindthename.com/) - Provides etymology and history of first names.
+- [Behind the Surname](https://surnames.behindthename.com/) - Offers etymology and history of surnames.
+- [Nameberry](https://nameberry.com/) - Platform for baby names by experts, including popular names, unique names, baby girl names, baby boy names, and gender-neutral names.
 
 ## Language
 
-- <https://youglish.com/> - Use YouTube to improve your English pronunciation, no YouTube ads
-- <https://www.voscreen.com/> - Video snippets of english sentences, test your understanding by choosing paraphrased sentences
-- <https://www.newsinlevels.com/> - World news for students of English
-- <https://dood.al/pinktrombone/> - Human mouth and its sounds interactive voicebox
-- <https://www.japanese-wiki-corpus.org/> - Generated from the Japanese-English Bilingual Corpus of Wikipedia's Kyoto Articles
-- <https://latin-phrases.co.uk/> - Look up for the translation of the latin phrases
+- [YouGlish](https://youglish.com/) - Use YouTube to improve your English pronunciation.
+- [Voscreen](https://www.voscreen.com/) - Platform providing video snippets of English sentences; test your understanding by choosing paraphrased sentences.
+- [News in Levels](https://www.newsinlevels.com/) - World news tailored for students of English.
+- [Pink Trombone](https://dood.al/pinktrombone/) - Interactive simulation of the human mouth and its sounds using an animated voicebox.
+- [Japanese Wiki Corpus](https://www.japanese-wiki-corpus.org/) - Resource generated from the Japanese-English Bilingual Corpus of Wikipedia's Kyoto Articles.
+- [Latin Phrases](https://latin-phrases.co.uk/) - Reference to look up translations of Latin phrases.
 
 ### Grammar
 
-- <https://www.grammarbook.com/english_rules.asp> - English Grammar Rules
-- <https://www.thepunctuationguide.com/index.html> - Guide to American punctuation
-- <https://progressivepunctuation.com/> - Collection of non-standard punctuation marks
-- <https://owl.purdue.edu/site_map.html> - Purdue University's Online Writing Lab (OWL)
-- <https://webapps.towson.edu/ows/index.asp> - Online Writing Support & Grammar
-- <https://www.grammar-monster.com/index.html> - Free English Grammar Lessons and Tests
+- [GrammarBook](https://www.grammarbook.com/english_rules.asp) - Comprehensive guide to English grammar rules.
+- [The Punctuation Guide](https://www.thepunctuationguide.com/index.html) - Resource offering a guide to American punctuation rules.
+- [Progressive Punctuation](https://progressivepunctuation.com/) - Collection of non-standard punctuation marks.
+- [Purdue OWL](https://owl.purdue.edu/site_map.html) - Purdue University's Online Writing Lab, providing resources on writing, grammar, and citation styles.
+- [Towson University Online Writing Support](https://webapps.towson.edu/ows/index.asp) - Online writing support and grammar resources.
+- [Grammar Monster](https://www.grammar-monster.com/index.html) - Platform offering free English grammar lessons and tests.
 
 ### Writing
 
-- <https://fraze.it/> - Platform with more than 100 millions sentences
+- [Fraze It](https://fraze.it/) - Platform with more than 100 millions sentences.
 
 ### Words & Meanings
 
-- <https://educalingo.com/en/dic-en> - Find synonyms, uses, trends, statistics and much more
-- <https://www.finedictionary.com/> - Shows everything about a word
-- <https://www.crownacademyenglish.com/articles/> - Simple, succinct, and clear explanations of some English language concepts
-- <https://www.askdifference.com/> - Short and clean differences of two similar subjects
-- <https://keydifferences.com/> - Website on differences and comparisons
-- <https://www.differencebetween.info/> - Descriptive Analysis and Comparisons
-- <https://www.allacronyms.com/> - Community-driven Acronyms and Abbreviations Dictionary
+- [Educalingo](https://educalingo.com/en/dic-en) - Platform to find synonyms, uses, trends, statistics, and more for words.
+- [Fine Dictionary](https://www.finedictionary.com/) - Comprehensive information about a word.
+- [Crown Academy English](https://www.crownacademyenglish.com/articles/) - Provides simple, succinct, and clear explanations of various English language concepts.
+- [Ask Difference](https://www.askdifference.com/) - Offers short and concise differences between two similar subjects.
+- [Key Differences](https://keydifferences.com/) - Website focused on presenting differences and comparisons.
+- [DifferenceBetween.info](https://www.differencebetween.info/) - Provides descriptive analysis and comparisons between different concepts.
+- [All Acronyms](https://www.allacronyms.com/) - Community-driven acronyms and abbreviations dictionary.
 
 ### Business English
 
-- <https://howtoprofessionallysay.akashrajpurohit.com/> - Guide for your daily "professional" interactions
-- <https://www.businessenglishresources.com/> - Free Resources for business english
-- <https://www.digital-glossary.com/> - Turkish, English, and German terminological words
+- [How to Professionally Say](https://howtoprofessionallysay.akashrajpurohit.com/) - A guide for your daily professional interactions, helping you navigate various situations with a professional tone.
+- [Business English Resources](https://www.businessenglishresources.com/) - A collection of free resources for improving your business English skills.
+- [Digital Glossary](https://www.digital-glossary.com/) - Provides terminological words in Turkish, English, and German for digital contexts.
 
 ## Travel
 
-- <https://airheart.com/travel-restrictions/united-states-vaccinated> - Learn about travel restrictions and what's required for your trip (For example, Corona restrictions)
-- <https://countrycode.org/> - Guide to call anywhere in the world
-- <https://www.passportindex.org/> - Explore the world of passports
-- <https://www.countriesbeen.com/> - Phone app to list the countries you have been with many features
-- <https://www.couchsurfing.com/> - Global community of 14 million people in more than 200,000 cities who share their life, their world, their journey
-- <https://www.puffinmaps.com/> - All in one trip planner. No adds
-- <https://www.alltrails.com/> - Explore 300k trails w/ reviews & photos from 35m outdoor enthusiasts like you
-- <https://www.wanderprep.com/> - Advice on gear, apps, and gotchas to help busy people travel smarter (No more new articles)
-- <https://looria.com/> - Trusted place to find honest product information
-- <https://apps.apple.com/us/app/id1580599572> - Free Iphone app for trip destination searching and planning platform
-- <https://www.freecycle.org/> - Network people who are giving and getting stuff for free in their own Towns. Membership is free
-- <https://roadtrippers.com/> - Build your route in Roadtrippers and then use our turn-by-turn navigation to lead the way
-- <https://www.mountainproject.com/> - Free, Crowd-Sourced Guide to Climbing the World
-- <https://welcometomygarden.org/> - Non-profit network of citizens offering free camping spots in their gardens to slow travelers
-- <https://www.warmshowers.org/> - Community of bicycle tourists and those who support them
-- <https://www.slowby.travel/> - Highly-curated slow travel trips
+- [Airheart - Travel Restrictions](https://airheart.com/travel-restrictions/united-states-vaccinated) - Stay informed about travel restrictions and requirements for your trip, including COVID-19 restrictions.
+- [Country Code](https://countrycode.org/) - A guide to call anywhere in the world, providing country codes for international dialing.
+- [Passport Index](https://www.passportindex.org/) - Explore information about passports from around the world, including rankings and details.
+- [Countries Been](https://www.countriesbeen.com/) - A mobile app to track and list the countries you have visited, offering various features.
+- [Couchsurfing](https://www.couchsurfing.com/) - Connect with a global community of people who share their homes and experiences for free.
+- [Puffin Maps](https://www.puffinmaps.com/) - An all-in-one trip planner with no ads, helping you organize your travel plans.
+- [AllTrails](https://www.alltrails.com/) - Explore a database of 300k trails with reviews and photos from outdoor enthusiasts.
+- [Wanderprep](https://www.wanderprep.com/) - Previously provided advice on gear, apps, and travel tips for smarter journeys.
+- [Looria](https://looria.com/) - A trusted platform to find honest product information.
+- [Trip Destination App (iOS)](https://apps.apple.com/us/app/id1580599572) - A free iPhone app for searching and planning trip destinations.
+- [Freecycle](https://www.freecycle.org/) - A network for people giving and getting items for free in their local communities.
+- [Roadtrippers](https://roadtrippers.com/) - Plan your route and use turn-by-turn navigation to explore various attractions on your road trip.
+- [Mountain Project](https://www.mountainproject.com/) - A free, crowd-sourced guide to climbing destinations around the world.
+- [Welcome to My Garden](https://welcometomygarden.org/) - A non-profit network offering free camping spots in private gardens for slow travelers.
+- [Warmshowers](https://www.warmshowers.org/) - A community of bicycle tourists and hosts supporting them during their journeys.
+- [Slowby](https://www.slowby.travel/) - A platform offering highly-curated slow travel trips for a unique travel experience.
 
 ### Globetrotting
 
-- <https://randomstreetview.com/> - Travel the streets from home
-- <https://virtualvacation.us/> - Travel the world from home
-- <https://www.mapcrunch.com/> - Explore the world via Google Street View. Teleports you to a random place in the world
+- [Random Street View](https://randomstreetview.com/) - Explore streets from around the world without leaving home.
+- [Virtual Vacation](https://virtualvacation.us/) - Take a virtual tour around the globe from the comfort of your home.
+- [MapCrunch](https://www.mapcrunch.com/) - Experience the world through Google Street View by teleporting to random locations.
 
 ### Time
 
-- <https://everytimezone.com/> - Visual time zone comparison of countries
-- <https://www.timeanddate.com/> - Calendars, clocks, and many more
-- <https://time.is/> - Displays exact, official atomic clock time for any time zone (more than 7 million locations) in 51 languages
+- [Every Time Zone](https://everytimezone.com/) - Visual time zone comparison for different countries.
+- [Time and Date](https://www.timeanddate.com/) - Provides calendars, clocks, and various time-related information.
+- [Time.is](https://time.is/) - Displays exact, official atomic clock time for any time zone in 51 languages, covering more than 7 million locations.
 
 ### Flight
 
-- <https://seatguru.com/> - Find your seat map. Explore 1,278 aircraft
-- <https://www.flightradar24.com/43,24.35/7> - Global flight tracking service that provides you with real-time information about thousands of aircraft around the world
-- <https://www.skyscanner.co.in/> - Search flights by date, price, and budget
+- [SeatGuru](https://seatguru.com/) - Explore 1,278 aircraft's seat maps to find yours.
+- [Flightradar24](https://www.flightradar24.com/43,24.35/7) - Global flight tracking service providing real-time information about thousands of aircraft around the world.
+- [Skyscanner](https://www.skyscanner.co.in/) - Flight search engine allowing users to search for flights by date, price, and budget.
 
 ### Weather
 
-- <https://hint.fm/wind/> - Delicate tracery of wind flowing over the US
-- <https://www.windy.com/> - Nearly everything about the weather of the any location
-- <https://zoom.earth/> - Visualizes the world in real-time. Track tropical storms, hurricanes, severe weather, wildfires and more
-- <https://earth.nullschool.net/> - Visualization of global weather conditions forecast by supercomputers updated every three hours
-- <https://openweathermap.org/> - Weather forecasts, newscasts and history in a fast and elegant way
-- <https://radiosondy.info/> - Tracks of meteorological radiosondes. It provides a database of current and past radiosonde flights, including information such as launch site, type, last frame, course, speed, altitude, and frequency (A radiosonde is a battery-powered telemetry instrument that is usually carried into the atmosphere by a weather balloon)
+- [Hint.fm Wind Map](https://hint.fm/wind/) - Delicate tracery of wind flowing over the US.
+- [Windy](https://www.windy.com/) - Comprehensive information about the weather for any location.
+- [Zoom Earth](https://zoom.earth/) - Real-time visualization of the world, tracking tropical storms, hurricanes, severe weather, wildfires, and more.
+- [Earth Nullschool](https://earth.nullschool.net/) - Visualization of global weather conditions forecast by supercomputers, updated every three hours.
+- [OpenWeatherMap](https://openweathermap.org/) - Platform providing weather forecasts, newscasts, and historical weather data in a fast and elegant way.
+- [Radiosondy](https://radiosondy.info/) - Tracks meteorological radiosondes, providing a database of current and past radiosonde flights, including information such as launch site, type, last frame, course, speed, altitude, and frequency. (Note: A radiosonde is a battery-powered telemetry instrument usually carried into the atmosphere by a weather balloon.)
 
 ## Health
 
-- <https://musclewiki.com/> - Learn about your body and muscles
-- <https://jinay.dev/just-a-minute/> - To test your chronoception (sene of passing time)
-- <https://www.futureme.org/> - Write a Letter to your future self
-- <https://strobe.cool/> - Create visual stimuli
-- <https://untools.co/> - Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems
-- <https://www.puzzle-loop.com/> - Logic puzzles with simple rules and challenging solutions
-- <https://guzey.com/personal/what-should-you-do-with-your-life/> - What Should You Do with Your Life? Directions and Advic
-- <https://keepsimple.io/uxcore> - UX Core lets you explore many cognitive biases while creating software
+- [MuscleWiki](https://musclewiki.com/) - Platform to learn about your body and muscles.
+- [Just a Minute](https://jinay.dev/just-a-minute/) - Test your chronoception (sense of passing time) in one minute.
+- [FutureMe](https://www.futureme.org/) - Platform to write a letter to your future self.
+- [Strobe.Cool](https://strobe.cool/) - Create visual stimuli using strobe effects.
+- [UnTools](https://untools.co/) - Collection of thinking tools and frameworks to assist in problem-solving, decision-making, and understanding systems.
+- [Puzzle Loop](https://www.puzzle-loop.com/) - Platform offering logic puzzles with simple rules and challenging solutions.
+- [What Should You Do with Your Life?](https://guzey.com/personal/what-should-you-do-with-your-life/) - Article providing directions and advice on life decisions.
 
 ### Food
 
-- <https://www.gobento.com/> - Engagement platform that improves the health and well-being of your most at-risk members, starting with those who experience food insecurity
-- <https://myfridgefood.com/> - Check off the ingredients that you have to find recipes you can make
-- <https://www.justtherecipe.com/> - Directly get the instructions from any recipe site (Ad and pop-up free recipe)
-- <https://www.twopeasandtheirpod.com/> - Recipe site
-- <https://www.hellofresh.com/> - You choose recipes, hellofresh deliver them straight to your door!
+- [GoBento](https://www.gobento.com/) - Engagement platform focused on improving the health and well-being of at-risk members, particularly those experiencing food insecurity.
+- [MyFridgeFood](https://myfridgefood.com/) - Platform that allows users to check off ingredients they have to find recipes they can make with those ingredients.
+- [Just the Recipe](https://www.justtherecipe.com/) - Platform that provides direct instructions from any recipe site without ads and pop-ups.
+- [Two Peas and Their Pod](https://www.twopeasandtheirpod.com/) - Recipe site offering a variety of recipes.
+- [HelloFresh](https://www.hellofresh.com/) - Meal kit delivery service where users can choose recipes, and HelloFresh delivers the ingredients straight to their door.
 
 ## Visual Entertainment
 
@@ -464,9 +471,8 @@ Some websites are tagged with the symbols listed below for convenience.
 
 ### Anime
 
-- <https://animixplay.to/>
-- <https://reddit.com/r/streamingAnime/wiki/topsites/>
-- <https://reddit.com/r/anime/wiki/legal_streams/>
+- [Reddit Top Anime Streaming Sites](https://reddit.com/r/streamingAnime/wiki/topsites/) - Wiki page listing top anime streaming sites on Reddit.
+- [Reddit Legal Anime Streams](https://reddit.com/r/anime/wiki/legal_streams/) - Wiki page providing a list of legal anime streaming sites on Reddit.
 
 ## Media
 
@@ -512,49 +518,49 @@ Some websites are tagged with the symbols listed below for convenience.
 
 ## Music / Audio
 
-- <https://downloads.khinsider.com/> - Video and PC game soundtracks for download in a very otherwise difficult to get MP3 and lossless forms
-- <https://onlinetonegenerator.com/> - Generate tones, you can also download in wav format
-- <https://music.tello.app/> - Find out the latest music charts of all the countries in the world
-- <https://musiclab.chromeexperiments.com/Experiments> - Learning music more accessible through fun, hands-on experiments
-- <https://www.rap4ever.org/> - Rap songs, lyrics, mixtapes, albumes, artists, and more
-- <https://everynoise.com/> - Ongoing attempt at an algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space
-- <https://mp3cut.net/> - Trim or cut any audio file online
-- <https://mp3gain.flowsoft7.com/> - Increase, decrease, and normalize the volume level of MP3 audio files (60M size limit per a file)
-- <https://create.magicplaylist.co/#/?_k=m5jobg> - Type your favorite song and create the perfect playlist
-- <https://moises.ai/> - Play with your favorite artists in any key, at any speed
-- <https://www.drumeo.com/> - Learn to play the drums with the best teachers in the world
-- <https://soundlove.se/> - Unusual synthesis algorithms - or combination of common ones in unusual ways - to add a touch of randomness and unpredictability to our products
-- <https://audionautix.com/> - Music that is composed and produced by Jason Shaw. Completely free - for you to download and use (even for commercial purposes) as long as you provide credit
-- <https://typatone.com/> - Generate your own music by typing on keyboard
-- <https://www.incredibox.com/> - Music app that lets you create your own music with the help of a merry crew of beatboxers
-- <https://www.sampurr.com/> - Sample an audio from the web (For [usage](https://www.sampurr.com/about.html))
-- <https://www.audiocheck.net/> - Test your audio equipment, online
-- <https://mixlr.com/> ($) - Share quality live audio online. Broadcast using any source, invite people to listen, chat in real-time (Free for just listening)
+- [KHInsider](https://downloads.khinsider.com/) - Video and PC game soundtracks for download in MP3 and lossless formats.
+- [Online Tone Generator](https://onlinetonegenerator.com/) - Generate tones, and you can also download them in WAV format.
+- [Tello Music Charts](https://music.tello.app/) - Find out the latest music charts of all countries in the world.
+- [Music Lab](https://musiclab.chromeexperiments.com/Experiments) - Learning music more accessible through fun, hands-on experiments.
+- [Rap4Ever](https://www.rap4ever.org/) - Explore rap songs, lyrics, mixtapes, albums, artists, and more.
+- [Every Noise](https://everynoise.com/) - Ongoing attempt at an algorithmically-generated scatter-plot of the musical genre-space.
+- [MP3Cut](https://mp3cut.net/) - Trim or cut any audio file online.
+- [MP3Gain](https://mp3gain.flowsoft7.com/) - Increase, decrease, and normalize the volume level of MP3 audio files (60M size limit per file).
+- [Magic Playlist](https://create.magicplaylist.co/#/?_k=m5jobg) - Type your favorite song and create the perfect playlist.
+- [Moises AI](https://moises.ai/) - Play with your favorite artists in any key, at any speed.
+- [Drumeo](https://www.drumeo.com/) - Learn to play the drums with the best teachers in the world.
+- [SoundLove](https://soundlove.se/) - Unusual synthesis algorithms to add a touch of randomness and unpredictability to music.
+- [Audionautix](https://audionautix.com/) - Music composed and produced by Jason Shaw, free for download and use (even for commercial purposes).
+- [Typatone](https://typatone.com/) - Generate your own music by typing on the keyboard.
+- [Incredibox](https://www.incredibox.com/) - Music app that lets you create your own music with the help of a merry crew of beatboxers.
+- [Sampurr](https://www.sampurr.com/) - Sample an audio from the web.
+- [Audiocheck](https://www.audiocheck.net/) - Test your audio equipment online.
+- [Mixlr](https://mixlr.com/) ($) - Share quality live audio online. Broadcast using any source, invite people to listen, and chat in real-time (Free for just listening).
 
 ### Find Music
 
-- <https://www.lalal.ai/> - Extract vocal, accompaniment and various instruments from any audio
-- <https://audd.io/> - Recognize music (or what's playing) from sound or from streams
-- <https://www.music-map.com/> - Find Similar Music
-- <https://www.commercialtunage.com/> - Find out the songs in commercials
+- [Lalal.ai](https://www.lalal.ai/) - Extract vocal, accompaniment, and various instruments from any audio.
+- [Audd.io](https://audd.io/) - Recognize music or what's playing from sound or streams.
+- [Music-Map](https://www.music-map.com/) - Discover similar music based on your preferences.
+- [Commercial Tunage](https://www.commercialtunage.com/) - Identify songs featured in commercials.
 
 ### Free Music
 
-- <https://www.pretzel.rocks/> - Stream-safe music for Twitch and YouTube
-- <https://incompetech.com/> - Collection of royalty-free music
-- <https://www.chosic.com/> - Free background music for you to use in your next project, free for commercial and non-commercial use
+- [Pretzel Rocks](https://www.pretzel.rocks/) - Stream-safe music for Twitch and YouTube.
+- [Incompetech](https://incompetech.com/) - Royalty-free music collection.
+- [Chosic](https://www.chosic.com/) - Free background music for both commercial and non-commercial use.
 
 ### Music Theory
 
-- <https://www.teoria.com/>
-- <https://www.musictheory.net/>
-- <https://www.allaboutmusictheory.com/> - Piano keyboard, Music notation, Major scale
-- <https://studioguru.co/producer-tools/note-frequency-chart/> - Note Frequency Chart
+- [Teoria](https://www.teoria.com/)
+- [MusicTheory.net](https://www.musictheory.net/)
+- [All About Music Theory](https://www.allaboutmusictheory.com/) - Piano keyboard, Music notation, Major scale
+- [Studio Guru - Note Frequency Chart](https://studioguru.co/producer-tools/note-frequency-chart/)
 
 #### Rhyme
 
-- <https://www.rhymezone.com/> - Find rhymes, synonyms, adjectives, and more
-- <https://rhymer.com/> - Free Online Rhyming Dictionary
+- [RhymeZone](https://www.rhymezone.com/) - Find rhymes, synonyms, adjectives, and more.
+- [Rhymer](https://rhymer.com/) - Free online rhyming dictionary.
 
 ### Mix Sounds
 
@@ -614,6 +620,7 @@ Some websites are tagged with the symbols listed below for convenience.
 
 - [Investopedia](https://www.investopedia.com/) - A source of financial education, news, and research for investors.
 - [Money](https://money.com/) - A comprehensive resource for personal finance and financial news.
+- [The Balance Money](https://www.thebalancemoney.com/) - Financial education and resources.
 - [CNN Fear and Greed Index](https://edition.cnn.com/markets/fear-and-greed) - Understand the current emotion driving the market.
 - [Where's Willy](https://www.whereswilly.com/) - An international non-profit volunteer project dedicated to tracking Canadian paper money around the world.
 - [Where's George](https://www.wheresgeorge.com/) - A project similar to "Where's Willy" for tracking American paper money globally.
@@ -626,6 +633,7 @@ Some websites are tagged with the symbols listed below for convenience.
 
 ## Business
 
+- [Crunchbase](https://www.crunchbase.com/) - A platform for discovering innovative companies, startups, and key individuals in the business world. Provides comprehensive data and insights about companies, investments, and industry trends.
 - [Business Model Toolbox](https://bmtoolbox.net/) - A resource to learn about various business concepts and models.
 - [Gumroad](https://gumroad.com/) - E-commerce platform for creators to sell digital products directly to customers.
 - [Google Takeout](https://takeout.google.com/) - Export a copy of all your Google data.
@@ -638,40 +646,41 @@ Some websites are tagged with the symbols listed below for convenience.
 
 ### Finance
 
-- <https://www.figr.app/> - Google Docs + Calculator = Personal finances
-- <https://app.livefortunately.com/> - Plan for a better financial future. Create a complete financial plan to make the most of your money
-- <https://www.keepertax.com/ask-an-ai-accountant-2-0> - AI Accountant for getting help and calculating tax-related questions
+- [FIGR](https://www.figr.app/) - Google Docs + Calculator = Personal finances
+- [LiveFortunately](https://app.livefortunately.com/) - Plan for a better financial future. Create a complete financial plan to make the most of your money.
+- [KeeperTax](https://www.keepertax.com/ask-an-ai-accountant-2-0) - AI Accountant for getting help and calculating tax-related questions.
 
 ### Patents
 
-- <https://worldwide.espacenet.com/> - Free access to over 130 million patent documents
-- <https://patents.google.com/> - Search and read the full text of patents from around the world
-- <https://patentscope.wipo.int/search/en/search.jsf> - Search 105 million patent documents including 4.3 million published international patent applications (PCT)
+- [Espacenet](https://worldwide.espacenet.com/) - Free access to over 130 million patent documents.
+- [Google Patents](https://patents.google.com/) - Search and read the full text of patents from around the world.
+- [WIPO Patentscope](https://patentscope.wipo.int/search/en/search.jsf) - Search 105 million patent documents, including 4.3 million published international patent applications (PCT).
+- [Patently Apple](https://www.patentlyapple.com/patents-applications/) - Explore patent applications made by Apple.
 
 ### Marketing
 
-- <https://telega.io/> - Find the target audience in Telegram and launch effective advertising campaigns
-- <https://igmassdms.com/> ($) - Send direct IG messages to your targeted audience, without using your account
-- <https://rohitverma.gumroad.com/l/PM-tools> ($) - Product Management tools for $5
-- <https://yespromo.me/> - Free database of 100+ successful self promotion Reddit posts
-- <https://www.welovenocode.com/marketingforstartups> - Free e-book with 47 practical tactics to get customers and achieve hockey stick growth
-- <https://arraylist.org/> - List database in the cloud. You can use it for storing things like form submissions, email-subscription forms or make a AJAX/REST call to store values in the list
-- <https://www.supermeme.ai/> ($) - Generate original memes powered by AI in 110+ languages
-- <https://www.apollo.io/> - Search, engage and convert over 250 million contacts at over 60 million companies with Apollo’s sales intelligence and engagement platform
-- <https://vocus.io/> - Personalize email campaigns, track and automate email followups, schedule appointments, sync with your CRM, and collaborate with your team
+- [Telega](https://telega.io/) - Find the target audience in Telegram and launch effective advertising campaigns.
+- [IGMassDMS](https://igmassdms.com/) ($) - Send direct Instagram messages to your targeted audience without using your account.
+- [Product Management Tools](https://rohitverma.gumroad.com/l/PM-tools) ($) - Collection of Product Management tools for $5.
+- [Yes Promo](https://yespromo.me/) - Free database of 100+ successful self-promotion Reddit posts.
+- [Marketing for Startups E-Book](https://www.welovenocode.com/marketingforstartups) - Free e-book with 47 practical tactics to get customers and achieve hockey stick growth.
+- [ArrayList](https://arraylist.org/) - List database in the cloud for storing form submissions, email-subscription forms, or making AJAX/REST calls to store values.
+- [SuperMeme AI](https://www.supermeme.ai/) ($) - Generate original memes powered by AI in 110+ languages.
+- [Apollo](https://www.apollo.io/) - Sales intelligence and engagement platform to search, engage, and convert over 250 million contacts at over 60 million companies.
+- [Vocus.io](https://vocus.io/) - Personalize email campaigns, track and automate email follow-ups, schedule appointments, sync with your CRM, and collaborate with your team.
 
 ### Trends
 
-- <https://trends.google.com/trends/?geo=US>
-- <https://trends.google.com/trends/hottrends/visualize>
-- <https://www.statista.com/>
-- <https://books.google.com/ngrams> - Grapher showing how phrases have occurred in a corpus of books over the selected years
+- [Google Trends](https://trends.google.com/trends/?geo=US) - Explore trending topics and insights based on Google searches.
+- [Google Trends - Visualize](https://trends.google.com/trends/hottrends/visualize) - Visualize and explore the hottest trends on Google.
+- [Statista](https://www.statista.com/) - A platform for statistical data and visualizations, providing insights into various industries and topics.
+- [Google Books Ngram Viewer](https://books.google.com/ngrams) - Graphically visualize the occurrence of phrases in a corpus of books over selected years.
 
 ### Meetings
 
-- <https://www.when2meet.com/> - Find the best time for a group to meet. When2meet is a free service. Anyone can create and participate in availability surveys at no cost
-- <https://sessions.us/> - Web-based conferencing tool that actually makes meetings better for free
-- <https://formtochatbot.com/> - Convert your Google forms into interactive conversations in Chatbots
+- [When2meet](https://www.when2meet.com/) - A free service for scheduling group meetings. It allows users to create and participate in availability surveys to find the best time for a group to meet.
+- [Sessions](https://sessions.us/) - A web-based conferencing tool designed to enhance meetings. It aims to improve the overall meeting experience and is available for free.
+- [Form to Chatbot](https://formtochatbot.com/) - Convert Google forms into interactive conversations in the form of chatbots. This tool helps in creating engaging and dynamic interactions based on form responses.
 
 ## Jobs
 
@@ -683,6 +692,7 @@ Some websites are tagged with the symbols listed below for convenience.
 - [KeyValues](https://www.keyvalues.com/) - Find engineering teams that align with your values.
 - [About.me](https://about.me/) (~$) - Platform for freelancers and entrepreneurs to grow their audience and attract clients.
 - [Rejected.us](https://rejected.us/) - Read and share stories of job rejections.
+- [Tech Interview Handbook](https://www.techinterviewhandbook.org/) - Free curated interview preparation materials.
 
 ### Remote Jobs
 
@@ -711,15 +721,9 @@ Some websites are tagged with the symbols listed below for convenience.
 
 ### Freelancing
 
-- <https://www.remotestarterkit.com/> - The ultimate list of tools and processes for remote teams
-- <https://www.fiverr.com/> - Find the perfect freelance services for your business
-- <https://www.upwork.com/> - Hire freelancers and get freelancers jobs online
-
-### Interview
-
-- <https://www.techinterviewhandbook.org/> - Free curated interview preparation materials
-- <https://www.pramp.com/> - Free, online peer-to-peer platform for practicing technical interviews run by Exponent
-- <https://www.interviewcake.com/> - Free 7-day email course for programmers
+- [Remote Starter Kit](https://www.remotestarterkit.com/) - The ultimate list of tools and processes for remote teams.
+- [Fiverr](https://www.fiverr.com/) - Find the perfect freelance services for your business.
+- [Upwork](https://www.upwork.com/) - Hire freelancers and get freelancers jobs online.
 
 ### Portfolio / CV / Resume
 
@@ -741,23 +745,24 @@ Some websites are tagged with the symbols listed below for convenience.
 
 ## Startups
 
-- <https://ncase.me/> - Game Theory explanations with simple games
-- <https://growth.tlb.org/> - Startup growth calculator. Calculate how much funding your startup needs
-- <https://capbase.com/startup-equity-calculator/> - Startup equity calculator. Split equity based on different variables
-- <https://www.kapwing.com/museum-of-websites> - Gallery of how famous internet companies have changed over time
-- <https://hypercontext.com/goal-examples> - A curated list of goal examples for every role in tech
-- <https://www.feedough.com/startup-resources/> - Startup Resources with categories
-- [docs.google.com/spreadsheets](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - 500+ Free Tools For Startups
-- <https://www.founderresources.io/> - Free 500+ curated resources, templates & tools for startups
-- <https://harishgarg.gumroad.com/l/wiSvc?ref=producthunt> - Curated list of 100+ resources on GPT-3
-- [notion.founder](https://cerdeira.notion.site/b3b5f44d37cf4843b3fcd2f300354467?v=8f3458522f4542d8896ebb3720c14b2d) - 100+ resources for building a successful startup
-- [accelerators.xlsx](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fattachments.convertkitcdnn2.com%2F587796%2F16ab0442-1232-4a49-956c-acafd6df4189%2F2%2C500%2520Accelerators%2520Incubators.xlsx&wdOrigin=BROWSELINK) - 2,500 Accelerators Incubators
-- <[excel.companies](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fattachments.convertkitcdnn2.com%2F587796%2F476863f4-bda0-4132-8bd0-d25728513cfd%2FThe%2520Complete%2520Unicorn%2520List.xlsx&wdOrigin=BROWSELINK)> - The Complete Unicorn List. 1,016 Unicorns (Private Companies Valued +$1B)
-- [github-email-hunter](https://chrome.google.com/webstore/detail/github-email-hunter/ppcegaekdbgcgbapfdcjbhednhmgcjnk) - Find email addresses for Github users & repos with just one click
-- <https://theangelphilosopher.com/> - Compilation of Naval's wisdom, knowledge and thoughts
-- <https://underglass.io/> - Analysis of the world's best digital products
-- [the_perfect_pitch_deck](https://attachments.convertkitcdnn2.com/587796/1e723803-ab50-4a61-9b3a-f347aa436408/The%20Perfect%20Pitch%20Deck.pdf) - Lessons From Analyzing 350+ Startup Pitch Decks
-- <https://oldcomputers.net/> - Museum of old and vintage computers. View 150 old computers
+- [Ncase](https://ncase.me/) - Game Theory explanations with simple games.
+- [Startup Growth Calculator](https://growth.tlb.org/) - Calculate how much funding your startup needs for growth.
+- [Startup Equity Calculator](https://capbase.com/startup-equity-calculator/) - Split equity based on different variables for your startup.
+- [Museum of Websites](https://www.kapwing.com/museum-of-websites) - A gallery showcasing how famous internet companies have changed over time.
+- [Goal Examples](https://hypercontext.com/goal-examples) - A curated list of goal examples for every role in tech.
+- [Startup Resources](https://www.feedough.com/startup-resources/) - A collection of resources categorized for startups.
+- [500+ Free Tools For Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - A comprehensive list of free tools for startups.
+- [Founder Resources](https://www.founderresources.io/) - Free curated resources, templates, and tools for startups.
+- [100+ Resources on GPT-3](https://harishgarg.gumroad.com/l/wiSvc?ref=producthunt) - A curated list of 100+ resources on GPT-3.
+- [100+ Resources for Building a Successful Startup](https://cerdeira.notion.site/b3b5f44d37cf4843b3fcd2f300354467?v=8f3458522f4542d8896ebb3720c14b2d) - A compilation of resources for building a successful startup.
+- [2,500 Accelerators Incubators](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fattachments.convertkitcdnn2.com%2F587796%2F16ab0442-1232-4a49-956c-acafd6df4189%2F2%2C500%2520Accelerators%2520Incubators.xlsx&wdOrigin=BROWSELINK) - A list of 2,500 accelerators and incubators.
+- [The Complete Unicorn List](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fattachments.convertkitcdnn2.com%2F587796%2F476863f4-bda0-4132-8bd0-d25728513cfd%2FThe%2520Complete%2520Unicorn%2520List.xlsx&wdOrigin=BROWSELINK) - A comprehensive list of 1,016 unicorns (private companies valued +$1B).
+- [GitHub Email Hunter](https://chrome.google.com/webstore/detail/github-email-hunter/ppcegaekdbgcgbapfdcjbhednhmgcjnk) - Find email addresses for GitHub users & repos with one click.
+- [The Angel Philosopher](https://theangelphilosopher.com/) - Compilation of Naval's wisdom, knowledge, and thoughts.
+- [Under Glass](https://underglass.io/) - Analysis of the world's best digital products.
+- [The Perfect Pitch Deck](https://attachments.convertkitcdnn2.com/587796/1e723803-ab50-4a61-9b3a-f347aa436408/The%20Perfect%20Pitch%20Deck.pdf) - Lessons from analyzing 350+ startup pitch decks.
+- [Old Computers Museum](https://oldcomputers.net/) - Explore a museum of old and vintage computers with 150 exhibits.
+- [Startups List](https://www.startups-list.com/) - Collections of the best startups in different places.
 
 ### Failures
 
@@ -889,14 +894,14 @@ Some websites are tagged with the symbols listed below for convenience.
 
 ### Photography
 
-- <https://www.cambridgeincolour.com/> - Learning community for photographers
-- <https://www.exposureguide.com/> - Photography Tips, Techniques, and Tutorials
+- [Cambridge in Colour](https://www.cambridgeincolour.com/) - Learning community for photographers
+- [Exposure Guide](https://www.exposureguide.com/) - Photography Tips, Techniques, and Tutorials
 
 ### Art Communities
 
-- <https://ello.co/discover>
-- <https://www.behance.net/>
-- <https://www.artstation.com/>
+- [Ello](https://ello.co/discover)
+- [Behance](https://www.behance.net/)
+- [ArtStation](https://www.artstation.com/)
 
 ## Academic
 
@@ -1038,11 +1043,10 @@ Some websites are tagged with the symbols listed below for convenience.
 
 ### Biology
 
-- <https://www.sectional-anatomy.org/> - Free online tool for radiologic cross-sectional anatomy
-- <https://neal.fun/deep-sea/> - Explore the depths of the seas
-- <https://asknature.org/> - Portal to the wisdom nature holds
-
-- <https://wearehostsformemes.com/> - You have been exposed to The Meta-meme
+- [Sectional Anatomy](https://www.sectional-anatomy.org/) - Free online tool for radiologic cross-sectional anatomy.
+- [Deep Sea](https://neal.fun/deep-sea/) - Platform to explore the depths of the seas.
+- [Ask Nature](https://asknature.org/) - Biology-inspired strategies, innovations, or educational resources.
+- [We Are Hosts for Memes](https://wearehostsformemes.com/) - You have been exposed to The Meta-meme
 
 ### Physics
 
@@ -1093,16 +1097,11 @@ Some websites are tagged with the symbols listed below for convenience.
 - [Easy Mathematical Tricks from Counting Through Calculus](https://mathhints.com/) - Collection of easy mathematical tricks from counting through calculus.
 - [Math Salamanders](https://www.math-salamanders.com/) - Platform providing useful calculators (like Reverse Percentage Calculator) and math worksheets for kids or students.
 
-### Math + Programming
-
-- <https://jeremykun.com/>
-
 ### Math + Art
 
-- <https://www.gregegan.net/> - Science fiction writer and computer programmer's information, illustrations, and applets
-- <https://bugman123.com/> - Favorite hobbies and interests, especially science, and art of Paul Nylander
-- <https://nycdoe-cs4all.github.io/> - Introduction to Computational Media with p5.js
-- <https://texample.net/> - Examples and community of LaTeX
+- [Paul Nylander's website](https://bugman123.com/) - Favorite hobbies and interests, especially science, and art of Paul Nylander
+- [NYC DOE CS4All](https://nycdoe-cs4all.github.io/) - Introduction to Computational Media with p5.js
+- [Texample](https://texample.net/) - Examples and community of LaTeX
 
 ## Engineering
 
@@ -1129,11 +1128,11 @@ Some websites are tagged with the symbols listed below for convenience.
 
 #### Materials / Nanotechnology
 
-- <https://www.doitpoms.ac.uk/index.php> - DoITPoMS from Department of Materials Science and Metallurgy, University of Cambridge
-- <https://ssd.phys.strath.ac.uk/> - Nanoscience resources of the Department of Physics at the University of Strathclyde
-- <https://web.mit.edu/16.unified/www/SPRING/materials/index.html> - Concepts are deeply examined
-- <https://product.statnano.com/> - Reliable source of information about nanotechnology products, currently used in a broad range of industrial applications
-- <https://www.myminifactory.com/> - World’s largest ecosystem of free to download, 3D printable objects of cultural significance
+- [DoITPoMS](https://www.doitpoms.ac.uk/index.php) - DoITPoMS from Department of Materials Science and Metallurgy, University of Cambridge
+- [Nanoscience Resources](https://ssd.phys.strath.ac.uk/) - Nanoscience resources of the Department of Physics at the University of Strathclyde
+- [MIT OpenCourseWare - Materials Science and Engineering](https://web.mit.edu/16.unified/www/SPRING/materials/index.html) - Concepts are deeply examined
+- [StatNano](https://product.statnano.com/) - Reliable source of information about nanotechnology products, currently used in a broad range of industrial applications
+- [MyMiniFactory](https://www.myminifactory.com/) - World’s largest ecosystem of free to download, 3D printable objects of cultural significance
 
 #### Thermodynamics
 
@@ -1196,9 +1195,11 @@ Some websites are tagged with the symbols listed below for convenience.
 - [Humata AI](https://www.humata.ai/) - Upload any PDF or document and get answers from it in seconds.
 - [QuickRef ChatGPT](https://quickref.me/chatgpt) - ChatGPT cheatsheet.
 - [MidJourney Styles and Keywords Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - Styles and keywords for AI image generation.
+- [Jailbreak Chat](https://www.jailbreakchat.com/) - Jailbreak collection for LLMs.
 
 ## Web Development
 
+- [UX Core](https://keepsimple.io/uxcore) - UX Core allows you to explore many cognitive biases while creating software.
 - [Coggle](https://coggle.it/diagram/Vz9LvW8byvN0I38x/t/web-development) - Collaborative mind-mapping tool for visualizing and organizing ideas related to web development.
 - [NoviceDock](https://novicedock.com/learn/computer-science/web-development) - Learning resource providing computer science and web development tutorials for beginners.
 - [WebDevHome](https://webdevhome.github.io/) - Collection of web development resources and tutorials.
@@ -1281,26 +1282,26 @@ Some websites are tagged with the symbols listed below for convenience.
 
 #### APIs
 
-- <https://publicapis.dev/> - Discover public APIs
-- <https://github.com/public-apis/public-apis> - Collective list of free APIs for use in software and web development
-- <https://www.restapitutorial.com/> - Learn REST
-- <https://developer.spotify.com/documentation/web-api> - API documentation of the Spotify
-- <https://stripe.com/docs/api> - API documentation of the Stripe Stripe
+- [Public APIs Directory](https://publicapis.dev/) - Discover public APIs
+- [Public APIs on GitHub](https://github.com/public-apis/public-apis) - Collective list of free APIs for use in software and web development
+- [REST API Tutorial](https://www.restapitutorial.com/) - Learn REST
+- [Spotify API Documentation](https://developer.spotify.com/documentation/web-api) - API documentation of Spotify
+- [Stripe API Documentation](https://stripe.com/docs/api) - API documentation of Stripe
 
 #### SQL
 
-- <https://sqlzoo.net/wiki/SQL_Tutorial> - Learn SQL in stages
-- <https://bipp.io/sql-tutorial> - Free
-- <https://selectstarsql.com/> - Interactive book which aims to be the best place on the internet for learning SQL. It is free of charge, free of ads and doesn't require registration or downloads
-- <https://quip.com/2gwZArKuWk7W> - Medium-Hard Data Analyst SQL Interview Questions
-- <https://www.sqltranslate.app/> - SQL to Natural Language and Natural Language to SQL translator. 100% free and open source
-- <https://serversforhackers.com/> - Server Admin for Programmers. Learn the server tech you need for development and production. Eliminate the frustration of server configuration
-- <https://guides.rubygems.org/> - Learn how RubyGems works, and how to make your own
+- [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) - Learn SQL in stages
+- [Bipp SQL Tutorial](https://bipp.io/sql-tutorial) - Free SQL tutorial
+- [Select Star SQL](https://selectstarsql.com/) - Interactive book for learning SQL
+- [Medium-Hard Data Analyst SQL Interview Questions](https://quip.com/2gwZArKuWk7W) - Collection of SQL interview questions
+- [SQL Translate](https://www.sqltranslate.app/) - SQL to Natural Language and Natural Language to SQL translator. 100% free and open source
+- [Servers for Hackers](https://serversforhackers.com/) - Server Admin for Programmers. Learn server tech for development and production.
+- [RubyGems Guides](https://guides.rubygems.org/) - Learn how RubyGems works and how to make your own
 
 #### Data Science
 
-- <https://www.datatau.com/news> - Hackernews but for data
-- <https://www.datasetlist.com/> - List of machine learning datasets from across the web
+- [DataTau](https://www.datatau.com/news) - Hackernews but for data
+- [DatasetList](https://www.datasetlist.com/) - List of machine learning datasets from across the web
 
 ### Web Analytics
 
@@ -1331,10 +1332,10 @@ Some websites are tagged with the symbols listed below for convenience.
 
 ## Web 3.0 Dev
 
-- <https://web3isgoinggreat.com/> - Track some examples of how things in the blockchains/crypto/web3 technology space aren't actually going as well as its proponents might like you to believe. The timeline tracks events in cryptocurrency and blockchain-based technologies, dating back to the beginning of 2021
-- <https://andersbrownworth.com/blockchain/coinbase> - Blockchain Demo
-- <https://dappradar.com/> - Discover, Track & Trade Everything DeFi, NFT and Gaming
-- <https://www.defipulse.com/> - DeFi list
+- [Web3 is Going Great](https://web3isgoinggreat.com/) - Track examples of challenges in the blockchain/crypto/web3 technology space. The timeline covers events in cryptocurrency and blockchain-based technologies since the beginning of 2021.
+- [Blockchain Demo](https://andersbrownworth.com/blockchain/coinbase) - A demonstration of how a blockchain works.
+- [DappRadar](https://dappradar.com/) - Discover, track, and trade in the world of DeFi, NFTs, and Gaming.
+- [DeFi Pulse](https://www.defipulse.com/) - A list of decentralized finance (DeFi) projects and their statistics.
 
 ## Android Development
 
@@ -1568,6 +1569,7 @@ Some websites are tagged with the symbols listed below for convenience.
 #### Hackathons
 
 - [DEVPOST Hackathons](https://devpost.com/hackathons) - Find online and in-person hackathons.
+- [GitHub Education Events](https://education.github.com/events) - Find members of the community at hackathons, conferences, and events near you.
 
 ## Linux
 
