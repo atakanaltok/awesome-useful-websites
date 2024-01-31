@@ -137,7 +137,6 @@ Some websites are tagged with the symbols listed below for convenience.
       - [Big-O notation](#big-o-notation)
   - [AI](#ai)
   - [Web Development](#web-development)
-    - [Web Dev Blogs](#web-dev-blogs)
     - [Front-end](#front-end)
       - [HTML](#html)
       - [CSS](#css)
@@ -766,8 +765,8 @@ Some websites are tagged with the symbols listed below for convenience.
 
 ### Failures
 
-- <https://www.failory.com/google/> - Learn from Google's +100 failures to build profitable businesses and scale acquired companies
-- <https://killedbygoogle.com/> - Projects that Google launched and ended
+- [Failory - Google Failures](https://www.failory.com/google/) - Learn from Google's +100 failures to build profitable businesses and scale acquired companies.
+- [Killed by Google](https://killedbygoogle.com/) - Projects that Google launched and ended.
 
 ### Finding Ideas
 
@@ -1069,11 +1068,11 @@ Some websites are tagged with the symbols listed below for convenience.
 
 ### Social Sciences
 
-- <https://temple.manifoldapp.org/projects/all> - Many great resources on various social sciences
-- <https://histography.io/> - Interactive timeline that spans across 14 billion years of history, from the Big Bang to 2015
+- [Temple Manifold - All Projects](https://temple.manifoldapp.org/projects/all) - A collection of great resources on various social sciences.
 
 #### History
 
+- [Histography](https://histography.io/) - An interactive timeline that spans across 14 billion years of history, from the Big Bang to 2015.
 - [Unenumerated Blog](https://unenumerated.blogspot.com/) - A comprehensive and highly detailed blog covering various history topics.
 - [Human Origins - Human Family Tree](https://humanorigins.si.edu/evidence/human-family-tree) - An interactive Human Family Tree that explores the evolutionary history of humans.
 - [OldEra Timeline](https://timeline.oldera.org/) - An interactive timeline that allows you to view the entire history on a zoomable interface.
@@ -1137,8 +1136,7 @@ Some websites are tagged with the symbols listed below for convenience.
 #### Thermodynamics
 
 - <https://users.wpi.edu/~sullivan/ES3001/Lectures/> - For thermo, go to [Lectures/Lecture-A](https://users.wpi.edu/~sullivan/ES3001/Lectures/Lecture-A/) (or [Lectures/Lecture-B/](https://users.wpi.edu/~sullivan/ES3001/Lectures/Lecture-B/)) and then go to [Lectures/Lecture-A/Lecture-1](https://users.wpi.edu/~sullivan/ES3001/Lectures/Lecture-A/Lecture-1.htm)
-- <https://web.mit.edu/16.unified/www/FALL/thermodynamics/notes/notes.html>
-- <https://sites.google.com/site/hallmanenergyunit/home> - All about energy
+- <https://web.mit.edu/16.unified/www/FALL/thermodynamics/notes/notes.html> - Thermodynamics and Propulsion by Prof. Z. S. Spakovszky
 - <https://ouopentextbooks.org/thermodynamics/> - Web-based, open educational resource (no longer being actively developed)
 
 #### Control
@@ -1233,10 +1231,6 @@ Some websites are tagged with the symbols listed below for convenience.
 - [Free-for.dev](https://free-for.dev/#/) - List of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
 - [Homepage Gallery](https://homepage.gallery/) - Gallery featuring 500+ websites for web design inspiration.
 
-### Web Dev Blogs
-
-- <https://tech-blogs.dev/> - List of Awesome Tech Blogs
-
 ### Front-end
 
 - [SafeRules](https://anthonyhobday.com/sideprojects/saferules/) - Visual design rules that can be safely followed every time.
@@ -1255,30 +1249,29 @@ Some websites are tagged with the symbols listed below for convenience.
 
 #### HTML
 
-- <https://hyperscript.org/> - Make websites written in plain-old markup a joy to use
-- <https://htmx.org/> - htmx gives you access to AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext
+- [Hyperscript](https://hyperscript.org/) - Make websites written in plain-old markup a joy to use.
+- [htmx](https://htmx.org/) - htmx gives you access to AJAX, CSS Transitions, WebSockets, and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext.
 
 #### CSS
 
-- <https://cssbattle.dev/> - Test your CSS skills by replicating targets with smallest possible code
-- <https://www.csssolid.com/> - CSS references, tutorials, and articles
-- <https://css-tricks.com/> - Web design community powered by Digital Ocean
+- [CSS Solid](https://www.csssolid.com/) - CSS references, tutorials, and articles.
+- [CSS-Tricks](https://css-tricks.com/) - Web design community powered by Digital Ocean.
 
 #### JavaScript
 
-- <https://thecodingcards.com/> ($) - JavaScript & Data Structures Flashcards. Essential Coding Concepts with Syntax and Examples
-- <https://standardjs.com/> - JavaScript style guide, linter, and formatter
-- <https://mbeaudru.github.io/modern-js-cheatsheet/> - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects
-- <https://jsonplaceholder.typicode.com/> - Free fake API for testing and prototyping
-- <https://marozed.com/vue-cheatsheet/> - Vue.js cheat sheet
-- <https://jsbin.com/> - Open source collaborative web development debugging tool
-- <https://www.toptal.com/developers/keycode> - JavaScript Event Keycode Info
-- <https://www.jsdelivr.com/> - Free CDN for Open Source. Fast, reliable, and automated
+- [The Coding Cards](https://thecodingcards.com/) ($) - JavaScript & Data Structures Flashcards. Essential Coding Concepts with Syntax and Examples.
+- [StandardJS](https://standardjs.com/) - JavaScript style guide, linter, and formatter.
+- [Modern JavaScript Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - A cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - A free fake API for testing and prototyping.
+- [Vue.js Cheat Sheet](https://marozed.com/vue-cheatsheet/) - Cheat sheet for Vue.js.
+- [JS Bin](https://jsbin.com/) - Open-source collaborative web development debugging tool.
+- [JavaScript Event Keycode Info](https://www.toptal.com/developers/keycode) - Information about JavaScript event keycodes.
+- [jsDelivr](https://www.jsdelivr.com/) - Free CDN for open source. Fast, reliable, and automated.
 
 ### Back-End
 
-- <https://www.runsidekick.com/> - Collect traces and generate logs on-demand without stopping & redeploying your applications
-- <https://instances.vantage.sh/> - Compare Amazon's instance type, pricing, and other pages.
+- [RunSidekick](https://www.runsidekick.com/) - Collect traces and generate logs on-demand without stopping & redeploying your applications.
+- [Vantage Instances](https://instances.vantage.sh/) - Compare Amazon's instance types, pricing, and other pages.
 
 #### APIs
 
@@ -1774,6 +1767,7 @@ Some websites are tagged with the symbols listed below for convenience.
 - [NoviceDock](https://novicedock.com/) - Platform offering curated resources for learning programming and related topics.
 - [Hackr.io](https://hackr.io/) - Platform to find programming courses and tutorials recommended by the programming community.
 - [Limnology](https://limnology.co/en) - Curation of educational YouTube channels in 20 different languages, categorized by topic, with the option to find similar channels.
+- [Tech Blogs](https://tech-blogs.dev/) - List of Awesome Tech Blogs.
 
 <br>
 
