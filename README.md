@@ -51,7 +51,6 @@ Some websites are tagged with the symbols listed below for convenience.
     - [Converter / Conversion](#converter--conversion)
       - [Unit Conversion](#unit-conversion)
     - [Visual](#visual)
-    - [Other Tools](#other-tools)
   - [DIY](#diy)
   - [Culture](#culture)
   - [Language](#language)
@@ -182,6 +181,7 @@ Some websites are tagged with the symbols listed below for convenience.
     - [Python](#python)
     - [C++](#c)
   - [Coding Practice / Competitive Programming](#coding-practice--competitive-programming)
+    - [Capture the Flag](#capture-the-flag)
     - [Projects](#projects)
     - [Open Source](#open-source)
     - [Hackathons](#hackathons)
@@ -207,6 +207,11 @@ Some websites are tagged with the symbols listed below for convenience.
 - [10015.io](https://10015.io/) - Free all-in-one toolbox for various tasks.
 - [UnTools](https://untools.co/) - Collection of thinking tools and frameworks.
 - [TimeTravel Memento](https://timetravel.mementoweb.org/) - Find Mementos in Internet Archive, Archive-It, British Library, archive.today, GitHub, and more.
+- [discu.eu](https://discu.eu/) - Keep up with the topics you care about through weekly newsletter, social & bots, browser extensions, bookmarklet.
+- [PromoWizard](https://promowizard.softr.app/) - Get promo codes without consuming hours of content on YouTube.
+- [Everybodywiki](https://en.everybodywiki.com/Everybodywiki:Welcome) - Rescues deleted articles and rejected drafts from Wikipedia in multiple languages and welcomes new articles.
+- [Lunar](https://lunar.fyi/) - Multi-featured app for controlling monitors.
+- [GetHuman](https://gethuman.com/) - Get a representative on the phone faster and receive better help from known companies.
 
 ### White Board / Notepad
 
@@ -270,6 +275,7 @@ Some websites are tagged with the symbols listed below for convenience.
 - [OnlineOCR](https://www.onlineocr.net/) - Picture to text converter with OCR support.
 - [PDF Candy](https://pdfcandy.com/) - Online tools for working with PDF files.
 - [PDFescape](https://www.pdfescape.com/) - Online free PDF editor and form filler.
+- [PrintIt](https://printit.work/about) - Service to print web pages as PDF with various customization options.
 
 #### Unit Conversion
 
@@ -293,7 +299,6 @@ Some websites are tagged with the symbols listed below for convenience.
 - [Stolen Camera Finder](https://www.stolencamerafinder.com/) - Use the serial number stored in your photos to search the web for other photos taken with the same camera.
 - [Ribbet](https://www.ribbet.com/) (~$) - Photo editing tools.
 - [Crossfade.io](https://crossfade.io/) - Web-based video mashups from your favorite sites.
-- [Dark Mode List](https://darkmodelist.com/) - List of 300 apps that support dark mode.
 - [GoProHeroes](https://goproheroes.com/) - GoPro videos across the web.
 - [Synthesia](https://www.synthesia.io/) ($) - AI video creation platform that creates videos from text in minutes.
 - [ClipDrop](https://clipdrop.co/) (~$) - Create stunning visuals in seconds, powered by AI.
@@ -304,29 +309,7 @@ Some websites are tagged with the symbols listed below for convenience.
 - [EZGIF](https://ezgif.com/) - Online GIF maker and image editor for creating and editing GIFs.
 - [PimEyes](https://pimeyes.com/en) - Facial recognition search engine and reverse image search for finding images containing a specific person.
 - [Visual Illusions](https://sites.socsci.uci.edu/~ddhoff/illusions.html) - Collection of visual illusions and demonstrations.
-
-### Other Tools
-
-- [PrintIt](https://printit.work/about) - Service to print web pages as PDF with various customization options.
-- [NirSoft](https://www.nirsoft.net/) - Collection of small utilities for Windows, including system tools, password recovery tools, and more.
-- [Ninite](https://ninite.com/) - Install and update multiple programs at once without toolbars or unnecessary clicks.
-- [HideMyWeb](https://hidemyweb.wordpress.com/) - Tool to hide, blur, and highlight content on web pages.
-- [ReadWok](https://app.readwok.com/lib) - Online text reader with a progressive viewing mode, allowing paragraph-by-paragraph reading and editing.
-- [Azure Speed Test](https://www.azurespeed.com/Azure/Latency) - Tools for testing the speed and latency of Azure services.
-- [Will Robots Take My Job?](https://willrobotstakemyjob.com/) - Estimates the automation risk, growth, wages, and more for various jobs.
-- [Signature Maker](https://signature-maker.net/) - Create handwritten digital signatures.
-- [discu.eu](https://discu.eu/) - A website with an unknown purpose.
-- [PromoWizard](https://promowizard.softr.app/) - Get promo codes without consuming hours of content on YouTube.
-- [Everybodywiki](https://en.everybodywiki.com/Everybodywiki:Welcome) - Rescues deleted articles and rejected drafts from Wikipedia in multiple languages and welcomes new articles.
-- [Loader.io](https://loader.io/) - Free load testing service to stress test web apps and APIs with thousands of concurrent connections.
-- [Lunar](https://lunar.fyi/) - Multi-featured app for controlling monitors.
-- [GetHuman](https://gethuman.com/) - Get a representative on the phone faster and receive better help from known companies.
 - [ByClickDownloader](https://www.byclickdownloader.com/) - Backup videos from various sites in HD, MP3, MP4, AVI, and other formats using their software.
-- [Preceden](https://www.preceden.com/) - Online timeline and roadmaps maker.
-- [Incoggo](https://incoggo.com/) - Adblocker for paywalls.
-- [12ft](https://12ft.io/) - Remove paywalls and gain access to articles.
-- [Browser.lol](https://browser.lol/) - Browse anonymously with a free virtual environment within your browser.
-- [3D House Planner](https://3dhouseplanner.com/) - Free 3D floor planner application on the web.
 
 ## DIY
 
@@ -713,6 +696,7 @@ Some websites are tagged with the symbols listed below for convenience.
 - [Novoresume](https://novoresume.com/) (~$) - Online resume builder.
 - [HelloTechRecruiters](https://hellotechrecruiters.com/) - Tailored for tech recruiters.
 - [FlowCV](https://flowcv.com/) (~$) - AI-boosted resume builder, cover letter, job tracker, email signature, personal website.
+- [Signature Maker](https://signature-maker.net/) - Create handwritten digital signatures.
 
 ### Careers
 
@@ -1052,6 +1036,8 @@ Some websites are tagged with the symbols listed below for convenience.
 - [Deniz Cem On Duygu Portfolio](https://www.denizcemonduygu.com/) - Personal portfolio of infographics.
 - [Data Visualization Catalogue](https://datavizcatalogue.com/index.html) - Catalog providing information on various types of data visualizations.
 - [Tableau Public](https://public.tableau.com/app/discover) - Free platform to explore, create, and publicly share data visualizations online.
+- [Will Robots Take My Job?](https://willrobotstakemyjob.com/) - Estimates the automation risk, growth, wages, and more for various jobs.
+- [Preceden](https://www.preceden.com/) - Online timeline and roadmaps maker.
 
 ### Diagrams
 
@@ -1160,6 +1146,7 @@ Some websites are tagged with the symbols listed below for convenience.
 
 - [Floor Plan Lab](https://floorplanlab.com/) - Platform for creating and visualizing floorplans.
 - [Engineers Edge](https://www.engineersedge.com/) - Platform providing articles and resources on structural and mechanical engineering topics.
+- [3D House Planner](https://3dhouseplanner.com/) - Free 3D floor planner application on the web.
 
 ### Mechanical Engineering
 
@@ -1393,6 +1380,8 @@ Some websites are tagged with the symbols listed below for convenience.
 - [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en) - An open-source, automated tool for improving the performance, quality, and correctness of web apps.
 - [Archive.md](https://archive.md/) - A time capsule for web pages.
 - [Hypothesis](https://web.hypothes.is/) - A conversation layer over the entire web, working everywhere without needing implementation by any underlying site (open community project).
+- [Loader.io](https://loader.io/) - Free load testing service to stress test web apps and APIs with thousands of concurrent connections.
+- [Azure Speed Test](https://www.azurespeed.com/Azure/Latency) - Tools for testing the speed and latency of Azure services.
 
 ## Web 3.0 Dev
 
@@ -1473,6 +1462,8 @@ Some websites are tagged with the symbols listed below for convenience.
 - [Privnote](https://privnote.com/) - Send notes that will self-destruct after being read.
 - [Dangerzone](https://dangerzone.rocks/) - Platform for converting potentially unsafe PDFs, Office documents, or images into safe, viewable formats.
 - [ExifTool](https://exiftool.org/) - Software for reading, writing, and editing metadata in image, audio, and video files.
+- [HideMyWeb](https://hidemyweb.wordpress.com/) - Tool to hide, blur, and highlight content on web pages.
+- [Browser.lol](https://browser.lol/) - Browse anonymously with a free virtual environment within your browser.
 
 ### Cryptography
 
@@ -1491,6 +1482,8 @@ Some websites are tagged with the symbols listed below for convenience.
 ### Ad Blocker
 
 - [Adblock Tester](https://adblock-tester.com/) - Tool to check the effectiveness of your AdBlock extensions.
+- [12ft](https://12ft.io/) - Remove paywalls and gain access to articles.
+- [Incoggo](https://incoggo.com/) - Adblocker for paywalls.
 
 ### Emails
 
@@ -1601,6 +1594,7 @@ Some websites are tagged with the symbols listed below for convenience.
 - [OlderGeeks](https://oldergeeks.com/) - Ad-free software download site supported by donations, providing a hassle-free experience.
 - [AlternativeTo](https://alternativeto.net/) - Discover the best alternatives to popular software based on user recommendations.
 - [Open Source Alternative](https://www.opensourcealternative.to/) - Platform providing open-source alternatives to proprietary software.
+- [Dark Mode List](https://darkmodelist.com/) - List of 300 apps that support dark mode.
 - [LocalStack](https://localstack.cloud/) - Develop and test cloud and serverless apps offline.
 - [Markwhen](https://markwhen.com/) - Text-to-timeline tool converting markdown-ish text into a cascading timeline.
 - [Asciinema](https://asciinema.org/) - Record and share your terminal sessions with a purely text-based approach.
@@ -1608,6 +1602,9 @@ Some websites are tagged with the symbols listed below for convenience.
 - [DockerSwarm.rocks](https://dockerswarm.rocks/) - Deploy your application stacks to production in a distributed cluster using Docker Compose files.
 - [EasyCron](https://www.easycron.com/) (~$) - Online cron job service (Paid).
 - [CDecl](https://cdecl.org/) - Translate C gibberish to English, helping you understand complex C declarations.
+- [NirSoft](https://www.nirsoft.net/) - Collection of small utilities for Windows, including system tools, password recovery tools, and more.
+- [Ninite](https://ninite.com/) - Install and update multiple programs at once without toolbars or unnecessary clicks.
+- [ReadWok](https://app.readwok.com/lib) - Online text reader with a progressive viewing mode, allowing paragraph-by-paragraph reading and editing.
 
 ### Snippets
 
@@ -1737,6 +1734,14 @@ Some websites are tagged with the symbols listed below for convenience.
 - [USACO Guide](https://usaco.guide/) - Comprehensive, free resource collection guiding users from Bronze to Platinum levels and beyond in competitive programming.
 - [JoinCPI](https://joincpi.org/) - Platform dedicated to promoting competitive programming among students through resources, classes, outreach, and contests.
 - [CP-Algorithms](https://cp-algorithms.com/) - Website providing a detailed guide to algorithms specifically tailored for competitive programming, offering in-depth explanations and examples.
+
+### Capture the Flag
+
+- [CTF101](https://ctf101.org/) - Platform providing educational resources for those new to Capture The Flag competitions.
+- [CTFtime](https://ctftime.org/) - Archive of Capture The Flag events, teams, and timelines.
+- [Google CTF on GitHub](https://github.com/google/google-ctf) - Google's Capture The Flag competition resources available on GitHub.
+- [Meusec CTF Resources](https://www.meusec.com/ctf/capture-the-flags-in-cybersecurity/) - Meusec's collection of Capture The Flag (CTF) resources in cybersecurity.
+- [Trail of Bits - CTF Guide](https://trailofbits.github.io/ctf/) - Guide by Trail of Bits providing insights and tips for participating in Capture The Flag competitions.
 
 ### Projects
 
