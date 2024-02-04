@@ -20,19 +20,23 @@ Feel free to share this list, star it, and contribute your own awesome finds.
 
 <br>
 
-(Please read the [DISCLAIMER](#disclaimer) before accessing any listed websites to understand the terms of this project)
-
-<br>
-
 ## Lexicon
 
-Some websites are tagged with the symbols listed below for convenience.
+Certain websites are tagged with the symbols listed below for convenience.
 
 | Symbol | Meaning                                                                       |
 | :----: | ----------------------------------------------------------------------------- |
 |   $    | Payment Required (There are no free options)                                  |
 |   ~$   | Freemium (Offers a free version but requires payment for additional features) |
 |   @    | Student Friendly (Offers discounts or a free version for students)            |
+
+<br>
+
+Some websites can fall into multiple categories. If you can't find what you need in a specific category, search for keywords or explore other relevant categories as well.
+
+<br>
+
+(Please read the [DISCLAIMER](#disclaimer) before accessing any listed websites to understand the terms of this project)
 
 <br>
 
@@ -44,6 +48,7 @@ Some websites are tagged with the symbols listed below for convenience.
   - [Tools](#tools)
     - [White Board / Notepad](#white-board--notepad)
     - [Mind Map / Note Taking](#mind-map--note-taking)
+    - [Diagrams](#diagrams)
     - [Texts](#texts)
     - [Automating browser](#automating-browser)
     - [Comparison](#comparison)
@@ -113,17 +118,16 @@ Some websites are tagged with the symbols listed below for convenience.
       - [Book Summaries And Recommendations](#book-summaries-and-recommendations)
     - [Maps and Data](#maps-and-data)
     - [Infographic](#infographic)
-    - [Diagrams](#diagrams)
     - [Philosophy](#philosophy)
     - [Social Sciences](#social-sciences)
     - [History](#history)
     - [Geoscience](#geoscience)
     - [Biology](#biology)
-    - [Physics](#physics)
-      - [Quantum](#quantum)
-      - [Astronomy](#astronomy)
-    - [Mathematics](#mathematics)
-      - [Math + Art](#math--art)
+  - [Physics](#physics)
+    - [Quantum](#quantum)
+    - [Astronomy](#astronomy)
+  - [Mathematics](#mathematics)
+    - [Math + Art](#math--art)
   - [Engineering](#engineering)
     - [Civil Engineering](#civil-engineering)
     - [Mechanical Engineering](#mechanical-engineering)
@@ -132,9 +136,9 @@ Some websites are tagged with the symbols listed below for convenience.
       - [Control](#control)
       - [Vibrations](#vibrations)
     - [Electronics Engineering](#electronics-engineering)
-    - [Computer Science](#computer-science)
-      - [Data Structures and Algorithms (DS\&A)](#data-structures-and-algorithms-dsa)
-      - [Big-O notation](#big-o-notation)
+  - [Computer Science](#computer-science)
+    - [Data Structures and Algorithms (DS\&A)](#data-structures-and-algorithms-dsa)
+    - [Big-O notation](#big-o-notation)
   - [AI/ML](#aiml)
     - [Prompt Engineering](#prompt-engineering)
     - [AI tools](#ai-tools)
@@ -148,14 +152,15 @@ Some websites are tagged with the symbols listed below for convenience.
       - [APIs](#apis)
       - [SQL](#sql)
     - [Web Analytics](#web-analytics)
-  - [Web 3.0 Dev](#web-30-dev)
-  - [Android Development](#android-development)
-  - [Game Development](#game-development)
-    - [Pokemon](#pokemon)
-    - [Chess](#chess)
-  - [Linux](#linux)
-  - [Git](#git)
-    - [GitHub](#github)
+    - [Web 3.0 Dev](#web-30-dev)
+  - [Software Engineering](#software-engineering)
+    - [Android Development](#android-development)
+    - [Game Development](#game-development)
+      - [Pokemon](#pokemon)
+      - [Chess](#chess)
+    - [Linux](#linux)
+    - [Git](#git)
+      - [GitHub](#github)
   - [Privacy](#privacy)
     - [Cryptography](#cryptography)
     - [GAFA Alternatives](#gafa-alternatives)
@@ -228,6 +233,14 @@ Some websites are tagged with the symbols listed below for convenience.
 - [Anotepad](https://anotepad.com/) - Online notepad. No login. Download your note as PDF or Word document.
 - [Notes.io](https://notes.io/) - Web-based application for taking notes.
 
+### Diagrams
+
+- [Creately](https://creately.com/) - Data-connected Visual Workspace for brainstorming, planning, executing, and capturing knowledge.
+- [draw.io](https://www.drawio.com/) - Open-source, security-first technology stack for building diagramming applications. For [web usage](https://app.diagrams.net/?src=about).
+- [OrgPad](https://orgpad.com/?ref=producthunt) (~$) - An interactive online mind map.
+- [Lucidchart](https://www.lucidchart.com/pages/) (~$) - A diagramming and flowchart app that brings teams together to make better decisions and build the future.
+- [Learn Anything](https://learn-anything.xyz/) - A platform for organizing the world's knowledge, exploring connections, and curating learning paths.
+
 ### Texts
 
 - [Word Counter](https://freecodetools.org/word-counter/) - Word counter.
@@ -236,6 +249,10 @@ Some websites are tagged with the symbols listed below for convenience.
 - [Fancy Text Generator](https://lingojam.com/FancyTextGenerator) - Convert a text into all kinds of fonts.
 - [Calligraphr](https://www.calligraphr.com/en/) - Transform your handwriting or calligraphy into a font.
 - [Dongerlist](https://dongerlist.com/) - Set of Unicode characters assembled to form a text emoticon.
+- [ASCII-art Tutorial](https://stonestoryrpg.com/ascii_tutorial.html) - Tutorial on ASCII art.
+- [Emoji Combos](https://emojicombos.com/) - Collection of emoji combinations and sequences.
+- [ASCII World](https://www.asciiworld.com/) - Platform featuring ASCII art and tutorials.
+- [Rentry](https://rentry.co/FMHY) - Online collaborative markdown editor.
 
 ### Automating browser
 
@@ -253,6 +270,7 @@ Some websites are tagged with the symbols listed below for convenience.
 - [Kimovil](https://www.kimovil.com/en/) - Compare specifications and prices of smartphones and tablets.
 - [DiffChecker](https://www.diffchecker.com/) - Compare text, image, PDF, and more to find differences between files.
 - [CodingFont](https://www.codingfont.com/) - Gamified experience to compare and find coding fonts.
+- [This vs That](https://thisvsthat.io/) - Type in two things to compare them to each other.
 
 ### File
 
@@ -314,10 +332,11 @@ Some websites are tagged with the symbols listed below for convenience.
 ## DIY
 
 - [WikiHow](https://www.wikihow.com/Main-Page) - A collaborative platform for creating and sharing how-to guides.
-- [Dummies](https://www.dummies.com/) - A series of instructional/reference books.
-- [HowStuffWorks](https://www.howstuffworks.com/) - Explore how things work with in-depth explanations and articles.
+- [ManualsLib](https://www.manualslib.com/) - Online repository of user manuals and guides.
 - [This to That](https://thistothat.com/) - Learn how to glue different materials together.
+- [HowStuffWorks](https://www.howstuffworks.com/) - Explore how things work with in-depth explanations and articles.
 - [WonderHowTo](https://www.wonderhowto.com/) - Learn how to do almost anything with instructional videos and step-by-step guides.
+- [Dummies](https://www.dummies.com/) - A series of instructional/reference books.
 - [DoItYourself](https://www.doityourself.com/) - Resources for DIY projects and home improvement.
 - [JScreenFix](https://www.jscreenfix.com/) - Pixel fixing algorithm for repairing defective pixels, particularly effective for stuck pixels. No installation required, and it's free.
 - [Donkey Car](https://www.donkeycar.com/) - Open-source DIY self-driving platform for small-scale cars. It combines an RC car with a Raspberry Pi and is powered by Python (tornado, keras, tensorflow, opencv, etc.).
@@ -346,6 +365,7 @@ Some websites are tagged with the symbols listed below for convenience.
 - [Pink Trombone](https://dood.al/pinktrombone/) - Interactive simulation of the human mouth and its sounds using an animated voicebox.
 - [Japanese Wiki Corpus](https://www.japanese-wiki-corpus.org/) - Resource generated from the Japanese-English Bilingual Corpus of Wikipedia's Kyoto Articles.
 - [Latin Phrases](https://latin-phrases.co.uk/) - Reference to look up translations of Latin phrases.
+- [Prismatext](https://prismatext.com/) - Blend the most useful foreign words and phrases into your favorite novels and stories.
 
 ### Grammar
 
@@ -883,6 +903,7 @@ Some websites are tagged with the symbols listed below for convenience.
 - [Bridges: About Institutions, Histories, and Artifacts](https://temple.manifoldapp.org/projects/bridges) - Resource about institutions, histories, and artifacts of United States college and university life.
 - [Tropy](https://tropy.org/) - Platform to organize research by turning photos into items.
 - [Linda Hall Library Catalog](https://catalog.lindahall.org/discovery/search?vid=01LINDAHALL_INST:LHL) - Catalog of the Linda Hall Library that allows you to search for books, journals, conference proceedings, technical reports and standards, and other materials, focusing on science, engineering, and technology.
+- [Project Abstracts](https://projectabstracts.com/) - Collection of project abstracts and downloads for academic mini projects and final year projects across various fields.
 
 ### Studying
 
@@ -905,9 +926,10 @@ Some websites are tagged with the symbols listed below for convenience.
 
 ### MOOC (Massive Open Online Courses)
 
-- [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page) - Wikimedia Foundation project providing free educational content and resources.
+- [InfoCobuild - Audio Video Courses](http://www.infocobuild.com/education/audio-video-courses/) - Collection of free audio/video lectures for academic courses from colleges and universities around the world. It is well-categorized with academic subjects including biology, chemistry, computer science, economics, electronics and electrical engineering, history, literature, materials science, mathematics, physics, and psychology.
 - [MIT OpenCourseWare](https://ocw.mit.edu/) - MIT's initiative offering free and open access to a wide range of course materials.
 - [Coursera](https://www.coursera.org/) - Online learning platform providing courses, certificates, and degree programs from universities and organizations worldwide.
+- [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page) - Wikimedia Foundation project providing free educational content and resources.
 - [Udemy](https://www.udemy.com/) - Platform offering a vast array of online courses on various subjects, taught by experts.
 - [Open Culture](https://www.openculture.com/) - Website providing free cultural and educational media, including courses, textbooks, and audiobooks.
 - [edX](https://www.edx.org/) - Online learning platform offering courses, certificates, and degrees from universities and institutions around the world.
@@ -1026,6 +1048,9 @@ Some websites are tagged with the symbols listed below for convenience.
 - [Mount Everest 3D Map](https://mount-everest3d.com/3d-map/) - Interactive 3D map of Mount Everest.
 - [Visualize Value Archive](https://archivve.visualizevalue.com/) - Archive of visual content from Visualize Value.
 - [Map of GitHub](https://anvaka.github.io/map-of-github/) - Visual representation of the GitHub repository network.
+- [Fliist](https://fliist.com/en) - Platform for creating and sharing your favorite lists.
+- [Search Engine Map](https://www.searchenginemap.com/) - Visual representation of popular search engines.
+- [Friendly Dubinsky](https://friendly-dubinsky-cb22fe.netlify.app/) - Maps of different places.
 
 ### Infographic
 
@@ -1038,14 +1063,7 @@ Some websites are tagged with the symbols listed below for convenience.
 - [Tableau Public](https://public.tableau.com/app/discover) - Free platform to explore, create, and publicly share data visualizations online.
 - [Will Robots Take My Job?](https://willrobotstakemyjob.com/) - Estimates the automation risk, growth, wages, and more for various jobs.
 - [Preceden](https://www.preceden.com/) - Online timeline and roadmaps maker.
-
-### Diagrams
-
-- [Creately](https://creately.com/) - Data-connected Visual Workspace for brainstorming, planning, executing, and capturing knowledge.
-- [draw.io](https://www.drawio.com/) - Open-source, security-first technology stack for building diagramming applications. For [web usage](https://app.diagrams.net/?src=about).
-- [OrgPad](https://orgpad.com/?ref=producthunt) (~$) - An interactive online mind map.
-- [Lucidchart](https://www.lucidchart.com/pages/) (~$) - A diagramming and flowchart app that brings teams together to make better decisions and build the future.
-- [Learn Anything](https://learn-anything.xyz/) - A platform for organizing the world's knowledge, exploring connections, and curating learning paths.
+- [Jason Davies](https://www.jasondavies.com/) - Personal website of Jason Davies showcasing his projects and visualizations.
 
 ### Philosophy
 
@@ -1086,7 +1104,7 @@ Some websites are tagged with the symbols listed below for convenience.
 - [Ask Nature](https://asknature.org/) - Biology-inspired strategies, innovations, or educational resources.
 - [We Are Hosts for Memes](https://wearehostsformemes.com/) - You have been exposed to The Meta-meme
 
-### Physics
+## Physics
 
 - [The Theoretical Minimum](https://theoreticalminimum.com/home) - Series of Stanford Continuing Studies courses taught by world-renowned physicist Leonard Susskind.
 - [Theoretical Physics - Cambridge](https://www.damtp.cam.ac.uk/user/tong/index.html) - Resources and information about theoretical physics from the University of Cambridge.
@@ -1094,19 +1112,19 @@ Some websites are tagged with the symbols listed below for convenience.
 - [Mueller Group - Cornell](https://muellergroup.lassp.cornell.edu/index.html) - Laboratory of Atomic and Solid State Physics at Cornell University.
 - [Ptable](https://ptable.com/?lang=en) - Interactive and customizable periodic table providing information about elements and their properties.
 
-#### Quantum
+### Quantum
 
 - <https://vsg.quasihome.com/interfer.htm> - Applet of Young's Double Slit Interference
 - [Webb Telescope](https://webbtelescope.org/) - Official website for the James Webb Space Telescope.
 
-#### Astronomy
+### Astronomy
 
 - [Fear of Physics](https://www.fearofphysics.com/) - Offers a free "Astronomy 101" course.
 - [Galileo's Applets](https://galileo.phys.virginia.edu/classes/109N/more_stuff/Applets/home.html) - Provides applets on early lunar observations and various motion-related topics.
 - [100,000 Stars](https://stars.chromeexperiments.com/) - A visualization of 100,000 nearby stars, providing an immersive experience.
 - [The Million Earth Solar System](https://planetplanet.net/2018/06/01/the-million-earth-solar-system/) - Explores the concept of a solar system with a million Earth-like planets.
 
-### Mathematics
+## Mathematics
 
 - [Open Logic Text](https://openlogicproject.org/about/) - Open-source, modular, collaboratively authored collection of teaching materials for formal (meta)logic and formal methodss.
 - [OEIS - The On-Line Encyclopedia of Integer Sequences](https://oeis.org/) - Platform providing a comprehensive database of integer sequences.
@@ -1127,7 +1145,7 @@ Some websites are tagged with the symbols listed below for convenience.
 - [3Blue1Brown Non-Videos](https://some.3b1b.co/non-videos) - Non-video content winners of 3Blue1Brown's SoME.
 - [Mathigon – The Mathematical Playground](https://mathigon.org/) - Interactive mathematics platform offering educational content and resources.
 
-#### Math + Art
+### Math + Art
 
 - [Paul Nylander's website](https://bugman123.com/) - Favorite hobbies and interests, especially science, and art of Paul Nylander
 - [NYC DOE CS4All](https://nycdoe-cs4all.github.io/) - Introduction to Computational Media with p5.js
@@ -1173,6 +1191,7 @@ Some websites are tagged with the symbols listed below for convenience.
 - [MIT OpenCourseWare - Materials Science and Engineering](https://web.mit.edu/16.unified/www/SPRING/materials/index.html) - Concepts are deeply examined
 - [StatNano](https://product.statnano.com/) - Reliable source of information about nanotechnology products, currently used in a broad range of industrial applications
 - [MyMiniFactory](https://www.myminifactory.com/) - World’s largest ecosystem of free to download, 3D printable objects of cultural significance
+- [Roy Mech](https://roymech.org/) - This site provides useful information, tables , schedules and formula related to mechanical engineering and engineering materials.
 
 #### Thermodynamics
 
@@ -1197,7 +1216,7 @@ Some websites are tagged with the symbols listed below for convenience.
 - [TechSpot - How CPUs Are Designed and Built](https://www.techspot.com/article/1821-how-cpus-are-designed-and-built/) - Series covering computer architecture, processor circuit design, VLSI, chip fabrication, and future trends in computing.
 - [Open Circuits Book](https://www.opencircuitsbook.com/) - "Open Circuits" is a photographic exploration of the beautiful design inside everyday electronics.
 
-### Computer Science
+## Computer Science
 
 - [Webopedia](https://www.webopedia.com/) - Online tech dictionary, study guides, and reviews for computer and IT terms.
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/) - Comprehensive guide for self-study in computer science.
@@ -1208,7 +1227,7 @@ Some websites are tagged with the symbols listed below for convenience.
 - [Computer Jargon](https://www.computerhope.com/jargon.htm) - Glossary of computer-related jargon and technical terms.
 - [Talks by Alan Kay](https://tinlizzie.org/IA/index.php/Talks_by_Alan_Kay) - Collection of talks by computer scientist Alan Kay.
 
-#### Data Structures and Algorithms (DS&A)
+### Data Structures and Algorithms (DS&A)
 
 - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/) - NIST's Dictionary of Algorithms and Data Structures.
 - [Visualgo](https://visualgo.net/en) - Platform for visualizing data structures and algorithms through animations.
@@ -1218,7 +1237,7 @@ Some websites are tagged with the symbols listed below for convenience.
 - [Visual Algorithms](https://thimbleby.gitlab.io/algorithm-wiki-site/) - Platform presenting visual representations of algorithms.
 - [Sinon - Algorithms](https://sinon.org/algorithms/) - Summarized page covering important results from computer science.
 
-#### Big-O notation
+### Big-O notation
 
 - [Algorithms and Data Structures Big-O Notation](https://cooervo.github.io/Algorithms-DataStructures-BigONotation/) - Comprehensive resource covering Big-O notation for various algorithms and data structures.
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) - Webpage presenting the space and time complexities (Big-O) of common algorithms used in Computer Science.
@@ -1231,6 +1250,7 @@ Some websites are tagged with the symbols listed below for convenience.
 - [Papers with Code](https://paperswithcode.com/sota) - Collection of state-of-the-art results for machine learning tasks with associated code.
 - [Delta Academy Maps](https://maps.joindeltaacademy.com/) - Map of mathematics for Machine Learning.
 - [Control Challenges](https://janismac.github.io/ControlChallenges/) -Leetcode for robotics.
+- [Inside the Matrix by PyTorch](https://pytorch.org/blog/inside-the-matrix/) - Blog post by PyTorch that is visualizing matrix multiplication, attention and beyond.
 
 ### Prompt Engineering
 
@@ -1240,9 +1260,11 @@ Some websites are tagged with the symbols listed below for convenience.
 - [QuickRef ChatGPT](https://quickref.me/chatgpt) - ChatGPT cheatsheet.
 - [OpenAI Cookbook](https://cookbook.openai.com/) - Cookbook by OpenAI providing practical guides for working with AI.
 - [Prompting Guide](https://www.promptingguide.ai/) - Resource for creating effective prompts for AI models.
+- [Instaprompt](https://www.instaprompt.ai/?ref=producthunt) - Platform offering instant prompts for writing.
 
 ### AI tools
 
+- [Future Tools](https://www.futuretools.io/) - Platform for finding the exact AI tool for your needs.
 - [WarpSound AI](https://www.warpsound.ai/) - Create high-quality generative AI music in seconds with just prompts.
 - [AI Tools Arena](https://aitoolsarena.com/) - Platform showcasing various AI tools and resources.
 - [Klavier AI](https://klavier.ai/) - Allows you to do Q&A with ChatGPT on web pages and docs you choose.
@@ -1251,6 +1273,10 @@ Some websites are tagged with the symbols listed below for convenience.
 - [Speechify](https://speechify.com/) - Power through documents, articles, PDFs, email—anything you read—by listening with their leading AI text-to-speech reader.
 - [Humata AI](https://www.humata.ai/) - Upload any PDF or document and get answers from it in seconds.
 - [Syntelly](https://app.syntelly.com/search) - Artificial intelligence for organic and medical chemistry.
+- [Warp.dev - Warp AI](https://www.warp.dev/warp-ai?source=producthunt&ref=producthunt) - AI-powered tool for building APIs without writing code.
+- [Feedback by AI](https://feedbackbyai.com/?ref=producthunt) - Platform utilizing AI for generating actionable feedback on writing.
+- [Seeing the World through Your Eyes](https://world-from-eyes.github.io/) - Reconstruct the world that is reflected through human eyes.
+- [Auxiliary Tools](https://www.auxiliary.tools/) - Platform offering AI experiments and tools for humans.
 
 ### Data Science
 
@@ -1259,28 +1285,24 @@ Some websites are tagged with the symbols listed below for convenience.
 
 ## Web Development
 
+- [W3C](https://www.w3.org/) - World Wide Web Consortium's official website, making it possible to use web technologies with different languages, scripts, and cultures.
 - [UX Core](https://keepsimple.io/uxcore) - UX Core allows you to explore many cognitive biases while creating software.
 - [Coggle](https://coggle.it/diagram/Vz9LvW8byvN0I38x/t/web-development) - Collaborative mind-mapping tool for visualizing and organizing ideas related to web development.
 - [WebDevHome](https://webdevhome.github.io/) - Collection of web development resources and tutorials.
 - [Web Dev Resources](https://web-dev-resources.com/#/) - Curated list of awesome web development resources for developers.
 - [BBC Microbit Editor](https://bbcmic.ro/) - Basic editor from BBC for Microbit programming.
 - [DemoFox](https://blog.demofox.org/) - Blog with various links related to programming and development.
-- [W3C](https://www.w3.org/) - World Wide Web Consortium's official website, making it possible to use web technologies with different languages, scripts, and cultures.
 - [Timeline of Web Browsers](https://super-static-assets.s3.amazonaws.com/bc2689f0-a124-4777-93dc-416ee1aa4858/images/7db6532c-14f1-4c51-a337-b3021a7293bf.svg) - Visualization of the timeline of web browsers until 2019.
 - [Is Houdini Ready Yet?](https://ishoudinireadyyet.com/) - Tool to check the readiness status of various Houdini specifications in web browsers.
-- [Auxiliary Tools](https://www.auxiliary.tools/) - Platform offering AI experiments and tools for humans.
 - [Artillery](https://www.artillery.io/) - Modern load testing and smoke testing tool for SRE (Site Reliability Engineering) and DevOps.
 - [Rentry](https://rentry.org/) - Markdown pastebin service with preview, custom URLs, and editing, offering fast, simple, and free use with entries kept forever.
 - [OneLang IDE](https://ide.onelang.io/) - Online tool for converting code from one programming language to another.
+- [Intab Resources](https://intab.io/resources/) - Curated Web Dev Tools 2021.
 - [Chrome Extension Kit](https://chromeextensionkit.com/) ($) - Kit including 17 battle-tested starter templates for building Chrome Extensions, saving time on setup and focusing on shipping.
 - [Esoteric Codes](https://esoteric.codes/) - Platform exploring esoteric programming languages (esolangs), constraint-based coding, code art, code poetry, and more.
 - [FreeFormatter](https://freeformatter.com/) - Free online tools for developers, including formatters, validators, code minifiers, string escapers, encoders/decoders, message digesters, and more.
-- [Free Privacy Policy Generator](https://www.freeprivacypolicy.com/) - Tool to generate a free privacy policy, ensuring compliance with requirements from CCPA, GDPR, CalOPPA, Google Analytics & AdSense, and more.
-- [Intab Resources](https://intab.io/resources/) - Curated Web Dev Tools 2021.
 - [dbdesigner.net](https://www.dbdesigner.net/) - Online database schema design and modeling tool for free.
-- [Projects in Networking](https://projectsinnetworking.com/) - Resource for networking projects, network security projects, cyber security case studies, and source code for students, graduates, and professionals in the computer networking and security domain.
 - [Jvns blog](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/>) - A list of new(ish) command line tools
-- [Addy's Toolkit](https://toolkit.addy.codes/) - Collection of 704 hand-picked tools and resources for web designers and developers.
 - [VisBug](https://visbug.web.app/) - Open-source browser design tools for web development.
 - [Web Design Repo](https://webdesignrepo.com/) - Repository of free web design resources for designers and developers.
 - [Web.dev Learn](https://web.dev/learn) - Educational platform by Google providing resources and tutorials for web development.
@@ -1290,8 +1312,10 @@ Some websites are tagged with the symbols listed below for convenience.
 - [Airtable Toolkit](https://www.airtable.com/home/toolkit) - Platform allowing users to build apps that connect different parts of their work, ensuring synchronization within the business.
 - [Grey Software Resources](https://resources.grey.software/) - Up-to-date software resources curated and crowd-sourced by professionals and academics worldwide.
 - [Free-for.dev](https://free-for.dev/#/) - List of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
-- [Homepage Gallery](https://homepage.gallery/) - Gallery featuring 500+ websites for web design inspiration.
+- [Free Privacy Policy Generator](https://www.freeprivacypolicy.com/) - Tool to generate a free privacy policy, ensuring compliance with requirements from CCPA, GDPR, CalOPPA, Google Analytics & AdSense, and more.
 - [Mailinator](https://www.mailinator.com/) ($) - Platform allowing developers and QA testing teams to test email and SMS workflows, including 2FA verifications, sign-ups, and password resets.
+- [Atlaq](https://atlaq.com/) - Domain name generator.
+- [Addy's Toolkit](https://toolkit.addy.codes/) - Collection of 806 hand-picked tools & resources for web designers & developers.
 
 ### Front-end
 
@@ -1303,6 +1327,7 @@ Some websites are tagged with the symbols listed below for convenience.
 - [Frontend Mentor](https://www.frontendmentor.io/) - Platform to solve real-world HTML, CSS, and JavaScript challenges while working to professional designs.
 - [CodePen](https://codepen.io/) - Platform to build, test, and discover front-end code. Explore [topics](https://codepen.io/topics/).
 - [Electron](https://www.electronjs.org/) - Framework to build cross-platform desktop apps with JavaScript, HTML, and CSS.
+- [Homepage Gallery](https://homepage.gallery/) - Gallery featuring 500+ websites for web design inspiration.
 - [HTML Dog](https://htmldog.com/) - Comprehensive resource on HTML, CSS, and JavaScript.
 - [Learn.shayhowe](https://learn.shayhowe.com/) - Learn to code HTML and CSS.
 - [This vs That](https://thisthat.dev/) - Explore the differences between concepts in front-end development.
@@ -1383,38 +1408,47 @@ Some websites are tagged with the symbols listed below for convenience.
 - [Loader.io](https://loader.io/) - Free load testing service to stress test web apps and APIs with thousands of concurrent connections.
 - [Azure Speed Test](https://www.azurespeed.com/Azure/Latency) - Tools for testing the speed and latency of Azure services.
 
-## Web 3.0 Dev
+### Web 3.0 Dev
 
 - [Web3 is Going Great](https://web3isgoinggreat.com/) - Track examples of challenges in the blockchain/crypto/web3 technology space. The timeline covers events in cryptocurrency and blockchain-based technologies since the beginning of 2021.
 - [Blockchain Demo](https://andersbrownworth.com/blockchain/coinbase) - A demonstration of how a blockchain works.
 - [DappRadar](https://dappradar.com/) - Discover, track, and trade in the world of DeFi, NFTs, and Gaming.
 - [DeFi Pulse](https://www.defipulse.com/) - A list of decentralized finance (DeFi) projects and their statistics.
 
-## Android Development
+## Software Engineering
+
+- [NoviceDock](https://novicedock.com/) - Platform that provides resources and explanations across various software engineering areas.
+- [Morioh](https://morioh.com/) - Social network for developers to discuss topics about bugs and issues, share knowledge and connect the talents of millions of programmers and developers around the world.
+- [Algorithmica - High-Performance Computing](https://en.algorithmica.org/hpc/) - Algorithms for Modern Hardware by Sergey Slotin.
+- [ExBook](https://markm208.github.io/exbook/) - An Animated Introduction to Elixir.
+- [Ben Grosser Projects](https://bengrosser.com/projects/) - Portfolio of projects by Ben Grosser.
+
+### Android Development
 
 - [Fossdroid](https://fossdroid.com/) - A platform for discovering and sharing open-source Android apps.
 - [Android Weekly](https://androidweekly.net/) - A weekly newsletter with curated news, articles, and resources related to Android development.
 - [F-Droid Repository Search](https://apt.izzysoft.de/fdroid/index.php) - Allows you to search for apps available on the F-Droid repository, a collection of free and open-source Android apps.
 - [Exodus Privacy](https://reports.exodus-privacy.eu.org/en/) - Helps check permissions and trackers of Android apps, providing insights into the privacy aspects of different applications.
 - [Don't Kill My App](https://dontkillmyapp.com/) - A website advocating against aggressive app background process limitations on Android, which can negatively impact app performance.
+- [Mobile X Files](https://mobilexfiles.com/) - Smartphones' secret codes and other hidden functions.
 
-## Game Development
+### Game Development
 
 - [itch.io](https://itch.io/) - A platform that provides a simple way to find and share indie games online for free.
 - [System Requirements Lab](https://www.systemrequirementslab.com/cyri) - Analyzes your computer's specifications in seconds, providing information on whether your system meets the requirements for various games.
 
-### Pokemon
+#### Pokemon
 
 - [Pokemon Database](https://pokemondb.net/) - A comprehensive Pokémon database with news and updates.
 - [Serebii](https://serebii.net/) - Offers various news, features, archives, and explanations about Pokémon.
 
-### Chess
+#### Chess
 
 - [The Chess Website](https://www.thechesswebsite.com/) - Learn, Practice, and Play Chess.
 - [Lichess](https://en.lichess.org/) - Free/libre, open-source chess server powered by volunteers and donations.
 - [Chess.com](https://www.chess.com/) - Online platform for online chess.
 
-## Linux
+### Linux
 
 - [Linux Journey](https://linuxjourney.com/) - Platform for learning Linux.
 - [Run Linux in Your Browser](https://bellard.org/jslinux/) - Run Linux or other operating systems in your browser.
@@ -1424,13 +1458,13 @@ Some websites are tagged with the symbols listed below for convenience.
 - [Command Line for Beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) - Overview of the Linux command line for beginners.
 - [Vim Cheat Sheet](https://vim.rtorr.com/) - Vim cheat sheet.
 
-## Git
+### Git
 
 - [Git - The Simple Guide](https://rogerdudler.github.io/git-guide/) - A straightforward guide for getting started with Git.
 - [Git Sheet](https://gitsheet.wtf) - A quick reference guide for common Git commands.
 - [MiXLab on Google Colab](https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb#scrollTo=e-0yDs4C0HkB) - A mixture of Google Colab notebooks compiled from GitHub.
 
-### GitHub
+#### GitHub
 
 - [GitStalk](https://gitstalk.netlify.app/) - Platform to discover what individuals are working on in the GitHub community.
 - [GitExplorer](https://gitexplorer.com/) - Tool to find the right Git commands without searching through the web.
@@ -1605,6 +1639,9 @@ Some websites are tagged with the symbols listed below for convenience.
 - [NirSoft](https://www.nirsoft.net/) - Collection of small utilities for Windows, including system tools, password recovery tools, and more.
 - [Ninite](https://ninite.com/) - Install and update multiple programs at once without toolbars or unnecessary clicks.
 - [ReadWok](https://app.readwok.com/lib) - Online text reader with a progressive viewing mode, allowing paragraph-by-paragraph reading and editing.
+- [BitwiseCMD](https://bitwisecmd.com/) - Online bitwise operations and conversions.
+- [Commands.dev](https://www.commands.dev/?ref=producthunt) - Searchable, templated catalog of popular terminal commands curated from across the internet.
+- [SourceForge](https://sourceforge.net/) - Web-based service that allows you to compare, download and develop open source and business software.
 
 ### Snippets
 
@@ -1714,14 +1751,12 @@ Some websites are tagged with the symbols listed below for convenience.
 - [AlgoLeague](https://www.algoleague.com/) - Competitive programming platform for practicing algorithmic problem-solving.
 - [InterviewBit](https://www.interviewbit.com/coding-interview-questions/) - Platform offering coding interview questions and challenges to help prepare for technical interviews.
 - [CList](https://clist.by/) - List of competitions from various programming websites, providing a centralized resource for upcoming contests.
-- [CSS Battle](https://cssbattle.dev/) - Platform challenging users to use CSS skills to replicate targets with the smallest possible code.
 - [Codeply](https://www.codeply.com/) - Free online editor featuring dozens of frameworks, starter templates, and over 50,000 code snippets.
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login) - Platform for training algorithms and programming challenges to enhance programming skills.
 - [Rosalind](https://rosalind.info/problems/locations/) - Platform for learning bioinformatics and programming through problem-solving.
 - [Kattis](https://open.kattis.com/) - Platform with hundreds of programming problems to solve, helping users practice and improve their coding skills.
 - [Exercism](https://exercism.org/tracks) - Platform for developing fluency in 67 programming languages through a unique blend of learning, practice, and mentoring, offered for free.
 - [Codility](https://codility.com/programmers/challenges) - Platform offering coding challenges to assess and improve algorithmic and problem-solving skills.
-- [JavaScript Quiz](https://javascriptquiz.com/) - Website offering quizzes focused on testing and enhancing knowledge of JavaScript programming language.
 - [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) - Subreddit on Reddit featuring daily programming challenges and discussions for coding enthusiasts.
 - [Daily Coding Problem](https://www.dailycodingproblem.com/) - Service that sends daily coding challenges to subscribers to improve coding and problem-solving skills.
 - [Coderbyte](https://coderbyte.com/) - Platform with coding challenges and interview preparation resources to enhance programming skills.
@@ -1734,6 +1769,9 @@ Some websites are tagged with the symbols listed below for convenience.
 - [USACO Guide](https://usaco.guide/) - Comprehensive, free resource collection guiding users from Bronze to Platinum levels and beyond in competitive programming.
 - [JoinCPI](https://joincpi.org/) - Platform dedicated to promoting competitive programming among students through resources, classes, outreach, and contests.
 - [CP-Algorithms](https://cp-algorithms.com/) - Website providing a detailed guide to algorithms specifically tailored for competitive programming, offering in-depth explanations and examples.
+- [CSS Battle](https://cssbattle.dev/) - Platform challenging users to use CSS skills to replicate targets with the smallest possible code.
+- [JavaScript Quiz](https://javascriptquiz.com/) - Website offering quizzes focused on testing and enhancing knowledge of JavaScript programming language.
+- [Elevator Saga](https://play.elevatorsaga.com/) - Game for learning and practicing JavaScript.
 
 ### Capture the Flag
 
@@ -1748,6 +1786,7 @@ Some websites are tagged with the symbols listed below for convenience.
 - [Projects-Solutions on GitHub](https://github.com/karan/Projects-Solutions) - GitHub repository providing project-based coding challenges for learning programming through practical applications.
 - [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x#build-your-own-neural-network) - GitHub repository providing guides on building your favorite technologies from scratch.
 - [Arduino Project Hub](https://projecthub.arduino.cc/) - Hub for sharing and discovering Arduino projects.
+- [Projects in Networking](https://projectsinnetworking.com/) - Resource for networking projects, network security projects, cyber security case studies, and source code for students, graduates, and professionals in the computer networking and security domain.
 
 ### Open Source
 
@@ -1823,6 +1862,8 @@ Some websites are tagged with the symbols listed below for convenience.
 - [Typing.com](https://www.typing.com/) - Online resource offering typing lessons, games, and tests for learners of all levels.
 - [KeyCombiner](https://keycombiner.com/) - Platform for learning and practicing keyboard shortcuts and key combinations.
 - [Yip-Yip](https://www.yip-yip.com/) - Online tool providing keyboard shortcuts for various applications and programs.
+- [Keebmaker](https://keebmaker.com/) - Resource for creating custom mechanical keyboards.
+- [Colemak - Learn](https://colemak.com/Learn) - Learning resources for the Colemak keyboard layout.
 
 ### Keyboard Shortcuts
 
