@@ -16,7 +16,7 @@ Most of these websites are gathered from:
 
 <br>
 
-Feel free to share this list, star it, and contribute your own awesome finds.
+Feel free to share this list, star it, and [contribute](#contributing) your own awesome finds.
 
 <br>
 
@@ -33,12 +33,6 @@ Certain websites are tagged with the symbols listed below for convenience.
 <br>
 
 Some websites can fall into multiple categories. If you can't find what you need in a specific category, search for keywords or explore other relevant categories as well.
-
-<br>
-
-(Please read the [DISCLAIMER](#disclaimer) before accessing any listed websites to understand the terms of this project)
-
-<br>
 
 # Contents
 
@@ -140,9 +134,11 @@ Some websites can fall into multiple categories. If you can't find what you need
     - [Data Structures and Algorithms (DS\&A)](#data-structures-and-algorithms-dsa)
     - [Big-O notation](#big-o-notation)
   - [AI/ML](#aiml)
+    - [LLMs](#llms)
     - [Prompt Engineering](#prompt-engineering)
     - [AI tools](#ai-tools)
     - [Data Science](#data-science)
+    - [Databases](#databases)
   - [Web Development](#web-development)
     - [Front-end](#front-end)
       - [HTML](#html)
@@ -200,8 +196,8 @@ Some websites can fall into multiple categories. If you can't find what you need
   - [How To Ask A Good Question](#how-to-ask-a-good-question)
     - [XY Problem](#xy-problem)
   - [Other Websites of Websites](#other-websites-of-websites)
-- [DISCLAIMER](#disclaimer)
 - [Contributing](#contributing)
+- [DISCLAIMER](#disclaimer)
 - [LICENSE](#license)
 
 <br>
@@ -328,6 +324,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [PimEyes](https://pimeyes.com/en) - Facial recognition search engine and reverse image search for finding images containing a specific person.
 - [Visual Illusions](https://sites.socsci.uci.edu/~ddhoff/illusions.html) - Collection of visual illusions and demonstrations.
 - [ByClickDownloader](https://www.byclickdownloader.com/) - Backup videos from various sites in HD, MP3, MP4, AVI, and other formats using their software.
+- [Reanimate](https://reanimate.github.io/) - Build declarative animations with SVG and Haskell.
 
 ## DIY
 
@@ -344,6 +341,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [iFixit](https://www.ifixit.com/) - Repair guides for various devices, contributed by the community.
 - [Fix It Club](https://fixitclub.com/) - Save money on home repairs with helpful guides.
 - [BookCrossing](https://bookcrossing.com/) - Release your books "into the wild" for strangers to find or perform a "controlled release" to another BookCrossing member, and track their journey via journal entries from around the world.
+- [Dimensions](https://www.dimensions.com/) - Platform offering visual reference designs for dimensions and measurements across various categories.
 
 ## Culture
 
@@ -356,6 +354,8 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Behind the Name](https://www.behindthename.com/) - Provides etymology and history of first names.
 - [Behind the Surname](https://surnames.behindthename.com/) - Offers etymology and history of surnames.
 - [Nameberry](https://nameberry.com/) - Platform for baby names by experts, including popular names, unique names, baby girl names, baby boy names, and gender-neutral names.
+- [Library of Juggling](https://libraryofjuggling.com/) - Online resource of list all of the popular (and perhaps not so popular) juggling tricks in one organized place.
+- [Toaster Central](https://toastercentral.com/) - Collection of working vintage toasters.
 
 ## Language
 
@@ -366,6 +366,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Japanese Wiki Corpus](https://www.japanese-wiki-corpus.org/) - Resource generated from the Japanese-English Bilingual Corpus of Wikipedia's Kyoto Articles.
 - [Latin Phrases](https://latin-phrases.co.uk/) - Reference to look up translations of Latin phrases.
 - [Prismatext](https://prismatext.com/) - Blend the most useful foreign words and phrases into your favorite novels and stories.
+- [Ponly](https://ponly.com/about/) - Website with fun and humorous content and jokes.
 
 ### Grammar
 
@@ -545,6 +546,8 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [IMSDB](https://imsdb.com/) - Largest collection of movie scripts available on the web.
 - [Physics in Film and TV](https://physicsinfilmandtv.wordpress.com/) - Blog exploring the portrayal of physics concepts in films and television.
 - [JustWatch](https://www.justwatch.com/) - Guiding platform for finding and streaming movies and TV shows.
+- [I Have No TV](https://ihavenotv.com/) - Watch free online documentaries.
+- [Watch Documentaries](https://watchdocumentaries.com/) - Website offering a collection of documentaries on various topics.
 
 ### Anime
 
@@ -608,6 +611,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [EquityBee](https://equitybee.com/) - Provides startup employees the funding they need to exercise their stock options by connecting them with a global network of investors.
 - [EquityZen](https://equityzen.com/) - Allows you to invest or sell shares in the secondary market with EquityZen funds.
 - [WTF Happened in 1971](https://wtfhappenedin1971.com/) - Website exploring and highlighting various economic, social, and financial events that occurred in the year 1971.
+- [Ergodicity Economics](https://ergodicityeconomics.com/) - Website providing insights into Ergodicity Economics and related concepts.
 
 ## Business
 
@@ -634,6 +638,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Google Patents](https://patents.google.com/) - Search and read the full text of patents from around the world.
 - [WIPO Patentscope](https://patentscope.wipo.int/search/en/search.jsf) - Search 105 million patent documents, including 4.3 million published international patent applications (PCT).
 - [Patently Apple](https://www.patentlyapple.com/patents-applications/) - Explore patent applications made by Apple.
+- [USPTO Report](https://uspto.report/) - Platform providing information and reports related to patents from the United States Patent and Trademark Office.
 
 ### Marketing
 
@@ -985,6 +990,8 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Leibniz Translations](https://www.leibniz-translations.com/index2.php) - Resource offering translations of the works of philosopher and mathematician Gottfried Wilhelm Leibniz.
 - [David Hume](https://davidhume.org/) - Platform dedicated to the Scottish philosopher David Hume. Accurate, helpful presentation of virtually everything Hume ever wrote.
 - [Fooled by Randomness](https://fooledbyrandomness.com/) - Nassim Nicholas Taleb's Home Page.
+- [Prabook](https://prabook.com/web/home.html) - Platform providing biographical information on notable individuals.
+- [Famous Mathematicians](https://famous-mathematicians.org/) - Website featuring information and biographies of famous mathematicians.
 
 ### Books
 
@@ -1017,6 +1024,8 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Taoism.net](https://taoism.net/) - Resource for exploring Taoism.
 - [Early Modern Texts](https://earlymoderntexts.com/) - Platform providing modern English translations of early modern philosophical texts.
 - [Online Library of Liberty](https://oll.libertyfund.org/) - Curated collection of scholarly works that engage with vital questions of liberty.
+- [Online Books Library](https://onlinebooks.library.upenn.edu/) - University of Pennsylvania's online library providing access to 3 million free books on the Web.
+- [Elegant eBooks](https://www.ibiblio.org/ebooks/) - Find great classics of fiction and non-fiction in stylish editions. Almost all of the ebooks on this site were made from books that are in the public domain.
 
 #### Book Summaries And Recommendations
 
@@ -1087,6 +1096,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Nuclear Secrecy Blog](https://blog.nuclearsecrecy.com/) - Historical information about nuclear secrecy, providing insights into the development and implications of nuclear weapons.
 - [The Ascent of Humanity](https://ascentofhumanity.com/) - Explores the concept of the Age of Separation, the Age of Reunion, and the convergence of crises shaping the transition in human history.
 - [Today in Science History](https://todayinsci.com/) - Platform offering historical events of a given date.
+- [Khipu Field Guide](https://khipufieldguide.com/guidebook/Introduction.html) - Guidebook providing information on khipus, the ancient Incan system of knotted strings for record-keeping.
 
 ### Geoscience
 
@@ -1096,6 +1106,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Physical Geology](https://temple.manifoldapp.org/projects/physical-geology) - Covers essential topics in Physical Geology.
 - [Flood Site](https://floodsite.net/juniorfloodsite/) - An educational resource about flooding.
 - [NEMO - Nucleus for European Modeling of the Ocean](https://www.nemo-ocean.eu/) - Platform providing information and resources related to ocean modeling for multifarious space and time scales, developed by a European consortium.
+- [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/?extent=25.56227,4.08691&extent=45.08904,70.00488&list=false) - Map displaying recent earthquake activity from the United States Geological Survey.
 
 ### Biology
 
@@ -1249,8 +1260,15 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Fast.ai Course](https://course.fast.ai/) - Online course for deep learning and machine learning.
 - [Papers with Code](https://paperswithcode.com/sota) - Collection of state-of-the-art results for machine learning tasks with associated code.
 - [Delta Academy Maps](https://maps.joindeltaacademy.com/) - Map of mathematics for Machine Learning.
-- [Control Challenges](https://janismac.github.io/ControlChallenges/) -Leetcode for robotics.
+- [Control Challenges](https://janismac.github.io/ControlChallenges/) - Leetcode for robotics.
 - [Inside the Matrix by PyTorch](https://pytorch.org/blog/inside-the-matrix/) - Blog post by PyTorch that is visualizing matrix multiplication, attention and beyond.
+- [Directory of AI Models](https://docs.google.com/spreadsheets/d/1gc6yse74XCwBx028HV_cvdxwXkmXejVjkO-Mz2uwE0k/edit?pli=1#gid=0) - Google Sheets document providing a directory of various AI models, presenting information such as name, date, parameters, organization, organization type, author location, language, commercial use, model, accessibility, code accessibility, data accessibility, major datasets used, and architecture.
+- [Papers with Code](https://paperswithcode.com/) - Platform providing the latest in machine learning research papers along with code implementations and benchmarks.
+- [ArXiv Machine Learning Landscape](https://lmcinnes.github.io/datamapplot_examples/ArXiv_data_map_example.html) - Visualization showcasing the landscape of machine learning research on ArXiv.
+
+### LLMs
+
+- [Hacker Llama](https://osanseviero.github.io/hackerllama/blog/posts/hitchhiker_guide/) - Blog post on the useful terms to know when joining the Local LLM community.
 
 ### Prompt Engineering
 
@@ -1277,11 +1295,18 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Feedback by AI](https://feedbackbyai.com/?ref=producthunt) - Platform utilizing AI for generating actionable feedback on writing.
 - [Seeing the World through Your Eyes](https://world-from-eyes.github.io/) - Reconstruct the world that is reflected through human eyes.
 - [Auxiliary Tools](https://www.auxiliary.tools/) - Platform offering AI experiments and tools for humans.
+- [Hemingway Editor](https://hemingwayapp.com/) - Spellchecker, but for style.
+- [FuturePedia](https://www.futurepedia.io/) - Leading AI resource platform dedicated to empowering professionals across various industries to leverage AI technologies for innovation and growth.
 
 ### Data Science
 
 - [DataTau](https://www.datatau.com/news) - Hackernews but for data
 - [DatasetList](https://www.datasetlist.com/) - List of machine learning datasets from across the web
+- [Stat Learning](https://www.statlearning.com/) - Platform for learning statistics and related topics.
+
+### Databases
+
+- [ImageNet](https://www.image-net.org/) - Image database organized according to the WordNet hierarchy.
 
 ## Web Development
 
@@ -1436,6 +1461,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 
 - [itch.io](https://itch.io/) - A platform that provides a simple way to find and share indie games online for free.
 - [System Requirements Lab](https://www.systemrequirementslab.com/cyri) - Analyzes your computer's specifications in seconds, providing information on whether your system meets the requirements for various games.
+- [Kenney](https://kenney.nl/) - Platform offering free game assets, graphics, and game development resources.
 
 #### Pokemon
 
@@ -1498,6 +1524,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [ExifTool](https://exiftool.org/) - Software for reading, writing, and editing metadata in image, audio, and video files.
 - [HideMyWeb](https://hidemyweb.wordpress.com/) - Tool to hide, blur, and highlight content on web pages.
 - [Browser.lol](https://browser.lol/) - Browse anonymously with a free virtual environment within your browser.
+- [OneTimeSecret](https://onetimesecret.com/) - Platform for sharing a password, secret message or private link securely with one-time links.
 
 ### Cryptography
 
@@ -1746,10 +1773,12 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [CodeWars](https://www.codewars.com/) - Community-driven platform providing coding challenges with a focus on improving through peer-reviewed solutions.
 - [Project Euler](https://projecteuler.net/about) - Mathematics-oriented coding platform, featuring challenging problems to encourage problem-solving through programming.
 - [Kaggle](https://www.kaggle.com/) - Data science platform that hosts competitions, datasets, and notebooks, fostering collaboration and innovation in the field.
-- [Replit](https://replit.com/~) - Online coding environment facilitating collaborative coding, with features like live sharing and a wide range of supported languages.
-- [Advent of Code](https://adventofcode.com/) - Advent calendar of small programming puzzles suitable for various skill sets and levels, solvable in any programming language.
+- [Replit](https://replit.com/) - Online coding environment facilitating collaborative coding, with features like live sharing and a wide range of supported languages.
 - [AlgoLeague](https://www.algoleague.com/) - Competitive programming platform for practicing algorithmic problem-solving.
+- [Codeforces](https://codeforces.com/) - Online competitive programming platform offering contests and a vast problem set, attracting a diverse international user base.
+- [AtCoder](https://atcoder.jp/) - Japanese competitive programming platform hosting contests and exercises to enhance algorithmic skills.
 - [InterviewBit](https://www.interviewbit.com/coding-interview-questions/) - Platform offering coding interview questions and challenges to help prepare for technical interviews.
+- [Advent of Code](https://adventofcode.com/) - Advent calendar of small programming puzzles suitable for various skill sets and levels, solvable in any programming language.
 - [CList](https://clist.by/) - List of competitions from various programming websites, providing a centralized resource for upcoming contests.
 - [Codeply](https://www.codeply.com/) - Free online editor featuring dozens of frameworks, starter templates, and over 50,000 code snippets.
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login) - Platform for training algorithms and programming challenges to enhance programming skills.
@@ -1762,9 +1791,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Coderbyte](https://coderbyte.com/) - Platform with coding challenges and interview preparation resources to enhance programming skills.
 - [CodinGame](https://www.codingame.com/start) - Online platform gamifying coding challenges, making learning and practicing programming more engaging.
 - [A2OJ](https://a2oj.netlify.app/) - Competitive programming resource providing a structured ladder system to improve problem-solving skills, categorized by difficulty levels and topics.
-- [AtCoder](https://atcoder.jp/) - Japanese competitive programming platform hosting contests and exercises to enhance algorithmic skills.
 - [CodeChef](https://www.codechef.com/) - Competitive programming website with regular contests and a large problem archive, catering to a global coding community.
-- [Codeforces](https://codeforces.com/) - Online competitive programming platform offering contests and a vast problem set, attracting a diverse international user base.
 - [USACO](http://usaco.org/index.php?page=contests) - USA Computing Olympiad platform, providing programming contests to encourage and identify talented young programmers in the United States.
 - [USACO Guide](https://usaco.guide/) - Comprehensive, free resource collection guiding users from Bronze to Platinum levels and beyond in competitive programming.
 - [JoinCPI](https://joincpi.org/) - Platform dedicated to promoting competitive programming among students through resources, classes, outreach, and contests.
@@ -1903,53 +1930,8 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Hackr.io](https://hackr.io/) - Platform to find programming courses and tutorials recommended by the programming community.
 - [Limnology](https://limnology.co/en) - Curation of educational YouTube channels in 20 different languages, categorized by topic, with the option to find similar channels.
 - [Tech Blogs](https://tech-blogs.dev/) - List of Awesome Tech Blogs.
-
-<br>
-
-# DISCLAIMER
-
-By accessing and using the Awesome Useful Websites project ("the Project") on GitHub, you agree to the following terms:
-
-1. **Non-Affiliation:**
-
-   - The Project, its creators, and its maintainers are not associated with, sponsored by, or endorsed by any of the websites listed. The inclusion of links to any website, location, or source in this collection does not imply any form of endorsement or partnership of the site or its contents.
-
-2. **Content Accuracy:**
-
-   - While efforts are made to maintain accurate and up-to-date information, the Project makes no guarantees regarding the accuracy, completeness, or reliability of the content.
-
-3. **Link Disclaimer:**
-
-   - Clicking on external links provided in the Project is at the user's own risk. The Project is not responsible for the content, availability, or reliability of external websites. Users should exercise caution and consider the terms of use and privacy policies of linked websites.
-
-4. **Destination of Links:**
-
-   - The Project is not responsible for the content of linked websites or the potential changes to their content after inclusion in the collection. Users should be aware that websites may update, change ownership, or undergo alterations that are beyond the Project's control.
-
-5. **Security and Privacy:**
-
-   - The Project does not guarantee the security or privacy of linked websites. Users are encouraged to review the security measures and privacy policies of external websites before providing any personal or sensitive information.
-
-6. **Reliability of Websites:**
-
-   - Inclusion in the Project does not constitute an endorsement of the reliability of any website. Users should exercise their judgment and discretion when relying on the content or services provided by listed websites.
-
-7. **User Responsibility:**
-
-   - Users are solely responsible for their interactions with external websites listed in the Project. The Project disclaims any liability for damages or losses incurred as a result of using or relying on the information provided.
-
-8. **Changes to the Collection:**
-
-   - The Project reserves the right to modify, update, or remove any content, including website listings, without prior notice.
-
-9. **No Warranty:**
-
-   - The Project is provided "as is" without any warranties, express or implied. The Project disclaims all warranties, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
-
-10. **No Legal Advice:**
-    - This disclaimer does not constitute legal advice. Users are encouraged to seek legal counsel for specific concerns related to their use of the Project.
-
-By accessing and using the Project, you acknowledge and agree to these terms. If you do not agree with these terms, you should refrain from using the Project.
+- [Track Awesome List](https://www.trackawesomelist.com/) - Track over 500 awesome list updates, and you can also subscribe to daily or weekly updates via RSS or News Letter.
+- [Internet Is Fun](https://projects.kwon.nyc/internet-is-fun/) - Collection of fun and interesting websites on the internet.
 
 <br>
 
@@ -1960,6 +1942,12 @@ By accessing and using the Project, you acknowledge and agree to these terms. If
 - If you want to add a new category or website, create a [pull request](https://github.com/atakanaltok/awesome-useful-websites/pulls) (To avoiding duplications, seach whether your website is already included).
 
 - If you are a site owner and believe that your site is not described accurately, please [rise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues).
+
+<br>
+
+# DISCLAIMER
+
+By accessing and using the Awesome Useful Websites project ("the Project") on GitHub, you agree that the Project is not affiliated with, sponsored by, or endorsed by any of the websites listed. While efforts are made to maintain accurate and up-to-date information, the Project makes no guarantees regarding the accuracy, completeness, or reliability of the content. Changes of the content of linked websites are beyond the Project's control. The Project is provided "as is" without any warranties, express or implied.
 
 <br>
 
