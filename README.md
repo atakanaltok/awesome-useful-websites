@@ -71,7 +71,7 @@ Some websites can fall into multiple categories. If you can't find what you need
     - [Music Theory](#music-theory)
       - [Rhyme](#rhyme)
     - [Spotify](#spotify)
-  - [Visual Entertainment](#visual-entertainment)
+  - [Movies and Series](#movies-and-series)
     - [Anime](#anime)
   - [Media](#media)
     - [X / Twitter](#x--twitter)
@@ -108,8 +108,8 @@ Some websites can fall into multiple categories. If you can't find what you need
     - [MOOC (Massive Open Online Courses)](#mooc-massive-open-online-courses)
   - [Science](#science)
     - [Biographies](#biographies)
-    - [Books](#books)
-      - [Book Summaries And Recommendations](#book-summaries-and-recommendations)
+    - [Books, Articles, Texts](#books-articles-texts)
+      - [Book Recommendations and Summaries](#book-recommendations-and-summaries)
     - [Maps and Data](#maps-and-data)
     - [Infographic](#infographic)
     - [Philosophy](#philosophy)
@@ -148,7 +148,7 @@ Some websites can fall into multiple categories. If you can't find what you need
       - [APIs](#apis)
       - [SQL](#sql)
     - [Web Analytics](#web-analytics)
-    - [Web 3.0 Dev](#web-30-dev)
+    - [Web 3.0 Dev and Cryptocurrencies](#web-30-dev-and-cryptocurrencies)
   - [Software Engineering](#software-engineering)
     - [Android Development](#android-development)
     - [Game Development](#game-development)
@@ -267,6 +267,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [DiffChecker](https://www.diffchecker.com/) - Compare text, image, PDF, and more to find differences between files.
 - [CodingFont](https://www.codingfont.com/) - Gamified experience to compare and find coding fonts.
 - [This vs That](https://thisvsthat.io/) - Type in two things to compare them to each other.
+- [Secure Messaging Apps Comparison](https://www.securemessagingapps.com/) - A comparison platform for secure messaging apps.
 
 ### File
 
@@ -356,6 +357,9 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Nameberry](https://nameberry.com/) - Platform for baby names by experts, including popular names, unique names, baby girl names, baby boy names, and gender-neutral names.
 - [Library of Juggling](https://libraryofjuggling.com/) - Online resource of list all of the popular (and perhaps not so popular) juggling tricks in one organized place.
 - [Toaster Central](https://toastercentral.com/) - Collection of working vintage toasters.
+- [All About Berlin](https://allaboutberlin.com/) - Platform offering guides and information for individuals planning to settle in Berlin. Includes details about obtaining visas, finding jobs, securing apartments, and more.
+- [Unita](https://unita.co/) - Platform to discover, compare, and review the best communities, masterminds, and online groups across more than 30+ categories.
+- [Escape Room Tips](https://escaperoomtips.com/) - Tips, tricks, and puzzles for escape rooms
 
 ## Language
 
@@ -367,6 +371,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Latin Phrases](https://latin-phrases.co.uk/) - Reference to look up translations of Latin phrases.
 - [Prismatext](https://prismatext.com/) - Blend the most useful foreign words and phrases into your favorite novels and stories.
 - [Ponly](https://ponly.com/about/) - Website with fun and humorous content and jokes.
+- [Tongue-Twister](https://tongue-twister.net/) - World's largest collection of tongue twisters with 3660 entries in 118 languages
 
 ### Grammar
 
@@ -389,6 +394,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Ask Difference](https://www.askdifference.com/) - Offers short and concise differences between two similar subjects.
 - [Key Differences](https://keydifferences.com/) - Website focused on presenting differences and comparisons.
 - [DifferenceBetween.info](https://www.differencebetween.info/) - Provides descriptive analysis and comparisons between different concepts.
+- [Wayne State University's List of Words](https://wordwarriors.wayne.edu/list) - A compilation of words that deserve wider use, curated by Wayne State University.
 - [All Acronyms](https://www.allacronyms.com/) - Community-driven acronyms and abbreviations dictionary.
 - [Bilim Terimleri](https://terimler.org/) - Turkish platform providing explanations and definitions for various terms.
 
@@ -483,6 +489,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Sampurr](https://www.sampurr.com/) - Sample an audio from the web.
 - [Audiocheck](https://www.audiocheck.net/) - Test your audio equipment online.
 - [Mixlr](https://mixlr.com/) ($) - Share quality live audio online. Broadcast using any source, invite people to listen, and chat in real-time (Free for just listening).
+- [Learn Choral Music](https://www.learnchoralmusic.co.uk/) - John's Musical Instrument Digital Interface (MIDI) file collection of well-known choral works in voice-emphasized form, available for free downloading.
 
 ### Find Music
 
@@ -527,26 +534,25 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Playlist Mutator](https://playlistmutator.com/) - Mutate existing playlists in React.
 - [TuneMyMusic](https://www.tunemymusic.com/) - Transfer playlists between music services.
 
-## Visual Entertainment
+## Movies and Series
 
-- [Kanopy](https://www.kanopy.com/en/) - Streaming platform offering thousands of films for free with library or university support.
-- [Tunefind](https://www.tunefind.com/) - Discover music from your favorite TV shows and movies.
+- [Kanopy](https://www.kanopy.com/en/) (@) - Streaming platform offering thousands of films for free with library or university support.
 - [Movie Map](https://www.movie-map.com/) - Find similar movies based on your preferences.
 - [Reddit Movie Suggestions](https://www.reddit.com/r/MovieSuggestions/wiki/faq) - List of movie suggestions from various genres.
 - [A Good Movie to Watch](https://agoodmovietowatch.com/) - Handpicked, highly-rated movies and TV shows.
 - [Tubi TV](https://tubitv.com/home) - Free streaming service offering a wide range of movies and TV shows.
-- [RareFilm](https://rarefilm.net/) - Platform for rare and old films.
 - [Tiii.me](https://tiii.me/) - Calculate the total time you've spent watching TV shows.
+- [JustWatch](https://www.justwatch.com/) - Guiding platform for finding and streaming movies and TV shows.
 - [Movie Settings Database](https://www.moviesettingsdatabase.com/) - Organized collection of over 30,000 movies and TV shows by their settings.
-- [WCostream](https://m.wcostream.com/) - Free cartoon and anime series streaming.
-- [KissCartoon](https://kisscartoon.xyz/) - Free KissCartoon without bad advertisements or popups.
 - [Reelgood Netflix Roulette](https://reelgood.com/roulette/netflix) - Randomly suggests a movie or TV show available on Netflix.
 - [Reelgood](https://reelgood.com/) - Browse, search, and watch TV shows and movies from over 150 services, including Netflix, Hulu, HBO, Disney+, Prime Video, and more.
 - [Movie Sounds](https://movie-sounds.org/) - Archive of free movie quotes featuring short sound clips and special effects.
+- [Tunefind](https://www.tunefind.com/) - Discover music from your favorite TV shows and movies.
 - [IMSDB](https://imsdb.com/) - Largest collection of movie scripts available on the web.
 - [Physics in Film and TV](https://physicsinfilmandtv.wordpress.com/) - Blog exploring the portrayal of physics concepts in films and television.
-- [JustWatch](https://www.justwatch.com/) - Guiding platform for finding and streaming movies and TV shows.
+- [RareFilm](https://rarefilm.net/) - Platform for rare and old films.
 - [I Have No TV](https://ihavenotv.com/) - Watch free online documentaries.
+- [WCostream](https://m.wcostream.com/) - Free cartoon and anime series streaming.
 - [Watch Documentaries](https://watchdocumentaries.com/) - Website offering a collection of documentaries on various topics.
 
 ### Anime
@@ -880,6 +886,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Tattoos Wizard](https://tattooswizard.com/) - Find tattoo artists and studios near you.
 - [The Art Institute of Chicago Collection](https://www.artic.edu/collection) - Explore thousands of artworks in the museum’s collection.
 - [ZoomQuilt](https://zoomquilt.org/) - Collaborative infinitely zooming painting.
+- [Invaluable](https://www.invaluable.com/) - The world's premier online auctions platform, featuring thousands of items added daily. Invaluable provides accessibility to discovering and acquiring exceptional art and objects anytime, anywhere.
 
 ### Photography
 
@@ -993,7 +1000,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Prabook](https://prabook.com/web/home.html) - Platform providing biographical information on notable individuals.
 - [Famous Mathematicians](https://famous-mathematicians.org/) - Website featuring information and biographies of famous mathematicians.
 
-### Books
+### Books, Articles, Texts
 
 - [Archive.org/texts](https://archive.org/details/texts) - A digital library offering free universal access to a vast collection of digital content.
 - [Open Library](https://openlibrary.org/) - A universal catalog for book metadata with access to a wide range of digital books.
@@ -1026,21 +1033,22 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Online Library of Liberty](https://oll.libertyfund.org/) - Curated collection of scholarly works that engage with vital questions of liberty.
 - [Online Books Library](https://onlinebooks.library.upenn.edu/) - University of Pennsylvania's online library providing access to 3 million free books on the Web.
 - [Elegant eBooks](https://www.ibiblio.org/ebooks/) - Find great classics of fiction and non-fiction in stylish editions. Almost all of the ebooks on this site were made from books that are in the public domain.
+- [22 Free Data Science Books](https://www.wzchen.com/data-science-books) - A compilation of quality data science books available for free, curated to assist those exploring the data science career track. The last updated date of each book is included in parentheses.
 
-#### Book Summaries And Recommendations
+#### Book Recommendations and Summaries
 
 - [Read Next](https://read-next.com/) - A collection of 3,000+ books recommended by famous people from various domains such as scientists, investors, entrepreneurs, celebrities, and authors.
 - [Goodbooks](https://www.goodbooks.io/) - Offers 8,500+ book recommendations from successful and interesting individuals around the world.
 - [Most Recommended Books](https://mostrecommendedbooks.com/) - Curates 500+ experts, 600+ lists, 500+ book series, providing 100% verified book recommendations.
-- [Blas](https://blas.com/) - Summarizes more than 400 books by Blas Moros.
 - [Books Chatter](https://bookschatter.com/) - Find book recommendations from people's tweets, with tweets shown.
-- [Abakcus](https://abakcus.com/books/) - A collection of books about mathematics and some science.
 - [Leafmarks](https://www.leafmarks.com/) - Explore book recommendations from famous authors, top CEOs, legendary investors, and favorite celebrities.
 - [Bookstash](https://bookstash.io/) - Features top books recommended by famous individuals, summarized in 3 minutes or less.
+- [Abakcus](https://abakcus.com/books/) - A collection of books about mathematics and some science.
 - [BookBub](https://www.bookbub.com/welcome) - Get personalized book recommendations based on your preferences.
 - [Hacker News Books](https://hackernewsbooks.com/) - Curates the best books mentioned on Hacker News each week.
 - [Goodreads](https://www.goodreads.com/) - The world's largest site for readers and book recommendations.
 - [What Should I Read Next?](https://www.whatshouldireadnext.com/) - Enter a book you like and the site will analyse our huge database of real readers' favorite books to provide book recommendations and suggestions for what to read next.
+- [Blas](https://blas.com/) - Summarizes more than 400 books by Blas Moros.
 - [Google Books - Talk to Books](https://books.google.com/talktobooks/) - Platform allowing users to have a conversation with books using natural language.
 
 ### Maps and Data
@@ -1060,6 +1068,13 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Fliist](https://fliist.com/en) - Platform for creating and sharing your favorite lists.
 - [Search Engine Map](https://www.searchenginemap.com/) - Visual representation of popular search engines.
 - [Friendly Dubinsky](https://friendly-dubinsky-cb22fe.netlify.app/) - Maps of different places.
+- [Real-Time SpaceX Starlink Satellite Tracker](https://www.starlinkmap.org/) - Website providing a real-time tracker for SpaceX Starlink satellites.
+- [Interactive Data Map of ArXiv Machine Learning Papers](https://datamapplot.readthedocs.io/en/latest/auto_examples/plot_interactive_arxiv_ml.html) - Interactive data map displaying papers from the Machine Learning section of ArXiv.
+- [Album of Computational Fluid Motion](https://album-of-cfm.com/) - Collection showcasing computational fluid motion images.
+- [Visualization of Every Job Title in the World](https://duarteocarmo.com/blog/every-job-world) - Interactive visualization categorizing every single job title in the world into 10 categories.
+- [ObservableHQ](https://observablehq.com/@tophtucker/examples-of-bitemporal-charts) - Examples of bitemporal charts
+- [Fifty Years Progress Map](https://progress.fiftyyears.com/) - Highlights large markets with low startup investment. Provides a list of massive markets ranked by competitiveness, including market size and total investment in Series A startups over the last 10 years. Calculates a Competition Ratio for each market.
+- [The Uncensored Library](https://uncensoredlibrary.com/en) - Minecraft server and map released by Reporters Without Borders and created by BlockWorks, DDB Berlin, and MediaMonks as an attempt to circumvent censorship in countries without freedom of the press
 
 ### Infographic
 
@@ -1155,12 +1170,14 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Math Salamanders](https://www.math-salamanders.com/) - Platform providing useful calculators (like Reverse Percentage Calculator) and math worksheets for kids or students.
 - [3Blue1Brown Non-Videos](https://some.3b1b.co/non-videos) - Non-video content winners of 3Blue1Brown's SoME.
 - [Mathigon – The Mathematical Playground](https://mathigon.org/) - Interactive mathematics platform offering educational content and resources.
+- [Math Warehouse](https://www.mathwarehouse.com/) - Offers interactive math activities, demonstrations, lessons with definitions and examples, worksheets, and other resources.
 
 ### Math + Art
 
 - [Paul Nylander's website](https://bugman123.com/) - Favorite hobbies and interests, especially science, and art of Paul Nylander
 - [NYC DOE CS4All](https://nycdoe-cs4all.github.io/) - Introduction to Computational Media with p5.js
 - [Texample](https://texample.net/) - Examples and community of LaTeX
+- [Snowflakes Project](https://www.dynamicmath.xyz/collective-math-art/) - Snowflakes project by Collective Mathematical Art
 
 ## Engineering
 
@@ -1237,6 +1254,8 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Computer Science Library](https://www.compscilib.com/) - Platform aiding in mastering concepts in computer science and math courses with automated step-by-step solutions and practice problems.
 - [Computer Jargon](https://www.computerhope.com/jargon.htm) - Glossary of computer-related jargon and technical terms.
 - [Talks by Alan Kay](https://tinlizzie.org/IA/index.php/Talks_by_Alan_Kay) - Collection of talks by computer scientist Alan Kay.
+- [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html) - Tool to convert between the decimal representation of a number and the binary format used by modern CPUs, based on IEEE-754 standard.
+- [Guide to x86 Assembly](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html) - Guide to x86 Assembly by University of Virginia Computer Science
 
 ### Data Structures and Algorithms (DS&A)
 
@@ -1297,6 +1316,9 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Auxiliary Tools](https://www.auxiliary.tools/) - Platform offering AI experiments and tools for humans.
 - [Hemingway Editor](https://hemingwayapp.com/) - Spellchecker, but for style.
 - [FuturePedia](https://www.futurepedia.io/) - Leading AI resource platform dedicated to empowering professionals across various industries to leverage AI technologies for innovation and growth.
+- [ExplainPaper](https://www.explainpaper.com/) - Platform where users can upload a research paper, highlight confusing text, and receive an explanation to make research papers easier to read.
+- [Summarize Tech](https://www.summarize.tech/) - AI-powered tool to get a summary of any long YouTube video, such as lectures, live events, or government meetings.
+- [YouTubeTranscript](https://youtubetranscript.com/) - Get a YouTube video transcript and summaries
 
 ### Data Science
 
@@ -1433,12 +1455,13 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Loader.io](https://loader.io/) - Free load testing service to stress test web apps and APIs with thousands of concurrent connections.
 - [Azure Speed Test](https://www.azurespeed.com/Azure/Latency) - Tools for testing the speed and latency of Azure services.
 
-### Web 3.0 Dev
+### Web 3.0 Dev and Cryptocurrencies
 
 - [Web3 is Going Great](https://web3isgoinggreat.com/) - Track examples of challenges in the blockchain/crypto/web3 technology space. The timeline covers events in cryptocurrency and blockchain-based technologies since the beginning of 2021.
 - [Blockchain Demo](https://andersbrownworth.com/blockchain/coinbase) - A demonstration of how a blockchain works.
 - [DappRadar](https://dappradar.com/) - Discover, track, and trade in the world of DeFi, NFTs, and Gaming.
 - [DeFi Pulse](https://www.defipulse.com/) - A list of decentralized finance (DeFi) projects and their statistics.
+- [GlassChain](https://glasschain.org/home) - A non-profit organization based in Switzerland, where addresses, transactions, wallets, or providers are checked to recover bitcoins (or a fraction of them) that have been stolen or lost due to criminal acts. Bitcoin, Litecoin, Bitcoin Cash, and Dogecoin addresses are clustered into wallets for UTXO-based blockchains. Live, reliable, and 100% correct data is provided.
 
 ## Software Engineering
 
@@ -1462,6 +1485,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [itch.io](https://itch.io/) - A platform that provides a simple way to find and share indie games online for free.
 - [System Requirements Lab](https://www.systemrequirementslab.com/cyri) - Analyzes your computer's specifications in seconds, providing information on whether your system meets the requirements for various games.
 - [Kenney](https://kenney.nl/) - Platform offering free game assets, graphics, and game development resources.
+- [Flash Games Archive](https://flasharch.com/en) - Archive of Flash games, preserving these classic games for future enjoyment.
 
 #### Pokemon
 
@@ -1483,12 +1507,15 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [SS64 Bash Keyboard Shortcuts](https://ss64.com/bash/syntax-keyboard.html) - Reference guide for bash keyboard shortcuts.
 - [Command Line for Beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) - Overview of the Linux command line for beginners.
 - [Vim Cheat Sheet](https://vim.rtorr.com/) - Vim cheat sheet.
+- [Learn Vim](https://learnvim.irian.to/) - A resource to learn Vim, the smart way.
+- [Vim Awesome](https://vimawesome.com/) - Search through listed Vim plugins
 
 ### Git
 
 - [Git - The Simple Guide](https://rogerdudler.github.io/git-guide/) - A straightforward guide for getting started with Git.
 - [Git Sheet](https://gitsheet.wtf) - A quick reference guide for common Git commands.
 - [MiXLab on Google Colab](https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb#scrollTo=e-0yDs4C0HkB) - A mixture of Google Colab notebooks compiled from GitHub.
+- [Learn Git Branching](https://learngitbranching.js.org/) - Interactive tool to learn Git branching through simulation of a git repository.
 
 #### GitHub
 
@@ -1829,6 +1856,8 @@ Some websites can fall into multiple categories. If you can't find what you need
 
 - [DEVPOST Hackathons](https://devpost.com/hackathons) - Find online and in-person hackathons.
 - [GitHub Education Events](https://education.github.com/events) - Find members of the community at hackathons, conferences, and events near you.
+- [Hackathons by Hack Club](https://hackathons.hackclub.com/) - Curated list of high school hackathons, featuring 699 events in 27 states and 18 countries.
+- [Cerebral Valley AI Events](https://events.cerebralvalley.ai/) - Provides information on upcoming AI-related events, hackathons, and co-working opportunities.
 
 ## Cheat Sheets
 
