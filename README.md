@@ -40,7 +40,7 @@ Some websites can fall into multiple categories. If you can't find what you need
   - [Lexicon](#lexicon)
 - [Contents](#contents)
   - [Tools](#tools)
-    - [White Board / Notepad](#white-board--notepad)
+    - [White Board](#white-board)
     - [Mind Map / Note Taking](#mind-map--note-taking)
     - [Diagrams](#diagrams)
     - [Texts](#texts)
@@ -214,12 +214,13 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Lunar](https://lunar.fyi/) - Multi-featured app for controlling monitors.
 - [GetHuman](https://gethuman.com/) - Get a representative on the phone faster and receive better help from known companies.
 
-### White Board / Notepad
+### White Board
 
 - [TypeHere](https://typehere.co/) - Blank website where you can only type.
 - [PixelPaper](https://pixelpaper.io/) - Free-forever digital whiteboard with no registration, can be embedded into SaaS products.
 - [Excalidraw](https://excalidraw.com/) - Whiteboard where you can sketch hand-drawn-like diagrams.
 - [Excalideck](https://excalideck.com/) - App for authoring slide decks that look hand-drawn, based on Excalidraw.
+- [Blank Page](https://blank.page/) - Simple webpage displaying a blank white page.
 
 ### Mind Map / Note Taking
 
@@ -624,6 +625,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Crunchbase](https://www.crunchbase.com/) - A platform for discovering innovative companies, startups, and key individuals in the business world. Provides comprehensive data and insights about companies, investments, and industry trends.
 - [Business Model Toolbox](https://bmtoolbox.net/) - A resource to learn about various business concepts and models.
 - [Gumroad](https://gumroad.com/) - E-commerce platform for creators to sell digital products directly to customers.
+- [Humble Bundle](https://www.humblebundle.com/) - Platform selling games, ebooks, software, and digital content with a mission to support charity while providing great content at affordable prices.
 - [Google Takeout](https://takeout.google.com/) - Export a copy of all your Google data.
 - [Honey](https://www.joinhoney.com/) - A browser extension that automatically searches for coupons on over 30,000 sites globally.
 - [BotHelp](https://bothelp.io/widget) - Provides a free chat button widget for websites.
@@ -786,6 +788,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 ### Design
 
 - [Social Image Maker](https://socialimagemaker.io/) - Tool for creating social media images with ease.
+- [Open Source Design Resources](https://opensourcedesign.net/resources/) - Showcase of websites and platforms offering openly licensed icons, fonts, images, tools, and other resources for design purposes.
 - [Transparent Textures](https://transparenttextures.com/) - Platform providing transparent textures for use in design projects.
 - [Collection of $0 Design Tools](https://www.producthunt.com/e/0-design-tools) - A collection of free design tools to aid in project creation.
 - [Easel.ly](https://www.easel.ly/) - Design tool for visualizing various types of information.
@@ -800,6 +803,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Haikei](https://app.haikei.app/) - Web-based design tool to generate unique SVG design assets for various purposes.
 - [Spline](https://spline.design/) - Create 3D scenes, edit materials, and model 3D objects, giving control over the outcome of design work.
 - [Visiwig](https://www.visiwig.com/) - Create graphics just by clicking and pasting.
+- [FreeType](https://freetype.org/) - Software library written in C for rendering fonts, capable of producing high-quality output of most vector and bitmap font formats, designed to be small, efficient, highly customizable, and portable.
 
 #### Colors
 
@@ -1869,6 +1873,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/) - Curated list of awesome cheatsheets covering a wide range of programming languages, tools, and topics.
 - [OverAPI](https://overapi.com/) - Platform providing centralized access to cheatsheets and quick references for various programming languages and frameworks.
 - [Nota Language](https://nota-lang.org/) - Document language designed for the browser, offering a simplified syntax for creating web-based documents.
+- [Cheat-Sheets.org](https://www.cheat-sheets.org/) - Compilation of cheat sheets, round-ups, quick reference cards, guides, and sheets covering various topics.
 
 ### Python Cheat Sheet
 
@@ -1961,6 +1966,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Tech Blogs](https://tech-blogs.dev/) - List of Awesome Tech Blogs.
 - [Track Awesome List](https://www.trackawesomelist.com/) - Track over 500 awesome list updates, and you can also subscribe to daily or weekly updates via RSS or News Letter.
 - [Internet Is Fun](https://projects.kwon.nyc/internet-is-fun/) - Collection of fun and interesting websites on the internet.
+- [Wiby](https://wiby.me/) - Search engine for the classic web, aiming to recreate the browsing experience of earlier days of the internet, particularly suitable for vintage computers.
 
 <br>
 
