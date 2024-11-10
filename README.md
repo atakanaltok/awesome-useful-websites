@@ -13,6 +13,7 @@ Most of these websites are gathered from:
 - [producthunt.com](https://www.producthunt.com/)
 - [reddit.com/r/InternetIsBeautiful](https://www.reddit.com/r/InternetIsBeautiful/)
 - [news.ycombinator.com](https://news.ycombinator.com/)
+- [x.com/IndieRandWeb](https://x.com/IndieRandWeb)
 
 <br>
 
@@ -54,9 +55,7 @@ Some websites can fall into multiple categories. If you can't find what you need
   - [Culture](#culture)
   - [Language](#language)
     - [Grammar](#grammar)
-    - [Writing](#writing)
     - [Words \& Meanings](#words--meanings)
-    - [Business English](#business-english)
   - [Travel](#travel)
     - [Globetrotting](#globetrotting)
     - [Time](#time)
@@ -382,9 +381,6 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Purdue OWL](https://owl.purdue.edu/site_map.html) - Purdue University's Online Writing Lab, providing resources on writing, grammar, and citation styles.
 - [Towson University Online Writing Support](https://webapps.towson.edu/ows/index.asp) - Online writing support and grammar resources.
 - [Grammar Monster](https://www.grammar-monster.com/index.html) - Platform offering free English grammar lessons and tests.
-
-### Writing
-
 - [Fraze It](https://fraze.it/) - Platform with more than 100 millions sentences.
 
 ### Words & Meanings
@@ -397,13 +393,10 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [DifferenceBetween.info](https://www.differencebetween.info/) - Provides descriptive analysis and comparisons between different concepts.
 - [Wayne State University's List of Words](https://wordwarriors.wayne.edu/list) - A compilation of words that deserve wider use, curated by Wayne State University.
 - [All Acronyms](https://www.allacronyms.com/) - Community-driven acronyms and abbreviations dictionary.
-- [Bilim Terimleri](https://terimler.org/) - Turkish platform providing explanations and definitions for various terms.
-
-### Business English
-
 - [How to Professionally Say](https://howtoprofessionallysay.akashrajpurohit.com/) - A guide for your daily professional interactions, helping you navigate various situations with a professional tone.
 - [Business English Resources](https://www.businessenglishresources.com/) - A collection of free resources for improving your business English skills.
 - [Digital Glossary](https://www.digital-glossary.com/) - Provides terminological words in Turkish, English, and German for digital contexts.
+- [Bilim Terimleri](https://terimler.org/) - Turkish platform providing explanations and definitions for various terms.
 
 ## Travel
 
@@ -1336,6 +1329,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 
 ## Web Development
 
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/) - Documentation for web technologies, including CSS, HTML, and JavaScript.
 - [W3C](https://www.w3.org/) - World Wide Web Consortium's official website, making it possible to use web technologies with different languages, scripts, and cultures.
 - [UX Core](https://keepsimple.io/uxcore) - UX Core allows you to explore many cognitive biases while creating software.
 - [Coggle](https://coggle.it/diagram/Vz9LvW8byvN0I38x/t/web-development) - Collaborative mind-mapping tool for visualizing and organizing ideas related to web development.
@@ -1373,7 +1367,6 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [SafeRules](https://anthonyhobday.com/sideprojects/saferules/) - Visual design rules that can be safely followed every time.
 - [Can I Email](https://www.caniemail.com/) - Check email client compatibility for HTML and CSS features.
 - [Egg Gradients](https://www.eggradients.com/) - Collection of gradient background colors.
-- [Mozilla Developer Network](https://developer.mozilla.org/en-US/) - Documentation for web technologies, including CSS, HTML, and JavaScript.
 - [Frontend Checklist](https://frontendchecklist.io/) - Exhaustive list of all elements you need to have/test before launching your website/HTML page to production.
 - [Frontend Mentor](https://www.frontendmentor.io/) - Platform to solve real-world HTML, CSS, and JavaScript challenges while working to professional designs.
 - [CodePen](https://codepen.io/) - Platform to build, test, and discover front-end code. Explore [topics](https://codepen.io/topics/).
@@ -1580,7 +1573,6 @@ Some websites can fall into multiple categories. If you can't find what you need
 ### Emails
 
 - [BurnerMail](https://burnermail.io/) - Protect your personal email address, control who can send you emails, and generate new burner addresses with one click.
-- [Scr.im](https://scr.im/) - Convert your email address into a short and safe link that you can share on the web without exposing it to spammers.
 - [Kill the Newsletter](https://kill-the-newsletter.com/) - Transform email newsletters into Atom feeds for easier consumption.
 - [Dead Man's Switch](https://www.deadmansswitch.net/) (~$) - A service that sends your emails to your designated recipients if you don't interact with it within a specified timeframe.
 - [YAMM](https://yamm.com/) ($) - Mail merge for Gmail, allowing you to send mass emails with Gmail, ensuring delivery to the primary inbox. Track results in real-time directly from Google Sheets.
