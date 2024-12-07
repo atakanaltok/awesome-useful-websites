@@ -33,7 +33,7 @@ Certain websites are tagged with the symbols listed below for convenience.
 
 <br>
 
-Some websites can fall into multiple categories. If you can't find what you need in a specific category, search for keywords or explore other relevant categories as well.
+Each website is included only once. Some websites can fall into multiple categories. If you can't find what you need in a specific category, search for keywords or explore other relevant categories as well. To look up websites, use the [raw](https://raw.githubusercontent.com/atakanaltok/awesome-useful-websites/refs/heads/main/README.md) version.
 
 # Contents
 
@@ -62,7 +62,9 @@ Some websites can fall into multiple categories. If you can't find what you need
     - [Flight](#flight)
     - [Weather](#weather)
   - [Health](#health)
+    - [Air Quality](#air-quality)
     - [Food](#food)
+    - [Lawn/Yard care](#lawnyard-care)
   - [Music / Audio](#music--audio)
     - [Find Music](#find-music)
     - [Free Music](#free-music)
@@ -80,6 +82,7 @@ Some websites can fall into multiple categories. If you can't find what you need
     - [Finance](#finance)
     - [Patents](#patents)
     - [Marketing](#marketing)
+      - [Social Media](#social-media)
     - [Trends](#trends)
     - [Meetings](#meetings)
   - [Jobs](#jobs)
@@ -95,7 +98,6 @@ Some websites can fall into multiple categories. If you can't find what you need
       - [Colors](#colors)
       - [Fonts](#fonts)
       - [Icons / Icon Packs](#icons--icon-packs)
-      - [Tools for Social Media](#tools-for-social-media)
       - [Stock Images](#stock-images)
       - [Wallpapers](#wallpapers)
   - [Art](#art)
@@ -110,6 +112,7 @@ Some websites can fall into multiple categories. If you can't find what you need
     - [Books, Articles, Texts](#books-articles-texts)
       - [Book Recommendations and Summaries](#book-recommendations-and-summaries)
     - [Maps and Data](#maps-and-data)
+      - [Arxiv](#arxiv)
     - [Infographic](#infographic)
     - [Philosophy](#philosophy)
     - [Social Sciences](#social-sciences)
@@ -118,6 +121,7 @@ Some websites can fall into multiple categories. If you can't find what you need
     - [Biology](#biology)
   - [Physics](#physics)
     - [Quantum](#quantum)
+      - [Quantum Games](#quantum-games)
     - [Astronomy](#astronomy)
   - [Mathematics](#mathematics)
     - [Math + Art](#math--art)
@@ -133,6 +137,7 @@ Some websites can fall into multiple categories. If you can't find what you need
     - [Data Structures and Algorithms (DS\&A)](#data-structures-and-algorithms-dsa)
     - [Big-O notation](#big-o-notation)
   - [AI/ML](#aiml)
+    - [Robotics](#robotics)
     - [LLMs](#llms)
     - [Prompt Engineering](#prompt-engineering)
     - [AI tools](#ai-tools)
@@ -151,11 +156,15 @@ Some websites can fall into multiple categories. If you can't find what you need
   - [Software Engineering](#software-engineering)
     - [Android Development](#android-development)
     - [Game Development](#game-development)
+      - [Game Theory](#game-theory)
       - [Pokemon](#pokemon)
       - [Chess](#chess)
+    - [Embeddings](#embeddings)
     - [Linux](#linux)
+      - [Vim](#vim)
     - [Git](#git)
       - [GitHub](#github)
+    - [IDEs](#ides)
   - [Privacy](#privacy)
     - [Cryptography](#cryptography)
     - [GAFA Alternatives](#gafa-alternatives)
@@ -165,6 +174,7 @@ Some websites can fall into multiple categories. If you can't find what you need
     - [Data Breach](#data-breach)
     - [Search](#search)
     - [Internet](#internet)
+      - [DNS](#dns)
     - [URL](#url)
       - [URL Shortener](#url-shortener)
     - [VPN](#vpn)
@@ -190,10 +200,10 @@ Some websites can fall into multiple categories. If you can't find what you need
     - [Front-end Cheat Sheet](#front-end-cheat-sheet)
       - [HTML Cheat Sheet](#html-cheat-sheet)
       - [CSS Cheat Sheet](#css-cheat-sheet)
-  - [Keyboard](#keyboard)
-    - [Keyboard Shortcuts](#keyboard-shortcuts)
-  - [How To Ask A Good Question](#how-to-ask-a-good-question)
-    - [XY Problem](#xy-problem)
+  - [Building Computer / PC Build](#building-computer--pc-build)
+    - [Keyboard](#keyboard)
+      - [Typing Practice](#typing-practice)
+      - [Keyboard Shortcuts](#keyboard-shortcuts)
   - [Other Websites of Websites](#other-websites-of-websites)
 - [Contributing](#contributing)
 - [DISCLAIMER](#disclaimer)
@@ -212,6 +222,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Everybodywiki](https://en.everybodywiki.com/Everybodywiki:Welcome) - Rescues deleted articles and rejected drafts from Wikipedia in multiple languages and welcomes new articles.
 - [Lunar](https://lunar.fyi/) - Multi-featured app for controlling monitors.
 - [GetHuman](https://gethuman.com/) - Get a representative on the phone faster and receive better help from known companies.
+- [S-ings Scratchpad](https://www.s-ings.com/scratchpad/) - Online scratchpad tool designed for quick notes, calculations, and informal writing.
 
 ### White Board
 
@@ -220,6 +231,8 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Excalidraw](https://excalidraw.com/) - Whiteboard where you can sketch hand-drawn-like diagrams.
 - [Excalideck](https://excalideck.com/) - App for authoring slide decks that look hand-drawn, based on Excalidraw.
 - [Blank Page](https://blank.page/) - Simple webpage displaying a blank white page.
+- [Kid Pix](https://kidpix.app/) - A bitmap drawing program designed for children, offering a fun, user-friendly interface for creative and interactive digital artwork.
+- [Krita](https://krita.org/en/) - Free, open-source digital painting software designed for artists, offering advanced tools for illustration, concept art, and texture painting.
 
 ### Mind Map / Note Taking
 
@@ -268,6 +281,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [CodingFont](https://www.codingfont.com/) - Gamified experience to compare and find coding fonts.
 - [This vs That](https://thisvsthat.io/) - Type in two things to compare them to each other.
 - [Secure Messaging Apps Comparison](https://www.securemessagingapps.com/) - A comparison platform for secure messaging apps.
+- [RTINGS](https://www.rtings.com/) - Provides in-depth reviews and comparisons of audio and visual equipment, including TVs, monitors, headphones, and soundbars, with detailed testing and ratings.
 
 ### File
 
@@ -339,10 +353,11 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [JScreenFix](https://www.jscreenfix.com/) - Pixel fixing algorithm for repairing defective pixels, particularly effective for stuck pixels. No installation required, and it's free.
 - [Donkey Car](https://www.donkeycar.com/) - Open-source DIY self-driving platform for small-scale cars. It combines an RC car with a Raspberry Pi and is powered by Python (tornado, keras, tensorflow, opencv, etc.).
 - [Instructables](https://www.instructables.com/) - A platform for discovering and sharing DIY projects.
-- [iFixit](https://www.ifixit.com/) - Repair guides for various devices, contributed by the community.
+- [iFixit](https://www.ifixit.com/) - Provides free repair guides and manuals for a wide variety of electronics, appliances, and other products, empowering users to fix items themselves, contributed by the community.
 - [Fix It Club](https://fixitclub.com/) - Save money on home repairs with helpful guides.
 - [BookCrossing](https://bookcrossing.com/) - Release your books "into the wild" for strangers to find or perform a "controlled release" to another BookCrossing member, and track their journey via journal entries from around the world.
 - [Dimensions](https://www.dimensions.com/) - Platform offering visual reference designs for dimensions and measurements across various categories.
+- [Repair Clinic](https://www.repairclinic.com/) - Longest-running source for genuine appliance, HVAC, and outdoor power equipment parts in North America, offering expert advice, how-to resources, and support for DIY repairs. Trusted by professionals and homeowners, the site provides high-quality OEM parts and guidance to help users successfully complete their repairs.
 
 ## Culture
 
@@ -372,6 +387,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Prismatext](https://prismatext.com/) - Blend the most useful foreign words and phrases into your favorite novels and stories.
 - [Ponly](https://ponly.com/about/) - Website with fun and humorous content and jokes.
 - [Tongue-Twister](https://tongue-twister.net/) - World's largest collection of tongue twisters with 3660 entries in 118 languages
+- [OLAC (Open Language Archives Community)](http://olac.ldc.upenn.edu/) - An international network of institutions and individuals working to create a global virtual library of language resources, focusing on digital archiving practices and providing interoperable repositories for accessing linguistic data.
 
 ### Grammar
 
@@ -454,6 +470,15 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Puzzle Loop](https://www.puzzle-loop.com/) - Platform offering logic puzzles with simple rules and challenging solutions.
 - [What Should You Do with Your Life?](https://guzey.com/personal/what-should-you-do-with-your-life/) - Article providing directions and advice on life decisions.
 - [InnerBody](https://www.innerbody.com/) - Research for reviews and researches about health products, services, and more.
+- [Sleep Calculator](https://sleepcalculator.com/) - Tool that helps users determine the best time to go to bed based on their desired wake-up time, optimizing sleep cycles for better rest and alertness.
+- [SimpleLab](https://gosimplelab.com/) - Provides rapid, reliable environmental testing across the U.S., using a cloud-based platform for efficient sampling, testing, and data management.
+
+### Air Quality
+
+- [Air Quality Index (European Environment Agency)](http://airindex.eea.europa.eu/) - Provides real-time air quality data across Europe, featuring an interactive map that visualizes air pollution levels and their impact on public health.
+- [Berkeley Earth](http://berkeleyearth.org/) - A non-profit organization focused on providing accurate and comprehensive data on air quality and climate, with tools for visualizing environmental data globally.
+- [World Air Quality Index](https://waqi.info/) - Offers real-time air quality information from around the world, providing an interactive map and detailed data on pollution levels and their effects on health.
+- [IQAir](https://www.iqair.com/) - Operates the world’s largest free real-time air quality monitoring platform, providing critical data to individuals, researchers, and governments to monitor and address air pollution, ultimately helping to protect global public health.
 
 ### Food
 
@@ -462,6 +487,15 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Just the Recipe](https://www.justtherecipe.com/) - Platform that provides direct instructions from any recipe site without ads and pop-ups.
 - [Two Peas and Their Pod](https://www.twopeasandtheirpod.com/) - Recipe site offering a variety of recipes.
 - [HelloFresh](https://www.hellofresh.com/) - Meal kit delivery service where users can choose recipes, and HelloFresh delivers the ingredients straight to their door.
+
+### Lawn/Yard care
+
+- [Healthy Yards](https://healthyyards.org) - Resources and tips for eco-friendly and sustainable lawn care practices are offered, with a focus on benefiting local wildlife and the environment.
+- [Homegrown National Park](https://homegrownnationalpark.org) - Information on creating wildlife corridors and contributing to biodiversity by planting native species is provided.
+- [Butterfly Conservation](https://butterfly-conservation.org) - Details on the conservation of butterflies and moths are shared, including species protection and involvement opportunities.
+- [Xerces Society](https://xerces.org) - Guidance on the conservation of pollinators and invertebrates, including habitat restoration and sustainable practices, is available.
+- [Beyond Pesticides](https://beyondpesticides.org) - Resources on organic and sustainable practices for reducing pesticide use and protecting public health and the environment are provided.
+- [National Pesticide Information Center](https://npic.orst.edu) - Science-based information on pesticide use, safety guidelines, and factsheets for consumers and health professionals is offered.
 
 ## Music / Audio
 
@@ -484,6 +518,9 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Audiocheck](https://www.audiocheck.net/) - Test your audio equipment online.
 - [Mixlr](https://mixlr.com/) ($) - Share quality live audio online. Broadcast using any source, invite people to listen, and chat in real-time (Free for just listening).
 - [Learn Choral Music](https://www.learnchoralmusic.co.uk/) - John's Musical Instrument Digital Interface (MIDI) file collection of well-known choral works in voice-emphasized form, available for free downloading.
+- [Bandura Festival](https://bandura.ukrzen.in.ua/en#lvivbandurfest) - Online Bandura, a traditional Ukrainian instrument.
+- [AllMusic](https://www.allmusic.com/) - Provides comprehensive and in-depth information on albums, artists, songs, and bands, serving as a valuable resource for music enthusiasts.
+- [ASMR Microphones](https://asmrmicrophones.com) - Reviews, comparisons, and expert opinions on various ASMR microphones are provided to help users select the most suitable equipment.
 
 ### Find Music
 
@@ -548,6 +585,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [I Have No TV](https://ihavenotv.com/) - Watch free online documentaries.
 - [WCostream](https://m.wcostream.com/) - Free cartoon and anime series streaming.
 - [Watch Documentaries](https://watchdocumentaries.com/) - Website offering a collection of documentaries on various topics.
+- [Senses of Cinema](https://www.sensesofcinema.com/) - One of the earliest online film journals, known for its professional, high-quality content related to film studies and industry trends.
 
 ### Anime
 
@@ -583,6 +621,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Capture My Tweet](https://capturemytweet.in/) - Turn your tweets into wonderful images for free.
 - [Twitter Card Generator](https://freecodetools.org/twitter-card-generator/) - Tool to generate Twitter cards, attaching rich content to Tweets for free.
 - [Rattibha](https://rattibha.com/) - Curates Twitter threads by categories and authors with time, language, and sorting options.
+- [Musk Messages](https://muskmessages.com/) - Platform compiling and categorizing direct messages from Elon Musk on Twitter, providing easy access to his thoughts and statements.
 
 ### Reddit
 
@@ -652,6 +691,17 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [SuperMeme AI](https://www.supermeme.ai/) ($) - Generate original memes powered by AI in 110+ languages.
 - [Apollo](https://www.apollo.io/) - Sales intelligence and engagement platform to search, engage, and convert over 250 million contacts at over 60 million companies.
 - [Vocus.io](https://vocus.io/) - Personalize email campaigns, track and automate email follow-ups, schedule appointments, sync with your CRM, and collaborate with your team.
+
+#### Social Media
+
+- [Instagram Caption Maker](https://apps4lifehost.com/Instagram/CaptionMaker.html) - Clean & Beautiful Line Breaks for IG Captions.
+- [Social Sizes](https://socialsizes.io/) - Image and Video sizes for Social Media.
+- [Ocoya](https://www.ocoya.net/) ($) - Platform to create, auto-generate, and schedule content.
+- [Imgupscaler](https://imgupscaler.com/?ref=producthunt) - AI-based PNG / JPG Image Upscaler.
+- [Namechk](https://namechk.com/) - Check the availability of a username or domain name within seconds. 30 domains and more than 90 social media accounts.
+- [Inflact](https://inflact.com/downloader/instagram/video/) - Save original high-quality videos from Instagram to your device.
+- [TikTok Video Downloader](https://ttvdl.com/) - Download TikTok videos.
+- [SWAPD](https://swapd.co/) - Provides a middleman service for buying, selling, and trading virtual items and services, offering a secure platform that connects users with a vast network of buyers, sellers, and opportunities in the digital marketplace.
 
 ### Trends
 
@@ -732,9 +782,9 @@ Some websites can fall into multiple categories. If you can't find what you need
 
 ## Startups
 
-- [Ncase](https://ncase.me/) - Game Theory explanations with simple games.
 - [Startup Growth Calculator](https://growth.tlb.org/) - Calculate how much funding your startup needs for growth.
 - [Startup Equity Calculator](https://capbase.com/startup-equity-calculator/) - Split equity based on different variables for your startup.
+- [Fifty Years Progress Map](https://progress.fiftyyears.com/) - Highlights large markets with low startup investment. Provides a list of massive markets ranked by competitiveness, including market size and total investment in Series A startups over the last 10 years. Calculates a Competition Ratio for each market.
 - [Museum of Websites](https://www.kapwing.com/museum-of-websites) - A gallery showcasing how famous internet companies have changed over time.
 - [Goal Examples](https://hypercontext.com/goal-examples) - A curated list of goal examples for every role in tech.
 - [Startup Resources](https://www.feedough.com/startup-resources/) - A collection of resources categorized for startups.
@@ -808,6 +858,8 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [0to255](https://0to255.com/) - A color tool that helps find lighter and darker colors based on any color.
 - [ColorHexa](https://www.colorhexa.com/) - Provides information about any color and generates matching color palettes.
 - [Color Hunt](https://colorhunt.co/) - Discover hand-picked color palettes.
+- [Coolors](https://coolors.co/) - Color scheme generator and palette creation tool, allowing users to explore, create, and share color combinations for design projects.
+- [Colors.lol](https://colors.lol/) - Website offering a simple interface for generating color palettes, with options for saving and exporting them for use in digital design.
 
 #### Fonts
 
@@ -815,9 +867,12 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Font Discovery](https://fontdiscovery.typogram.co/) - Weekly design, font, and color creativity newsletter for creators, founders, makers.
 - [MyFonts](https://www.myfonts.com/) - Over 130,000 available fonts, and counting.
 - [Google Fonts](https://fonts.google.com/) - Collection of free and open-source fonts by Google.
+- [DaFont](https://www.dafont.com/) - A popular website offering free fonts for download, with categories for various styles and uses, including decorative, script, and sans-serif fonts.
+- [UCL Fonts Project](http://vecg.cs.ucl.ac.uk/Projects/projects_fonts/projects_fonts.html) - A research project focused on manifold of fonts, providing findings of their work and an interactive 2D Font Manifold Demonstration.
 
 #### Icons / Icon Packs
 
+- [The Noun Project](https://thenounproject.com/) - Platform offering a vast collection of free icons and stock photos, available for use in a wide range of projects and designs.
 - [IconPacks](https://www.iconpacks.net/) - Platform offering a variety of icon packs for personal and commercial use.
 - [Doodlicons on Notion](https://www.notion.so/Doodlicons-519314a92ed3474093a10e44946bbb72) - Doodle icons for project wireframes on Notion.
 - [Illustration Kit](https://illustrationkit.com/) - Collection of free vector illustrations for personal and commercial projects.
@@ -836,16 +891,6 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Iconfinder](https://www.iconfinder.com/) ($) - Platform offering icons, illustrations, 3D illustrations, designers, and free icons.
 - [Iconz Design](https://iconz.design/) ($) - Premium 3D library of 223 icons.
 - [HugeIcons.pro](https://hugeicons.pro/) ($) - Platform offering over 25,000 icons in 5 unique styles, organized across 57 popular categories.
-
-#### Tools for Social Media
-
-- [Instagram Caption Maker](https://apps4lifehost.com/Instagram/CaptionMaker.html) - Clean & Beautiful Line Breaks for IG Captions.
-- [Social Sizes](https://socialsizes.io/) - Image and Video sizes for Social Media.
-- [Ocoya](https://www.ocoya.net/) ($) - Platform to create, auto-generate, and schedule content.
-- [Imgupscaler](https://imgupscaler.com/?ref=producthunt) - AI-based PNG / JPG Image Upscaler.
-- [Namechk](https://namechk.com/) - Check the availability of a username or domain name within seconds. 30 domains and more than 90 social media accounts.
-- [Inflact](https://inflact.com/downloader/instagram/video/) - Save original high-quality videos from Instagram to your device.
-- [TikTok Video Downloader](https://ttvdl.com/) - Download TikTok videos.
 
 #### Stock Images
 
@@ -884,6 +929,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [The Art Institute of Chicago Collection](https://www.artic.edu/collection) - Explore thousands of artworks in the museum’s collection.
 - [ZoomQuilt](https://zoomquilt.org/) - Collaborative infinitely zooming painting.
 - [Invaluable](https://www.invaluable.com/) - The world's premier online auctions platform, featuring thousands of items added daily. Invaluable provides accessibility to discovering and acquiring exceptional art and objects anytime, anywhere.
+- [50 Watts](https://50watts.com/) - Archive of weird and wonderful visual ephemera from around the world
 
 ### Photography
 
@@ -913,6 +959,8 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Tropy](https://tropy.org/) - Platform to organize research by turning photos into items.
 - [Linda Hall Library Catalog](https://catalog.lindahall.org/discovery/search?vid=01LINDAHALL_INST:LHL) - Catalog of the Linda Hall Library that allows you to search for books, journals, conference proceedings, technical reports and standards, and other materials, focusing on science, engineering, and technology.
 - [Project Abstracts](https://projectabstracts.com/) - Collection of project abstracts and downloads for academic mini projects and final year projects across various fields.
+- [SCIRP Open Access Journal](https://www.scirp.org/journal/OpenAccess) - Platform offering open-access academic journals across various scientific disciplines, promoting free access to research.
+- [DOI.org](https://www.doi.org/) - The official website for Digital Object Identifiers (DOI), providing a system for the persistent identification and access of digital resources, including academic papers and datasets.
 
 ### Studying
 
@@ -970,6 +1018,9 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Closer to Truth](https://www.closertotruth.com/) - Robert Lawrence Kuhn explores the fundamental questions of the universe.
 - [Nature Scitable](https://www.nature.com/scitable/) - Library of scientific overviews. Customize your own eBooks, create an online classroom, contribute and share content, and connect with networks of colleagues.
 - [Vinaire](https://vinaire.me/) - Physics and Math classes.
+- [VisualPDE](https://visualpde.com/) - Interactive platform for exploring science and mathematics, offering simulations on topics like waves, viruses, and reaction-diffusion patterns.
+- [Whole Earth](https://wholeearth.info/) - Nearly-complete archive of Whole Earth publications, a series of journals and magazines published by Stewart Brand and the POINT Foundation from 1968 to 2002, made available for scholarship, education, and research purposes.
+- [Sketchplanations](https://sketchplanations.com/categories/science) - Collection of simple sketches and visual explanations on scientific concepts, aimed at making complex topics more accessible.
 
 ### Biographies
 
@@ -1031,6 +1082,8 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Online Books Library](https://onlinebooks.library.upenn.edu/) - University of Pennsylvania's online library providing access to 3 million free books on the Web.
 - [Elegant eBooks](https://www.ibiblio.org/ebooks/) - Find great classics of fiction and non-fiction in stylish editions. Almost all of the ebooks on this site were made from books that are in the public domain.
 - [22 Free Data Science Books](https://www.wzchen.com/data-science-books) - A compilation of quality data science books available for free, curated to assist those exploring the data science career track. The last updated date of each book is included in parentheses.
+- [Chest of Books](https://chestofbooks.com/) - Free online library offering a large collection of books on various topics, including science, technology, art, and literature.
+- [Stephen Wolfram: A New Kind of Science](https://www.wolframscience.com/nks/) - Online version of Stephen Wolfram's book "A New Kind of Science," offering access to the table of contents and related materials on cellular automata and complexity.
 
 #### Book Recommendations and Summaries
 
@@ -1061,17 +1114,22 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Common Crawl](https://commoncrawl.org/) - An open repository of web crawl data that can be accessed and analyzed by anyone.
 - [Mount Everest 3D Map](https://mount-everest3d.com/3d-map/) - Interactive 3D map of Mount Everest.
 - [Visualize Value Archive](https://archivve.visualizevalue.com/) - Archive of visual content from Visualize Value.
-- [Map of GitHub](https://anvaka.github.io/map-of-github/) - Visual representation of the GitHub repository network.
 - [Fliist](https://fliist.com/en) - Platform for creating and sharing your favorite lists.
 - [Search Engine Map](https://www.searchenginemap.com/) - Visual representation of popular search engines.
 - [Friendly Dubinsky](https://friendly-dubinsky-cb22fe.netlify.app/) - Maps of different places.
 - [Real-Time SpaceX Starlink Satellite Tracker](https://www.starlinkmap.org/) - Website providing a real-time tracker for SpaceX Starlink satellites.
-- [Interactive Data Map of ArXiv Machine Learning Papers](https://datamapplot.readthedocs.io/en/latest/auto_examples/plot_interactive_arxiv_ml.html) - Interactive data map displaying papers from the Machine Learning section of ArXiv.
 - [Album of Computational Fluid Motion](https://album-of-cfm.com/) - Collection showcasing computational fluid motion images.
 - [Visualization of Every Job Title in the World](https://duarteocarmo.com/blog/every-job-world) - Interactive visualization categorizing every single job title in the world into 10 categories.
 - [ObservableHQ](https://observablehq.com/@tophtucker/examples-of-bitemporal-charts) - Examples of bitemporal charts
-- [Fifty Years Progress Map](https://progress.fiftyyears.com/) - Highlights large markets with low startup investment. Provides a list of massive markets ranked by competitiveness, including market size and total investment in Series A startups over the last 10 years. Calculates a Competition Ratio for each market.
 - [The Uncensored Library](https://uncensoredlibrary.com/en) - Minecraft server and map released by Reporters Without Borders and created by BlockWorks, DDB Berlin, and MediaMonks as an attempt to circumvent censorship in countries without freedom of the press
+- [Lighthouse Map](https://geodienst.github.io/lighthousemap/) - An interactive map displaying the locations of lighthouses around the world, offering geospatial information and history for each site.
+
+#### Arxiv
+
+- [ArxivXplorer](https://arxivxplorer.com/) - Search tool designed for exploring scientific papers on arXiv, allowing users to find and filter research articles across various disciplines.
+- [Interactive Data Map of ArXiv Machine Learning Papers](https://datamapplot.readthedocs.io/en/latest/auto_examples/plot_interactive_arxiv_ml.html) - Interactive data map displaying papers from the Machine Learning section of ArXiv.
+- [ArXiv Machine Learning Landscape](https://lmcinnes.github.io/datamapplot_examples/ArXiv_data_map_example.html) - Visualization showcasing the landscape of machine learning research on ArXiv.
+- [DataMapPlot Examples](https://lmcinnes.github.io/datamapplot_examples/arXiv/) - A collection of examples and demonstrations for visualizing data on manifolds using the DataMapPlot library, focusing on arXiv datasets.
 
 ### Infographic
 
@@ -1094,6 +1152,9 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Philosophy A Level](https://philosophyalevel.com/)
 - [Deniz Cemon Duygu - History of Philosophy](https://www.denizcemonduygu.com/philo/browse/) - Summarized & Visualized.
 - [Interactive timeline of philosophical ideas](https://www.denizcemonduygu.com/portfolio/the-history-of-philosophy/). - Visual representation and exploration of the significant philosophers and their ideas.
+- [Beyng](https://www.beyng.com/) - A resource dedicated to Martin Heidegger's philosophy, providing English translations and discussions of his works and ideas.
+- [Greg Egan's Official Website](https://www.gregegan.net/) - Information about the works, philosophy, and projects of science fiction author and computer programmer Greg Egan is presented.
+- [Ayn Rand Institute Courses](https://courses.aynrand.org/) - Educational platform offering free courses on Ayn Rand's philosophy, including Objectivism and its application to life and society.
 
 ### Social Sciences
 
@@ -1109,6 +1170,9 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [The Ascent of Humanity](https://ascentofhumanity.com/) - Explores the concept of the Age of Separation, the Age of Reunion, and the convergence of crises shaping the transition in human history.
 - [Today in Science History](https://todayinsci.com/) - Platform offering historical events of a given date.
 - [Khipu Field Guide](https://khipufieldguide.com/guidebook/Introduction.html) - Guidebook providing information on khipus, the ancient Incan system of knotted strings for record-keeping.
+- [Hellenistic History](https://www.hellenistichistory.com/) - Resource for the study of Hellenistic history, covering the political, cultural, and social developments from Alexander the Great's era to the Roman Empire.
+- [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/) - Provides a vast collection of classical texts, images, and resources for the study of ancient Greek and Roman cultures.
+- [Futility Closet](https://www.futilitycloset.com/) - Collection of entertaining curiosities in history, literature, language, art, philosophy, and mathematics, designed to help you waste time as enjoyably as possible.
 
 ### Geoscience
 
@@ -1119,6 +1183,8 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Flood Site](https://floodsite.net/juniorfloodsite/) - An educational resource about flooding.
 - [NEMO - Nucleus for European Modeling of the Ocean](https://www.nemo-ocean.eu/) - Platform providing information and resources related to ocean modeling for multifarious space and time scales, developed by a European consortium.
 - [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/?extent=25.56227,4.08691&extent=45.08904,70.00488&list=false) - Map displaying recent earthquake activity from the United States Geological Survey.
+- [LatLong.net](https://www.latlong.net/) - Tool for finding latitude and longitude coordinates for any location on a map, providing geographic coordinates and related data.
+- [Latitude.to](https://latitude.to/) - Allows users to find GPS coordinates for any address or location worldwide, with detailed mapping features.
 
 ### Biology
 
@@ -1126,6 +1192,8 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Deep Sea](https://neal.fun/deep-sea/) - Platform to explore the depths of the seas.
 - [Ask Nature](https://asknature.org/) - Biology-inspired strategies, innovations, or educational resources.
 - [We Are Hosts for Memes](https://wearehostsformemes.com/) - You have been exposed to The Meta-meme
+- [Birdwatching Zone](https://birdwatching.zone/) - A site dedicated to birdwatching, featuring over 300 species recorded with identification tips and resources for enthusiasts.
+- [OneZoom](https://www.onezoom.org/) - The Tree of Life that illustrates how all life on Earth is connected. Explore relationships between 2.2 million species, view over 100,000 images, and see how species evolved from common ancestors. Zoom through the tree to discover the diversity of life on Earth.
 
 ## Physics
 
@@ -1134,11 +1202,25 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [University of Virginia Classical and Modern Physics II](https://galileo.phys.virginia.edu/classes/632.ral5q.summer06/lectures.html) - Lecture notes and materials for the Classical and Modern Physics II course at the University of Virginia.
 - [Mueller Group - Cornell](https://muellergroup.lassp.cornell.edu/index.html) - Laboratory of Atomic and Solid State Physics at Cornell University.
 - [Ptable](https://ptable.com/?lang=en) - Interactive and customizable periodic table providing information about elements and their properties.
+- [National Institute of Standards and Technology – Fundamental Physical Constants](https://www.nist.gov/pml/fundamental-physical-constants) - Offers authoritative data on physical constants, providing essential measurements for research and technological applications.
+- [Mechanics Map](https://mechanicsmap.psu.edu/index.html) - Interactive resource from Penn State University for exploring mechanical systems and understanding basic mechanics principles.
 
 ### Quantum
 
 - <https://vsg.quasihome.com/interfer.htm> - Applet of Young's Double Slit Interference
 - [Webb Telescope](https://webbtelescope.org/) - Official website for the James Webb Space Telescope.
+
+#### Quantum Games
+
+- [Virtual Lab by Quantum Flytrap](https://quantumflytrap.com/lab) - Simulates optical experiments with multiparticle quantum systems, supporting quantum key distribution and entanglement exploration.
+- [Hello Quantum](https://quantum-computing.ibm.com/lab) - Introduces quantum circuits and gates via interactive puzzle games, featuring graphical interfaces to simplify quantum concepts.
+- [Particle in a Box](https://learnqm.gatech.edu) - Demonstrates quantum superposition and energy levels through a 2D single-player platformer contrasting classical and quantum physics.
+- [Psi and Delta](https://learnqm.gatech.edu) - Encourages collaborative learning of quantum mechanics using cooperative gameplay focused on superposition and quantum probabilities.
+- [QPlayLearn](https://qplaylearn.com) - Offers interactive tools, videos, and games for multi-level education on quantum physics, addressing diverse learner profiles.
+- [Quantum Odyssey](https://quarksinteractive.com) - Visualizes quantum algorithm development through a game-like interface, aiding education in quantum computing logic and state evolution.
+- [Quantum Moves 2](https://www.scienceathome.org/games/quantum-moves-2) - Engages citizen scientists in optimizing quantum experiments, addressing real-world challenges in quantum optimization.
+- [The Virtual Quantum Optics Laboratory](https://www.vqol.org/) - Enables design and simulation of quantum optics experiments, bridging classical and quantum mechanics for educational use.
+- [Arxiv Paper - Quantum Games and Interactive Tools for Quantum Technologies Outreach and Education](https://arxiv.org/abs/2202.07756) - Comprehensive discussion of the use of games and interactive tools to engage the public in understanding quantum technologies.
 
 ### Astronomy
 
@@ -1146,6 +1228,9 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Galileo's Applets](https://galileo.phys.virginia.edu/classes/109N/more_stuff/Applets/home.html) - Provides applets on early lunar observations and various motion-related topics.
 - [100,000 Stars](https://stars.chromeexperiments.com/) - A visualization of 100,000 nearby stars, providing an immersive experience.
 - [The Million Earth Solar System](https://planetplanet.net/2018/06/01/the-million-earth-solar-system/) - Explores the concept of a solar system with a million Earth-like planets.
+- [Space Telescope Live](https://spacetelescopelive.org/webb) - Live access to real-time data and observations from the James Webb Space Telescope, allowing users to explore space research and discoveries.
+- [Telescope Optics](https://www.telescope-optics.net/) - A resource for amateur telescope builders, providing detailed information on designing and constructing telescope optics.
+- [Orbital Basics](https://t-neumann.github.io/space/OrbitalBasics/) - Educational resource explaining the fundamental concepts of orbital mechanics, designed for beginners in space science.
 
 ## Mathematics
 
@@ -1168,6 +1253,19 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [3Blue1Brown Non-Videos](https://some.3b1b.co/non-videos) - Non-video content winners of 3Blue1Brown's SoME.
 - [Mathigon – The Mathematical Playground](https://mathigon.org/) - Interactive mathematics platform offering educational content and resources.
 - [Math Warehouse](https://www.mathwarehouse.com/) - Offers interactive math activities, demonstrations, lessons with definitions and examples, worksheets, and other resources.
+- [Cut the Knot](https://www.cut-the-knot.org/) - Resource offering interactive math puzzles, problems, and visualizations to explore mathematical concepts through problem-solving.
+- [Trigonography](https://trigonography.com/?page_id=230) - Site exploring trigonometry and its applications, featuring visual aids, formulas, and problem-solving techniques.
+- [Lamar Math Tutorials](https://tutorial.math.lamar.edu/) - A comprehensive collection of math tutorials and practice problems, covering topics from algebra to calculus and differential equations.
+- [Art of Problem Solving](https://artofproblemsolving.com/company) - Focuses on developing problem-solving skills across various subjects including mathematics, physics, programming, and language arts. Offers rigorous online classes, physical academies, and an engaging curriculum designed to encourage critical thinking, experimentation, and perseverance in students.
+- [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/index.php) - Aims to compile and share comprehensive information on mathematicians worldwide, gathering data from academic institutions and individual contributors.
+- [Enjeck Complicated Math Equation Generator](https://enjeck.com/num2math/?input=4&submit=Generate) - Generates complex mathematical equations based on user input, offering a tool for practicing or visualizing mathematical problems.
+- [Erdos Problems](https://www.erdosproblems.com/) - A site dedicated to exploring open mathematical problems related to Paul Erdős, including ongoing challenges in number theory and combinatorics.
+- [The Electronic Journal of Combinatorics](https://www.combinatorics.org/ojs/index.php/eljc) - An open-access journal publishing research papers and articles on combinatorics, an area of mathematics dealing with counting, arrangement, and structure.
+- [Zeta by Amir Hirsch](https://amirhirsch.com/zeta/index.html) - Website dedicated to the exploration of the Riemann Hypothesis, with interactive tools and resources for those interested in number theory.
+- [Tungsteno](https://www.tungsteno.io/) - A platform providing pedagogical tools to make mathematics accessible to everybody, completely free, based on open collaboration.
+- [PlanetMath](https://planetmath.org/) - Online mathematical resource and collaborative platform that provides open-access mathematics content, including definitions, theorems, and proofs.
+- [Geomstats Tutorials](https://geomstats.github.io/tutorials/index.html) - Tutorials and resources on geometric statistics, providing practical examples and code for implementing statistical techniques on manifolds.
+- [Ximera - MOOCulus](https://ximera.osu.edu/mooculus) - Collection of interactive math modules and learning resources designed for online courses, focusing on calculus and related subjects.
 
 ### Math + Art
 
@@ -1184,6 +1282,10 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Knovel](https://app.knovel.com/kn) - A platform providing tools and calculators for various engineering and scientific purposes.
 - [Engineering Library](https://engineeringlibrary.org/reference/) - Reference library for engineering topics.
 - [Engineering Toolbox](https://www.engineeringtoolbox.com/index.html) - Online resource providing engineering tools and information.
+- [Text to CAD](https://text-to-cad.zoo.dev/) - Tool converting textual descriptions into CAD models, helping users generate technical drawings from written input.
+- [McMaster-Carr](https://www.mcmaster.com/) - Supplier of hardware, tools, raw materials, industrial materials, and maintenance equipment, serving a wide range of industries with an extensive catalog of products.
+- [Engineer on a Disk: Modeling](https://engineeronadisk.com/book_modeling/modelTOC.html) - A book offering a hands-on guide to system modeling and simulation, with practical examples and explanations for engineers and developers.
+- [Bartosz Ciechanowski Archives](https://ciechanow.ski/archives/) - Collection of articles on design and technology by Bartosz Ciechanowski.
 
 ### Civil Engineering
 
@@ -1197,6 +1299,10 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [MadeHow](https://www.madehow.com/) - Resource explaining and detailing the manufacturing processes of a wide variety of products.
 - [Comprehensive Structural Analysis Book](https://temple.manifoldapp.org/projects/structural-analysis) - Online resource offering a comprehensive book on structural analysis.
 - [Awesome MechEng](https://github.com/m2n037/awesome-mecheng#heat-transfer) - Awesome Mechanical Engineering Resources.
+- [Animated Dynamics](https://dynref.engr.illinois.edu/ref.html) - Interactive reference for visualizing dynamics simulations, aimed at helping users better understand complex mechanical systems.
+- [Wikimedia Commons - Engine Animations](https://commons.wikimedia.org/wiki/Category:Animations_of_engines) - A collection of animated images and videos that demonstrate the functioning of various types of engines, from combustion to electric.
+- [Mechanisms/menu-gear](https://www.mekanizmalar.com/menu-gear.html) - Gear mechanisms animated.
+- [Mechanism Animations](https://people.ohio.edu/williams/html/MechanismAnimations.html) - Offers interactive animations that demonstrate mechanical systems and mechanisms, helping users visualize and understand their motion and function.
 - [CalcResource](https://calcresource.com/resources.html) - Regularly updated list of resources focused on mechanics and statics, aiding in learning and understanding these subjects.
 - [Engineering Toolbox](https://www.engineeringtoolbox.com/) - Comprehensive resource covering a wide range of engineering topics.
 - [StructX](https://structx.com/) - Website offering structural engineering resources for professionals and students.
@@ -1208,6 +1314,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [How a Car Works](https://www.howacarworks.com/) - Complete and free guide explaining how cars work.
 - [IIHS Ratings](https://www.iihs.org/ratings) - Crash test ratings and safety information from the Insurance Institute for Highway Safety.
 - [Euro NCAP](https://www.euroncap.com/en/) - European New Car Assessment Programme providing safety ratings for vehicles.
+- [Toaster Museum](http://toastermuseum.com/) - A dedicated collection of antique toasters, showcasing vintage models for toaster enthusiasts and collectors, along with historical information and preservation details.
 
 #### Materials / Nanotechnology
 
@@ -1240,6 +1347,9 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Octopart](https://octopart.com/) - Platform for electronic parts, helping users find and compare components.
 - [TechSpot - How CPUs Are Designed and Built](https://www.techspot.com/article/1821-how-cpus-are-designed-and-built/) - Series covering computer architecture, processor circuit design, VLSI, chip fabrication, and future trends in computing.
 - [Open Circuits Book](https://www.opencircuitsbook.com/) - "Open Circuits" is a photographic exploration of the beautiful design inside everyday electronics.
+- [Digi-Key Electronics](https://www.digikey.com/) - Online marketplace for electronic components, featuring a vast selection of parts, tools, and resources for engineers and makers.
+- [Telematic Connections Timeline](http://telematic.walkerart.org/timeline/index.html) - Interactive timeline exploring the history and impact of telematics and networked communication, with a focus on art and technology.
+- [Cybergraph](https://cybergraph.dubberly.com/#) - Visual exploration of Cybernetics, offering interactive representations of networks.
 
 ## Computer Science
 
@@ -1251,8 +1361,8 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Computer Science Library](https://www.compscilib.com/) - Platform aiding in mastering concepts in computer science and math courses with automated step-by-step solutions and practice problems.
 - [Computer Jargon](https://www.computerhope.com/jargon.htm) - Glossary of computer-related jargon and technical terms.
 - [Talks by Alan Kay](https://tinlizzie.org/IA/index.php/Talks_by_Alan_Kay) - Collection of talks by computer scientist Alan Kay.
-- [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html) - Tool to convert between the decimal representation of a number and the binary format used by modern CPUs, based on IEEE-754 standard.
-- [Guide to x86 Assembly](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html) - Guide to x86 Assembly by University of Virginia Computer Science
+- [Everything Computer Science](https://everythingcomputerscience.com/) - A wide range of articles and tutorials on computer science topics, including programming, algorithms, data structures, and software development practices.
+- [Richard Sutton Video Lectures](https://videolectures.net/search/?query=Richard%20sutton) - Collection of video lectures and talks by Richard Sutton, a prominent researcher in reinforcement learning and artificial intelligence.
 
 ### Data Structures and Algorithms (DS&A)
 
@@ -1276,15 +1386,25 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Fast.ai Course](https://course.fast.ai/) - Online course for deep learning and machine learning.
 - [Papers with Code](https://paperswithcode.com/sota) - Collection of state-of-the-art results for machine learning tasks with associated code.
 - [Delta Academy Maps](https://maps.joindeltaacademy.com/) - Map of mathematics for Machine Learning.
-- [Control Challenges](https://janismac.github.io/ControlChallenges/) - Leetcode for robotics.
 - [Inside the Matrix by PyTorch](https://pytorch.org/blog/inside-the-matrix/) - Blog post by PyTorch that is visualizing matrix multiplication, attention and beyond.
 - [Directory of AI Models](https://docs.google.com/spreadsheets/d/1gc6yse74XCwBx028HV_cvdxwXkmXejVjkO-Mz2uwE0k/edit?pli=1#gid=0) - Google Sheets document providing a directory of various AI models, presenting information such as name, date, parameters, organization, organization type, author location, language, commercial use, model, accessibility, code accessibility, data accessibility, major datasets used, and architecture.
 - [Papers with Code](https://paperswithcode.com/) - Platform providing the latest in machine learning research papers along with code implementations and benchmarks.
-- [ArXiv Machine Learning Landscape](https://lmcinnes.github.io/datamapplot_examples/ArXiv_data_map_example.html) - Visualization showcasing the landscape of machine learning research on ArXiv.
+- [Globe Engineer Explorer](https://explorer.globe.engineer/) - Applied AI company making products that optimally represent information for human comprehension.
+- [Colah's Blog](https://colah.github.io/) - Blog by Christopher Olah on deep learning and artificial intelligence, featuring detailed explanations, tutorials, and research insights.
+- [TensorFlow Playground](https://playground.tensorflow.org) - An interactive tool for experimenting with neural networks, allowing users to visualize how different configurations affect model training and classification tasks.
+- [Ben's Bites](https://bensbites.com/catalog) - Catalog offering a variety of bite-sized AI resources.
+
+### Robotics
+
+- [Robots Guide](https://robotsguide.com/) - A comprehensive resource offering guides, reviews, and insights on robotics, aimed at both beginners and enthusiasts in the world of robotics.
+- [Control Challenges](https://janismac.github.io/ControlChallenges/) - Leetcode for robotics.
 
 ### LLMs
 
 - [Hacker Llama](https://osanseviero.github.io/hackerllama/blog/posts/hitchhiker_guide/) - Blog post on the useful terms to know when joining the Local LLM community.
+- [Moebio Mind](https://moebio.com/mind/) - Explores the inner workings of language models, visualizing the semantic space and trajectories of word completions generated by the GPT-3 API. The site demonstrates how responses evolve through high-dimensional spaces and presents interactive visualizations of word sequences and their probabilities, offering a unique perspective on machine-generated intelligence.
+- [LLM Visualization](https://bbycroft.net/llm) - Interactive tool for visualizing large language models (LLMs) and exploring their structure, behavior, and outputs.
+- [RR LM Game](https://rr-lm-game.herokuapp.com/) - Browser-based Language modelling game.
 
 ### Prompt Engineering
 
@@ -1295,6 +1415,9 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [OpenAI Cookbook](https://cookbook.openai.com/) - Cookbook by OpenAI providing practical guides for working with AI.
 - [Prompting Guide](https://www.promptingguide.ai/) - Resource for creating effective prompts for AI models.
 - [Instaprompt](https://www.instaprompt.ai/?ref=producthunt) - Platform offering instant prompts for writing.
+- [Midjourney Prompt Helper](https://promptfolder.com/midjourney-prompt-helper/) - Assists users in generating detailed and effective prompts for Midjourney, enabling the creation of high-quality images through natural language inputs.
+- [Free Midjourney Prompt](https://www.freemidjourneyprompt.com/) - Offers a wide selection of free Midjourney prompts, allowing users to easily generate images by providing optimized natural language prompts.
+- [Prompt Engineering Guide](https://learnprompting.org/docs/introduction) - Serves as a comprehensive guide to prompt engineering, offering essential principles and techniques for crafting effective prompts for AI models and creative tasks.
 
 ### AI tools
 
@@ -1326,6 +1449,9 @@ Some websites can fall into multiple categories. If you can't find what you need
 ### Databases
 
 - [ImageNet](https://www.image-net.org/) - Image database organized according to the WordNet hierarchy.
+- [DataSheets.com](https://www.datasheets.com/) - Searchable database of electronic component datasheets and purchasing information, designed for design engineers and electronics purchasing agents.
+- [Academic Torrents](https://academictorrents.com/) - Community-driven platform for sharing large datasets, offering torrents for academic research, including scientific papers, datasets, and multimedia.
+- [DBLP](https://dblp.org/) - Comprehensive, open-access database providing bibliographic information on major computer science journals, conferences, and proceedings.
 
 ## Web Development
 
@@ -1341,7 +1467,6 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Is Houdini Ready Yet?](https://ishoudinireadyyet.com/) - Tool to check the readiness status of various Houdini specifications in web browsers.
 - [Artillery](https://www.artillery.io/) - Modern load testing and smoke testing tool for SRE (Site Reliability Engineering) and DevOps.
 - [Rentry](https://rentry.org/) - Markdown pastebin service with preview, custom URLs, and editing, offering fast, simple, and free use with entries kept forever.
-- [OneLang IDE](https://ide.onelang.io/) - Online tool for converting code from one programming language to another.
 - [Intab Resources](https://intab.io/resources/) - Curated Web Dev Tools 2021.
 - [Chrome Extension Kit](https://chromeextensionkit.com/) ($) - Kit including 17 battle-tested starter templates for building Chrome Extensions, saving time on setup and focusing on shipping.
 - [Esoteric Codes](https://esoteric.codes/) - Platform exploring esoteric programming languages (esolangs), constraint-based coding, code art, code poetry, and more.
@@ -1361,6 +1486,8 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Mailinator](https://www.mailinator.com/) ($) - Platform allowing developers and QA testing teams to test email and SMS workflows, including 2FA verifications, sign-ups, and password resets.
 - [Atlaq](https://atlaq.com/) - Domain name generator.
 - [Addy's Toolkit](https://toolkit.addy.codes/) - Collection of 806 hand-picked tools & resources for web designers & developers.
+- [BrowserBench - Speedometer 3.0](https://www.browserbench.org/Speedometer3.0/) - A benchmark tool to measure the performance of web browsers, specifically testing responsiveness and the speed of modern web applications.
+- [UserAgents.me](https://www.useragents.me/) - Provides self-updating list of the latest and most common useragents seen on the web across all device types, operating systems, and browsers. Data is always fresh, updating weekly. This user agent list is perfect for web scrapers looking to blend in, developers, website administrators, and researchers. The most common useragents list is compiled from the user logs data of a number of popular sites across niches and geography, cleansed (bots removed), and enriched with information about the device and browser. 
 
 ### Front-end
 
@@ -1467,6 +1594,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Algorithmica - High-Performance Computing](https://en.algorithmica.org/hpc/) - Algorithms for Modern Hardware by Sergey Slotin.
 - [ExBook](https://markm208.github.io/exbook/) - An Animated Introduction to Elixir.
 - [Ben Grosser Projects](https://bengrosser.com/projects/) - Portfolio of projects by Ben Grosser.
+- [Cybercademy Project Ideas](https://cybercademy.org/project-ideas/) - Resource for exploring cybersecurity project ideas, providing inspiration for educational or practical cybersecurity initiatives.
 
 ### Android Development
 
@@ -1476,6 +1604,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Exodus Privacy](https://reports.exodus-privacy.eu.org/en/) - Helps check permissions and trackers of Android apps, providing insights into the privacy aspects of different applications.
 - [Don't Kill My App](https://dontkillmyapp.com/) - A website advocating against aggressive app background process limitations on Android, which can negatively impact app performance.
 - [Mobile X Files](https://mobilexfiles.com/) - Smartphones' secret codes and other hidden functions.
+- [MobileRead Wiki](https://wiki.mobileread.com/wiki/Main_Page) - A comprehensive resource for eReaders, eBooks, and related technologies, providing guides, FAQs, and tutorials for users of various mobile reading devices.
 
 ### Game Development
 
@@ -1483,6 +1612,15 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [System Requirements Lab](https://www.systemrequirementslab.com/cyri) - Analyzes your computer's specifications in seconds, providing information on whether your system meets the requirements for various games.
 - [Kenney](https://kenney.nl/) - Platform offering free game assets, graphics, and game development resources.
 - [Flash Games Archive](https://flasharch.com/en) - Archive of Flash games, preserving these classic games for future enjoyment.
+- [OpenGameArt](https://opengameart.org/) - A platform offering free-to-use game assets, including 2D and 3D art, sound effects, and music for developers and game creators.
+- [Nexus Mods](https://www.nexusmods.com/) - One of the largest online communities for game modifications, offering a vast collection of mods for popular video games to enhance gameplay, add content, or personalize experiences.
+
+#### Game Theory
+
+- [Ncase](https://ncase.me/) - Game Theory explanations with simple games.
+- [Alberta Games Research](https://webdocs.cs.ualberta.ca/~games/) - A site from the University of Alberta offering resources and research related to game theory, computational models, and games as a computational study.
+- [Combinatorics.org](https://www.combinatorics.org/) - A. S. Fraenkel's bibliography of combinatorial game theory literature.
+- [Geometry and Graph Theory](https://ics.uci.edu/~eppstein/cgt/) - A resource on Combinatorial Game Theory, featuring explanations, examples, and research on algorithms for combinatorial problems.
 
 #### Pokemon
 
@@ -1495,17 +1633,35 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Lichess](https://en.lichess.org/) - Free/libre, open-source chess server powered by volunteers and donations.
 - [Chess.com](https://www.chess.com/) - Online platform for online chess.
 
+### Embeddings
+
+- [FPGA4Fun](https://www.fpga4fun.com/) - Educational resources and tutorials focused on FPGA (Field-Programmable Gate Array) technology, providing practical guides for both beginners and advanced users.
+- [Wokwi](https://wokwi.com/) - Online ESP32, STM32, Arduino simulator.
+- [x86 Instruction Set Reference](https://c9x.me/x86/) - A mirror of the "Into the Void" reference for the x86 instruction set, providing a detailed guide to assembly language and processor instructions for x86 architecture.
+- [Analog Devices Wiki](https://wiki.analog.com/) - Knowledge base with technical documentation, tutorials, and resources on analog and mixed-signal devices, aimed at engineers and developers.
+- [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html) - Tool to convert between the decimal representation of a number and the binary format used by modern CPUs, based on IEEE-754 standard.
+- [Guide to x86 Assembly](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html) - Guide to x86 Assembly by University of Virginia Computer Science
+
 ### Linux
 
 - [Linux Journey](https://linuxjourney.com/) - Platform for learning Linux.
 - [Run Linux in Your Browser](https://bellard.org/jslinux/) - Run Linux or other operating systems in your browser.
 - [OS Directory](https://os.directory/) - Platform that emulates a Linux distribution in your web browser.
+- [DistroWatch](https://distrowatch.com/) - Resource for Linux and BSD distributions, providing news, reviews, and comparisons to help users find and install the right operating system.
 - [SS64](https://ss64.com/) - Reference guide containing syntax and examples for the most prevalent computing commands, covering databases and operating systems.
 - [SS64 Bash Keyboard Shortcuts](https://ss64.com/bash/syntax-keyboard.html) - Reference guide for bash keyboard shortcuts.
 - [Command Line for Beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) - Overview of the Linux command line for beginners.
+- [Linux Journey](https://linuxjourney.com/) - An educational website offering free, interactive lessons on Linux, covering everything from basic commands to advanced system administration.
+- [ExplainShell](https://explainshell.com/) - A tool for explaining Linux shell commands, providing detailed breakdowns of command syntax and function.
+- [LibreHunt](https://librehunt.org/) - Aid you on your Linux Distro (and potentially, Libre) hunt. Answer easy questions to get recommendations on which Linux distribution that meets your needs based on those responses.
+
+#### Vim
+
 - [Vim Cheat Sheet](https://vim.rtorr.com/) - Vim cheat sheet.
 - [Learn Vim](https://learnvim.irian.to/) - A resource to learn Vim, the smart way.
 - [Vim Awesome](https://vimawesome.com/) - Search through listed Vim plugins
+- [Vim Adventures](https://vim-adventures.com/) - An interactive game designed to teach users the fundamentals of the Vim text editor through engaging puzzles and challenges.
+- [Vimified](https://www.vimified.com/) - Platform for learning and practicing Vim, a free and open-source, screen-based text editor program.
 
 ### Git
 
@@ -1521,6 +1677,14 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [GitStats](https://gitstats.me/) - Open-source GitHub contribution analyzer that provides insights into your GitHub activity.
 - [Gitcoin](https://gitcoin.co/) - Platform where individuals can get paid for contributing to open-source software in various programming languages and domains.
 - [Oh Shit, Git!](https://ohshitgit.com/) - Resource providing solutions for common Git mistakes and how to recover from them.
+- [GitHub Trending Archive](https://github.motakasoft.com/trending/) - Archive of trending repositories on GitHub, allowing users to explore popular projects and programming trends over time.
+- [Map of GitHub](https://anvaka.github.io/map-of-github/) - Visual representation of the GitHub repository network.
+
+### IDEs
+
+- [OneLang IDE](https://ide.onelang.io/) - Online tool for converting code from one programming language to another.
+- [Theia IDE](https://theia-ide.org/) - Flexible and extensible cloud and desktop IDE platform, enabling efficient development and delivery of IDEs and tools using modern web technologies.
+- [VSCode Themes](https://vscodethemes.com/) - A platform offering a wide variety of themes for Visual Studio Code, allowing users to personalize the look and feel of their coding environment with different color schemes and styles.
 
 ## Privacy
 
@@ -1549,6 +1713,8 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [HideMyWeb](https://hidemyweb.wordpress.com/) - Tool to hide, blur, and highlight content on web pages.
 - [Browser.lol](https://browser.lol/) - Browse anonymously with a free virtual environment within your browser.
 - [OneTimeSecret](https://onetimesecret.com/) - Platform for sharing a password, secret message or private link securely with one-time links.
+- [MetaDefender](https://metadefender.opswat.com/) - Online tool for scanning and analyzing files for security threats, providing detailed reports on potential risks.
+- [FotoForensics](https://fotoforensics.com/) - Online tool for analyzing and verifying digital images, providing forensic tools to detect alterations and edits in photos.
 
 ### Cryptography
 
@@ -1616,17 +1782,22 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Internet Live Stats](https://www.internetlivestats.com/) - Provides real-time statistics about the internet, including the number of websites, emails, and more.
 - [Internet Map](https://internet-map.net/) - An interactive map that visually represents the internet, showing the relationships between various websites.
 - [Test IPv6](https://test-ipv6.com/) - Allows you to test your IPv6 connectivity and provides information about your network setup.
-- [AdGuard DNS Providers](https://kb.adguard.com/en/general/dns-providers) - A list of DNS providers that you can configure to use instead of the default provided by your router or ISP.
 - [TLS 1.2 Explained](https://tls12.xargs.org/) - Provides a detailed explanation of every byte in a TLS connection.
 - [CIDR.xyz](https://cidr.xyz/) - An interactive IP address and CIDR range visualizer.
 - [I Can Haz IP](https://icanhazip.com/) - Displays only your IP address at the top of the page.
 - [IP Location](https://iplocation.io/) - Provides free location tracking of an entered IP address, including city, country, latitude, and longitude.
 - [Ifconfig.co](https://ifconfig.co/) - Helps you find your own IP address and provides information about it.
 - [IPinfo.io](https://ipinfo.io/) (~$) - Offers accurate IP address data for various use cases.
-- [DNS Checker](https://dnschecker.org/) - Provides a free DNS lookup service to check Domain Name System records against a selected list of DNS servers worldwide.
 - [Visual Subnet Calculator](https://www.davidc.net/sites/default/subnets/subnets.html) - A visual subnet calculator to help with IP address and subnet calculations.
-- [How DNS Works](https://howdns.works/) - Offers a colorful explanation of how DNS works with the help of comics.
 - [Ping Test](https://www.meter.net/ping-test/) - Online tool to measure network latency by sending test packets (pings) to a specified server, providing insights into connection stability and speed.
+- [LibreSpeed](https://librespeed.org/) - Open-source internet speed test tool, offering accurate measurements of download, upload, and latency without requiring additional software installations.
+
+#### DNS
+
+- [How DNS Works](https://howdns.works/) - Offers a colorful explanation of how DNS works with the help of comics.
+- [DNS Checker](https://dnschecker.org/) - Provides a free DNS lookup service to check Domain Name System records against a selected list of DNS servers worldwide.
+- [AdGuard DNS Providers](https://kb.adguard.com/en/general/dns-providers) - A list of DNS providers that you can configure to use instead of the default provided by your router or ISP.
+- [DNS Speed Test](https://dnsspeedtest.online/) - Fast DNS server speed test tool, allowing users to find the most optimal DNS server for faster internet browsing with no installation required.
 
 ### URL
 
@@ -1762,12 +1933,12 @@ Some websites can fall into multiple categories. If you can't find what you need
 
 - [EbookFoundation-Free-Programming-Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) - Free and open source programming books
 - [Codecademy Catalog](https://www.codecademy.com/catalog) - Platform offering a catalog of courses for learning various programming languages and technologies.
-- [Theia IDE](https://theia-ide.org/) - Flexible and extensible cloud and desktop IDE platform, enabling efficient development and delivery of IDEs and tools using modern web technologies.
 - [Learn X in Y Minutes](https://learnxinyminutes.com/) - Resource providing a quick whirlwind tour of various programming languages.
 - [eComputerNotes](https://ecomputernotes.com/) - Learning resource for online education, covering a wide range of computer science and programming topics.
 - [Libraries.io](https://libraries.io/) - Platform to discover new open-source packages, modules, and frameworks, and keep track of dependencies.
 - [LearnByExample](https://www.learnbyexample.org/) - Platform to learn Python, SQL, and R languages with examples and practical explanations.
 - [PythonTutor](https://pythontutor.com/) - Tool that helps users learn Python, JavaScript, C, C++, and Java programming by visualizing code execution step by step.
+- [Classic Papers in Programming Languages and Logic](https://www.cs.cmu.edu/~crary/819-f09/) - Collection of seminal academic papers on programming languages and logic, curated by Carnegie Mellon University.
 
 ### Python
 
@@ -1795,6 +1966,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [HackerRank](https://www.hackerrank.com/dashboard) - Coding platform offering challenges in various domains, from algorithms to artificial intelligence.
 - [CodeWars](https://www.codewars.com/) - Community-driven platform providing coding challenges with a focus on improving through peer-reviewed solutions.
 - [Project Euler](https://projecteuler.net/about) - Mathematics-oriented coding platform, featuring challenging problems to encourage problem-solving through programming.
+- [Kattis Guide](https://unh-cpc.github.io/kattisguide.html) - A guide to solving competitive programming problems using the Kattis platform, providing tips, problem-solving strategies, and resources for participants.
 - [Kaggle](https://www.kaggle.com/) - Data science platform that hosts competitions, datasets, and notebooks, fostering collaboration and innovation in the field.
 - [Replit](https://replit.com/) - Online coding environment facilitating collaborative coding, with features like live sharing and a wide range of supported languages.
 - [AlgoLeague](https://www.algoleague.com/) - Competitive programming platform for practicing algorithmic problem-solving.
@@ -1822,6 +1994,8 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [CSS Battle](https://cssbattle.dev/) - Platform challenging users to use CSS skills to replicate targets with the smallest possible code.
 - [JavaScript Quiz](https://javascriptquiz.com/) - Website offering quizzes focused on testing and enhancing knowledge of JavaScript programming language.
 - [Elevator Saga](https://play.elevatorsaga.com/) - Game for learning and practicing JavaScript.
+- [Deep ML](https://www.deep-ml.com/) - Website offering ML Code Challenges.
+- [Hack The Box](https://www.hackthebox.com/) - An online platform for hacking training, offering virtual environments and challenges to help individuals and organizations develop cybersecurity skills.
 
 ### Capture the Flag
 
@@ -1847,6 +2021,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [GitLab Explore](https://gitlab.com/explore/projects/starred/) - Explore projects on GitLab.
 - [Open Source Guide](https://opensource.guide/) - Guide providing resources for launching and growing open source projects.
 - [The Architecture of Open Source Applications](https://aosabook.org/en/index.html) - Book series about the design and architecture of various open-source software projects.
+- [OSS Gallery](https://oss.gallery/) - A crowdsourced collection of the best open-source projects across the internet, providing an easy way to discover and explore top software repositories and tools.
 
 ### Hackathons
 
@@ -1904,44 +2079,37 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Bootstrap Cheatsheet](https://hackerthemes.com/bootstrap-cheatsheet/) - Visual cheat sheet for the Bootstrap framework.
 - [HackerThemes](https://hackerthemes.com/) - UI/UX resources based on the Bootstrap framework.
 
-## Keyboard
+## Building Computer / PC Build
+
+- [PCPartPicker](https://pcpartpicker.com/list/) - Tool for planning and building custom PCs, enabling users to create part lists, compare prices, and ensure compatibility between components.
+- [PCBuilder](https://pcbuilder.net/list/) - Platform for designing custom PC builds, providing component compatibility checks, price comparisons, and configuration options for users.
+- [PC Builds](https://pc-builds.com/) - Resource for custom PC builds, offering curated lists of compatible components, guides, and recommendations for various performance levels and budgets.
+- [LinearMouse](https://linearmouse.app/) - Utility for Mac that provides advanced mouse and trackpad customization options, allowing users to fine-tune gestures, button mappings, and scrolling behavior.
+
+### Keyboard
 
 - [MechanicalKeyboards](https://mechanicalkeyboards.com/index.php) - Largest dedicated catalog of mechanical keyboards worldwide, offering fast shipping and after-sale support.
-- [Vimified](https://www.vimified.com/) - Platform for learning and practicing Vim, a free and open-source, screen-based text editor program.
+- [Keycaps.info](https://www.keycaps.info/) - Resource for keycap enthusiasts, providing information on various keycap profiles, designs, and compatibility for mechanical keyboards.
 - [Keybr](https://www.keybr.com/) - Website offering a platform for improving touch typing skills with customizable lessons.
-- [10FastFingers](https://10fastfingers.com/typing-test/english) - Typing test platform to measure typing speed and accuracy in English.
 - [PairType](https://www.pairtype.com/) - Online tool for practicing touch typing with a partner in real-time.
-- [TypingClub](https://www.typingclub.com/) - Platform providing interactive typing lessons and games to improve typing skills.
-- [Typing.com](https://www.typing.com/) - Online resource offering typing lessons, games, and tests for learners of all levels.
 - [KeyCombiner](https://keycombiner.com/) - Platform for learning and practicing keyboard shortcuts and key combinations.
 - [Yip-Yip](https://www.yip-yip.com/) - Online tool providing keyboard shortcuts for various applications and programs.
 - [Keebmaker](https://keebmaker.com/) - Resource for creating custom mechanical keyboards.
 - [Colemak - Learn](https://colemak.com/Learn) - Learning resources for the Colemak keyboard layout.
 
-### Keyboard Shortcuts
+#### Typing Practice
+
+- [TypeFast](https://typefast.io/) - A typing practice platform designed to help users improve their typing speed and accuracy through engaging challenges and exercises.
+- [10FastFingers](https://10fastfingers.com/typing-test/english) - Typing test platform to measure typing speed and accuracy in English.
+- [TypingClub](https://www.typingclub.com/) - Platform providing interactive typing lessons and games to improve typing skills.
+- [Typing.com](https://www.typing.com/) - Online resource offering typing lessons, games, and tests for learners of all levels.
+
+#### Keyboard Shortcuts
 
 - [UseTheKeyboard](https://usethekeyboard.com/) - Collection of keyboard shortcuts for Mac apps, Windows programs, and websites, covering a wide range of common applications.
 - [ASCII Tables](https://ascii-tables.com/) - Online resource providing an ASCII table, ALT codes, Z Score table, Greek Alphabet, T Distribution table, and a Binary Translator.
 - [ShortcutFoo](https://www.shortcutfoo.com/) - Platform for practicing keyboard shortcuts for free, supporting Mac, Windows, Linux, and offering cheat sheets for various applications, languages, and terminals.
 - [Microsoft Word Keyboard Shortcuts](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-word-95ef89dd-7142-4b50-afb2-f762f663ceb2) - Official Microsoft Office support page providing a comprehensive list of keyboard shortcuts for Microsoft Word.
-
-## How To Ask A Good Question
-
-- [How to Be Great at Asking Questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603) - Offers insights on asking effective questions.
-- [How To Ask Questions The Smart Way](https://catb.org/~esr/faqs/smart-questions.html) - A guide by Eric Steven Raymond on asking questions intelligently.
-- [No, Hello](https://www.nohello.com/) - Advocates for straightforward communication without unnecessary greetings.
-- [Don't Ask to Ask](https://dontasktoask.com/) - Encourages users to directly ask their questions without seeking permission.
-- [Stack Exchange Network: How do I ask a good question?](https://meta.stackexchange.com/q/66377/) - Guidelines on asking good questions on the Stack Exchange Network.
-- [How to ask questions the smart way on weblogs.asp.net](https://weblogs.asp.net/alex_papadimoulis/408925) - A reference to Eric Steven Raymond's guide on asking questions.
-- [Stack Overflow: How to Ask](https://stackoverflow.com/help/how-to-ask) - Guidelines on how to ask questions effectively on Stack Overflow.
-- [On Vampires and Leeches: Introducing a No Tolerance Policy for the Serially Unhelpful](https://slash7.com/2006/12/22/vampires/) - Discusses dealing with unhelpful or disruptive behavior in online communities.
-
-### XY Problem
-
-- [XY Problem](https://xyproblem.info/) - Discusses the XY Problem and how to avoid it.
-- [XY Problem - Wikipedia](https://en.wikipedia.org/wiki/XY_problem) - The Wikipedia page explaining the XY Problem.
-- [XY problem - Bash Hackers Wiki](https://mywiki.wooledge.org/XyProblem) - A page on the Bash Hackers Wiki addressing the XY Problem.
-- [Let Me Google That for You](https://lmgtfy.app/#gsc.tab=0) - An interactive tool to create a link that shows someone how to use Google to find answers to their questions.
 
 ## Other Websites of Websites
 
