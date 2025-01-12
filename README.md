@@ -21,15 +21,14 @@ Feel free to share this list, star it, and [contribute](#contributing) your own 
 
 <br>
 
-## Lexicon
+## Nomenclature
 
-Certain websites are tagged with the symbols listed below for convenience.
+Certain websites that are tagged with the symbols listed below for convenience.
 
-| Symbol | Meaning                                                                       |
-| :----: | ----------------------------------------------------------------------------- |
-|   $    | Payment Required (There are no free options)                                  |
-|   ~$   | Freemium (Offers a free version but requires payment for additional features) |
-|   @    | Student Friendly (Offers discounts or a free version for students)            |
+| Symbol | Meaning                                                            |
+| :----: | ------------------------------------------------------------------ |
+|   $    | Payment Required (There are no free options)                       |
+|   @    | Student Friendly (Offers discounts or a free version for students) |
 
 <br>
 
@@ -38,7 +37,7 @@ Each website is included only once. Some websites can fall into multiple categor
 # Contents
 
 - [Awesome Useful Websites](#awesome-useful-websites)
-  - [Lexicon](#lexicon)
+  - [Nomenclature](#nomenclature)
 - [Contents](#contents)
   - [Tools](#tools)
     - [White Board](#white-board)
@@ -129,9 +128,6 @@ Each website is included only once. Some websites can fall into multiple categor
     - [Civil Engineering](#civil-engineering)
     - [Mechanical Engineering](#mechanical-engineering)
       - [Materials / Nanotechnology](#materials--nanotechnology)
-      - [Thermodynamics](#thermodynamics)
-      - [Control](#control)
-      - [Vibrations](#vibrations)
     - [Electronics Engineering](#electronics-engineering)
   - [Computer Science](#computer-science)
     - [Data Structures and Algorithms (DS\&A)](#data-structures-and-algorithms-dsa)
@@ -139,7 +135,7 @@ Each website is included only once. Some websites can fall into multiple categor
   - [AI/ML](#aiml)
     - [Robotics](#robotics)
     - [LLMs](#llms)
-    - [Prompt Engineering](#prompt-engineering)
+      - [Prompt Engineering](#prompt-engineering)
     - [AI tools](#ai-tools)
     - [Data Science](#data-science)
     - [Databases](#databases)
@@ -152,6 +148,7 @@ Each website is included only once. Some websites can fall into multiple categor
       - [APIs](#apis)
       - [SQL](#sql)
     - [Web Analytics](#web-analytics)
+      - [Testing](#testing)
     - [Web 3.0 Dev and Cryptocurrencies](#web-30-dev-and-cryptocurrencies)
   - [Software Engineering](#software-engineering)
     - [Android Development](#android-development)
@@ -161,9 +158,9 @@ Each website is included only once. Some websites can fall into multiple categor
       - [Chess](#chess)
     - [Embeddings](#embeddings)
     - [Linux](#linux)
-      - [Vim](#vim)
+    - [Vim](#vim)
     - [Git](#git)
-      - [GitHub](#github)
+    - [GitHub](#github)
     - [IDEs](#ides)
   - [Privacy](#privacy)
     - [Cryptography](#cryptography)
@@ -183,11 +180,12 @@ Each website is included only once. Some websites can fall into multiple categor
   - [Softwares](#softwares)
     - [Snippets](#snippets)
     - [Linters](#linters)
-    - [Testing](#testing)
+    - [Testing](#testing-1)
     - [Regex](#regex)
     - [No-Code](#no-code)
       - [Licensing](#licensing)
   - [Programming Languages](#programming-languages)
+    - [Haskel](#haskel)
     - [Python](#python)
     - [C++](#c)
   - [Coding Practice / Competitive Programming](#coding-practice--competitive-programming)
@@ -236,7 +234,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ### Mind Map / Note Taking
 
-- [Relanote](https://relanote.com/) (~$) - Interlinking your notes to develop a web of thoughts.
+- [Relanote](https://relanote.com/) - Interlinking your notes to develop a web of thoughts.
 - [Bubbl.us](https://bubbl.us/) - Mind Mapping Online.
 - [MindMup](https://www.mindmup.com/) - Free online mind mapping.
 - [Anotepad](https://anotepad.com/) - Online notepad. No login. Download your note as PDF or Word document.
@@ -246,8 +244,8 @@ Each website is included only once. Some websites can fall into multiple categor
 
 - [Creately](https://creately.com/) - Data-connected Visual Workspace for brainstorming, planning, executing, and capturing knowledge.
 - [draw.io](https://www.drawio.com/) - Open-source, security-first technology stack for building diagramming applications. For [web usage](https://app.diagrams.net/?src=about).
-- [OrgPad](https://orgpad.com/?ref=producthunt) (~$) - An interactive online mind map.
-- [Lucidchart](https://www.lucidchart.com/pages/) (~$) - A diagramming and flowchart app that brings teams together to make better decisions and build the future.
+- [OrgPad](https://orgpad.com/?ref=producthunt) - An interactive online mind map.
+- [Lucidchart](https://www.lucidchart.com/pages/) - A diagramming and flowchart app that brings teams together to make better decisions and build the future.
 - [Learn Anything](https://learn-anything.xyz/) - A platform for organizing the world's knowledge, exploring connections, and curating learning paths.
 
 ### Texts
@@ -326,13 +324,13 @@ Each website is included only once. Some websites can fall into multiple categor
 - [VectorMagic](https://vectormagic.com/) - Convert bitmaps (JPG, PNG, GIF) to vectors (PDF, SVG, EPS).
 - [Screenshot.Guru](https://screenshot.guru/) - Take high-resolution screen captures of websites and tweets.
 - [Stolen Camera Finder](https://www.stolencamerafinder.com/) - Use the serial number stored in your photos to search the web for other photos taken with the same camera.
-- [Ribbet](https://www.ribbet.com/) (~$) - Photo editing tools.
+- [Ribbet](https://www.ribbet.com/) - Photo editing tools.
 - [Crossfade.io](https://crossfade.io/) - Web-based video mashups from your favorite sites.
 - [GoProHeroes](https://goproheroes.com/) - GoPro videos across the web.
 - [Synthesia](https://www.synthesia.io/) ($) - AI video creation platform that creates videos from text in minutes.
-- [ClipDrop](https://clipdrop.co/) (~$) - Create stunning visuals in seconds, powered by AI.
+- [ClipDrop](https://clipdrop.co/) - Create stunning visuals in seconds, powered by AI.
 - [Reface](https://hey.reface.ai/) - Create face swap videos, a mobile app powered by AI.
-- [PhotoSonic](https://photosonic.writesonic.com/) (~$) - AI that paints your dreams with pixels, another version of DALL-E.
+- [PhotoSonic](https://photosonic.writesonic.com/) - AI that paints your dreams with pixels, another version of DALL-E.
 - [Shottr](https://shottr.cc/) - Tiny and fast macOS screenshot tool with annotations, scrolling screenshots, and cloud upload capabilities.
 - [3D GIF Maker](https://www.3dgifmaker.com/) - Create 3D GIFs easily from your images.
 - [EZGIF](https://ezgif.com/) - Online GIF maker and image editor for creating and editing GIFs.
@@ -661,7 +659,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Google Takeout](https://takeout.google.com/) - Export a copy of all your Google data.
 - [Honey](https://www.joinhoney.com/) - A browser extension that automatically searches for coupons on over 30,000 sites globally.
 - [BotHelp](https://bothelp.io/widget) - Provides a free chat button widget for websites.
-- [CertificateClaim](https://www.certificateclaim.com/) (~$) - A digital service for creating and sending various types of certificates.
+- [CertificateClaim](https://www.certificateclaim.com/) - A digital service for creating and sending various types of certificates.
 - [Respresso](https://respresso.io/) ($) - A tool to manage your app’s localization texts, images, colors, fonts, and more, delivering them automatically into your projects with a single click.
 - [Bonanza](https://www.bonanza.com/) - An online marketplace that empowers entrepreneurs to build a sustainable business based on repeat customers.
 - [Pipl](https://pipl.com/) - Identify, search, and verify employees using email addresses, social usernames, or phone numbers by searching through Pipl's global index of identity information, reducing customer friction, fighting fraud, and saving time on review and research.
@@ -724,7 +722,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Anon Friendly](https://anonfriendly.com/) - Find jobs that respect your desire for anonymity.
 - [Prompt Engineering Jobs](https://prompt-engineering-jobs.com) - Explore engineering job opportunities with Prompt.
 - [KeyValues](https://www.keyvalues.com/) - Find engineering teams that align with your values.
-- [About.me](https://about.me/) (~$) - Platform for freelancers and entrepreneurs to grow their audience and attract clients.
+- [About.me](https://about.me/) - Platform for freelancers and entrepreneurs to grow their audience and attract clients.
 - [Rejected.us](https://rejected.us/) - Read and share stories of job rejections.
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/) - Free curated interview preparation materials.
 
@@ -769,9 +767,9 @@ Each website is included only once. Some websites can fall into multiple categor
 - [GoodCV](https://www.goodcv.com/) - Create a professional Resume/CV in minutes without Photoshop or AI techniques.
 - [JSON Resume](https://jsonresume.io/) - Upload your JSON resume according to the spec and have it rendered beautifully.
 - [CVmkr](https://cvmkr.com/) - Create, maintain, publish, and share your CVs for free.
-- [Novoresume](https://novoresume.com/) (~$) - Online resume builder.
+- [Novoresume](https://novoresume.com/) - Online resume builder.
 - [HelloTechRecruiters](https://hellotechrecruiters.com/) - Tailored for tech recruiters.
-- [FlowCV](https://flowcv.com/) (~$) - AI-boosted resume builder, cover letter, job tracker, email signature, personal website.
+- [FlowCV](https://flowcv.com/) - AI-boosted resume builder, cover letter, job tracker, email signature, personal website.
 - [Signature Maker](https://signature-maker.net/) - Create handwritten digital signatures.
 
 ### Careers
@@ -820,7 +818,7 @@ Each website is included only once. Some websites can fall into multiple categor
 ### Connectivity
 
 - [Integromat](https://www.integromat.com/en?pc=referralbonus) - Connect apps and automate workflows in a few clicks.
-- [IFTTT](https://ifttt.com/) (~$) - Automate your favorite apps and devices quickly and easily, making them work together in new and powerful ways.
+- [IFTTT](https://ifttt.com/) - Automate your favorite apps and devices quickly and easily, making them work together in new and powerful ways.
 - [Franz](https://meetfranz.com/) - Manage all your messaging apps like WhatsApp, Facebook Messenger, Slack, Telegram, and more in one platform.
 - [Google Remote Desktop](https://remotedesktop.google.com/) - Remotely connect with your home or work computer, or share your screen with others.
 - [RecWide](https://www.recwide.com/) - Screen and webcam recorder. Free, online (No download required).
@@ -1067,7 +1065,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Holy Books](https://holybooks.com/) - Download spiritual texts as free PDF e-books.
 - [Librivox](https://librivox.org/) - Provides free public domain audiobooks read by volunteers from around the world.
 - [Online Books Page](https://onlinebooks.library.upenn.edu/) - A listing of over 3 million free books on the web.
-- [Audible](https://www.audible.com/) (~$) - A platform offering premium audio storytelling with a wide selection of audiobooks.
+- [Audible](https://www.audible.com/) - A platform offering premium audio storytelling with a wide selection of audiobooks.
 - [VCU Transcendentalism](https://archive.vcu.edu/english/engweb/transcendentalism/) - An educational hypertext space on transcendental texts with links to other internet spaces.
 - [Library of Short Stories](https://www.libraryofshortstories.com/) - An online library with over 1000 classic short stories available for reading and download.
 - [SlideShare](https://www.slideshare.net/) - Online platform for sharing presentations and documents.
@@ -1325,21 +1323,6 @@ Each website is included only once. Some websites can fall into multiple categor
 - [MyMiniFactory](https://www.myminifactory.com/) - World’s largest ecosystem of free to download, 3D printable objects of cultural significance
 - [Roy Mech](https://roymech.org/) - This site provides useful information, tables , schedules and formula related to mechanical engineering and engineering materials.
 
-#### Thermodynamics
-
-- <https://users.wpi.edu/~sullivan/ES3001/Lectures/> - For thermo, go to [Lectures/Lecture-A](https://users.wpi.edu/~sullivan/ES3001/Lectures/Lecture-A/) (or [Lectures/Lecture-B/](https://users.wpi.edu/~sullivan/ES3001/Lectures/Lecture-B/)) and then go to [Lectures/Lecture-A/Lecture-1](https://users.wpi.edu/~sullivan/ES3001/Lectures/Lecture-A/Lecture-1.htm)
-- <https://web.mit.edu/16.unified/www/FALL/thermodynamics/notes/notes.html> - Thermodynamics and Propulsion by Prof. Z. S. Spakovszky
-- <https://ouopentextbooks.org/thermodynamics/> - Web-based, open educational resource (no longer being actively developed)
-
-#### Control
-
-- <https://linklab-uva.github.io/modeling_cps/schedule.html> - Principles of Modeling for Cyber-Physical Systems
-- [engin.umich](https://ctms.engin.umich.edu/CTMS/index.php?aux=About_Tutorials) - To learn how to use MATLAB and Simulink for the analysis and design of automatic control systems
-
-#### Vibrations
-
-- <https://www.acs.psu.edu/drussell/demos.html> - Acoustics and Vibration Animations
-
 ### Electronics Engineering
 
 - [Electrical4U](https://www.electrical4u.com/) - Platform for learning electrical engineering.
@@ -1406,7 +1389,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [LLM Visualization](https://bbycroft.net/llm) - Interactive tool for visualizing large language models (LLMs) and exploring their structure, behavior, and outputs.
 - [RR LM Game](https://rr-lm-game.herokuapp.com/) - Browser-based Language modelling game.
 
-### Prompt Engineering
+#### Prompt Engineering
 
 - [PromptPerfect](https://promptperfect.jina.ai/) - Cutting-edge prompt optimizer designed for large language models (LLMs), large models (LMs), and LMOps.
 - [Jailbreak Chat](https://www.jailbreakchat.com/) - Jailbreak collection for LLMs.
@@ -1459,6 +1442,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [W3C](https://www.w3.org/) - World Wide Web Consortium's official website, making it possible to use web technologies with different languages, scripts, and cultures.
 - [UX Core](https://keepsimple.io/uxcore) - UX Core allows you to explore many cognitive biases while creating software.
 - [Coggle](https://coggle.it/diagram/Vz9LvW8byvN0I38x/t/web-development) - Collaborative mind-mapping tool for visualizing and organizing ideas related to web development.
+- [Web.dev Learn](https://web.dev/learn) - Educational platform by Google providing resources and tutorials for web development.
 - [WebDevHome](https://webdevhome.github.io/) - Collection of web development resources and tutorials.
 - [Web Dev Resources](https://web-dev-resources.com/#/) - Curated list of awesome web development resources for developers.
 - [BBC Microbit Editor](https://bbcmic.ro/) - Basic editor from BBC for Microbit programming.
@@ -1475,7 +1459,6 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Jvns blog](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/>) - A list of new(ish) command line tools
 - [VisBug](https://visbug.web.app/) - Open-source browser design tools for web development.
 - [Web Design Repo](https://webdesignrepo.com/) - Repository of free web design resources for designers and developers.
-- [Web.dev Learn](https://web.dev/learn) - Educational platform by Google providing resources and tutorials for web development.
 - [Devopedia](https://devopedia.org/) - Knowledge hub covering various topics related to technology and software development.
 - [MadeWithBubble](https://www.madewithbubble.xyz/) - Platform to discover interesting apps and websites created with Bubble, a visual web development platform.
 - [Interneting is Hard](https://www.internetingishard.com/) - Friendly web development tutorials designed for complete beginners.
@@ -1487,7 +1470,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Atlaq](https://atlaq.com/) - Domain name generator.
 - [Addy's Toolkit](https://toolkit.addy.codes/) - Collection of 806 hand-picked tools & resources for web designers & developers.
 - [BrowserBench - Speedometer 3.0](https://www.browserbench.org/Speedometer3.0/) - A benchmark tool to measure the performance of web browsers, specifically testing responsiveness and the speed of modern web applications.
-- [UserAgents.me](https://www.useragents.me/) - Provides self-updating list of the latest and most common useragents seen on the web across all device types, operating systems, and browsers. Data is always fresh, updating weekly. This user agent list is perfect for web scrapers looking to blend in, developers, website administrators, and researchers. The most common useragents list is compiled from the user logs data of a number of popular sites across niches and geography, cleansed (bots removed), and enriched with information about the device and browser. 
+- [UserAgents.me](https://www.useragents.me/) - Provides self-updating list of the latest and most common useragents seen on the web across all device types, operating systems, and browsers. Data is always fresh, updating weekly. This user agent list is perfect for web scrapers looking to blend in, developers, website administrators, and researchers. The most common useragents list is compiled from the user logs data of a number of popular sites across niches and geography, cleansed (bots removed), and enriched with information about the device and browser.
 
 ### Front-end
 
@@ -1548,18 +1531,14 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Medium-Hard Data Analyst SQL Interview Questions](https://quip.com/2gwZArKuWk7W) - Collection of SQL interview questions
 - [SQL Translate](https://www.sqltranslate.app/) - SQL to Natural Language and Natural Language to SQL translator. 100% free and open source
 - [Servers for Hackers](https://serversforhackers.com/) - Server Admin for Programmers. Learn server tech for development and production.
-- [RubyGems Guides](https://guides.rubygems.org/) - Learn how RubyGems works and how to make your own
 
 ### Web Analytics
 
 - [Pirsch](https://pirsch.io/) - An open-source, cookie-free web analytics platform.
 - [Websites Milonic](https://websites.milonic.com/) - Provides neatly reported important data for websites.
-- [WooRank](https://www.woorank.com/) (~$) - A tool for a free website review and SEO checker.
+- [WooRank](https://www.woorank.com/) ($) - Website review and SEO checker.
 - [Semji](https://semji.com/) - A platform to improve the ROI of your content by creating high-performing SEO content.
 - [Web.dev](https://web.dev/) - Allows you to measure the performance of your website and provides actionable insights.
-- [WebPageTest](https://www.webpagetest.org/) - A tool to test a website's performance.
-- [Fast.com](https://fast.com/) - Measures your internet speed, latency, and upload speed.
-- [Pingdom Tools](https://tools.pingdom.com/) ($) - Allows you to test the page load time, analyze it, and find bottlenecks.
 - [Download Time Calculator](https://downloadtimecalculator.com/) - Estimates the time required to download any file based on your transfer speed without actually downloading the file.
 - [W3C Link Checker](https://validator.w3.org/checklink) - Checks links and anchors in web pages or full websites.
 - [URLVoid](https://www.urlvoid.com/) - A website reputation/safety checker, helping detect potentially malicious websites.
@@ -1567,16 +1546,22 @@ Each website is included only once. Some websites can fall into multiple categor
 - [LocaBrowser](https://www.locabrowser.com/) - Test how your website looks from different countries in real time.
 - [StatusVista](https://statusvista.com/) - An all-in-one status page for the systems your product depends on.
 - [BuiltWith](https://builtwith.com/) - Discover what technologies websites are built with, using a database of 59,905+ web technologies and over 673 million websites.
-- [CamelCamelCamel](https://camelcamelcamel.com/) - A free Amazon price tracker that monitors millions of products and alerts you when prices drop.
+- [CamelCamelCamel](https://camelcamelcamel.com/) - Free Amazon price tracker that monitors millions of products and alerts you when prices drop.
 - [CloudPing](https://cloudping.bastionhost.org/en/) - Perform an HTTP ping to measure network latency from your browser to various cloud data centers around the world.
 - [DownForEveryoneOrJustMe](https://downforeveryoneorjustme.com/) - Check if a website is down.
 - [DownDetector](https://downdetector.in/) - Real-time problem and outage monitoring.
-- [GTmetrix](https://gtmetrix.com/) - Analyze how your site performs, identify reasons for slowness, and discover optimization opportunities.
 - [WebhookWizard](https://webhookwizard.com/) - Unlock data with webhooks.
 - [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en) - An open-source, automated tool for improving the performance, quality, and correctness of web apps.
 - [Archive.md](https://archive.md/) - A time capsule for web pages.
 - [Hypothesis](https://web.hypothes.is/) - A conversation layer over the entire web, working everywhere without needing implementation by any underlying site (open community project).
+
+#### Testing
+
+- [Fast.com](https://fast.com/) - Measures your internet speed, latency, and upload speed.
+- [Pingdom Tools](https://tools.pingdom.com/) ($) - Allows you to test the page load time, analyze it, and find bottlenecks.
+- [GTmetrix](https://gtmetrix.com/) - Analyze how your site performs, identify reasons for slowness, and discover optimization opportunities.
 - [Loader.io](https://loader.io/) - Free load testing service to stress test web apps and APIs with thousands of concurrent connections.
+- [WebPageTest](https://www.webpagetest.org/) - Measure your site's carbon footprint and run No-Code Experiments to find ways to improve.
 - [Azure Speed Test](https://www.azurespeed.com/Azure/Latency) - Tools for testing the speed and latency of Azure services.
 
 ### Web 3.0 Dev and Cryptocurrencies
@@ -1655,7 +1640,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [ExplainShell](https://explainshell.com/) - A tool for explaining Linux shell commands, providing detailed breakdowns of command syntax and function.
 - [LibreHunt](https://librehunt.org/) - Aid you on your Linux Distro (and potentially, Libre) hunt. Answer easy questions to get recommendations on which Linux distribution that meets your needs based on those responses.
 
-#### Vim
+### Vim
 
 - [Vim Cheat Sheet](https://vim.rtorr.com/) - Vim cheat sheet.
 - [Learn Vim](https://learnvim.irian.to/) - A resource to learn Vim, the smart way.
@@ -1670,7 +1655,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [MiXLab on Google Colab](https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb#scrollTo=e-0yDs4C0HkB) - A mixture of Google Colab notebooks compiled from GitHub.
 - [Learn Git Branching](https://learngitbranching.js.org/) - Interactive tool to learn Git branching through simulation of a git repository.
 
-#### GitHub
+### GitHub
 
 - [GitStalk](https://gitstalk.netlify.app/) - Platform to discover what individuals are working on in the GitHub community.
 - [GitExplorer](https://gitexplorer.com/) - Tool to find the right Git commands without searching through the web.
@@ -1740,20 +1725,20 @@ Each website is included only once. Some websites can fall into multiple categor
 
 - [BurnerMail](https://burnermail.io/) - Protect your personal email address, control who can send you emails, and generate new burner addresses with one click.
 - [Kill the Newsletter](https://kill-the-newsletter.com/) - Transform email newsletters into Atom feeds for easier consumption.
-- [Dead Man's Switch](https://www.deadmansswitch.net/) (~$) - A service that sends your emails to your designated recipients if you don't interact with it within a specified timeframe.
+- [Dead Man's Switch](https://www.deadmansswitch.net/) - A service that sends your emails to your designated recipients if you don't interact with it within a specified timeframe.
 - [YAMM](https://yamm.com/) ($) - Mail merge for Gmail, allowing you to send mass emails with Gmail, ensuring delivery to the primary inbox. Track results in real-time directly from Google Sheets.
 
 #### Disposable Email
 
 - [Erine Email](https://erine.email/) - An anti-spam service for your existing email address.
 - [Maildrop](https://maildrop.cc/) - Use Maildrop when you don't want to give out your real email address.
-- [Mailsac](https://mailsac.com/) (~$) - Offers disposable email services for testing and development purposes.
+- [Mailsac](https://mailsac.com/) - Offers disposable email services for testing and development purposes.
 - [InboxKitten](https://inboxkitten.com/) - An open-source disposable email service.
 - [Guerrilla Mail](https://www.guerrillamail.com/inbox) - Allows you to compose emails and determine the domain, master passphrase, and password of your disposable email.
 - [EmailDrop](https://www.emaildrop.io/) - Enables you to create emails with custom or random domains in a highly minimalistic design.
 - [GetNada](https://getnada.com/) - Provides temporary email addresses.
 - [GetNotify](https://www.getnotify.com/) - A free email tracking service that notifies you when the emails you send are read.
-- [MXToolbox](https://mxtoolbox.com/) (~$) - Offers free DNS and email tools in a single place for streamlined troubleshooting.
+- [MXToolbox](https://mxtoolbox.com/) - Offers free DNS and email tools in a single place for streamlined troubleshooting.
 - [Postale](https://postale.io/) ($) - Allows you to create domain email addresses effortlessly in minutes.
 
 ### Data Breach
@@ -1767,7 +1752,7 @@ Each website is included only once. Some websites can fall into multiple categor
 ### Search
 
 - [Startpage](https://www.startpage.com/) - Get privacy protection across the web.
-- [Neeva](https://neeva.com/) (~$) - Ad-free, private search engine with a subscription model.
+- [Neeva](https://neeva.com/) - Ad-free, private search engine with a subscription model.
 - [AndiSearch](https://andisearch.com/) - Ad-free and anonymous search engine.
 - [Plex Page](https://plex.page/) - Search summarization tool.
 - [Marginalia Search](https://search.marginalia.nu/) - Independent DIY search engine focusing on non-commercial content.
@@ -1787,7 +1772,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [I Can Haz IP](https://icanhazip.com/) - Displays only your IP address at the top of the page.
 - [IP Location](https://iplocation.io/) - Provides free location tracking of an entered IP address, including city, country, latitude, and longitude.
 - [Ifconfig.co](https://ifconfig.co/) - Helps you find your own IP address and provides information about it.
-- [IPinfo.io](https://ipinfo.io/) (~$) - Offers accurate IP address data for various use cases.
+- [IPinfo.io](https://ipinfo.io/) - Offers accurate IP address data for various use cases.
 - [Visual Subnet Calculator](https://www.davidc.net/sites/default/subnets/subnets.html) - A visual subnet calculator to help with IP address and subnet calculations.
 - [Ping Test](https://www.meter.net/ping-test/) - Online tool to measure network latency by sending test packets (pings) to a specified server, providing insights into connection stability and speed.
 - [LibreSpeed](https://librespeed.org/) - Open-source internet speed test tool, offering accurate measurements of download, upload, and latency without requiring additional software installations.
@@ -1812,7 +1797,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 #### URL Shortener
 
-- [Rebrandly](https://www.rebrandly.com/) (~$) - A link management platform to brand, track, and share short URLs using a custom domain name.
+- [Rebrandly](https://www.rebrandly.com/) - A link management platform to brand, track, and share short URLs using a custom domain name.
 - [Bit.do](https://bit.do/) - Provides real-time traffic statistics for your links for free.
 - [s.id](https://home.s.id/) - Link shortener and microsite builder.
 - [TinyURL](https://tinyurl.com/app) - Offers optional short link endings.
@@ -1855,7 +1840,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Asciinema](https://asciinema.org/) - Record and share your terminal sessions with a purely text-based approach.
 - [Apache Guacamole](https://guacamole.apache.org/) - Clientless remote desktop gateway supporting protocols like VNC, RDP, and SSH.
 - [DockerSwarm.rocks](https://dockerswarm.rocks/) - Deploy your application stacks to production in a distributed cluster using Docker Compose files.
-- [EasyCron](https://www.easycron.com/) (~$) - Online cron job service (Paid).
+- [EasyCron](https://www.easycron.com/) - Online cron job service (Paid).
 - [CDecl](https://cdecl.org/) - Translate C gibberish to English, helping you understand complex C declarations.
 - [NirSoft](https://www.nirsoft.net/) - Collection of small utilities for Windows, including system tools, password recovery tools, and more.
 - [Ninite](https://ninite.com/) - Install and update multiple programs at once without toolbars or unnecessary clicks.
@@ -1939,6 +1924,14 @@ Each website is included only once. Some websites can fall into multiple categor
 - [LearnByExample](https://www.learnbyexample.org/) - Platform to learn Python, SQL, and R languages with examples and practical explanations.
 - [PythonTutor](https://pythontutor.com/) - Tool that helps users learn Python, JavaScript, C, C++, and Java programming by visualizing code execution step by step.
 - [Classic Papers in Programming Languages and Logic](https://www.cs.cmu.edu/~crary/819-f09/) - Collection of seminal academic papers on programming languages and logic, curated by Carnegie Mellon University.
+- [RubyGems Guides](https://guides.rubygems.org/) - Learn how RubyGems works and how to make your own
+
+### Haskel
+
+- [Learn You a Haskell for Great Good!](https://learnyouahaskell.github.io/chapters.html) - Online book version of "Learn You a Haskell" by by Miran Lipovača.
+- [Real World Haskell](https://book.realworldhaskell.org/read/) - Online book version of "Real World Haskell" by Bryan O'Sullivan, Don Stewart, and John Goerzen.
+- [CIS 194 - Introduction to Haskell (Spring 2013)](https://www.seas.upenn.edu/~cis1940/spring13/lectures.html) - Lecture materials and resources on Haskell programming.
+- [GitHub - Programming in Haskell](https://github.com/topics/programming-in-haskell) - Collection of Haskell-related repositories and projects on GitHub.
 
 ### Python
 
