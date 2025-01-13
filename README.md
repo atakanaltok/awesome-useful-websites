@@ -1069,6 +1069,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [VCU Transcendentalism](https://archive.vcu.edu/english/engweb/transcendentalism/) - An educational hypertext space on transcendental texts with links to other internet spaces.
 - [Library of Short Stories](https://www.libraryofshortstories.com/) - An online library with over 1000 classic short stories available for reading and download.
 - [SlideShare](https://www.slideshare.net/) - Online platform for sharing presentations and documents.
+- [Doclibra](https://doclibra.com/) - Online platform for sharing and search PDF documents.
 - [Free-eBooks.net](https://www.free-ebooks.net/) - Discover 1000's of New Authors in Hundreds of Categories Fiction and Non-Fiction.
 - [University of Pennsylvania Digital Library](https://digital.library.upenn.edu/books/) - Digital library providing access to a collection of books.
 - [Feedbooks Public Domain](https://www.feedbooks.com/catalog/public_domain) - Platform offering a catalog of public domain books for free.
