@@ -309,6 +309,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [UnitConverters](https://www.unitconverters.net/) - Online platform for converting various units.
 - [OnlineConversion](https://onlineconversion.com/) - Tool to convert just about anything to anything else, with thousands of units and millions of conversions.
 - [Text to Binary Conversion](https://www.online-toolz.com/tools/text-binary-convertor.php) - Online tool for converting text to binary.
+- [CSSUnitConverter](https://cssunitconverter.com/) - Convert between PX, EM, REM, PT, Inches, CM, and more for web and print design.
 
 ### Visual
 
