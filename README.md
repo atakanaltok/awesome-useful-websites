@@ -23,7 +23,7 @@ Feel free to share this list, star it, and [contribute](#contributing) your own 
 
 ## Nomenclature
 
-Certain websites that are tagged with the symbols listed below for convenience.
+Certain websites are tagged with the symbols listed below for convenience.
 
 | Symbol | Meaning                                                            |
 | :----: | ------------------------------------------------------------------ |
@@ -185,7 +185,7 @@ Each website is included only once. Some websites can fall into multiple categor
     - [No-Code](#no-code)
       - [Licensing](#licensing)
   - [Programming Languages](#programming-languages)
-    - [Haskel](#haskel)
+    - [Haskell](#haskell)
     - [Python](#python)
     - [C++](#c)
   - [Coding Practice / Competitive Programming](#coding-practice--competitive-programming)
@@ -1320,7 +1320,6 @@ Each website is included only once. Some websites can fall into multiple categor
 
 - [DoITPoMS](https://www.doitpoms.ac.uk/index.php) - DoITPoMS from Department of Materials Science and Metallurgy, University of Cambridge
 - [Nanoscience Resources](https://ssd.phys.strath.ac.uk/) - Nanoscience resources of the Department of Physics at the University of Strathclyde
-- [MIT OpenCourseWare - Materials Science and Engineering](https://web.mit.edu/16.unified/www/SPRING/materials/index.html) - Concepts are deeply examined
 - [StatNano](https://product.statnano.com/) - Reliable source of information about nanotechnology products, currently used in a broad range of industrial applications
 - [MyMiniFactory](https://www.myminifactory.com/) - World’s largest ecosystem of free to download, 3D printable objects of cultural significance
 - [Roy Mech](https://roymech.org/) - This site provides useful information, tables , schedules and formula related to mechanical engineering and engineering materials.
@@ -1928,7 +1927,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Classic Papers in Programming Languages and Logic](https://www.cs.cmu.edu/~crary/819-f09/) - Collection of seminal academic papers on programming languages and logic, curated by Carnegie Mellon University.
 - [RubyGems Guides](https://guides.rubygems.org/) - Learn how RubyGems works and how to make your own
 
-### Haskel
+### Haskell
 
 - [Learn You a Haskell for Great Good!](https://learnyouahaskell.github.io/chapters.html) - Online book version of "Learn You a Haskell" by by Miran Lipovača.
 - [Real World Haskell](https://book.realworldhaskell.org/read/) - Online book version of "Real World Haskell" by Bryan O'Sullivan, Don Stewart, and John Goerzen.
@@ -2127,11 +2126,11 @@ Each website is included only once. Some websites can fall into multiple categor
 
 # Contributing
 
-- If you find out any broken link or any website that has been outdated, please [rise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues).
-
 - If you want to add a new category or website, create a [pull request](https://github.com/atakanaltok/awesome-useful-websites/pulls) (To avoiding duplications, seach whether your website is already included).
 
 - If you are a site owner and believe that your site is not described accurately, please [rise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues).
+
+- If a website is down for some reason, it is generally kept in the list for archiving purposes, and also in case their maintainers might restore them. However, if the destination of a link has changed or a link is now broken, please [rise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues).
 
 <br>
 
