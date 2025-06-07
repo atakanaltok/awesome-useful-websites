@@ -50,6 +50,7 @@ Each website is included only once. Some websites can fall into multiple categor
     - [Converter / Conversion](#converter--conversion)
       - [Unit Conversion](#unit-conversion)
     - [Visual](#visual)
+    - [Data Entry](#data-entry)
   - [DIY](#diy)
   - [Culture](#culture)
   - [Language](#language)
@@ -340,6 +341,10 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Visual Illusions](https://sites.socsci.uci.edu/~ddhoff/illusions.html) - Collection of visual illusions and demonstrations.
 - [ByClickDownloader](https://www.byclickdownloader.com/) - Backup videos from various sites in HD, MP3, MP4, AVI, and other formats using their software.
 - [Reanimate](https://reanimate.github.io/) - Build declarative animations with SVG and Haskell.
+
+### Data Entry
+
+- [XLSXForm](https://xlsxform.com/) - Build forms and store all data entry in .xlsx file format.
 
 ## DIY
 
