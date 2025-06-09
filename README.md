@@ -25,10 +25,11 @@ Feel free to share this list, star it, and [contribute](#contributing) your own 
 
 Certain websites are tagged with the symbols listed below for convenience.
 
-| Symbol | Meaning                                                            |
-| :----: | ------------------------------------------------------------------ |
-|   $    | Payment Required (There are no free options)                       |
-|   @    | Student Friendly (Offers discounts or a free version for students) |
+| Symbol | Meaning                                                                                          |
+| :----: | ------------------------------------------------------------------------------------------------ |
+|   $    | Payment Required (There are no free options)                                                     |
+|   @    | Student Friendly (Offers discounts or a free version for students)                               |
+|   !    | Website Down (The website is down for some reason, see the end of [contributing](#contributing)) |
 
 <br>
 
@@ -257,7 +258,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Title Case](https://titlecase.com/) - Convert a text into all kinds of cases.
 - [Fancy Text Generator](https://lingojam.com/FancyTextGenerator) - Convert a text into all kinds of fonts.
 - [Calligraphr](https://www.calligraphr.com/en/) - Transform your handwriting or calligraphy into a font.
-- [Dongerlist](https://dongerlist.com/) - Set of Unicode characters assembled to form a text emoticon.
+- [Dongerlist](https://dongerlist.com/) (!) - Set of Unicode characters assembled to form a text emoticon.
 - [ASCII-art Tutorial](https://stonestoryrpg.com/ascii_tutorial.html) - Tutorial on ASCII art.
 - [Emoji Combos](https://emojicombos.com/) - Collection of emoji combinations and sequences.
 - [ASCII World](https://www.asciiworld.com/) - Platform featuring ASCII art and tutorials.
@@ -1092,7 +1093,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 #### Book Recommendations and Summaries
 
-- [Read Next](https://read-next.com/) - A collection of 3,000+ books recommended by famous people from various domains such as scientists, investors, entrepreneurs, celebrities, and authors.
+- [Read Next](https://read-next.com/) (!) - A collection of 3,000+ books recommended by famous people from various domains such as scientists, investors, entrepreneurs, celebrities, and authors.
 - [Goodbooks](https://www.goodbooks.io/) - Offers 8,500+ book recommendations from successful and interesting individuals around the world.
 - [Most Recommended Books](https://mostrecommendedbooks.com/) - Curates 500+ experts, 600+ lists, 500+ book series, providing 100% verified book recommendations.
 - [Books Chatter](https://bookschatter.com/) - Find book recommendations from people's tweets, with tweets shown.
