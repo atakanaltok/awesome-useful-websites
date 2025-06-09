@@ -1537,6 +1537,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Medium-Hard Data Analyst SQL Interview Questions](https://quip.com/2gwZArKuWk7W) - Collection of SQL interview questions
 - [SQL Translate](https://www.sqltranslate.app/) - SQL to Natural Language and Natural Language to SQL translator. 100% free and open source
 - [Servers for Hackers](https://serversforhackers.com/) - Server Admin for Programmers. Learn server tech for development and production.
+- [SQLable](https://sqlable.com/) - Collection of SQL tools
 
 ### Web Analytics
 
@@ -1905,6 +1906,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Regex101](https://regex101.com/) - An online regex tester and debugger.
 - [Debuggex](https://www.debuggex.com/) - A visual regex tester that allows you to understand how your regular expression works.
 - [UI Bakery Regex Library](https://uibakery.io/regex-library/) - Collection of regular expressions for UI design.
+- [Pyrexp](https://pythonium.net/regex) - An online visual regex tester for Python.
 
 ### No-Code
 
