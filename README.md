@@ -1272,6 +1272,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [PlanetMath](https://planetmath.org/) - Online mathematical resource and collaborative platform that provides open-access mathematics content, including definitions, theorems, and proofs.
 - [Geomstats Tutorials](https://geomstats.github.io/tutorials/index.html) - Tutorials and resources on geometric statistics, providing practical examples and code for implementing statistical techniques on manifolds.
 - [Ximera - MOOCulus](https://ximera.osu.edu/mooculus) - Collection of interactive math modules and learning resources designed for online courses, focusing on calculus and related subjects.
+- [Percentage Calculator](https://www.percentofpercentcalculator.com) - A simple, interactive tool for calculating percentages quickly and accurately.
 
 ### Math + Art
 
