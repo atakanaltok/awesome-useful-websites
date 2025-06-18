@@ -478,6 +478,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [InnerBody](https://www.innerbody.com/) - Research for reviews and researches about health products, services, and more.
 - [Sleep Calculator](https://sleepcalculator.com/) - Tool that helps users determine the best time to go to bed based on their desired wake-up time, optimizing sleep cycles for better rest and alertness.
 - [SimpleLab](https://gosimplelab.com/) - Provides rapid, reliable environmental testing across the U.S., using a cloud-based platform for efficient sampling, testing, and data management.
+- [Sleep Estimator](https://www.sleep-estimator.com/) - Calculates the best bedtime based on your wake-up time to optimize sleep quality and alertness.
 
 ### Air Quality
 
@@ -986,6 +987,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Wikipedia: List of Physical Quantities](https://en.wikipedia.org/wiki/List_of_physical_quantities) - Wikipedia page listing various physical quantities.
 - [eMathHelp Linear Algebra Calculator](https://www.emathhelp.net/en/calculators/linear-algebra/) - Online calculator for linear algebra calculations.
 - [Online Math School](https://onlinemschool.com/math/assistance/) - Platform providing math assistance with various calculators and resources.
+- [Percentage Calculator](https://www.percentofpercentcalculator.com) - A simple, interactive tool for calculating percentages quickly and accurately.
 
 ### MOOC (Massive Open Online Courses)
 
