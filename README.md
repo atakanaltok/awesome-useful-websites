@@ -1108,6 +1108,8 @@ Each website is included only once. Some websites can fall into multiple categor
 - [What Should I Read Next?](https://www.whatshouldireadnext.com/) - Enter a book you like and the site will analyse our huge database of real readers' favorite books to provide book recommendations and suggestions for what to read next.
 - [Blas](https://blas.com/) - Summarizes more than 400 books by Blas Moros.
 - [Google Books - Talk to Books](https://books.google.com/talktobooks/) - Platform allowing users to have a conversation with books using natural language.
+- [Booktorium](https://booktorium.com/) - A highly user-friendly and constantly updated platform that provides comprehensive and well-organized book series orders, along with continuously improving features.
+
 
 ### Maps and Data
 
