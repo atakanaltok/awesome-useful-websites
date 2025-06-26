@@ -142,6 +142,7 @@ Each website is included only once. Some websites can fall into multiple categor
     - [Data Science](#data-science)
     - [Databases](#databases)
   - [Web Development](#web-development)
+    - [Domain](#domain)
     - [Front-end](#front-end)
       - [HTML](#html)
       - [CSS](#css)
@@ -394,6 +395,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Ponly](https://ponly.com/about/) - Website with fun and humorous content and jokes.
 - [Tongue-Twister](https://tongue-twister.net/) - World's largest collection of tongue twisters with 3660 entries in 118 languages
 - [OLAC (Open Language Archives Community)](http://olac.ldc.upenn.edu/) - An international network of institutions and individuals working to create a global virtual library of language resources, focusing on digital archiving practices and providing interoperable repositories for accessing linguistic data.
+- [US Dictionary](https://usdictionary.com/) - Word meanings, synonyms, and usage examples provided for American English terms.
 
 ### Grammar
 
@@ -1133,13 +1135,16 @@ Each website is included only once. Some websites can fall into multiple categor
 - [ObservableHQ](https://observablehq.com/@tophtucker/examples-of-bitemporal-charts) - Examples of bitemporal charts
 - [The Uncensored Library](https://uncensoredlibrary.com/en) - Minecraft server and map released by Reporters Without Borders and created by BlockWorks, DDB Berlin, and MediaMonks as an attempt to circumvent censorship in countries without freedom of the press
 - [Lighthouse Map](https://geodienst.github.io/lighthousemap/) - An interactive map displaying the locations of lighthouses around the world, offering geospatial information and history for each site.
+- [Wikipedia Landscape - Leland McInnes](https://lmcinnes.github.io/datamapplot_examples/wikipedia/) - Visualization showcasing the landscape of Wikipedia.
+- [AAA Gas Prices](https://gasprices.aaa.com/) - Average fuel prices updated daily from up to 120,000 U.S. stations, compiled by OPIS and WEX.
+- [ASCE Hazard Tool](https://ascehazardtool.org/) - Design parameters for structures retrieved based on ASCE standards, including seismic, wind, and flood data.
 
 #### Arxiv
 
 - [ArxivXplorer](https://arxivxplorer.com/) - Search tool designed for exploring scientific papers on arXiv, allowing users to find and filter research articles across various disciplines.
 - [Interactive Data Map of ArXiv Machine Learning Papers](https://datamapplot.readthedocs.io/en/latest/auto_examples/plot_interactive_arxiv_ml.html) - Interactive data map displaying papers from the Machine Learning section of ArXiv.
-- [ArXiv Machine Learning Landscape](https://lmcinnes.github.io/datamapplot_examples/ArXiv_data_map_example.html) - Visualization showcasing the landscape of machine learning research on ArXiv.
-- [DataMapPlot Examples](https://lmcinnes.github.io/datamapplot_examples/arXiv/) - A collection of examples and demonstrations for visualizing data on manifolds using the DataMapPlot library, focusing on arXiv datasets.
+- [ArXiv Machine Learning Landscapa - Leland McInnes](https://lmcinnes.github.io/datamapplot_examples/ArXiv_data_map_example.html) - Visualization showcasing the landscape of machine learning research on ArXiv.
+- [DataMap Landscape - Leland McInnes](https://lmcinnes.github.io/datamapplot_examples/arXiv/) - A collection of examples and demonstrations for visualizing data on manifolds using the DataMapPlot library, focusing on arXiv datasets.
 
 ### Infographic
 
@@ -1276,6 +1281,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [PlanetMath](https://planetmath.org/) - Online mathematical resource and collaborative platform that provides open-access mathematics content, including definitions, theorems, and proofs.
 - [Geomstats Tutorials](https://geomstats.github.io/tutorials/index.html) - Tutorials and resources on geometric statistics, providing practical examples and code for implementing statistical techniques on manifolds.
 - [Ximera - MOOCulus](https://ximera.osu.edu/mooculus) - Collection of interactive math modules and learning resources designed for online courses, focusing on calculus and related subjects.
+- [EuclideanSpace](https://euclideanspace.com) - Topics in mathematics and computing explained through visualizations and detailed references.
 
 ### Math + Art
 
@@ -1296,6 +1302,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [McMaster-Carr](https://www.mcmaster.com/) - Supplier of hardware, tools, raw materials, industrial materials, and maintenance equipment, serving a wide range of industries with an extensive catalog of products.
 - [Engineer on a Disk: Modeling](https://engineeronadisk.com/book_modeling/modelTOC.html) - A book offering a hands-on guide to system modeling and simulation, with practical examples and explanations for engineers and developers.
 - [Bartosz Ciechanowski Archives](https://ciechanow.ski/archives/) - Collection of articles on design and technology by Bartosz Ciechanowski.
+- [IQS Directory Articles](https://www.iqsdirectory.com/articles/) - Industrial components explained through technical articles and manufacturer insights.
 
 ### Civil Engineering
 
@@ -1344,6 +1351,8 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Digi-Key Electronics](https://www.digikey.com/) - Online marketplace for electronic components, featuring a vast selection of parts, tools, and resources for engineers and makers.
 - [Telematic Connections Timeline](http://telematic.walkerart.org/timeline/index.html) - Interactive timeline exploring the history and impact of telematics and networked communication, with a focus on art and technology.
 - [Cybergraph](https://cybergraph.dubberly.com/#) - Visual exploration of Cybernetics, offering interactive representations of networks.
+- [EveryCircuit](https://everycircuit.com/) - Electronic circuits simulated and visualized in real time with interactive component behavior.
+- [Falstad Circuit Simulator](https://www.falstad.com/circuit/) - Electronic circuits modeled and tested in-browser using animated schematic diagrams.
 
 ## Computer Science
 
@@ -1478,10 +1487,14 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Free-for.dev](https://free-for.dev/#/) - List of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
 - [Free Privacy Policy Generator](https://www.freeprivacypolicy.com/) - Tool to generate a free privacy policy, ensuring compliance with requirements from CCPA, GDPR, CalOPPA, Google Analytics & AdSense, and more.
 - [Mailinator](https://www.mailinator.com/) ($) - Platform allowing developers and QA testing teams to test email and SMS workflows, including 2FA verifications, sign-ups, and password resets.
-- [Atlaq](https://atlaq.com/) - Domain name generator.
 - [Addy's Toolkit](https://toolkit.addy.codes/) - Collection of 806 hand-picked tools & resources for web designers & developers.
 - [BrowserBench - Speedometer 3.0](https://www.browserbench.org/Speedometer3.0/) - A benchmark tool to measure the performance of web browsers, specifically testing responsiveness and the speed of modern web applications.
 - [UserAgents.me](https://www.useragents.me/) - Provides self-updating list of the latest and most common useragents seen on the web across all device types, operating systems, and browsers. Data is always fresh, updating weekly. This user agent list is perfect for web scrapers looking to blend in, developers, website administrators, and researchers. The most common useragents list is compiled from the user logs data of a number of popular sites across niches and geography, cleansed (bots removed), and enriched with information about the device and browser.
+
+### Domain
+
+- [Atlaq](https://atlaq.com/) - Domain name generator.
+- [ICANN Lookup](https://lookup.icann.org/en) - Registration data for domain names and Internet number resources accessed using WHOIS and RDAP protocols.
 
 ### Front-end
 
@@ -1546,6 +1559,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ### Web Analytics
 
+- [Plausible Analytics](https://plausible.io/) - Simple, open source, lightweight and privacy-friendly alternative to Google Analytics
 - [Pirsch](https://pirsch.io/) - An open-source, cookie-free web analytics platform.
 - [Websites Milonic](https://websites.milonic.com/) - Provides neatly reported important data for websites.
 - [WooRank](https://www.woorank.com/) ($) - Website review and SEO checker.
