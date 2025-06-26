@@ -481,6 +481,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Sleep Calculator](https://sleepcalculator.com/) - Tool that helps users determine the best time to go to bed based on their desired wake-up time, optimizing sleep cycles for better rest and alertness.
 - [SimpleLab](https://gosimplelab.com/) - Provides rapid, reliable environmental testing across the U.S., using a cloud-based platform for efficient sampling, testing, and data management.
 - [Sleep Estimator](https://www.sleep-estimator.com/) - Calculates the best bedtime based on your wake-up time to optimize sleep quality and alertness.
+- [Sleep Calculator App](https://sleepcalculatorapp.com/) - Find Your Ideal Sleep and Wake Time.
 
 ### Air Quality
 
