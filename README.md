@@ -930,6 +930,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [SimpleDesktops](https://simpledesktops.com/browse/) - Collection of minimal wallpapers for desktop backgrounds.
 - [WallpaperFlare](https://www.wallpaperflare.com/search?wallpaper=vertical) - Website offering high-resolution vertical wallpapers.
 - [Positron Dream](https://www.positrondream.com/wallpapers-all) - Collection of abstract wallpapers available for download.
+- [KPopDemonHuntersWallpaper](https://kpopdemonhunterswallpaper.com/) - KPop Demon Hunters Wallpaper - Free HD Wallpapers Download.
 
 ## Art
 
