@@ -250,7 +250,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [draw.io](https://www.drawio.com/) - Open-source, security-first technology stack for building diagramming applications. For [web usage](https://app.diagrams.net/?src=about).
 - [OrgPad](https://orgpad.com/?ref=producthunt) - An interactive online mind map.
 - [Lucidchart](https://www.lucidchart.com/pages/) - A diagramming and flowchart app that brings teams together to make better decisions and build the future.
-- [Learn Anything](https://learn-anything.xyz/) - A platform for organizing the world's knowledge, exploring connections, and curating learning paths.
+- [Learn Anything](https://learn-anything.xyz/) - Platform for organizing the world's knowledge, exploring connections, and curating learning paths.
 
 ### Texts
 
@@ -1227,8 +1227,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ### Quantum
 
-- <https://vsg.quasihome.com/interfer.htm> - Applet of Young's Double Slit Interference
-- [Webb Telescope](https://webbtelescope.org/) - Official website for the James Webb Space Telescope.
+- [Quasihome Interference](https://vsg.quasihome.com/interfer.htm) - Applet of Young's Double Slit Interference
 
 #### Quantum Games
 
@@ -1251,6 +1250,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Space Telescope Live](https://spacetelescopelive.org/webb) - Live access to real-time data and observations from the James Webb Space Telescope, allowing users to explore space research and discoveries.
 - [Telescope Optics](https://www.telescope-optics.net/) - A resource for amateur telescope builders, providing detailed information on designing and constructing telescope optics.
 - [Orbital Basics](https://t-neumann.github.io/space/OrbitalBasics/) - Educational resource explaining the fundamental concepts of orbital mechanics, designed for beginners in space science.
+- [Webb Telescope](https://webbtelescope.org/) - Official website for the James Webb Space Telescope.
 
 ## Mathematics
 
@@ -1350,7 +1350,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 - [Electrical4U](https://www.electrical4u.com/) - Platform for learning electrical engineering.
 - [Electronics Tutorials](https://www.electronics-tutorials.ws/) - Resource providing tutorials on various aspects of electronics.
-- [Octopart](https://octopart.com/) - Platform for electronic parts, helping users find and compare components.
+- [Octopart](https://octopart.com/) - Search engine for electronic and industrial parts. It aggregates parts from distributors and manufacturers online, making them easy to search for and purchase.
 - [TechSpot - How CPUs Are Designed and Built](https://www.techspot.com/article/1821-how-cpus-are-designed-and-built/) - Series covering computer architecture, processor circuit design, VLSI, chip fabrication, and future trends in computing.
 - [Open Circuits Book](https://www.opencircuitsbook.com/) - "Open Circuits" is a photographic exploration of the beautiful design inside everyday electronics.
 - [Digi-Key Electronics](https://www.digikey.com/) - Online marketplace for electronic components, featuring a vast selection of parts, tools, and resources for engineers and makers.
@@ -1851,7 +1851,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 - [Fake Name Generator](https://www.fakenamegenerator.com/) - Generate fake profile information, including names, addresses, and phone numbers, from 37 languages and 31 countries.
 - [Burner](https://www.burnerapp.com/) - An app for creating temporary second phone numbers for calling and texting, useful for privacy and avoiding spam.
-- [Random.org](https://www.random.org/) - A service for generating true random numbers, lists, strings, and maps.
+- [Random.org](https://www.random.org/) - A service for generating random numbers, lists, strings, and maps.
 
 ### Password Generation
 
@@ -2167,12 +2167,22 @@ Each website is included only once. Some websites can fall into multiple categor
 
 # DISCLAIMER
 
-By accessing and using the Awesome Useful Websites project ("the Project") on GitHub, you agree that the Project is not affiliated with, sponsored by, or endorsed by any of the websites listed. While efforts are made to maintain accurate and up-to-date information, the Project makes no guarantees regarding the accuracy, completeness, or reliability of the content. Changes of the content of linked websites are beyond the Project's control. The Project is provided "as is" without any warranties, express or implied.
+By accessing and using the Awesome Useful Websites project ("the Project") on GitHub, you agree that the Project is not affiliated with, sponsored by, or endorsed by any of the websites listed. While efforts are made to maintain accurate and up-to-date information, the Project makes no guarantees regarding the accuracy, completeness, or reliability of the content. Changes of the content of linked websites are beyond the Project's control. Users access linked websites at their own risk and discretion. The Project is provided "as is" without any warranties, express or implied.
 
 <br>
 
 # LICENSE
 
-![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)
+<div align="center">
+
+[<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png"
+alt="Creative Commons Attribution 4.0 International"
+height="40">](http://creativecommons.org/licenses/by/4.0/)
+
+</div>
 
 This work is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
+
+**How to credit:**
+
+- You must add a link to this [GitHub main page](https://github.com/atakanaltok/awesome-useful-websites) in an `about` or `acknowledgments` section visible to the user.
