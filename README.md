@@ -1585,6 +1585,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en) - An open-source, automated tool for improving the performance, quality, and correctness of web apps.
 - [Archive.md](https://archive.md/) - A time capsule for web pages.
 - [Hypothesis](https://web.hypothes.is/) - A conversation layer over the entire web, working everywhere without needing implementation by any underlying site (open community project).
+- [keyword trends ai](https://keywordtrendsai.com/) - AI analysis of popular search keywords.
 
 #### Testing
 
