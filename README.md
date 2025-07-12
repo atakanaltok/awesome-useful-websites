@@ -483,6 +483,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [SimpleLab](https://gosimplelab.com/) - Provides rapid, reliable environmental testing across the U.S., using a cloud-based platform for efficient sampling, testing, and data management.
 - [Sleep Estimator](https://www.sleep-estimator.com/) - Calculates the best bedtime based on your wake-up time to optimize sleep quality and alertness.
 - [Sleep Calculator App](https://sleepcalculatorapp.com/) - Find Your Ideal Sleep and Wake Time.
+- [Sleep Cyclecalc App](http://sleepcyclecalcapp.com/) - Find Your Best Sleep Schedule
 
 ### Air Quality
 
@@ -1240,6 +1241,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Quantum Moves 2](https://www.scienceathome.org/games/quantum-moves-2) - Engages citizen scientists in optimizing quantum experiments, addressing real-world challenges in quantum optimization.
 - [The Virtual Quantum Optics Laboratory](https://www.vqol.org/) - Enables design and simulation of quantum optics experiments, bridging classical and quantum mechanics for educational use.
 - [Arxiv Paper - Quantum Games and Interactive Tools for Quantum Technologies Outreach and Education](https://arxiv.org/abs/2202.07756) - Comprehensive discussion of the use of games and interactive tools to engage the public in understanding quantum technologies.
+- [Bento Blocks Game](https://www.bentoblocksgame.com/) - Arrange ingredients in the bento box
 
 ### Astronomy
 
