@@ -78,6 +78,7 @@ Each website is included only once. Some websites can fall into multiple categor
   - [Media](#media)
     - [X / Twitter](#x--twitter)
     - [Reddit](#reddit)
+    - [Discord](#discord)
   - [Economy](#economy)
   - [Business](#business)
     - [Finance](#finance)
@@ -646,6 +647,10 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Gummy Search](https://gummysearch.com/) - Explore pain points, content ideas, and discover what people are eager to pay for on Reddit.
 - [RedditSearch.io](https://redditsearch.io/) - An advanced Reddit search engine that allows you to filter and customize your searches.
 - [Better Reddit Search](https://betterredditsearch.web.app/) - Enhance your Reddit search experience with improved features and functionality.
+
+### Discord
+
+- [Blobs](https://blobs.gg/) - Collection of over 4400 fun and playful custom emoji for Discord.
 
 ## Economy
 
