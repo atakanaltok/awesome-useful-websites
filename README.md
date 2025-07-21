@@ -226,6 +226,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [GetHuman](https://gethuman.com/) - Get a representative on the phone faster and receive better help from known companies.
 - [S-ings Scratchpad](https://www.s-ings.com/scratchpad/) - Online scratchpad tool designed for quick notes, calculations, and informal writing.
 - [UFreeTools](https://www.ufreetools.com/) - Your Online Free Toolkit.
+- [Play Go Hub](https://playgohub.com/) - Professional Gaming Tools & Guides
 
 ### White Board
 
