@@ -1250,7 +1250,6 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Quantum Moves 2](https://www.scienceathome.org/games/quantum-moves-2) - Engages citizen scientists in optimizing quantum experiments, addressing real-world challenges in quantum optimization.
 - [The Virtual Quantum Optics Laboratory](https://www.vqol.org/) - Enables design and simulation of quantum optics experiments, bridging classical and quantum mechanics for educational use.
 - [Arxiv Paper - Quantum Games and Interactive Tools for Quantum Technologies Outreach and Education](https://arxiv.org/abs/2202.07756) - Comprehensive discussion of the use of games and interactive tools to engage the public in understanding quantum technologies.
-- [Bento Blocks Game](https://www.bentoblocksgame.com/) - Arrange ingredients in the bento box
 
 ### Astronomy
 
@@ -1650,12 +1649,16 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Combinatorics.org](https://www.combinatorics.org/) - A. S. Fraenkel's bibliography of combinatorial game theory literature.
 - [Geometry and Graph Theory](https://ics.uci.edu/~eppstein/cgt/) - A resource on Combinatorial Game Theory, featuring explanations, examples, and research on algorithms for combinatorial problems.
 
-#### Pokemon
+#### Games
+
+- [Bento Blocks Game](https://www.bentoblocksgame.com/) - Arrange ingredients in the bento box
+
+##### Pokemon
 
 - [Pokemon Database](https://pokemondb.net/) - A comprehensive Pokémon database with news and updates.
 - [Serebii](https://serebii.net/) - Offers various news, features, archives, and explanations about Pokémon.
 
-#### Chess
+##### Chess
 
 - [The Chess Website](https://www.thechesswebsite.com/) - Learn, Practice, and Play Chess.
 - [Lichess](https://en.lichess.org/) - Free/libre, open-source chess server powered by volunteers and donations.
