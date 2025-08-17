@@ -14,6 +14,9 @@ Most of these websites are gathered from:
 - [reddit.com/r/InternetIsBeautiful](https://www.reddit.com/r/InternetIsBeautiful/)
 - [news.ycombinator.com](https://news.ycombinator.com/)
 - [x.com/IndieRandWeb](https://x.com/IndieRandWeb)
+- Check out this helpful tool for optimizing your sleep: [Smart Sleep Calculator](https://smartsleepcalc.com)
+
+- 
 
 <br>
 
