@@ -776,6 +776,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Working Nomads](https://workingnomads.co/) - Job board for remote positions in various industries.
 - [Europe Remotely](https://europeremotely.com/) - Job board for remote positions specifically in Europe.
 - [Virtual Vocations](https://virtualvocations.com/) - Job board for telecommute and remote positions.
+- [Benture.IO](https://benture.io) - Job board for remote opportunities in AI training roles.
 
 ### Freelancing
 
