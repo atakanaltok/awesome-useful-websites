@@ -726,6 +726,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Username Search](https://www.user-searcher.com/) - Search usernames across 2000+ social media platforms, dating sites, forums, and more.
 - [Name Into Symbols](https://nameintosymbols.com/) - Turn Your Name into Symbols: Boost Social Media Impact on TikTok, Instagram & More.
 - [Pet Pet Generator](https://petpetgenerator.cc/) - Create adorable petting GIFs with Pet Pet Generator!
+- [Instaking](https://instaking.org/en/) - Helps add engagement to your Instagram content.
 
 ### Trends
 
