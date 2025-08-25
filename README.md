@@ -701,32 +701,6 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Patently Apple](https://www.patentlyapple.com/patents-applications/) - Explore patent applications made by Apple.
 - [USPTO Report](https://uspto.report/) - Platform providing information and reports related to patents from the United States Patent and Trademark Office.
 
-### Marketing
-
-- [Telega](https://telega.io/) - Find the target audience in Telegram and launch effective advertising campaigns.
-- [IGMassDMS](https://igmassdms.com/) ($) - Send direct Instagram messages to your targeted audience without using your account.
-- [Product Management Tools](https://rohitverma.gumroad.com/l/PM-tools) ($) - Collection of Product Management tools for $5.
-- [Yes Promo](https://yespromo.me/) - Free database of 100+ successful self-promotion Reddit posts.
-- [Marketing for Startups E-Book](https://www.welovenocode.com/marketingforstartups) - Free e-book with 47 practical tactics to get customers and achieve hockey stick growth.
-- [ArrayList](https://arraylist.org/) - List database in the cloud for storing form submissions, email-subscription forms, or making AJAX/REST calls to store values.
-- [SuperMeme AI](https://www.supermeme.ai/) ($) - Generate original memes powered by AI in 110+ languages.
-- [Apollo](https://www.apollo.io/) - Sales intelligence and engagement platform to search, engage, and convert over 250 million contacts at over 60 million companies.
-- [Vocus.io](https://vocus.io/) - Personalize email campaigns, track and automate email follow-ups, schedule appointments, sync with your CRM, and collaborate with your team.
-
-#### Social Media
-
-- [Instagram Caption Maker](https://apps4lifehost.com/Instagram/CaptionMaker.html) - Clean & Beautiful Line Breaks for IG Captions.
-- [Social Sizes](https://socialsizes.io/) - Image and Video sizes for Social Media.
-- [Ocoya](https://www.ocoya.net/) ($) - Platform to create, auto-generate, and schedule content.
-- [Imgupscaler](https://imgupscaler.com/?ref=producthunt) - AI-based PNG / JPG Image Upscaler.
-- [Namechk](https://namechk.com/) - Check the availability of a username or domain name within seconds. 30 domains and more than 90 social media accounts.
-- [Inflact](https://inflact.com/downloader/instagram/video/) - Save original high-quality videos from Instagram to your device.
-- [TikTok Video Downloader](https://ttvdl.com/) - Download TikTok videos.
-- [SWAPD](https://swapd.co/) - Provides a middleman service for buying, selling, and trading virtual items and services, offering a secure platform that connects users with a vast network of buyers, sellers, and opportunities in the digital marketplace.
-- [Username Search](https://www.user-searcher.com/) - Search usernames across 2000+ social media platforms, dating sites, forums, and more.
-- [Name Into Symbols](https://nameintosymbols.com/) - Turn Your Name into Symbols: Boost Social Media Impact on TikTok, Instagram & More.
-- [Pet Pet Generator](https://petpetgenerator.cc/) - Create adorable petting GIFs with Pet Pet Generator!
-
 ### Trends
 
 - [Google Trends](https://trends.google.com/trends/?geo=US) - Explore trending topics and insights based on Google searches.
@@ -1508,7 +1482,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [BrowserBench - Speedometer 3.0](https://www.browserbench.org/Speedometer3.0/) - A benchmark tool to measure the performance of web browsers, specifically testing responsiveness and the speed of modern web applications.
 - [UserAgents.me](https://www.useragents.me/) - Provides self-updating list of the latest and most common useragents seen on the web across all device types, operating systems, and browsers. Data is always fresh, updating weekly. This user agent list is perfect for web scrapers looking to blend in, developers, website administrators, and researchers. The most common useragents list is compiled from the user logs data of a number of popular sites across niches and geography, cleansed (bots removed), and enriched with information about the device and browser.
 
-### Domain
+### Domain Names
 
 - [Atlaq](https://atlaq.com/) - Domain name generator.
 - [ICANN Lookup](https://lookup.icann.org/en) - Registration data for domain names and Internet number resources accessed using WHOIS and RDAP protocols.
@@ -1607,14 +1581,6 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Loader.io](https://loader.io/) - Free load testing service to stress test web apps and APIs with thousands of concurrent connections.
 - [WebPageTest](https://www.webpagetest.org/) - Measure your site's carbon footprint and run No-Code Experiments to find ways to improve.
 - [Azure Speed Test](https://www.azurespeed.com/Azure/Latency) - Tools for testing the speed and latency of Azure services.
-
-### Web 3.0 Dev and Cryptocurrencies
-
-- [Web3 is Going Great](https://web3isgoinggreat.com/) - Track examples of challenges in the blockchain/crypto/web3 technology space. The timeline covers events in cryptocurrency and blockchain-based technologies since the beginning of 2021.
-- [Blockchain Demo](https://andersbrownworth.com/blockchain/coinbase) - A demonstration of how a blockchain works.
-- [DappRadar](https://dappradar.com/) - Discover, track, and trade in the world of DeFi, NFTs, and Gaming.
-- [DeFi Pulse](https://www.defipulse.com/) - A list of decentralized finance (DeFi) projects and their statistics.
-- [GlassChain](https://glasschain.org/home) - A non-profit organization based in Switzerland, where addresses, transactions, wallets, or providers are checked to recover bitcoins (or a fraction of them) that have been stolen or lost due to criminal acts. Bitcoin, Litecoin, Bitcoin Cash, and Dogecoin addresses are clustered into wallets for UTXO-based blockchains. Live, reliable, and 100% correct data is provided.
 
 ## Software Engineering
 
@@ -1856,19 +1822,6 @@ Each website is included only once. Some websites can fall into multiple categor
 - [is.gd](https://is.gd/) - URL shortener.
 - [gg.gg](https://gg.gg/) - URL shortener.
 - [shrunken.com](https://www.shrunken.com/) - URL shortener.
-
-### VPN
-
-- [Top10VPN](https://www.top10vpn.com/) - A platform providing information and reviews about various VPN services.
-- [What's My Browser](https://www.whatsmybrowser.org/) - Check your browser details, including version and plugins.
-- [VPN Comparison Spreadsheet](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit#gid=231869418) - A detailed list of all VPNs with analysis and comparisons.
-- [Njalla](https://njal.la/) ($) - Provides an encrypted tunnel from your computer to the Internet, hiding your real IP address behind one of theirs.
-
-### Fake Information Generation
-
-- [Fake Name Generator](https://www.fakenamegenerator.com/) - Generate fake profile information, including names, addresses, and phone numbers, from 37 languages and 31 countries.
-- [Burner](https://www.burnerapp.com/) - An app for creating temporary second phone numbers for calling and texting, useful for privacy and avoiding spam.
-- [Random.org](https://www.random.org/) - A service for generating random numbers, lists, strings, and maps.
 
 ### Password Generation
 
@@ -2175,7 +2128,11 @@ Each website is included only once. Some websites can fall into multiple categor
 
 # Contributing
 
-- If you want to add a new category or website, create a [pull request](https://github.com/atakanaltok/awesome-useful-websites/pulls) (To avoiding duplications, seach whether your website is already included).
+- If you want to add a new category or website:
+  - Do not add a website if it is malicious, dangerous, illegal, etc. (you can check its security by running it through a program such as [VirusTotal](https://www.virustotal.com/gui/home)).
+  - Do not add a website if it is merely for entertainment and not really useful for anything.
+  - To avoiding duplications, seach whether the website is already included.
+  - Create a [pull request](https://github.com/atakanaltok/awesome-useful-websites/pulls).
 
 - If you are a site owner and believe that your site is not described accurately, please [rise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues).
 
