@@ -1433,6 +1433,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [ExplainPaper](https://www.explainpaper.com/) - Platform where users can upload a research paper, highlight confusing text, and receive an explanation to make research papers easier to read.
 - [Summarize Tech](https://www.summarize.tech/) - AI-powered tool to get a summary of any long YouTube video, such as lectures, live events, or government meetings.
 - [YouTubeTranscript](https://youtubetranscript.com/) - Get a YouTube video transcript and summaries
+- [Dmwithme](https://dmwithme.com/) - AI girl and virtual companion with real emotions who actually disagrees, gets moody, and challenges you (SFW).
 
 ### Data Science
 
