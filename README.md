@@ -308,6 +308,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [CloudConvert](https://cloudconvert.com/) - Online file converter with support for 200+ formats.
 - [OnlineOCR](https://www.onlineocr.net/) - Picture to text converter with OCR support.
 - [PDF Candy](https://pdfcandy.com/) - Online tools for working with PDF files.
+- [PDF Tools App](https://pdf-tools-app.com/) - Free Online PDF Converter & Editor
 - [PDFescape](https://www.pdfescape.com/) - Online free PDF editor and form filler.
 - [PrintIt](https://printit.work/about) - Service to print web pages as PDF with various customization options.
 - [MP3 Converter](https://mp3-converter.online/) - Free, fast audio converter for 9+ formats (MP3, WAV, FLAC, AAC, M4A, WMA, AIFF). Instant mutual conversions, no sign-up required.
