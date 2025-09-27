@@ -312,6 +312,8 @@ Each website is included only once. Some websites can fall into multiple categor
 - [PDFescape](https://www.pdfescape.com/) - Online free PDF editor and form filler.
 - [PrintIt](https://printit.work/about) - Service to print web pages as PDF with various customization options.
 - [MP3 Converter](https://mp3-converter.online/) - Free, fast audio converter for 9+ formats (MP3, WAV, FLAC, AAC, M4A, WMA, AIFF). Instant mutual conversions, no sign-up required.
+- [Web to excel](https://tablecopy.pro/) - Table Copy - Bookmarklet tool. One-Click Copy Web Tables to Excel, One-Click export Web Tables to csv, copy table, copy column.  
+- [Web Converter](https://tablecopy.pro/en/web-to-pdf) - Web to PDF/Word/Image/Text/Markdown - Bookmarklet tool. One-Click Conveter web page to PDF/Word/Image/Text/Markdown.  
 
 #### Unit Conversion
 
