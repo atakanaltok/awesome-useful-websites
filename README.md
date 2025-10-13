@@ -48,8 +48,6 @@ Each website is included only once. Some websites can fall into multiple categor
     - [Automating browser](#automating-browser)
     - [Comparison](#comparison)
     - [File](#file)
-    - [Converter / Conversion](#converter--conversion)
-      - [Unit Conversion](#unit-conversion)
     - [Visual](#visual)
     - [Data Entry](#data-entry)
   - [DIY](#diy)
@@ -294,31 +292,6 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Keybase](https://keybase.io/) - End-to-end encrypted secure messaging and file-sharing.
 - [MediaFire](https://www.mediafire.com/) - File storage and sharing platform (with subscription options).
 - [Zippyshare](https://www.zippyshare.com/) - File-sharing service with no sign-up required, no download limits, free, and unlimited disk space.
-
-### Converter / Conversion
-
-- [PDF2DOC](https://pdf2doc.com/) - Free online PDF to DOC converter.
-- [Online-Convert](https://www.online-convert.com/) - Convert media files online between different formats.
-- [JPG to PNG](https://jpg.to-png.com/) - Free file conversion tools for various formats.
-- [Conversion-Tool](https://www.conversion-tool.com/) - Offers a wide range of free online conversion utilities.
-- [Zamzar](https://www.zamzar.com/) - Convert documents, images, videos & sound in 1100+ formats.
-- [Web2PDFConvert](https://www.web2pdfconvert.com/) - Convert web pages or HTML to PDF or image formats.
-- [SmallPDF](https://smallpdf.com/) - 21 tools to convert, compress, and edit PDFs for free.
-- [Corrupt-a-File](https://corrupt-a-file.net/) - Corrupt any file online (use at your own risk).
-- [CloudConvert](https://cloudconvert.com/) - Online file converter with support for 200+ formats.
-- [OnlineOCR](https://www.onlineocr.net/) - Picture to text converter with OCR support.
-- [PDF Candy](https://pdfcandy.com/) - Online tools for working with PDF files.
-- [PDF Tools App](https://pdf-tools-app.com/) - Free Online PDF Converter & Editor
-- [PDFescape](https://www.pdfescape.com/) - Online free PDF editor and form filler.
-- [PrintIt](https://printit.work/about) - Service to print web pages as PDF with various customization options.
-- [MP3 Converter](https://mp3-converter.online/) - Free, fast audio converter for 9+ formats (MP3, WAV, FLAC, AAC, M4A, WMA, AIFF). Instant mutual conversions, no sign-up required.
-
-#### Unit Conversion
-
-- [UnitConverters](https://www.unitconverters.net/) - Online platform for converting various units.
-- [OnlineConversion](https://onlineconversion.com/) - Tool to convert just about anything to anything else, with thousands of units and millions of conversions.
-- [Text to Binary Conversion](https://www.online-toolz.com/tools/text-binary-convertor.php) - Online tool for converting text to binary.
-- [CSSUnitConverter](https://cssunitconverter.com/) - Convert between PX, EM, REM, PT, Inches, CM, and more for web and print design.
 
 ### Visual
 
