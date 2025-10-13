@@ -604,6 +604,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [WCostream](https://m.wcostream.com/) - Free cartoon and anime series streaming.
 - [Watch Documentaries](https://watchdocumentaries.com/) - Website offering a collection of documentaries on various topics.
 - [Senses of Cinema](https://www.sensesofcinema.com/) - One of the earliest online film journals, known for its professional, high-quality content related to film studies and industry trends.
+- [Chinese Drama Free](https://www.chinesedramafree.com/) - Chinese Dramas & Short TV Series Online Free to Watch
 
 ### Anime
 
@@ -1086,6 +1087,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [22 Free Data Science Books](https://www.wzchen.com/data-science-books) - A compilation of quality data science books available for free, curated to assist those exploring the data science career track. The last updated date of each book is included in parentheses.
 - [Chest of Books](https://chestofbooks.com/) - Free online library offering a large collection of books on various topics, including science, technology, art, and literature.
 - [Stephen Wolfram: A New Kind of Science](https://www.wolframscience.com/nks/) - Online version of Stephen Wolfram's book "A New Kind of Science," offering access to the table of contents and related materials on cellular automata and complexity.
+- [Werewolf Reads](https://www.werewolfreads.com/) - A website that shares only werewolf related novels and stories
 
 #### Book Recommendations and Summaries
 
