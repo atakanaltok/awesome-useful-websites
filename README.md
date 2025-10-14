@@ -236,6 +236,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Blank Page](https://blank.page/) - Simple webpage displaying a blank white page.
 - [Kid Pix](https://kidpix.app/) - A bitmap drawing program designed for children, offering a fun, user-friendly interface for creative and interactive digital artwork.
 - [Krita](https://krita.org/en/) - Free, open-source digital painting software designed for artists, offering advanced tools for illustration, concept art, and texture painting.
+- [Blank Notepad](https://blankpage.im/) - A Distraction-free Online Notepad.
 
 ### Mind Map / Note Taking
 
@@ -747,6 +748,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [HelloTechRecruiters](https://hellotechrecruiters.com/) - Tailored for tech recruiters.
 - [FlowCV](https://flowcv.com/) - AI-boosted resume builder, cover letter, job tracker, email signature, personal website.
 - [Signature Maker](https://signature-maker.net/) - Create handwritten digital signatures.
+- [AI Signature Generator](https://ai.signaturegenerator.pro/) - Create, Edit, and Apply Professional Signatures with AI in Seconds.
 
 ### Careers
 
