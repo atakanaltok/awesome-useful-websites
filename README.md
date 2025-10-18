@@ -252,6 +252,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [OrgPad](https://orgpad.com/?ref=producthunt) - An interactive online mind map.
 - [Lucidchart](https://www.lucidchart.com/pages/) - A diagramming and flowchart app that brings teams together to make better decisions and build the future.
 - [Learn Anything](https://learn-anything.xyz/) - Platform for organizing the world's knowledge, exploring connections, and curating learning paths.
+- [SankeyDiagram.net](https://sankeydiagram.net/) - Web-based open-source tool for creating & sharing Sankey Diagrams from data
 
 ### Texts
 
