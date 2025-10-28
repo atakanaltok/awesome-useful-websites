@@ -1514,6 +1514,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [REST API Tutorial](https://www.restapitutorial.com/) - Learn REST
 - [Spotify API Documentation](https://developer.spotify.com/documentation/web-api) - API documentation of Spotify
 - [Stripe API Documentation](https://stripe.com/docs/api) - API documentation of Stripe
+- [JSONing's Mock API](https://jsoning.com/api/) -  Mock API for testing and prototyping
 
 #### SQL
 
