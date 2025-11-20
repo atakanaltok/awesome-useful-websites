@@ -227,6 +227,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Play Go Hub](https://playgohub.com/) - Professional Gaming Tools & Guides
 - [rtcd.io](https://rtcd.io/) - Free online toolkit for audio editing, image processing, development and more.
 - [giga.tools](https://giga.tools/) - Collection of useful in-browser tools for developers, designers, and power-users ranging from video editing, image editing, to text editing, and more.
+- [WordToTime](https://wordtotime.org) — Convert word/character counts or full text into estimated speaking, reading or narration time. Supports multiple languages and in-browser privacy-friendly processing.
 
 ### White Board
 
@@ -253,6 +254,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [OrgPad](https://orgpad.com/?ref=producthunt) - An interactive online mind map.
 - [Lucidchart](https://www.lucidchart.com/pages/) - A diagramming and flowchart app that brings teams together to make better decisions and build the future.
 - [Learn Anything](https://learn-anything.xyz/) - Platform for organizing the world's knowledge, exploring connections, and curating learning paths.
+- [SankeyDiagram.net](https://sankeydiagram.net/) - Web-based open-source tool for creating & sharing Sankey Diagrams from data
 
 ### Texts
 
