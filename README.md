@@ -226,6 +226,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [UFreeTools](https://www.ufreetools.com/) - Your Online Free Toolkit.
 - [Play Go Hub](https://playgohub.com/) - Professional Gaming Tools & Guides
 - [rtcd.io](https://rtcd.io/) - Free online toolkit for audio editing, image processing, development and more.
+- [WordToTime](https://wordtotime.org) — Convert word/character counts or full text into estimated speaking, reading or narration time. Supports multiple languages and in-browser privacy-friendly processing.
 
 ### White Board
 
