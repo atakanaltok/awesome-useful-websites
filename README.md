@@ -435,6 +435,8 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Every Time Zone](https://everytimezone.com/) - Visual time zone comparison for different countries.
 - [Time and Date](https://www.timeanddate.com/) - Provides calendars, clocks, and various time-related information.
 - [Time.is](https://time.is/) - Displays exact, official atomic clock time for any time zone in 51 languages, covering more than 7 million locations.
+- [Time Calculator Toolkit](https://time-to-decimal.org/) - A complete browser-based toolkit for time conversion and calculation, including time-to-decimal, duration calculators, time clock rounding, time from now, and time from ago etc.
+
 
 ### Flight
 
