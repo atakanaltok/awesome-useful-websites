@@ -228,6 +228,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [rtcd.io](https://rtcd.io/) - Free online toolkit for audio editing, image processing, development and more.
 - [giga.tools](https://giga.tools/) - Collection of useful in-browser tools for developers, designers, and power-users ranging from video editing, image editing, to text editing, and more.
 - [WordToTime](https://wordtotime.org) — Convert word/character counts or full text into estimated speaking, reading or narration time. Supports multiple languages and in-browser privacy-friendly processing.
+- [VolumeShaderBM](https://volumeshaderbm.org) — Browser-based real-time GPU volume shader benchmark with WebGPU/WebGL performance comparison.
 
 ### White Board
 
