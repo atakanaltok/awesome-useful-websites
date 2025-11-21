@@ -228,6 +228,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [rtcd.io](https://rtcd.io/) - Free online toolkit for audio editing, image processing, development and more.
 - [giga.tools](https://giga.tools/) - Collection of useful in-browser tools for developers, designers, and power-users ranging from video editing, image editing, to text editing, and more.
 - [WordToTime](https://wordtotime.org) — Convert word/character counts or full text into estimated speaking, reading or narration time. Supports multiple languages and in-browser privacy-friendly processing.
+- [VolumeShaderBM](https://volumeshaderbm.org) — Browser-based real-time GPU volume shader benchmark with WebGPU/WebGL performance comparison.
 
 ### White Board
 
@@ -434,6 +435,8 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Every Time Zone](https://everytimezone.com/) - Visual time zone comparison for different countries.
 - [Time and Date](https://www.timeanddate.com/) - Provides calendars, clocks, and various time-related information.
 - [Time.is](https://time.is/) - Displays exact, official atomic clock time for any time zone in 51 languages, covering more than 7 million locations.
+- [Time Calculator Toolkit](https://time-to-decimal.org/) - A complete browser-based toolkit for time conversion and calculation, including time-to-decimal, duration calculators, time clock rounding, time from now, and time from ago etc.
+
 
 ### Flight
 
