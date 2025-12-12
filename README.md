@@ -268,6 +268,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [ASCII-art Tutorial](https://stonestoryrpg.com/ascii_tutorial.html) - Tutorial on ASCII art.
 - [Emoji Combos](https://emojicombos.com/) - Collection of emoji combinations and sequences.
 - [ASCII World](https://www.asciiworld.com/) - Platform featuring ASCII art and tutorials.
+- [Free Online Notepad](https://onlinenotepad101.org/) - Online Notepad – Free Online Text Editor & Notes Sharing
 - [Rentry](https://rentry.co/FMHY) - Online collaborative markdown editor.
 - [FontGenerator.design](https://fontgenerator.design/) - Unicode-based text generator for bold, fancy, and other font-like effects.
 - [GlitchText.cool](https://glitchtext.cool/)- Unicode glitch/Zalgo text generator with adjustable distortion.
