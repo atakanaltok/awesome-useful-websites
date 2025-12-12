@@ -268,8 +268,10 @@ Each website is included only once. Some websites can fall into multiple categor
 - [ASCII-art Tutorial](https://stonestoryrpg.com/ascii_tutorial.html) - Tutorial on ASCII art.
 - [Emoji Combos](https://emojicombos.com/) - Collection of emoji combinations and sequences.
 - [ASCII World](https://www.asciiworld.com/) - Platform featuring ASCII art and tutorials.
-- [Rentry](https://rentry.co/FMHY) - Online collaborative markdown editor.'
 - [Free Online Notepad](https://onlinenotepad101.org/) - Online Notepad – Free Online Text Editor & Notes Sharing
+- [Rentry](https://rentry.co/FMHY) - Online collaborative markdown editor.
+- [FontGenerator.design](https://fontgenerator.design/) - Unicode-based text generator for bold, fancy, and other font-like effects.
+- [GlitchText.cool](https://glitchtext.cool/)- Unicode glitch/Zalgo text generator with adjustable distortion.
 
 ### Automating browser
 
@@ -437,6 +439,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Time and Date](https://www.timeanddate.com/) - Provides calendars, clocks, and various time-related information.
 - [Time.is](https://time.is/) - Displays exact, official atomic clock time for any time zone in 51 languages, covering more than 7 million locations.
 - [Time Calculator Toolkit](https://time-to-decimal.org/) - A complete browser-based toolkit for time conversion and calculation, including time-to-decimal, duration calculators, time clock rounding, time from now, and time from ago etc.
+- [Time Card Calculator](https://www.mytimecardcalculator.com/) - A quick and accurate tool to compute daily and weekly work hour totals which also supports pdf export
 
 
 ### Flight
@@ -1359,7 +1362,6 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ## AI/ML
 
-- [Doublespeak Chat](https://doublespeak.chat/#/handbook) - Empirical, non-academic, and practical guide to LLM hacking.
 - [Fast.ai Course](https://course.fast.ai/) - Online course for deep learning and machine learning.
 - [Papers with Code](https://paperswithcode.com/sota) - Collection of state-of-the-art results for machine learning tasks with associated code.
 - [Delta Academy Maps](https://maps.joindeltaacademy.com/) - Map of mathematics for Machine Learning.
@@ -1369,7 +1371,9 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Globe Engineer Explorer](https://explorer.globe.engineer/) - Applied AI company making products that optimally represent information for human comprehension.
 - [Colah's Blog](https://colah.github.io/) - Blog by Christopher Olah on deep learning and artificial intelligence, featuring detailed explanations, tutorials, and research insights.
 - [TensorFlow Playground](https://playground.tensorflow.org) - An interactive tool for experimenting with neural networks, allowing users to visualize how different configurations affect model training and classification tasks.
-- [Ben's Bites](https://bensbites.com/catalog) - Catalog offering a variety of bite-sized AI resources.
+- [Future Tools](https://www.futuretools.io/) - Platform for finding the exact AI tool for your needs.
+- [AI Tools Arena](https://aitoolsarena.com/) - Platform showcasing various AI tools and resources.
+- [Aiva Valley](https://aivalley.ai/) - The latest source of AI tools and prompts.
 
 ### Robotics
 
@@ -1395,27 +1399,6 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Midjourney Prompt Helper](https://promptfolder.com/midjourney-prompt-helper/) - Assists users in generating detailed and effective prompts for Midjourney, enabling the creation of high-quality images through natural language inputs.
 - [Free Midjourney Prompt](https://www.freemidjourneyprompt.com/) - Offers a wide selection of free Midjourney prompts, allowing users to easily generate images by providing optimized natural language prompts.
 - [Prompt Engineering Guide](https://learnprompting.org/docs/introduction) - Serves as a comprehensive guide to prompt engineering, offering essential principles and techniques for crafting effective prompts for AI models and creative tasks.
-
-### AI tools
-
-- [Future Tools](https://www.futuretools.io/) - Platform for finding the exact AI tool for your needs.
-- [WarpSound AI](https://www.warpsound.ai/) - Create high-quality generative AI music in seconds with just prompts.
-- [AI Tools Arena](https://aitoolsarena.com/) - Platform showcasing various AI tools and resources.
-- [Klavier AI](https://klavier.ai/) - Allows you to do Q&A with ChatGPT on web pages and docs you choose.
-- [Aiva Valley](https://aivalley.ai/) - The latest source of AI tools and prompts.
-- [Bardeen AI](https://www.bardeen.ai/) - Automate manual work and tasks with AI without any code in minutes.
-- [Speechify](https://speechify.com/) - Power through documents, articles, PDFs, email—anything you read—by listening with their leading AI text-to-speech reader.
-- [Humata AI](https://www.humata.ai/) - Upload any PDF or document and get answers from it in seconds.
-- [Syntelly](https://app.syntelly.com/search) - Artificial intelligence for organic and medical chemistry.
-- [Warp.dev - Warp AI](https://www.warp.dev/warp-ai?source=producthunt&ref=producthunt) - AI-powered tool for building APIs without writing code.
-- [Feedback by AI](https://feedbackbyai.com/?ref=producthunt) - Platform utilizing AI for generating actionable feedback on writing.
-- [Seeing the World through Your Eyes](https://world-from-eyes.github.io/) - Reconstruct the world that is reflected through human eyes.
-- [Auxiliary Tools](https://www.auxiliary.tools/) - Platform offering AI experiments and tools for humans.
-- [Hemingway Editor](https://hemingwayapp.com/) - Spellchecker, but for style.
-- [FuturePedia](https://www.futurepedia.io/) - Leading AI resource platform dedicated to empowering professionals across various industries to leverage AI technologies for innovation and growth.
-- [ExplainPaper](https://www.explainpaper.com/) - Platform where users can upload a research paper, highlight confusing text, and receive an explanation to make research papers easier to read.
-- [Summarize Tech](https://www.summarize.tech/) - AI-powered tool to get a summary of any long YouTube video, such as lectures, live events, or government meetings.
-- [YouTubeTranscript](https://youtubetranscript.com/) - Get a YouTube video transcript and summaries
 
 ### Data Science
 
@@ -2143,4 +2126,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International](h
 
 **How to credit:**
 
-- You must add a link to this [GitHub main page](https://github.com/atakanaltok/awesome-useful-websites) in an `about` or `acknowledgments` section visible to the user.
+- You must add a link to this [GitHub main page](https://github.com/atakanaltok/awesome-useful-websites) in a relevant section visible to the user.
