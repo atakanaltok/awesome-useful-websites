@@ -1721,6 +1721,8 @@ Each website is included only once. Some websites can fall into multiple categor
 - [GetNotify](https://www.getnotify.com/) - A free email tracking service that notifies you when the emails you send are read.
 - [MXToolbox](https://mxtoolbox.com/) - Offers free DNS and email tools in a single place for streamlined troubleshooting.
 - [Postale](https://postale.io/) ($) - Allows you to create domain email addresses effortlessly in minutes.
+- [Temporary Mail](https://tempmailto.online/) - Secure Temporary Mail Service for Privacy Protection
+
 
 ### Data Breach
 
