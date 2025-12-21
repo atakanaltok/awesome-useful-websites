@@ -921,6 +921,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 - [Cambridge in Colour](https://www.cambridgeincolour.com/) - Learning community for photographers
 - [Exposure Guide](https://www.exposureguide.com/) - Photography Tips, Techniques, and Tutorials
+- [Free Online Photoshop](https://onlineps101.org/) - Try Photoshop Online Free and edit photos instantly in your browser. No download, no signup—professional photo editing tools, fast, easy, and 100% free.
 
 ### Art Communities
 
