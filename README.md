@@ -1557,6 +1557,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [ExBook](https://markm208.github.io/exbook/) - An Animated Introduction to Elixir.
 - [Ben Grosser Projects](https://bengrosser.com/projects/) - Portfolio of projects by Ben Grosser.
 - [Cybercademy Project Ideas](https://cybercademy.org/project-ideas/) - Resource for exploring cybersecurity project ideas, providing inspiration for educational or practical cybersecurity initiatives.
+- [The dev's cave](https://thedevscave.com) - A programming blog for developers who want to understand how things work under the hood.
 
 ### Android Development
 
