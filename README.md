@@ -369,6 +369,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [All About Berlin](https://allaboutberlin.com/) - Platform offering guides and information for individuals planning to settle in Berlin. Includes details about obtaining visas, finding jobs, securing apartments, and more.
 - [Unita](https://unita.co/) - Platform to discover, compare, and review the best communities, masterminds, and online groups across more than 30+ categories.
 - [Escape Room Tips](https://escaperoomtips.com/) - Tips, tricks, and puzzles for escape rooms
+- [Life Pro Tip](https://lifeprotip.com) – Practical life tips covering everyday situations and decisions.
 
 ## Language
 
