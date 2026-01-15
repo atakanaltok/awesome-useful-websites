@@ -247,6 +247,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [MindMup](https://www.mindmup.com/) - Free online mind mapping.
 - [Anotepad](https://anotepad.com/) - Online notepad. No login. Download your note as PDF or Word document.
 - [Notes.io](https://notes.io/) - Web-based application for taking notes.
+- [Online Notepad](https://onlinenotep.ad) - Online note and productivity tools (notepad, Cornell notes, sticky notes) etc. Free and no download.
 
 ### Diagrams
 
