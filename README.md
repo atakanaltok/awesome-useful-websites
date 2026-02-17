@@ -1688,6 +1688,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [OneTimeSecret](https://onetimesecret.com/) - Platform for sharing a password, secret message or private link securely with one-time links.
 - [MetaDefender](https://metadefender.opswat.com/) - Online tool for scanning and analyzing files for security threats, providing detailed reports on potential risks.
 - [FotoForensics](https://fotoforensics.com/) - Online tool for analyzing and verifying digital images, providing forensic tools to detect alterations and edits in photos.
+- [National Cyber Security Centre (NCSC) Infographics](https://www.ncsc.gov.uk/section/infographics/a-z) - Provides a library of free infographic guides on cybersecurity best practices for individuals, families, small businesses, and organizations.
 
 ### Cryptography
 
