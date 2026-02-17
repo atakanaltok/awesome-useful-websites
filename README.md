@@ -1153,6 +1153,7 @@ Each website is included only once. Some websites can fall into multiple categor
 ### Critical Thinking / Thinking Tools
 
 - [Kitted Thinking Tools](https://kitted.app/) - Provides a collection of free thinking tools in the form of cards that cover foundations (i.e., actions, insights, frames, and snares) and different subject configurations. Each card has additional examples and templates.
+- [School of Thought](https://www.schoolofthought.org/) - Provides free posters and interactive tools to aid in cognitive biases, logical fallacies, creative thinking, free learning lists, and conspiracy theory checking.
 
 ### Social Sciences
 
