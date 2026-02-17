@@ -877,6 +877,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Iconfinder](https://www.iconfinder.com/) ($) - Platform offering icons, illustrations, 3D illustrations, designers, and free icons.
 - [Iconz Design](https://iconz.design/) ($) - Premium 3D library of 223 icons.
 - [HugeIcons.pro](https://hugeicons.pro/) ($) - Platform offering over 25,000 icons in 5 unique styles, organized across 57 popular categories.
+- [Game-Icons.net](https://game-icons.net/) - Provides a collection of free creative commons SVG and PNG icons specifically designed for videogames.
 
 #### Stock Images
 
