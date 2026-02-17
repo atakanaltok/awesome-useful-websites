@@ -1133,6 +1133,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [D3.js](https://d3js.org/) - JavaScript library for manipulating documents based on data, enabling the creation of dynamic and interactive data visualizations.
 - [Deniz Cem On Duygu Portfolio](https://www.denizcemonduygu.com/) - Personal portfolio of infographics.
 - [Data Visualization Catalogue](https://datavizcatalogue.com/index.html) - Catalog providing information on various types of data visualizations.
+- [Data Viz Project](https://datavizproject.com/) - Provides a comprehensive catalogue of data visualization types accompanied by additional examples.
 - [Tableau Public](https://public.tableau.com/app/discover) - Free platform to explore, create, and publicly share data visualizations online.
 - [Will Robots Take My Job?](https://willrobotstakemyjob.com/) - Estimates the automation risk, growth, wages, and more for various jobs.
 - [Preceden](https://www.preceden.com/) - Online timeline and roadmaps maker.
