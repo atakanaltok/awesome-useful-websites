@@ -119,6 +119,7 @@ Each website is included only once. Some websites can fall into multiple categor
     - [History](#history)
     - [Geoscience](#geoscience)
     - [Biology](#biology)
+  - [psychology](#psychology)
   - [Physics](#physics)
     - [Quantum](#quantum)
       - [Quantum Games](#quantum-games)
@@ -1188,6 +1189,10 @@ Each website is included only once. Some websites can fall into multiple categor
 - [We Are Hosts for Memes](https://wearehostsformemes.com/) - You have been exposed to The Meta-meme
 - [Birdwatching Zone](https://birdwatching.zone/) - A site dedicated to birdwatching, featuring over 300 species recorded with identification tips and resources for enthusiasts.
 - [OneZoom](https://www.onezoom.org/) - The Tree of Life that illustrates how all life on Earth is connected. Explore relationships between 2.2 million species, view over 100,000 images, and see how species evolved from common ancestors. Zoom through the tree to discover the diversity of life on Earth.
+
+## Psychology
+
+- [Therapist Aid](https://www.therapistaid.com/) - Provides a collection of free worksheets covering a wide range of problems such as DBT, overthinking, time management, and gaslighting.
 
 ## Physics
 
