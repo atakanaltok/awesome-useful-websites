@@ -204,6 +204,8 @@ Each website is included only once. Some websites can fall into multiple categor
     - [Keyboard](#keyboard)
       - [Typing Practice](#typing-practice)
       - [Keyboard Shortcuts](#keyboard-shortcuts)
+  - [Religion](#religion)
+    - [Christianity](#christianity)
   - [Other Websites of Websites](#other-websites-of-websites)
 - [Contributing](#contributing)
 - [DISCLAIMER](#disclaimer)
@@ -2076,6 +2078,10 @@ Each website is included only once. Some websites can fall into multiple categor
 - [ASCII Tables](https://ascii-tables.com/) - Online resource providing an ASCII table, ALT codes, Z Score table, Greek Alphabet, T Distribution table, and a Binary Translator.
 - [ShortcutFoo](https://www.shortcutfoo.com/) - Platform for practicing keyboard shortcuts for free, supporting Mac, Windows, Linux, and offering cheat sheets for various applications, languages, and terminals.
 - [Microsoft Word Keyboard Shortcuts](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-word-95ef89dd-7142-4b50-afb2-f762f663ceb2) - Official Microsoft Office support page providing a comprehensive list of keyboard shortcuts for Microsoft Word.
+
+## Religion
+### Christianity
+- [Bible Project](https://bibleproject.com/) - Provides free videos, charts, guides, and classes for each book of the bible and themes.
 
 ## Other Websites of Websites
 
