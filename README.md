@@ -894,6 +894,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Depositphotos](https://depositphotos.com/) - Platform with 232 million files, including royalty-free images, videos, vectors, illustrations, and music.
 - [Skuawk](https://skuawk.com/) - Source of public domain photos for various creative projects.
 - [All-Free-Download](https://all-free-download.com/) - Platform offering graphics art available for free use in personal or commercial projects.
+- [Open Verse](https://openverse.org/) - A search tool to find openly licensed and public domain works across the internet.
 
 #### Wallpapers
 
