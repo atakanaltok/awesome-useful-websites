@@ -195,6 +195,7 @@ Each website is included only once. Some websites can fall into multiple categor
     - [Projects](#projects)
     - [Open Source](#open-source)
     - [Hackathons](#hackathons)
+    - [Refactoring](#refactoring)
   - [Cheat Sheets](#cheat-sheets)
     - [Python Cheat Sheet](#python-cheat-sheet)
     - [Front-end Cheat Sheet](#front-end-cheat-sheet)
@@ -1995,6 +1996,9 @@ Each website is included only once. Some websites can fall into multiple categor
 - [GitHub Education Events](https://education.github.com/events) - Find members of the community at hackathons, conferences, and events near you.
 - [Hackathons by Hack Club](https://hackathons.hackclub.com/) - Curated list of high school hackathons, featuring 699 events in 27 states and 18 countries.
 - [Cerebral Valley AI Events](https://events.cerebralvalley.ai/) - Provides information on upcoming AI-related events, hackathons, and co-working opportunities.
+
+### Refactoring
+- [Refactoring Guru](https://refactoring.guru/) - Provides a catalogue of refactoring patterns and design patterns with additional code examples.
 
 ## Cheat Sheets
 
