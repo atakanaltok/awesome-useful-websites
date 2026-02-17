@@ -863,6 +863,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Doodlicons on Notion](https://www.notion.so/Doodlicons-519314a92ed3474093a10e44946bbb72) - Doodle icons for project wireframes on Notion.
 - [Illustration Kit](https://illustrationkit.com/) - Collection of free vector illustrations for personal and commercial projects.
 - [FontAwesome](https://fontawesome.com/) - Internet's icon library and toolkit, widely used by designers, developers, and content creators.
+- [Flat Icon](https://www.flaticon.com/) - Provides a library of free and premium icons. Most icons are free but require attributions and usually only offer PNGs. Premium is usually required for SVGs.
 - [Iconshock](https://www.iconshock.com/freeicons/) - Platform offering icons from various open-source collections, with 100k icons available for free download.
 - [3DIcons](https://3dicons.co/) - Collection of 3D icons available for free commercial and personal use under CC0 license.
 - [Fontello](https://fontello.com/) - Icon fonts generator for creating custom icon fonts.
