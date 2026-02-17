@@ -115,6 +115,7 @@ Each website is included only once. Some websites can fall into multiple categor
       - [Arxiv](#arxiv)
     - [Infographic](#infographic)
     - [Philosophy](#philosophy)
+    - [Critical Thinking / Thinking Tools](#Critical Thinking / Thinking Tools)
     - [Social Sciences](#social-sciences)
     - [History](#history)
     - [Geoscience](#geoscience)
