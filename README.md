@@ -1150,6 +1150,10 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Greg Egan's Official Website](https://www.gregegan.net/) - Information about the works, philosophy, and projects of science fiction author and computer programmer Greg Egan is presented.
 - [Ayn Rand Institute Courses](https://courses.aynrand.org/) - Educational platform offering free courses on Ayn Rand's philosophy, including Objectivism and its application to life and society.
 
+### Critical Thinking / Thinking Tools
+
+- [Kitted Thinking Tools](https://kitted.app/) - Provides a collection of free thinking tools in the form of cards that cover foundations (i.e., actions, insights, frames, and snares) and different subject configurations. Each card has additional examples and templates.
+
 ### Social Sciences
 
 - [Temple Manifold - All Projects](https://temple.manifoldapp.org/projects/all) - A collection of great resources on various social sciences.
