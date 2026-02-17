@@ -1481,6 +1481,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [CSS Solid](https://www.csssolid.com/) - CSS references, tutorials, and articles.
 - [CSS-Tricks](https://css-tricks.com/) - Web design community powered by Digital Ocean.
 - [CSS Box Shadow Code Snippet](https://onaircode.com/css-box-shadow-code-snippet/) - Code snippet for creating CSS box shadows.
+- [UI Verse](https://uiverse.io/) - A library of open source UI elements that can be copied as HTML/CSS, Tailwind, React, and Figma.
 
 #### JavaScript
 
