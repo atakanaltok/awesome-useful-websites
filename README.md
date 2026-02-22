@@ -866,6 +866,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [FontAwesome](https://fontawesome.com/) - Internet's icon library and toolkit, widely used by designers, developers, and content creators.
 - [Flat Icon](https://www.flaticon.com/) - Provides a library of free and premium icons. Most icons are free but require attributions and usually only offer PNGs. Premium is usually required for SVGs.
 - [Iconshock](https://www.iconshock.com/freeicons/) - Platform offering icons from various open-source collections, with 100k icons available for free download.
+- [Woopicx](https://woopicx.com) - Premium 3D icon library with 12,000+ icons across 80+ categories. AI chat editor lets you customize any icon — change colors, styles, backgrounds. Free tier available.
 - [3DIcons](https://3dicons.co/) - Collection of 3D icons available for free commercial and personal use under CC0 license.
 - [Fontello](https://fontello.com/) - Icon fonts generator for creating custom icon fonts.
 - [HealthIcons](https://healthicons.org/) - Free and open-source health icons for various use cases.
