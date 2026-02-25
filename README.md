@@ -214,6 +214,7 @@ Each website is included only once. Some websites can fall into multiple categor
 ## Tools
 
 - [5000Best Tools](https://5000best.com/tools/) - 5000 tools.
+- [99tools.net](https://99tools.net/) - A comprehensive collection of free online tools including Text, image, and developer utilities.
 - [10015.io](https://10015.io/) - Free all-in-one toolbox for various tasks.
 - [UnTools](https://untools.co/) - Collection of thinking tools and frameworks.
 - [TimeTravel Memento](https://timetravel.mementoweb.org/) - Find Mementos in Internet Archive, Archive-It, British Library, archive.today, GitHub, and more.
