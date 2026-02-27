@@ -659,6 +659,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [EquityZen](https://equityzen.com/) - Allows you to invest or sell shares in the secondary market with EquityZen funds.
 - [WTF Happened in 1971](https://wtfhappenedin1971.com/) - Website exploring and highlighting various economic, social, and financial events that occurred in the year 1971.
 - [Ergodicity Economics](https://ergodicityeconomics.com/) - Website providing insights into Ergodicity Economics and related concepts.
+- [KeepRule](https://keeprule.com/) - A decision-making platform curating 1,300+ investment principles from 26 legendary investors (Buffett, Munger, Graham, Dalio, etc.) with 95+ scenario-based walkthroughs for practicing rational decision-making.
 
 ## Business
 
