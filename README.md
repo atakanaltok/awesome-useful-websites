@@ -898,6 +898,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Skuawk](https://skuawk.com/) - Source of public domain photos for various creative projects.
 - [All-Free-Download](https://all-free-download.com/) - Platform offering graphics art available for free use in personal or commercial projects.
 - [Open Verse](https://openverse.org/) - A search tool to find openly licensed and public domain works across the internet.
+- [Shortodella](https://shortodella.com/) - Free AI-generated images and videos with a canvas editor and multiple creative collections.
 
 #### Wallpapers
 
