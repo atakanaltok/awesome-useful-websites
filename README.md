@@ -1555,6 +1555,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Loader.io](https://loader.io/) - Free load testing service to stress test web apps and APIs with thousands of concurrent connections.
 - [WebPageTest](https://www.webpagetest.org/) - Measure your site's carbon footprint and run No-Code Experiments to find ways to improve.
 - [Azure Speed Test](https://www.azurespeed.com/Azure/Latency) - Tools for testing the speed and latency of Azure services.
+- [PageGuard](https://pageguard.org) - Free website health scanner testing SEO, accessibility, performance, and best practices with AI-powered analysis.
 
 ## Software Engineering
 
