@@ -437,6 +437,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ### Time
 
+- [Time to Decimal](https://www.timetodecimalcalculator.com/) - Free time to decimal calculator
 - [Every Time Zone](https://everytimezone.com/) - Visual time zone comparison for different countries.
 - [Time and Date](https://www.timeanddate.com/) - Provides calendars, clocks, and various time-related information.
 - [Time.is](https://time.is/) - Displays exact, official atomic clock time for any time zone in 51 languages, covering more than 7 million locations.
