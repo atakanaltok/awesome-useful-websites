@@ -230,6 +230,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [WordToTime](https://wordtotime.org) — Convert word/character counts or full text into estimated speaking, reading or narration time. Supports multiple languages and in-browser privacy-friendly processing.
 - [VolumeShaderBM](https://volumeshaderbm.org) — Browser-based real-time GPU volume shader benchmark with WebGPU/WebGL performance comparison.
 - [Speaking Time Calculator](https://speakingtimecalculator.org) – A free online tool to estimate speaking or presentation time from text using adjustable speaking speed (WPM).
+- [BeginThings](https://beginthings.com) — 96+ free browser-based tools for developers and freelancers including JSON formatter, Base64 encoder/decoder, regex tester, image compressor, QR code generator, invoice builder, diff checker, and more. No account required.
 
 ### White Board
 
