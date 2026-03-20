@@ -1555,6 +1555,8 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Loader.io](https://loader.io/) - Free load testing service to stress test web apps and APIs with thousands of concurrent connections.
 - [WebPageTest](https://www.webpagetest.org/) - Measure your site's carbon footprint and run No-Code Experiments to find ways to improve.
 - [Azure Speed Test](https://www.azurespeed.com/Azure/Latency) - Tools for testing the speed and latency of Azure services.
+- [API Status Check](https://apistatuscheck.com/) - Real-time status dashboard for 160+ third-party APIs including AI platforms (OpenAI, Anthropic), cloud providers (AWS, Vercel), payments (Stripe), and developer tools (GitHub, Supabase).
+- [RatedWithAI](https://ratedwithai.com/) - Free AI-powered accessibility testing tool that scans websites against WCAG 2.2 standards and provides actionable fix recommendations.
 
 ## Software Engineering
 
