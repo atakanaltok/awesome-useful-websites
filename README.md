@@ -1652,6 +1652,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Oh Shit, Git!](https://ohshitgit.com/) - Resource providing solutions for common Git mistakes and how to recover from them.
 - [GitHub Trending Archive](https://github.motakasoft.com/trending/) - Archive of trending repositories on GitHub, allowing users to explore popular projects and programming trends over time.
 - [Map of GitHub](https://anvaka.github.io/map-of-github/) - Visual representation of the GitHub repository network.
+- [Related Repos](https://relatedrepos.com/) - Discover related open source projects. Find alternatives and other similar repositories. Updated daily.
 
 ### IDEs
 
