@@ -282,6 +282,9 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Tango](https://www.tango.us/) - Tool to create step-by-step documentation, how-to playbooks, and product guides with screenshots.
 - [BookmarkOS](https://bookmarkos.com/bookmark-manager-finder) - Allows you to filter through various bookmark managers.
 
+### Hardware Testing
+- [Mouse Polling Rate Test](https://mousepollingratetest.com/) - Browser-based tool to test mouse & keyboard polling rate, CPS, reaction time, double-click, and accuracy. No installation required.
+
 ### Comparison
 
 - [Social Media Messaging Apps Comparison](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/edit#gid=0) - Detailed comparison and analysis of social media messaging apps.
