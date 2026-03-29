@@ -2109,6 +2109,7 @@ Each website is included only once. Some websites can fall into multiple categor
   - Do not add a website if it is malicious, dangerous, illegal, etc. (you can check its security by running it through a program such as [VirusTotal](https://www.virustotal.com/gui/home)).
   - Do not add a website if it is merely for entertainment and not really useful for anything.
   - To avoiding duplications, seach whether the website is already included.
+  - If you are a spam/AI account, your pull request is going to be rejected.
   - Create a [pull request](https://github.com/atakanaltok/awesome-useful-websites/pulls).
 
 - If you are a site owner and believe that your site is not described accurately, please [rise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues).
