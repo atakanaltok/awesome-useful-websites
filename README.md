@@ -264,6 +264,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Text Faces](https://textfac.es/) - Write Unicode faces.
 - [Title Case](https://titlecase.com/) - Convert a text into all kinds of cases.
 - [Fancy Text Generator](https://lingojam.com/FancyTextGenerator) - Convert a text into all kinds of fonts.
+- [Letras diferentes](https://letrasdiferentes.my/) - Generate custom fonts for social media posts — Spanish/Portuguese focused.
 - [Calligraphr](https://www.calligraphr.com/en/) - Transform your handwriting or calligraphy into a font.
 - [Dongerlist](https://dongerlist.com/) (!) - Set of Unicode characters assembled to form a text emoticon.
 - [ASCII-art Tutorial](https://stonestoryrpg.com/ascii_tutorial.html) - Tutorial on ASCII art.
