@@ -1785,6 +1785,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Webhook.Site](https://webhook.site/) - Platform to inspect, test, and automate any incoming HTTP request or email.
 - [GoQR.Me](https://goqr.me/) - Generator for high-resolution QR codes suitable for print.
 - [Open Graph Generator](https://freecodetools.org/ogp/) - Tool for generating Open Graph images.
+- [PDF QR Code Generator](https://www.primenotepad.com/pdf-qr-code-generator) - Tool for generating QR codes for PDF files.
 
 #### URL Shortener
 
