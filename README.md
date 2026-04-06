@@ -1731,6 +1731,10 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Postale](https://postale.io/) ($) - Allows you to create domain email addresses effortlessly in minutes.
 - [Temporary Mail](https://tempmailto.online/) - Secure Temporary Mail Service for Privacy Protection
 
+#### Disposable Phone Numbers
+
+- [VerifySMS](https://verifysms.app/) ($) - Receive SMS verification codes on instant virtual numbers from 200+ countries without sharing your real phone number. iOS app and web, no KYC, pay-as-you-go from $0.10.
+
 
 ### Data Breach
 
