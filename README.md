@@ -708,6 +708,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Cool Startup Jobs](https://www.coolstartupjobs.com/) - Explore job opportunities in growing startups and give your stock options a chance.
 - [Anon Friendly](https://anonfriendly.com/) - Find jobs that respect your desire for anonymity.
 - [Prompt Engineering Jobs](https://prompt-engineering-jobs.com) - Explore engineering job opportunities with Prompt.
+- [AI Dev Jobs](https://aidevboard.com) - AI/ML-focused job board with 7,700+ positions from 440+ companies, including a free REST API and MCP server for AI-powered job search.
 - [KeyValues](https://www.keyvalues.com/) - Find engineering teams that align with your values.
 - [About.me](https://about.me/) - Platform for freelancers and entrepreneurs to grow their audience and attract clients.
 - [Rejected.us](https://rejected.us/) - Read and share stories of job rejections.
@@ -1753,6 +1754,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [XN--1-ZFA](https://xn--1-zfa.com/) - Advanced search for Google, DuckDuckGo, Twitter, YouTube, Reddit.
 - [Seekr](https://www.seekr.com/) - Search engine that utilizes AI to analyze and score the quality of content, starting with news articles.
 - [Million Short](https://millionshort.com/) - Discover content beyond the first million search results.
+- [Not Human Search](https://nothumansearch.ai) - Search engine for AI agent tools, indexing 1,750+ MCP servers and developer APIs with agentic compatibility scores.
 
 ### Internet
 
