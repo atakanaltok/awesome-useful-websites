@@ -260,6 +260,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ### Texts
 
+- [Bold Text Generator](https://99tools.net/bold-text-generator/) - Easily generate bold text.
 - [Word Counter](https://freecodetools.org/word-counter/) - Word counter.
 - [Text Faces](https://textfac.es/) - Write Unicode faces.
 - [Title Case](https://titlecase.com/) - Convert a text into all kinds of cases.
@@ -2109,13 +2110,13 @@ Each website is included only once. Some websites can fall into multiple categor
 - If you want to add a new category or website:
   - Do not add a website if it is malicious, dangerous, illegal, etc. (you can check its security by running it through a program such as [VirusTotal](https://www.virustotal.com/gui/home)).
   - Do not add a website if it is merely for entertainment and not really useful for anything.
-  - To avoiding duplications, seach whether the website is already included.
+  - To avoid duplication, search whether the website is already included.
   - If you are a spam/AI account, your pull request is going to be rejected.
   - Create a [pull request](https://github.com/atakanaltok/awesome-useful-websites/pulls).
 
-- If you are a site owner and believe that your site is not described accurately, please [rise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues).
+- If you are a site owner and believe that your site is not described accurately, please [raise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues).
 
-- If a website is down for some reason, it is generally kept in the list for archiving purposes, and also in case their maintainers might restore them. However, if the destination of a link has changed or a link is now broken, please [rise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues).
+- If a website is down for some reason, it is generally kept in the list for archiving purposes, and also in case their maintainers might restore them. However, if the destination of a link has changed or a link is now broken, please [raise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues).
 
 <br>
 
