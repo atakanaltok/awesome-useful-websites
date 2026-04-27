@@ -219,6 +219,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [TimeTravel Memento](https://timetravel.mementoweb.org/) - Find Mementos in Internet Archive, Archive-It, British Library, archive.today, GitHub, and more.
 - [discu.eu](https://discu.eu/) - Keep up with the topics you care about through weekly newsletter, social & bots, browser extensions, bookmarklet.
 - [PromoWizard](https://promowizard.softr.app/) - Get promo codes without consuming hours of content on YouTube.
+- [Eon Tools](https://eontools.com/) - Collection of 3000+ simple, fast, and free tools and calculators across 30+ categories for everyday tasks. Runs locally in your browser with no sign ups and no data uploads.
 - [Everybodywiki](https://en.everybodywiki.com/Everybodywiki:Welcome) - Rescues deleted articles and rejected drafts from Wikipedia in multiple languages and welcomes new articles.
 - [Lunar](https://lunar.fyi/) - Multi-featured app for controlling monitors.
 - [GetHuman](https://gethuman.com/) - Get a representative on the phone faster and receive better help from known companies.
