@@ -230,6 +230,8 @@ Each website is included only once. Some websites can fall into multiple categor
 - [WordToTime](https://wordtotime.org) — Convert word/character counts or full text into estimated speaking, reading or narration time. Supports multiple languages and in-browser privacy-friendly processing.
 - [VolumeShaderBM](https://volumeshaderbm.org) — Browser-based real-time GPU volume shader benchmark with WebGPU/WebGL performance comparison.
 - [Speaking Time Calculator](https://speakingtimecalculator.org) – A free online tool to estimate speaking or presentation time from text using adjustable speaking speed (WPM).
+- [Focus Game](https://focus-game.org) - A lightweight browser-based focus training game for improving concentration through short interactive sessions.
+- [Schulte Table](https://schulte-table.org) - A web-based Schulte table tool for training visual attention, peripheral vision, and speed reading.
 
 ### White Board
 
