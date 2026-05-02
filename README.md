@@ -331,6 +331,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [ByClickDownloader](https://www.byclickdownloader.com/) - Backup videos from various sites in HD, MP3, MP4, AVI, and other formats using their software.
 - [Reanimate](https://reanimate.github.io/) - Build declarative animations with SVG and Haskell.
 - [Photopea](https://photopea.com/) - Free online photo editor similar to Photoshop.
+- [remove image backgrounds online for free](https://free-background-remover.com) - AI background remover that runs entirely in the browser, no upload, no sign-up, no watermark.
 
 ### Data Entry
 
