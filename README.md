@@ -331,6 +331,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [ByClickDownloader](https://www.byclickdownloader.com/) - Backup videos from various sites in HD, MP3, MP4, AVI, and other formats using their software.
 - [Reanimate](https://reanimate.github.io/) - Build declarative animations with SVG and Haskell.
 - [Photopea](https://photopea.com/) - Free online photo editor similar to Photoshop.
+- [TinyTools Background Remover](https://tinytools-smoky.vercel.app/) - Free in-browser AI background remover that runs locally (no upload, no signup). Part of [TinyTools](https://tinytools-smoky.vercel.app/), an open-source collection of single-purpose web utilities.
 
 ### Data Entry
 
@@ -847,6 +848,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Color Hunt](https://colorhunt.co/) - Discover hand-picked color palettes.
 - [Coolors](https://coolors.co/) - Color scheme generator and palette creation tool, allowing users to explore, create, and share color combinations for design projects.
 - [Colors.lol](https://colors.lol/) - Website offering a simple interface for generating color palettes, with options for saving and exporting them for use in digital design.
+- [TinyTools Color Palette Generator](https://tinytools-smoky.vercel.app/) - Free browser-based color palette generator (no signup). Part of [TinyTools](https://tinytools-smoky.vercel.app/), a collection of free single-purpose web utilities.
 
 #### Fonts
 
