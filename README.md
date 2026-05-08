@@ -643,6 +643,10 @@ Each website is included only once. Some websites can fall into multiple categor
 
 - [Blobs](https://blobs.gg/) - Collection of over 4400 fun and playful custom emoji for Discord.
 
+### Instagram
+
+- [InstaPV](https://www.instapv.ai/) - Anonymous Instagram viewer for public stories, posts, reels, highlights and recent-followed timelines. No login, no password, no trace.
+
 ## Economy
 
 - [Investopedia](https://www.investopedia.com/) - A source of financial education, news, and research for investors.
