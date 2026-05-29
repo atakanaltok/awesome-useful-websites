@@ -277,6 +277,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [FontGenerator.design](https://fontgenerator.design/) - Unicode-based text generator for bold, fancy, and other font-like effects.
 - [GlitchText.cool](https://glitchtext.cool/)- Unicode glitch/Zalgo text generator with adjustable distortion.
 - [Share Text Online With Link](https://share-text.org/) - Share Text Online With Link and QR Code
+- [NotePad Link Online](https://share-text.org/) - Free Anonymous Online Notepad Share With Link And QR Code
 
 ### Automating browser
 
@@ -935,6 +936,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 - [Cambridge in Colour](https://www.cambridgeincolour.com/) - Learning community for photographers
 - [Exposure Guide](https://www.exposureguide.com/) - Photography Tips, Techniques, and Tutorials
+- [Free Online Photoshop](https://onlineps101.org/) - Try Photoshop Online Free and edit photos instantly in your browser. No download, no signup—professional photo editing tools, fast, easy, and 100% free.
 
 ### Art Communities
 
@@ -2112,6 +2114,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Track Awesome List](https://www.trackawesomelist.com/) - Track over 500 awesome list updates, and you can also subscribe to daily or weekly updates via RSS or News Letter.
 - [Internet Is Fun](https://projects.kwon.nyc/internet-is-fun/) - Collection of fun and interesting websites on the internet.
 - [Wiby](https://wiby.me/) - Search engine for the classic web, aiming to recreate the browsing experience of earlier days of the internet, particularly suitable for vintage computers.
+- [How Attractive am I](https://howattractiveami.app/) - Free Attractive Test Your photo online to get a beauty score. Wondering how pretty am I? Find out now with our advanced facial analysis tool.
 
 <br>
 
