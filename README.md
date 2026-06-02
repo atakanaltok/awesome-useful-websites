@@ -297,6 +297,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [This vs That](https://thisvsthat.io/) - Type in two things to compare them to each other.
 - [Secure Messaging Apps Comparison](https://www.securemessagingapps.com/) - A comparison platform for secure messaging apps.
 - [RTINGS](https://www.rtings.com/) - Provides in-depth reviews and comparisons of audio and visual equipment, including TVs, monitors, headphones, and soundbars, with detailed testing and ratings.
+- [PC Bottleneck Calculator](https://mypcbottleneck.com/) - Check CPU and GPU bottlenecks across 1080p, 1440p, and 4K, updated for the latest RTX 50-series and Ryzen 9000 hardware.
 
 ### File
 
