@@ -1700,6 +1700,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [OneTimeSecret](https://onetimesecret.com/) - Platform for sharing a password, secret message or private link securely with one-time links.
 - [MetaDefender](https://metadefender.opswat.com/) - Online tool for scanning and analyzing files for security threats, providing detailed reports on potential risks.
 - [FotoForensics](https://fotoforensics.com/) - Online tool for analyzing and verifying digital images, providing forensic tools to detect alterations and edits in photos.
+- - [Zero Note: Self-destruct messages](https://zeronote.app/) - A secure way to share temporary notes in encrypted form that self-destruct automatically after it is read by the recipient 👁️ ⏰ 🌎
 
 ### Cryptography
 
