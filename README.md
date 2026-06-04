@@ -823,6 +823,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [1,000 True Fans](https://kk.org/thetechnium/1000-true-fans/) - The concept of cultivating 1,000 true fans for sustainable creative success.
 - [Alias](https://alias.co/) - Stay up to date with the best of the bests.
 - [LittleSis](https://littlesis.org/) - Free database of who-knows-who at the heights of business and government.
+- - [Supasend](https://supasend.app/) - Connect your favorite notes, tasks, emails, and webhooks quickly and easily, capturing your information instantly.
 
 ### Design
 
