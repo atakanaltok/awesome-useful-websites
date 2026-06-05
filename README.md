@@ -1838,6 +1838,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [BitwiseCMD](https://bitwisecmd.com/) - Online bitwise operations and conversions.
 - [Commands.dev](https://www.commands.dev/?ref=producthunt) - Searchable, templated catalog of popular terminal commands curated from across the internet.
 - [SourceForge](https://sourceforge.net/) - Web-based service that allows you to compare, download and develop open source and business software.
+- [Offline Installer Setup](https://offlineinstallersetup.com/) - Curated directory of offline/standalone full installers for popular Windows, macOS and Linux software, listing official download links, versions and silent-install switches.
 
 ### Snippets
 
