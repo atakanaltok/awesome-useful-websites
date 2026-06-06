@@ -930,6 +930,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [ZoomQuilt](https://zoomquilt.org/) - Collaborative infinitely zooming painting.
 - [Invaluable](https://www.invaluable.com/) - The world's premier online auctions platform, featuring thousands of items added daily. Invaluable provides accessibility to discovering and acquiring exceptional art and objects anytime, anywhere.
 - [50 Watts](https://50watts.com/) - Archive of weird and wonderful visual ephemera from around the world
+- [Huebloom](https://huebloom.art/) - Free printable coloring pages for kids, classrooms, and screen-free art activities.
 
 ### Photography
 
