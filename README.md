@@ -304,6 +304,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Keybase](https://keybase.io/) - End-to-end encrypted secure messaging and file-sharing.
 - [MediaFire](https://www.mediafire.com/) - File storage and sharing platform (with subscription options).
 - [Zippyshare](https://www.zippyshare.com/) - File-sharing service with no sign-up required, no download limits, free, and unlimited disk space.
+- [Vaultool](https://vaultool.com/) - Free online developer toolbox with 30+ tools for image compression/conversion, PDF merge/split/compress, text processing, code formatting, JSON formatting, Base64 encoding, and more. No signup required, all processing happens in your browser.
 
 ### Visual
 
