@@ -232,6 +232,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Speaking Time Calculator](https://speakingtimecalculator.org) – A free online tool to estimate speaking or presentation time from text using adjustable speaking speed (WPM).
 - [Focus Game](https://focus-game.org) - A lightweight browser-based focus training game for improving concentration through short interactive sessions.
 - [Schulte Table](https://schulte-table.org) - A web-based Schulte table tool for training visual attention, peripheral vision, and speed reading.
+- [Xianyu Cover Copy Generator](https://ronnie2025.github.io/xianyu-cover-copy-generator/) - Free browser-side generator for marketplace listing cover copy, detail-image structure, imagegen prompts, and post-listing tracking fields.
 
 ### White Board
 
