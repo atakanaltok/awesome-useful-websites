@@ -492,6 +492,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 - [GoBento](https://www.gobento.com/) - Engagement platform focused on improving the health and well-being of at-risk members, particularly those experiencing food insecurity.
 - [MyFridgeFood](https://myfridgefood.com/) - Platform that allows users to check off ingredients they have to find recipes they can make with those ingredients.
+- [Drizzlelemons](https://www.drizzlelemons.com/) - Paste any recipe URL to get an ad-free version with just the ingredients and steps, plus serving scaling and unit conversion.
 - [Just the Recipe](https://www.justtherecipe.com/) - Platform that provides direct instructions from any recipe site without ads and pop-ups.
 - [Two Peas and Their Pod](https://www.twopeasandtheirpod.com/) - Recipe site offering a variety of recipes.
 - [HelloFresh](https://www.hellofresh.com/) - Meal kit delivery service where users can choose recipes, and HelloFresh delivers the ingredients straight to their door.
