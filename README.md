@@ -232,6 +232,8 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Speaking Time Calculator](https://speakingtimecalculator.org) – A free online tool to estimate speaking or presentation time from text using adjustable speaking speed (WPM).
 - [Focus Game](https://focus-game.org) - A lightweight browser-based focus training game for improving concentration through short interactive sessions.
 - [Schulte Table](https://schulte-table.org) - A web-based Schulte table tool for training visual attention, peripheral vision, and speed reading.
+- [Overtime Calculator](https://overtimecalculatorpro.org/) - Free online calculators for overtime pay, time and a half, double time, salary overtime, time cards, and work hours.
+- [YouTube Playlist Length Calculator](https://ytplaylistlengthpro.org/) - Free tool to calculate YouTube playlist duration, watch time, and adjusted playback time at different speeds.
 
 ### White Board
 
@@ -531,6 +533,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [ASMR Microphones](https://asmrmicrophones.com) - Reviews, comparisons, and expert opinions on various ASMR microphones are provided to help users select the most suitable equipment.
 - [Omnichord Online](https://www.omnichordonline.com) - It is an online simulator for the classic instrument **Omnichord OM-27**. You can play it anytime for free in your PC or mobile browser, enjoying its authentic sound and the joy of creation.
 - [Tonalux](https://tonalux.org/) - Browser-based audio production platform with spectrum analyzer, media converter, plugin comparer and curated plugin deals. No account required.
+- [Audio Compressor](https://audio-compressor.org/) - Free online audio compressor for reducing MP3, WAV, M4A, AAC, and OGG file size directly in the browser with no server upload.
 
 ### Find Music
 
