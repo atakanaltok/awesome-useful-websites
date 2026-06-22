@@ -311,6 +311,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Remove.bg](https://www.remove.bg/) - Remove image background automatically and for free.
 - [Foco Clipping](https://www.fococlipping.com/) - Remove image background.
 - [Designify](https://www.designify.com/) ($) - Create AI-powered designs by automatically removing backgrounds, enhancing colors, adjusting smart shadows, and more.
+- [igly.ai](https://igly.ai/) - AI image editor for background removal, inpainting, upscaling, and generative fill.
 - [PfpMaker](https://pfpmaker.com/) - Make profile pictures from any photo.
 - [JPEG-Optimizer](https://jpeg-optimizer.com/) - Free online tool for resizing and compressing digital photos and images.
 - [Extract.pics](https://extract.pics/) - Extract images from any public website using a virtual browser.
