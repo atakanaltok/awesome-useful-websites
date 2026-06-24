@@ -439,6 +439,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Random Street View](https://randomstreetview.com/) - Explore streets from around the world without leaving home.
 - [Virtual Vacation](https://virtualvacation.us/) - Take a virtual tour around the globe from the comfort of your home.
 - [MapCrunch](https://www.mapcrunch.com/) - Experience the world through Google Street View by teleporting to random locations.
+- [crzy.site](https://crzy.site) - A growing collection of absolutely pointless single-page websites. Each one dumber than the last.
 
 ### Time
 
