@@ -1347,6 +1347,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Cybergraph](https://cybergraph.dubberly.com/#) - Visual exploration of Cybernetics, offering interactive representations of networks.
 - [EveryCircuit](https://everycircuit.com/) - Electronic circuits simulated and visualized in real time with interactive component behavior.
 - [Falstad Circuit Simulator](https://www.falstad.com/circuit/) - Electronic circuits modeled and tested in-browser using animated schematic diagrams.
+- [Salitronic Gerber Analyzer](https://salitronic.com/gerber_analyzer) - Free in-browser viewer for PCB fabrication files (Gerber, ODB++, IPC-2581), with layer view, DRC, revision diff and pick-and-place. Runs locally in the browser, no install or sign-up.
 
 ## Computer Science
 
