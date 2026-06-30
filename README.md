@@ -686,6 +686,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [FIGR](https://www.figr.app/) - Google Docs + Calculator = Personal finances
 - [LiveFortunately](https://app.livefortunately.com/) - Plan for a better financial future. Create a complete financial plan to make the most of your money.
 - [KeeperTax](https://www.keepertax.com/ask-an-ai-accountant-2-0) - AI Accountant for getting help and calculating tax-related questions.
+- [Acalcia](https://acalcia.com) - Free no-signup suite of in-browser tax, fee, and pricing calculators for freelancers, online sellers, and creators.
 
 ### Patents
 
