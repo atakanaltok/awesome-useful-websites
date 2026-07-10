@@ -1303,6 +1303,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Floor Plan Lab](https://floorplanlab.com/) - Platform for creating and visualizing floorplans.
 - [Engineers Edge](https://www.engineersedge.com/) - Platform providing articles and resources on structural and mechanical engineering topics.
 - [3D House Planner](https://3dhouseplanner.com/) - Free 3D floor planner application on the web.
+- [Concrete Calculator Hub](https://concreteestimatorhub.com/) - Free concrete calculators for slabs, footings, columns, and bags with cost estimates.
 
 ### Mechanical Engineering
 
