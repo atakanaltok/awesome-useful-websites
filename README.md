@@ -329,6 +329,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Shottr](https://shottr.cc/) - Tiny and fast macOS screenshot tool with annotations, scrolling screenshots, and cloud upload capabilities.
 - [3D GIF Maker](https://www.3dgifmaker.com/) - Create 3D GIFs easily from your images.
 - [EZGIF](https://ezgif.com/) - Online GIF maker and image editor for creating and editing GIFs.
+- [What the GIF](https://whatthegif.com/) - Free video to GIF converter and editor that runs entirely in the browser, with trimming, captions, and clip stitching. No upload, no signup, no watermark.
 - [PimEyes](https://pimeyes.com/en) - Facial recognition search engine and reverse image search for finding images containing a specific person.
 - [Visual Illusions](https://sites.socsci.uci.edu/~ddhoff/illusions.html) - Collection of visual illusions and demonstrations.
 - [ByClickDownloader](https://www.byclickdownloader.com/) - Backup videos from various sites in HD, MP3, MP4, AVI, and other formats using their software.
