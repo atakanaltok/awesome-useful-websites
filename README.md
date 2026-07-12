@@ -759,6 +759,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [University of Nebraska Omaha - Job & Internship Resources](https://www.unomaha.edu/student-life/achievement/academic-and-career-development-center/career-development/jobs-and-internships/job-internship-resources.php) - Résumé and Cover Letter Resources provided by the Academic and Career Development Center at the University of Nebraska Omaha.
 - [VisualCV](https://www.visualcv.com/resume-samples/) - Collection of 500+ professional resume examples.
 - [SuperPortfolio](https://superportfolio.co/) - Online Portfolio Maker.
+- [Showcase](https://app.tryshowcase.ink/?utm_source=awesome_useful_websites&utm_medium=community_resource&utm_campaign=direct100_awesome_useful_websites_20260712) - Turns a resume into an editable, evidence-first portfolio; building, editing, and private preview are free, while live publishing requires Pro.
 - [Referd.ai](https://www.referd.ai/resume-scanner) - Free resume scanner.
 - [RxResu.me](https://rxresu.me/) - Free and open-source resume builder.
 - [GoodCV](https://www.goodcv.com/) - Create a professional Resume/CV in minutes without Photoshop or AI techniques.
