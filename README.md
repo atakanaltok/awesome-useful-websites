@@ -1608,6 +1608,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ##### Pokemon
 
+- [Nuzlocke Guide](https://nuzlockeguide.com/) - Rules, variant formats, team-building strategies, and encounter planning for Pokémon Nuzlocke challenges.
 - [Pokemon Database](https://pokemondb.net/) - A comprehensive Pokémon database with news and updates.
 - [Serebii](https://serebii.net/) - Offers various news, features, archives, and explanations about Pokémon.
 
