@@ -262,6 +262,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ### Texts
 
+- [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Turn XLSX, XLS, or CSV files into Markdown tables locally in the browser, without an account or server upload.
 - [Bold Text Generator](https://99tools.net/bold-text-generator/) - Easily generate bold text.
 - [Word Counter](https://freecodetools.org/word-counter/) - Word counter.
 - [Text Faces](https://textfac.es/) - Write Unicode faces.
