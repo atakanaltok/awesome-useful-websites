@@ -1449,6 +1449,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Chrome Extension Kit](https://chromeextensionkit.com/) ($) - Kit including 17 battle-tested starter templates for building Chrome Extensions, saving time on setup and focusing on shipping.
 - [Esoteric Codes](https://esoteric.codes/) - Platform exploring esoteric programming languages (esolangs), constraint-based coding, code art, code poetry, and more.
 - [FreeFormatter](https://freeformatter.com/) - Free online tools for developers, including formatters, validators, code minifiers, string escapers, encoders/decoders, message digesters, and more.
+- [Markstream Playground](https://markstream-vue.simonhe.me/) - Free, open-source playground for testing streaming Markdown in AI chat interfaces, with Mermaid, KaTeX, syntax highlighting, and safe HTML support.
 - [dbdesigner.net](https://www.dbdesigner.net/) - Online database schema design and modeling tool for free.
 - [Jvns blog](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/>) - A list of new(ish) command line tools
 - [VisBug](https://visbug.web.app/) - Open-source browser design tools for web development.
