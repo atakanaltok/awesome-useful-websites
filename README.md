@@ -1736,7 +1736,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [InboxKitten](https://inboxkitten.com/) - An open-source disposable email service.
 - [Guerrilla Mail](https://www.guerrillamail.com/inbox) - Allows you to compose emails and determine the domain, master passphrase, and password of your disposable email.
 - [EmailDrop](https://www.emaildrop.io/) - Enables you to create emails with custom or random domains in a highly minimalistic design.
-- [GetNada](https://getnada.com/) - Provides temporary email addresses.
+- [GetNada](https://getnada.com/) - Provides temporary email addresses.- [Temp Mail 24](https://temp-mail24.com/) - Free, receive-only temporary inbox for short-lived, non-sensitive use.
 - [GetNotify](https://www.getnotify.com/) - A free email tracking service that notifies you when the emails you send are read.
 - [MXToolbox](https://mxtoolbox.com/) - Offers free DNS and email tools in a single place for streamlined troubleshooting.
 - [Postale](https://postale.io/) ($) - Allows you to create domain email addresses effortlessly in minutes.
