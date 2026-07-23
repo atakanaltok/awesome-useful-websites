@@ -1610,6 +1610,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 - [Pokemon Database](https://pokemondb.net/) - A comprehensive Pokémon database with news and updates.
 - [Serebii](https://serebii.net/) - Offers various news, features, archives, and explanations about Pokémon.
+- [Monteams](https://monteams.com/) - Free browser-based Pokémon team builder for creating six-Pokémon teams, checking type coverage, and identifying repeated weaknesses across multiple generations.
 
 ##### Chess
 
@@ -1670,7 +1671,6 @@ Each website is included only once. Some websites can fall into multiple categor
 - [OneLang IDE](https://ide.onelang.io/) - Online tool for converting code from one programming language to another.
 - [Theia IDE](https://theia-ide.org/) - Flexible and extensible cloud and desktop IDE platform, enabling efficient development and delivery of IDEs and tools using modern web technologies.
 - [VSCode Themes](https://vscodethemes.com/) - A platform offering a wide variety of themes for Visual Studio Code, allowing users to personalize the look and feel of their coding environment with different color schemes and styles.
-- [Monteams](https://monteams.com/) - Free browser-based Pokémon team builder for creating six-Pokémon teams, checking type coverage, and identifying repeated weaknesses across multiple generations.
 
 ## Privacy
 
