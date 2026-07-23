@@ -1610,6 +1610,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 - [Pokemon Database](https://pokemondb.net/) - A comprehensive Pokémon database with news and updates.
 - [Serebii](https://serebii.net/) - Offers various news, features, archives, and explanations about Pokémon.
+- [Monteams](https://monteams.com/) - Free browser-based Pokémon team builder for creating six-Pokémon teams, checking type coverage, and identifying repeated weaknesses across multiple generations.
 
 ##### Chess
 
