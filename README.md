@@ -304,6 +304,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Keybase](https://keybase.io/) - End-to-end encrypted secure messaging and file-sharing.
 - [MediaFire](https://www.mediafire.com/) - File storage and sharing platform (with subscription options).
 - [Zippyshare](https://www.zippyshare.com/) - File-sharing service with no sign-up required, no download limits, free, and unlimited disk space.
+- [8ma Quick Transfer](https://t.8ma.co/en/) - Free browser-based large-file transfer with no installation or account, using links, QR codes, or transfer codes across computers and phones.
 
 ### Visual
 
