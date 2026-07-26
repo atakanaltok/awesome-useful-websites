@@ -232,6 +232,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Speaking Time Calculator](https://speakingtimecalculator.org) – A free online tool to estimate speaking or presentation time from text using adjustable speaking speed (WPM).
 - [Focus Game](https://focus-game.org) - A lightweight browser-based focus training game for improving concentration through short interactive sessions.
 - [Schulte Table](https://schulte-table.org) - A web-based Schulte table tool for training visual attention, peripheral vision, and speed reading.
+- [Online Tone Generator](https://online-tone-generator.com/) - Generate pure tones from 20Hz to 20kHz with four waveforms, sweep mode and WAV export. Free, no signup
 
 ### White Board
 
