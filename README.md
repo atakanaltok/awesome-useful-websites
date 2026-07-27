@@ -1177,6 +1177,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Nuclear Secrecy Blog](https://blog.nuclearsecrecy.com/) - Historical information about nuclear secrecy, providing insights into the development and implications of nuclear weapons.
 - [The Ascent of Humanity](https://ascentofhumanity.com/) - Explores the concept of the Age of Separation, the Age of Reunion, and the convergence of crises shaping the transition in human history.
 - [Today in Science History](https://todayinsci.com/) - Platform offering historical events of a given date.
+- [Nornlore](https://nornlore.apoorvdarshan.com/) - Turns any birthday into an interactive enchanted newspaper of notable people, historical events, music, and movies.
 - [Khipu Field Guide](https://khipufieldguide.com/guidebook/Introduction.html) - Guidebook providing information on khipus, the ancient Incan system of knotted strings for record-keeping.
 - [Hellenistic History](https://www.hellenistichistory.com/) - Resource for the study of Hellenistic history, covering the political, cultural, and social developments from Alexander the Great's era to the Roman Empire.
 - [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/) - Provides a vast collection of classical texts, images, and resources for the study of ancient Greek and Roman cultures.
