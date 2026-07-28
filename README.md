@@ -766,6 +766,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [WTF Should I Do With My Life](https://www.wtfshouldidowithmylife.com/) - A resource to explore and learn about different occupations.
 - [path-to-polymath.notion](https://path-to-polymathy.notion.site/path-to-polymathy/Path-To-Polymathy-d7586429b7ce4db1889fc539822b9670) - Arrangement of every discipline and field out there, and what specific topics make them up.
 - [80,000 Hours](https://80000hours.org/) - Conducts research into the world's biggest problems, big industry questions, job boards, and general career advice to make a big impact.
+- [ReplacedByAI](https://www.replacedbai.com/) - Free AI replacement risk score (0-100) for 1,016 occupations, combining O*NET task and skill data with Frey & Osborne automation probabilities, with a career-transition guide for every occupation.
 
 ## Startups
 
