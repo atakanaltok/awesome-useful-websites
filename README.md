@@ -370,6 +370,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Behind the Name](https://www.behindthename.com/) - Provides etymology and history of first names.
 - [Behind the Surname](https://surnames.behindthename.com/) - Offers etymology and history of surnames.
 - [Nameberry](https://nameberry.com/) - Platform for baby names by experts, including popular names, unique names, baby girl names, baby boy names, and gender-neutral names.
+- [NameBiscuit](https://namebiscuit.com/) - Dog and cat name rankings, trends, and generators built from real pet registration data rather than editorial guesses.
 - [Library of Juggling](https://libraryofjuggling.com/) - Online resource of list all of the popular (and perhaps not so popular) juggling tricks in one organized place.
 - [Toaster Central](https://toastercentral.com/) - Collection of working vintage toasters.
 - [All About Berlin](https://allaboutberlin.com/) - Platform offering guides and information for individuals planning to settle in Berlin. Includes details about obtaining visas, finding jobs, securing apartments, and more.
