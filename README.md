@@ -463,6 +463,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Earth Nullschool](https://earth.nullschool.net/) - Visualization of global weather conditions forecast by supercomputers, updated every three hours.
 - [OpenWeatherMap](https://openweathermap.org/) - Platform providing weather forecasts, newscasts, and historical weather data in a fast and elegant way.
 - [Radiosondy](https://radiosondy.info/) - Tracks meteorological radiosondes, providing a database of current and past radiosonde flights, including information such as launch site, type, last frame, course, speed, altitude, and frequency. (Note: A radiosonde is a battery-powered telemetry instrument usually carried into the atmosphere by a weather balloon.)
+- [WeatherChirp](https://weatherchirp.com/) - Long-term historical climate data for cities around the world, useful for climate/weather study and vacation planning.
 
 ## Health
 
