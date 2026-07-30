@@ -837,6 +837,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Polotno Studio](https://studio.polotno.com/) - Web application for creating graphical designs without sign-ups and ads, a free alternative to Canva.
 - [BitBof](https://bitbof.com/) - Free painting and sketching apps.
 - [Sumo](https://sumo.app/) - Drawing tool and image editor.
+- [Free Image Merger](https://freeimagemerger.com/) - Merge images side by side, stacked, in a grid, or on a freestyle canvas; runs fully in the browser with no upload or watermark.
 - [Random Design Stuff](https://randomdesignstuff.com/) - Browse handpicked websites for designers, both useful and unuseful.
 - [Discover NFT Club](https://www.discovernft.club/) - Discover the latest NFT projects.
 - [Haikei](https://app.haikei.app/) - Web-based design tool to generate unique SVG design assets for various purposes.
