@@ -701,6 +701,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Google Trends - Visualize](https://trends.google.com/trends/hottrends/visualize) - Visualize and explore the hottest trends on Google.
 - [Statista](https://www.statista.com/) - A platform for statistical data and visualizations, providing insights into various industries and topics.
 - [Google Books Ngram Viewer](https://books.google.com/ngrams) - Graphically visualize the occurrence of phrases in a corpus of books over selected years.
+- [Steamalytics](https://steamalytics.com/) - Live concurrent player counts for every game on Steam, ranked in real time with 24-hour and all-time peaks.
 
 ### Meetings
 
