@@ -1556,6 +1556,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Archive.md](https://archive.md/) - A time capsule for web pages.
 - [Hypothesis](https://web.hypothes.is/) - A conversation layer over the entire web, working everywhere without needing implementation by any underlying site (open community project).
 - [keyword trends ai](https://keywordtrendsai.com/) - AI analysis of popular search keywords.
+- [Klinky](https://klinky.io/) - A/B testing link shortener: split one link between two destinations and compare variants with real click data. Free tier available.
 
 #### Testing
 
