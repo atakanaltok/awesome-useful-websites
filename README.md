@@ -1776,6 +1776,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [IP Location](https://iplocation.io/) - Provides free location tracking of an entered IP address, including city, country, latitude, and longitude.
 - [Ifconfig.co](https://ifconfig.co/) - Helps you find your own IP address and provides information about it.
 - [IPinfo.io](https://ipinfo.io/) - Offers accurate IP address data for various use cases.
+- [Olivez IPv4 Subnet Calculator](https://olivez.in/tool/subnet-calculator) - Find the containing CIDR network, subnet and wildcard masks, broadcast address, usable range, address type, and binary network-host split from any IPv4 address.
 - [Visual Subnet Calculator](https://www.davidc.net/sites/default/subnets/subnets.html) - A visual subnet calculator to help with IP address and subnet calculations.
 - [Ping Test](https://www.meter.net/ping-test/) - Online tool to measure network latency by sending test packets (pings) to a specified server, providing insights into connection stability and speed.
 - [LibreSpeed](https://librespeed.org/) - Open-source internet speed test tool, offering accurate measurements of download, upload, and latency without requiring additional software installations.
