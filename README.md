@@ -1818,6 +1818,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Random Password Generator](https://random-password-gen.web.app/) - Generate random and secure passwords.
 - [How Secure Is My Password?](https://www.security.org/how-secure-is-my-password/) - Check the security strength of your password. Entries are secure and not stored or shared.
 - [Password Generator](https://freecodetools.org/password-generator/) - Generate secure passwords easily.
+- [Nutilz Password Generator](https://nutilz.com/password-generator) - Generate cryptographically strong, random passwords in the browser with custom length (8-64 chars) and character sets. 100% client-side, free, no signup.
 
 ## Softwares
 
