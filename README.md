@@ -1693,6 +1693,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Security.org](https://www.security.org/security-score/) - Learn about your security score.
 - [LibreProjects](https://libreprojects.net/#favs=wikipedia,joindiaspora-com,nextcloud,openstreetmap,jamendo,plos) - A list of 118 open-source hosted web services.
 - [Privnote](https://privnote.com/) - Send notes that will self-destruct after being read.
+- [elm.chat](https://elm.chat/) - Open-source, account-free disposable encrypted rooms with single-use invites and explicit destruction. Early-stage and not independently audited.
 - [Dangerzone](https://dangerzone.rocks/) - Platform for converting potentially unsafe PDFs, Office documents, or images into safe, viewable formats.
 - [ExifTool](https://exiftool.org/) - Software for reading, writing, and editing metadata in image, audio, and video files.
 - [HideMyWeb](https://hidemyweb.wordpress.com/) - Tool to hide, blur, and highlight content on web pages.
