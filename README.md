@@ -277,6 +277,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [FontGenerator.design](https://fontgenerator.design/) - Unicode-based text generator for bold, fancy, and other font-like effects.
 - [GlitchText.cool](https://glitchtext.cool/)- Unicode glitch/Zalgo text generator with adjustable distortion.
 - [Share Text Online With Link](https://share-text.org/) - Share Text Online With Link and QR Code
+- [CopyFont](https://copyfont.com) - Free Unicode text generator for TikTok, Instagram, Discord and more, with platform-specific guides, a username generator, and a character counter built in.
 
 ### Automating browser
 
