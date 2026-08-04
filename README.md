@@ -747,6 +747,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Europe Remotely](https://europeremotely.com/) - Job board for remote positions specifically in Europe.
 - [Virtual Vocations](https://virtualvocations.com/) - Job board for telecommute and remote positions.
 - [Benture.IO](https://benture.io) - Job board for remote opportunities in AI training roles.
+- [Jobs in JS](https://jobsinjs.com/remote-javascript-jobs/) - Job board for remote JavaScript roles.
 
 ### Freelancing
 
