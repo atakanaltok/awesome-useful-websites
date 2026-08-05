@@ -560,6 +560,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [MusicTheory.net](https://www.musictheory.net/)
 - [All About Music Theory](https://www.allaboutmusictheory.com/) - Piano keyboard, Music notation, Major scale
 - [Studio Guru - Note Frequency Chart](https://studioguru.co/producer-tools/note-frequency-chart/)
+- [GuitarArcanum](https://guitararcanum.ru/) - Interactive guitar reference for chord voicings, triads, seventh chords, scales, pentatonic patterns, arpeggios, and degree harmony
 
 #### Rhyme
 
