@@ -680,6 +680,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Respresso](https://respresso.io/) ($) - A tool to manage your app’s localization texts, images, colors, fonts, and more, delivering them automatically into your projects with a single click.
 - [Bonanza](https://www.bonanza.com/) - An online marketplace that empowers entrepreneurs to build a sustainable business based on repeat customers.
 - [Pipl](https://pipl.com/) - Identify, search, and verify employees using email addresses, social usernames, or phone numbers by searching through Pipl's global index of identity information, reducing customer friction, fighting fraud, and saving time on review and research.
+- [Project Cost Estimator](https://projectcostestimator.com/) - Free independent cost estimates for website and app projects, calibrated on 600+ project quotes and public rate benchmarks.
 
 ### Finance
 
