@@ -1300,6 +1300,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ### Civil Engineering
 
+- [Build Quantities](https://buildquantities.com/) - Free construction quantity calculators with metric and imperial inputs, transparent formulas, worked examples, sources, and practical limitations.
 - [Floor Plan Lab](https://floorplanlab.com/) - Platform for creating and visualizing floorplans.
 - [Engineers Edge](https://www.engineersedge.com/) - Platform providing articles and resources on structural and mechanical engineering topics.
 - [3D House Planner](https://3dhouseplanner.com/) - Free 3D floor planner application on the web.
