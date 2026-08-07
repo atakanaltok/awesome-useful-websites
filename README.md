@@ -423,6 +423,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Countries Been](https://www.countriesbeen.com/) - A mobile app to track and list the countries you have visited, offering various features.
 - [Couchsurfing](https://www.couchsurfing.com/) - Connect with a global community of people who share their homes and experiences for free.
 - [Puffin Maps](https://www.puffinmaps.com/) - An all-in-one trip planner with no ads, helping you organize your travel plans.
+- [MonkeyEatingMango](https://monkeyeatingmango.com/) - A free AI travel planner that turns 8 tap questions into a day-by-day itinerary with a food guide and daily budgets.
 - [AllTrails](https://www.alltrails.com/) - Explore a database of 300k trails with reviews and photos from outdoor enthusiasts.
 - [Wanderprep](https://www.wanderprep.com/) - Previously provided advice on gear, apps, and travel tips for smarter journeys.
 - [Looria](https://looria.com/) - A trusted platform to find honest product information.
