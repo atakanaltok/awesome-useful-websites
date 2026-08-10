@@ -769,6 +769,8 @@ Each website is included only once. Some websites can fall into multiple categor
 - [FlowCV](https://flowcv.com/) - AI-boosted resume builder, cover letter, job tracker, email signature, personal website.
 - [Signature Maker](https://signature-maker.net/) - Create handwritten digital signatures.
 
+- [Resume Roaster](https://resume.roastlabai.com) - AI resume analysis with ATS compatibility scoring and plain-language feedback on what is hurting your application.
+
 ### Careers
 
 - [Roadmap.sh](https://roadmap.sh/) - Provides roadmaps for various development areas.
