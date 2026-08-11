@@ -753,6 +753,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Remote Starter Kit](https://www.remotestarterkit.com/) - The ultimate list of tools and processes for remote teams.
 - [Fiverr](https://www.fiverr.com/) - Find the perfect freelance services for your business.
 - [Upwork](https://www.upwork.com/) - Hire freelancers and get freelancers jobs online.
+- [QuoteBoundary](https://quoteboundary.evanguy.chatgpt.site/?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome_useful_websites&utm_content=freelancing) - Browser-based toolkit for freelancers to define project scope, calculate quotes, and document change requests.
 
 ### Portfolio / CV / Resume
 
