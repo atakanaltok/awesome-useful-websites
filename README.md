@@ -2095,6 +2095,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [ASCII Tables](https://ascii-tables.com/) - Online resource providing an ASCII table, ALT codes, Z Score table, Greek Alphabet, T Distribution table, and a Binary Translator.
 - [ShortcutFoo](https://www.shortcutfoo.com/) - Platform for practicing keyboard shortcuts for free, supporting Mac, Windows, Linux, and offering cheat sheets for various applications, languages, and terminals.
 - [Microsoft Word Keyboard Shortcuts](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-word-95ef89dd-7142-4b50-afb2-f762f663ceb2) - Official Microsoft Office support page providing a comprehensive list of keyboard shortcuts for Microsoft Word.
+- [HKeys](https://hkeys.app/) - Keyboard shortcut reference organized per application and per platform, covering Windows, macOS, Linux, iOS, Android and the web, with printable cheat sheets and a built-in drill for practicing the shortcuts on any page.
 
 ## Other Websites of Websites
 
