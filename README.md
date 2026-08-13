@@ -233,6 +233,8 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Focus Game](https://focus-game.org) - A lightweight browser-based focus training game for improving concentration through short interactive sessions.
 - [Schulte Table](https://schulte-table.org) - A web-based Schulte table tool for training visual attention, peripheral vision, and speed reading.
 
+- [Nutilz](https://nutilz.com) - 23 free browser-based developer tools including regex tester, JSON formatter, unit converter, and calculators. No account or sign-up required.
+
 ### White Board
 
 - [TypeHere](https://typehere.co/) - Blank website where you can only type.
