@@ -1818,6 +1818,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Random Password Generator](https://random-password-gen.web.app/) - Generate random and secure passwords.
 - [How Secure Is My Password?](https://www.security.org/how-secure-is-my-password/) - Check the security strength of your password. Entries are secure and not stored or shared.
 - [Password Generator](https://freecodetools.org/password-generator/) - Generate secure passwords easily.
+- [Strong Password Generator](https://www.strong-password.com/) - Generate passwords, passphrases, PINs and Wi-Fi QR codes entirely in the browser; nothing is sent to a server.
 
 ## Softwares
 
