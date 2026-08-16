@@ -1469,6 +1469,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 - [Atlaq](https://atlaq.com/) - Domain name generator.
 - [ICANN Lookup](https://lookup.icann.org/en) - Registration data for domain names and Internet number resources accessed using WHOIS and RDAP protocols.
+- [Zero Dollar Domains](https://arynjennen1989-stack.github.io/) - Catalog of still-free domain and subdomain programs (eu.org, is-a.dev) plus a live RDAP check for unused cheap TLD names. Not an expired-.com dump.
 
 ### Front-end
 
