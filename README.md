@@ -470,7 +470,6 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Just a Minute](https://jinay.dev/just-a-minute/) - Test your chronoception (sense of passing time) in one minute.
 - [FutureMe](https://www.futureme.org/) - Platform to write a letter to your future self.
 - [Strobe.Cool](https://strobe.cool/) - Create visual stimuli using strobe effects.
-- [UnTools](https://untools.co/) - Collection of thinking tools and frameworks to assist in problem-solving, decision-making, and understanding systems.
 - [Puzzle Loop](https://www.puzzle-loop.com/) - Platform offering logic puzzles with simple rules and challenging solutions.
 - [What Should You Do with Your Life?](https://guzey.com/personal/what-should-you-do-with-your-life/) - Article providing directions and advice on life decisions.
 - [InnerBody](https://www.innerbody.com/) - Research for reviews and researches about health products, services, and more.
@@ -633,6 +632,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Twitter Card Generator](https://freecodetools.org/twitter-card-generator/) - Tool to generate Twitter cards, attaching rich content to Tweets for free.
 - [Rattibha](https://rattibha.com/) - Curates Twitter threads by categories and authors with time, language, and sorting options.
 - [Musk Messages](https://muskmessages.com/) - Platform compiling and categorizing direct messages from Elon Musk on Twitter, providing easy access to his thoughts and statements.
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ### Reddit
 
