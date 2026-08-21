@@ -232,6 +232,11 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Speaking Time Calculator](https://speakingtimecalculator.org) – A free online tool to estimate speaking or presentation time from text using adjustable speaking speed (WPM).
 - [Focus Game](https://focus-game.org) - A lightweight browser-based focus training game for improving concentration through short interactive sessions.
 - [Schulte Table](https://schulte-table.org) - A web-based Schulte table tool for training visual attention, peripheral vision, and speed reading.
+- [Codex Theme Builder](https://codextheme.tools) - Free browser theme builder for OpenAI Codex with live preview and CSS token export.
+- [WattsCalc](https://wattscalc.com) - Free wattage and electricity cost calculator for appliances and devices.
+- [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) - Free embroidery job pricing from stitches, fabric, and labor.
+- [Image to Crochet Pattern](https://imagetocrochetpattern.com) - Free tool that converts images into crochet patterns.
+- [SkyCOTL Tools](https://skycotl.tools) - Free guides and calculators for Sky: Children of the Light.
 
 ### White Board
 
@@ -358,6 +363,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [BookCrossing](https://bookcrossing.com/) - Release your books "into the wild" for strangers to find or perform a "controlled release" to another BookCrossing member, and track their journey via journal entries from around the world.
 - [Dimensions](https://www.dimensions.com/) - Platform offering visual reference designs for dimensions and measurements across various categories.
 - [Repair Clinic](https://www.repairclinic.com/) - Longest-running source for genuine appliance, HVAC, and outdoor power equipment parts in North America, offering expert advice, how-to resources, and support for DIY repairs. Trusted by professionals and homeowners, the site provides high-quality OEM parts and guidance to help users successfully complete their repairs.
+- [Pressure Washer Fix](https://pressurewasherfix.com) - Free troubleshooting guides for common pressure washer problems.
 
 ## Culture
 
@@ -504,6 +510,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Xerces Society](https://xerces.org) - Guidance on the conservation of pollinators and invertebrates, including habitat restoration and sustainable practices, is available.
 - [Beyond Pesticides](https://beyondpesticides.org) - Resources on organic and sustainable practices for reducing pesticide use and protecting public health and the environment are provided.
 - [National Pesticide Information Center](https://npic.orst.edu) - Science-based information on pesticide use, safety guidelines, and factsheets for consumers and health professionals is offered.
+- [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) - Free calculator for lawn mowing cost estimates by area, rate, and extras.
 
 ## Music / Audio
 
