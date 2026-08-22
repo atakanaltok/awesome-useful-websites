@@ -277,6 +277,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [FontGenerator.design](https://fontgenerator.design/) - Unicode-based text generator for bold, fancy, and other font-like effects.
 - [GlitchText.cool](https://glitchtext.cool/)- Unicode glitch/Zalgo text generator with adjustable distortion.
 - [Share Text Online With Link](https://share-text.org/) - Share Text Online With Link and QR Code
+- [Need Go Home](https://needgohome.netlify.app/) - Generates short, professional messages for telling your manager you need to leave work early (doctor appointment, sick child, family emergency, etc.), in multiple languages, no signup.
 
 ### Automating browser
 
