@@ -358,6 +358,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [BookCrossing](https://bookcrossing.com/) - Release your books "into the wild" for strangers to find or perform a "controlled release" to another BookCrossing member, and track their journey via journal entries from around the world.
 - [Dimensions](https://www.dimensions.com/) - Platform offering visual reference designs for dimensions and measurements across various categories.
 - [Repair Clinic](https://www.repairclinic.com/) - Longest-running source for genuine appliance, HVAC, and outdoor power equipment parts in North America, offering expert advice, how-to resources, and support for DIY repairs. Trusted by professionals and homeowners, the site provides high-quality OEM parts and guidance to help users successfully complete their repairs.
+- [WorkroomCalc](https://workroomcalc.co.uk/) - Free in-browser Roman blind calculator for finished size, fabric and lining cuts, rods, rings, and cord. No signup.
 
 ## Culture
 
