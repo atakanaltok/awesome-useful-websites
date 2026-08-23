@@ -1547,6 +1547,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [LocaBrowser](https://www.locabrowser.com/) - Test how your website looks from different countries in real time.
 - [StatusVista](https://statusvista.com/) - An all-in-one status page for the systems your product depends on.
 - [BuiltWith](https://builtwith.com/) - Discover what technologies websites are built with, using a database of 59,905+ web technologies and over 673 million websites.
+- [StackScan](https://www.stackscan.com/) - Search sites by technology, keyword, or the files and assets they serve, with country and industry breakdowns.
 - [CamelCamelCamel](https://camelcamelcamel.com/) - Free Amazon price tracker that monitors millions of products and alerts you when prices drop.
 - [CloudPing](https://cloudping.bastionhost.org/en/) - Perform an HTTP ping to measure network latency from your browser to various cloud data centers around the world.
 - [DownForEveryoneOrJustMe](https://downforeveryoneorjustme.com/) - Check if a website is down.
