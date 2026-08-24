@@ -1,0 +1,1 @@
+Temporary trigger for one-shot canonical URL update.
