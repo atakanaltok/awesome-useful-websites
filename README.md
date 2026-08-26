@@ -1876,6 +1876,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [CodePad](https://codepad.org/) - Online compiler/interpreter and collaboration tool, allowing users to run and share code snippets with a short URL.
 - [JSON Formatter](https://jsonformatter.org/json-parser) - Online JSON parser and formatter.
 - [SQL Formatter](https://formatjsononline.com/sql-formatter) - Free Online SQL Formatter & Beautifier.
+- [JSONL Linter](https://jsoning.com/jsonllint/) - Online JSONL linter.
 
 ### Testing
 
