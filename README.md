@@ -682,7 +682,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Pipl](https://pipl.com/) - Identify, search, and verify employees using email addresses, social usernames, or phone numbers by searching through Pipl's global index of identity information, reducing customer friction, fighting fraud, and saving time on review and research.
 
 ### Finance
-
+- [ESOP Value Clarity](https://esop-value-clarity.vercel.app/) - Employee-focused ESOP analysis for Indian startup employees, covering vesting, dilution, exercise cost, estimated tax impact, and potential outcomes across different exit valuations.
 - [FIGR](https://www.figr.app/) - Google Docs + Calculator = Personal finances
 - [LiveFortunately](https://app.livefortunately.com/) - Plan for a better financial future. Create a complete financial plan to make the most of your money.
 - [KeeperTax](https://www.keepertax.com/ask-an-ai-accountant-2-0) - AI Accountant for getting help and calculating tax-related questions.
