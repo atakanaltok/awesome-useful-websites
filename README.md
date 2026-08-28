@@ -232,6 +232,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Speaking Time Calculator](https://speakingtimecalculator.org) – A free online tool to estimate speaking or presentation time from text using adjustable speaking speed (WPM).
 - [Focus Game](https://focus-game.org) - A lightweight browser-based focus training game for improving concentration through short interactive sessions.
 - [Schulte Table](https://schulte-table.org) - A web-based Schulte table tool for training visual attention, peripheral vision, and speed reading.
+- [BulkPicTools](https://bulkpictools.com) - Bulk image tools with tool chaining — compress, convert, crop locally.
 
 ### White Board
 
@@ -1876,6 +1877,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [CodePad](https://codepad.org/) - Online compiler/interpreter and collaboration tool, allowing users to run and share code snippets with a short URL.
 - [JSON Formatter](https://jsonformatter.org/json-parser) - Online JSON parser and formatter.
 - [SQL Formatter](https://formatjsononline.com/sql-formatter) - Free Online SQL Formatter & Beautifier.
+- [JSONToolBox](https://jsontoolbox.cc) - Free, privacy-first JSON tools (format, validate, minify, compare, convert) that run entirely in your browser.
 
 ### Testing
 
