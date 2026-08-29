@@ -1508,6 +1508,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [JS Bin](https://jsbin.com/) - Open-source collaborative web development debugging tool.
 - [JavaScript Event Keycode Info](https://www.toptal.com/developers/keycode) - Information about JavaScript event keycodes.
 - [jsDelivr](https://www.jsdelivr.com/) - Free CDN for open source. Fast, reliable, and automated.
+- [100 Days of JavaScript](https://github.com/AsmrProg-YT/100-days-of-javascript) - A collection of 80+ simple projects you can build using JavaScript (with their source code).
 
 ### Back-End
 
