@@ -760,6 +760,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [VisualCV](https://www.visualcv.com/resume-samples/) - Collection of 500+ professional resume examples.
 - [SuperPortfolio](https://superportfolio.co/) - Online Portfolio Maker.
 - [Referd.ai](https://www.referd.ai/resume-scanner) - Free resume scanner.
+- [ResumeAI](https://withresumeai.com/) - Free ATS checker + AI resume builder; live candidate leaderboard (paid placement/visibility, not pay-for-score).
 - [RxResu.me](https://rxresu.me/) - Free and open-source resume builder.
 - [GoodCV](https://www.goodcv.com/) - Create a professional Resume/CV in minutes without Photoshop or AI techniques.
 - [JSON Resume](https://jsonresume.io/) - Upload your JSON resume according to the spec and have it rendered beautifully.
