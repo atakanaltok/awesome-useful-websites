@@ -1130,6 +1130,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Wikipedia Landscape - Leland McInnes](https://lmcinnes.github.io/datamapplot_examples/wikipedia/) - Visualization showcasing the landscape of Wikipedia.
 - [AAA Gas Prices](https://gasprices.aaa.com/) - Average fuel prices updated daily from up to 120,000 U.S. stations, compiled by OPIS and WEX.
 - [ASCE Hazard Tool](https://ascehazardtool.org/) - Design parameters for structures retrieved based on ASCE standards, including seismic, wind, and flood data.
+- [Calisthenicslivemap](https://calisthenicslivemap.com/) - Interactive world map of free outdoor calisthenics and street workout spots, with the equipment listed per location.
 
 #### Arxiv
 
