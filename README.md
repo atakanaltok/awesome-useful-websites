@@ -674,6 +674,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Gumroad](https://gumroad.com/) - E-commerce platform for creators to sell digital products directly to customers.
 - [Humble Bundle](https://www.humblebundle.com/) - Platform selling games, ebooks, software, and digital content with a mission to support charity while providing great content at affordable prices.
 - [Google Takeout](https://takeout.google.com/) - Export a copy of all your Google data.
+- [CardDeals](https://carddeals.co/) - A gift card comparison platform and browser extension that automatically detects verified discount gift cards at checkout to save 5% to 15% across 1,000+ stores.
 - [Honey](https://www.joinhoney.com/) - A browser extension that automatically searches for coupons on over 30,000 sites globally.
 - [BotHelp](https://bothelp.io/widget) - Provides a free chat button widget for websites.
 - [CertificateClaim](https://www.certificateclaim.com/) - A digital service for creating and sending various types of certificates.
