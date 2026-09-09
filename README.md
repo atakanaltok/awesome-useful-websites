@@ -2151,3 +2151,5 @@ This work is licensed under a [Creative Commons Attribution 4.0 International](h
 **How to credit:**
 
 - You must add a link to this [GitHub main page](https://github.com/atakanaltok/awesome-useful-websites) in a relevant section visible to the user.
+
+- [Dash Calculator](https://dashcalculator.com) - Free online calculators for finance, health, math, and everyday decisions.
