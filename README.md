@@ -282,6 +282,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 - [Automa](https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca?ref=producthunt) - Chrome extension for automating your browser.
 - [Browse.AI](https://www.browse.ai/) - Platform to extract, set up clicks, and monitor data from any website.
+- [ScrapeWise](https://scrapewise.ai/) - Web scraping and competitor price monitoring platform for e-commerce and retail.
 - [Tango](https://www.tango.us/) - Tool to create step-by-step documentation, how-to playbooks, and product guides with screenshots.
 - [BookmarkOS](https://bookmarkos.com/bookmark-manager-finder) - Allows you to filter through various bookmark managers.
 
