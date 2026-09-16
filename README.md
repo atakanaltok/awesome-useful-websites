@@ -1605,6 +1605,7 @@ Each website is included only once. Some websites can fall into multiple categor
 #### Games
 
 - [Bento Blocks Game](https://www.bentoblocksgame.com/) - Arrange ingredients in the bento box
+- [PlayCompat](https://playcompat.com/) - Crossplay and multiplayer compatibility decision engine and database for multi-platform co-op games across PC, PlayStation, Xbox, and Nintendo Switch.
 
 ##### Pokemon
 
