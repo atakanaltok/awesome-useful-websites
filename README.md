@@ -232,6 +232,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Speaking Time Calculator](https://speakingtimecalculator.org) – A free online tool to estimate speaking or presentation time from text using adjustable speaking speed (WPM).
 - [Focus Game](https://focus-game.org) - A lightweight browser-based focus training game for improving concentration through short interactive sessions.
 - [Schulte Table](https://schulte-table.org) - A web-based Schulte table tool for training visual attention, peripheral vision, and speed reading.
+- [Life Admin Pilot](https://lifeadminpilot.com/) - Eight free browser tools for everyday paperwork, covering bills, moving costs, insurance claims, pay, care and daycare fees in the US and Germany. No accounts and no uploads.
 
 ### White Board
 
