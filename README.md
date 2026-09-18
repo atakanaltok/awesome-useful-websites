@@ -843,6 +843,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Spline](https://spline.design/) - Create 3D scenes, edit materials, and model 3D objects, giving control over the outcome of design work.
 - [Visiwig](https://www.visiwig.com/) - Create graphics just by clicking and pasting.
 - [FreeType](https://freetype.org/) - Software library written in C for rendering fonts, capable of producing high-quality output of most vector and bitmap font formats, designed to be small, efficient, highly customizable, and portable.
+- [Guess the Font](https://thestupidweb.com/guess-the-font/) - Daily game that asks you to identify a typeface, backed by a reference page listing all 180 open-licensed fonts in its deck with their designers.
 
 #### Colors
 
