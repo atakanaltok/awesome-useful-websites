@@ -579,6 +579,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 - [Kanopy](https://www.kanopy.com/en/) (@) - Streaming platform offering thousands of films for free with library or university support.
 - [Movie Map](https://www.movie-map.com/) - Find similar movies based on your preferences.
+- [TikFlick](https://tikflick.io/) - Anonymous group movie picker: set hard constraints and a stated consensus rule, invite by short code, vote privately, and leave with one confirmed title (no signup).
 - [Reddit Movie Suggestions](https://www.reddit.com/r/MovieSuggestions/wiki/faq) - List of movie suggestions from various genres.
 - [A Good Movie to Watch](https://agoodmovietowatch.com/) - Handpicked, highly-rated movies and TV shows.
 - [Tubi TV](https://tubitv.com/home) - Free streaming service offering a wide range of movies and TV shows.
