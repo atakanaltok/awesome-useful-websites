@@ -1300,6 +1300,8 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ### Civil Engineering
 
+- [ComplyOnSite](https://complyonsite.com/) - Construction health, safety and environmental compliance software for UK contractors.
+
 - [Floor Plan Lab](https://floorplanlab.com/) - Platform for creating and visualizing floorplans.
 - [Engineers Edge](https://www.engineersedge.com/) - Platform providing articles and resources on structural and mechanical engineering topics.
 - [3D House Planner](https://3dhouseplanner.com/) - Free 3D floor planner application on the web.
