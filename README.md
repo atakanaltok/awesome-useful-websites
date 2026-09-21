@@ -919,6 +919,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [WallpaperFlare](https://www.wallpaperflare.com/search?wallpaper=vertical) - Website offering high-resolution vertical wallpapers.
 - [Positron Dream](https://www.positrondream.com/wallpapers-all) - Collection of abstract wallpapers available for download.
 - [KPopDemonHuntersWallpaper](https://kpopdemonhunterswallpaper.com/) - KPop Demon Hunters Wallpaper - Free HD Wallpapers Download.
+- [Overlook](https://overlook.gallery/) - Free AI-generated wallpapers for desktop (4K/5K), tablet and phone, in themed series.
 
 ## Art
 
