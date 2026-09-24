@@ -292,6 +292,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [TechSpecs Compare Phones](https://techspecs.io/vs/) - Compare specifications of phones.
 - [TechSpecs](https://techspecs.io/) - Search engine for consumer electronics products.
 - [Kimovil](https://www.kimovil.com/en/) - Compare specifications and prices of smartphones and tablets.
+- [InnoReviews](https://innoreviews.com/) - Compare specs and benchmarks of phones, chipsets, CPUs, GPUs and laptops, with a documented scoring methodology.
 - [DiffChecker](https://www.diffchecker.com/) - Compare text, image, PDF, and more to find differences between files.
 - [CodingFont](https://www.codingfont.com/) - Gamified experience to compare and find coding fonts.
 - [This vs That](https://thisvsthat.io/) - Type in two things to compare them to each other.
