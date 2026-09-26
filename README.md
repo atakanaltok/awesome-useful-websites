@@ -1464,6 +1464,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Addy's Toolkit](https://toolkit.addy.codes/) - Collection of 806 hand-picked tools & resources for web designers & developers.
 - [BrowserBench - Speedometer 3.0](https://www.browserbench.org/Speedometer3.0/) - A benchmark tool to measure the performance of web browsers, specifically testing responsiveness and the speed of modern web applications.
 - [UserAgents.me](https://www.useragents.me/) - Provides self-updating list of the latest and most common useragents seen on the web across all device types, operating systems, and browsers. Data is always fresh, updating weekly. This user agent list is perfect for web scrapers looking to blend in, developers, website administrators, and researchers. The most common useragents list is compiled from the user logs data of a number of popular sites across niches and geography, cleansed (bots removed), and enriched with information about the device and browser.
+- [Dev Tools](https://tools.bubble.ro/) - Collection of 600+ free developer tools (JSON, Base64, regex, JWT, cron, subnet, PDF, image and more), most of which run entirely in the browser with no sign-up.
 
 ### Domain Names
 
