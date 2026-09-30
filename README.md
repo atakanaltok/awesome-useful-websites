@@ -433,6 +433,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Welcome to My Garden](https://welcometomygarden.org/) - A non-profit network offering free camping spots in private gardens for slow travelers.
 - [Warmshowers](https://www.warmshowers.org/) - A community of bicycle tourists and hosts supporting them during their journeys.
 - [Slowby](https://www.slowby.travel/) - A platform offering highly-curated slow travel trips for a unique travel experience.
+- [The Field Atlas](https://usnature.vercel.app/) - Free illustrated atlas of 421 American wild places, with photos, field notes, terrain and state browsing, and a browser-stored stamp passport.
 
 ### Globetrotting
 
