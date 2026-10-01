@@ -607,6 +607,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 - [Radio Garden](https://radio.garden/) - Explore live radio stations represented as green dots on a Google Earth map, allowing you to listen to any of them with just one click.
 - [Radiooooo](https://radiooooo.com/) - "The Musical Time Machine," where you can explore music from different times and places.
+- [Air Drift](https://airdrift.stream/) - Free live radio from around 59,000 stations worldwide, browsable by country, genre or name, with a button that drops you on a random station. No account needed.
 - [Lightyear.fm](https://www.lightyear.fm/) - A representation of how far radio broadcasts have traveled from Earth at the speed of light.
 - [TasteDive](https://tastedive.com/) - Platform to discover music, books, movies, and more based on your preferences.
 - [PIDGI Wiki](https://www.pidgi.net/wiki/Main_Page) - Community-driven video game media database, including artwork, promotional materials, logos, and more.
