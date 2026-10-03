@@ -379,6 +379,7 @@ Each website is included only once. Some websites can fall into multiple categor
 ## Language
 
 - [YouGlish](https://youglish.com/) - Use YouTube to improve your English pronunciation.
+- [WinkLingo](https://winklingo.com/en) - Learn real English from movie clips (freemium).
 - [Voscreen](https://www.voscreen.com/) - Platform providing video snippets of English sentences; test your understanding by choosing paraphrased sentences.
 - [News in Levels](https://www.newsinlevels.com/) - World news tailored for students of English.
 - [Pink Trombone](https://dood.al/pinktrombone/) - Interactive simulation of the human mouth and its sounds using an animated voicebox.
