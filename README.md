@@ -336,6 +336,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Photopea](https://photopea.com/) - Free online photo editor similar to Photoshop.
 - [Remove image backgrounds online for free](https://free-background-remover.com) - AI background remover that runs entirely in the browser, no upload, no sign-up, no watermark.
 - [Remove Audio (free tool)](https://remove-audio.com) - Strip the audio track from any video right in your browser. Runs locally with FFmpeg.wasm, no uploads, no signup, no watermark.
+- [Image to Layer](https://image2layers.org/) - Split a flat JPG, PNG or WebP into editable transparent layers with the hidden background filled in, and download a layered PSD. Converting an image to a single-layer PSD is free and runs in the browser.
 
 ### Data Entry
 
