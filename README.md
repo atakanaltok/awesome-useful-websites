@@ -1638,6 +1638,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Linux Journey](https://linuxjourney.com/) - An educational website offering free, interactive lessons on Linux, covering everything from basic commands to advanced system administration.
 - [ExplainShell](https://explainshell.com/) - A tool for explaining Linux shell commands, providing detailed breakdowns of command syntax and function.
 - [LibreHunt](https://librehunt.org/) - Aid you on your Linux Distro (and potentially, Libre) hunt. Answer easy questions to get recommendations on which Linux distribution that meets your needs based on those responses.
+- [WebTerm Learn](https://learn.webterm.app/en/courses) - Free courses on Linux, Git, Vim and tmux, with hands-on exercises in a simulated terminal in the browser.
 
 ### Vim
 
