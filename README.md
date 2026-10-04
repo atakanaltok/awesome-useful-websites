@@ -955,6 +955,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Wikiwand - Wikipedia Modern](https://chrome.google.com/webstore/detail/wikiwand-wikipedia-modern/emffkefkbkpkgpdeeooapgaicgmcbolj) - Chrome extension optimizing Wikipedia's content for an improved reading experience.
 - [List of Academic Databases and Search Engines](https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines) - Wikipedia page listing academic databases and search engines.
 - [Scribbr APA Citation Generator](https://www.scribbr.com/citation/generator/apa/) - Platform providing accurate APA citations, verified by experts and trusted by millions.
+- [CiteMe](https://citeme.app) - Free citation generator with a reference checker that flags fabricated or hallucinated references; formats 60 styles (APA, MLA, Chicago, ABNT) in 5 languages, no sign-up.
 - [Bridges: About Institutions, Histories, and Artifacts](https://temple.manifoldapp.org/projects/bridges) - Resource about institutions, histories, and artifacts of United States college and university life.
 - [Tropy](https://tropy.org/) - Platform to organize research by turning photos into items.
 - [Linda Hall Library Catalog](https://catalog.lindahall.org/discovery/search?vid=01LINDAHALL_INST:LHL) - Catalog of the Linda Hall Library that allows you to search for books, journals, conference proceedings, technical reports and standards, and other materials, focusing on science, engineering, and technology.
