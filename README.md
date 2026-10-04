@@ -218,7 +218,8 @@ Each website is included only once. Some websites can fall into multiple categor
 - [UnTools](https://untools.co/) - Collection of thinking tools and frameworks.
 - [TimeTravel Memento](https://timetravel.mementoweb.org/) - Find Mementos in Internet Archive, Archive-It, British Library, archive.today, GitHub, and more.
 - [discu.eu](https://discu.eu/) - Keep up with the topics you care about through weekly newsletter, social & bots, browser extensions, bookmarklet.
-- [PromoWizard](https://promowizard.softr.app/) - Get promo codes without consuming hours of content on YouTube.
+- [PromoWizard](https://promowizard.softr.app/) - Get promo codes without consuming hours of content on YouTube.  — 
+ on YouTube.
 - [Everybodywiki](https://en.everybodywiki.com/Everybodywiki:Welcome) - Rescues deleted articles and rejected drafts from Wikipedia in multiple languages and welcomes new articles.
 - [Lunar](https://lunar.fyi/) - Multi-featured app for controlling monitors.
 - [GetHuman](https://gethuman.com/) - Get a representative on the phone faster and receive better help from known companies.
@@ -232,7 +233,9 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Speaking Time Calculator](https://speakingtimecalculator.org) – A free online tool to estimate speaking or presentation time from text using adjustable speaking speed (WPM).
 - [Focus Game](https://focus-game.org) - A lightweight browser-based focus training game for improving concentration through short interactive sessions.
 - [Schulte Table](https://schulte-table.org) - A web-based Schulte table tool for training visual attention, peripheral vision, and speed reading.
+- 
 
+- [ToolVerse US](https://toolverseus.com) — 1000+ free online tools: text, PDF, image, code, calculators and more. No sign-up, no watermarks.
 ### White Board
 
 - [TypeHere](https://typehere.co/) - Blank website where you can only type.
