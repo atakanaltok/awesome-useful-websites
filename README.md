@@ -797,6 +797,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Old Computers Museum](https://oldcomputers.net/) - Explore a museum of old and vintage computers with 150 exhibits.
 - [Startups List](https://www.startups-list.com/) - Collections of the best startups in different places.
 - [Pessimists Archive](https://pessimistsarchive.org/) - Project that jogs our collective memories about the hysteria, technophobia and moral panic that often greets new technologies, ideas and trends.
+- [AngelBacked](https://www.angelbacked.co/) - Browse 58,000+ angel investors and VC firms by industry, stage and city, plus 1,500+ free startup pitch deck examples.
 
 ### Failures
 
