@@ -981,6 +981,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [eMathHelp Linear Algebra Calculator](https://www.emathhelp.net/en/calculators/linear-algebra/) - Online calculator for linear algebra calculations.
 - [Online Math School](https://onlinemschool.com/math/assistance/) - Platform providing math assistance with various calculators and resources.
 - [Percentage Calculator](https://www.percentofpercentcalculator.com) - A simple, interactive tool for calculating percentages quickly and accurately.
+- [SlopeCalculators.com](https://slopecalculators.com/) - Free slope, rise-over-run, and line-equation calculators with step-by-step explanations.
 
 ### MOOC (Massive Open Online Courses)
 
