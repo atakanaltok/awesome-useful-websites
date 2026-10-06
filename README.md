@@ -1416,6 +1416,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Midjourney Prompt Helper](https://promptfolder.com/midjourney-prompt-helper/) - Assists users in generating detailed and effective prompts for Midjourney, enabling the creation of high-quality images through natural language inputs.
 - [Free Midjourney Prompt](https://www.freemidjourneyprompt.com/) - Offers a wide selection of free Midjourney prompts, allowing users to easily generate images by providing optimized natural language prompts.
 - [Prompt Engineering Guide](https://learnprompting.org/docs/introduction) - Serves as a comprehensive guide to prompt engineering, offering essential principles and techniques for crafting effective prompts for AI models and creative tasks.
+- [Vintage Photo Prompt](https://vintagephotoprompt.com/) - Free gallery of 1980s and retro AI photo prompts with example images, ready to copy into ChatGPT, Gemini or Midjourney.
 
 ### Data Science
 
