@@ -77,6 +77,7 @@ Each website is included only once. Some websites can fall into multiple categor
     - [X / Twitter](#x--twitter)
     - [Reddit](#reddit)
     - [Discord](#discord)
+    - [Telegram](#telegram)
   - [Economy](#economy)
   - [Business](#business)
     - [Finance](#finance)
@@ -649,6 +650,10 @@ Each website is included only once. Some websites can fall into multiple categor
 ### Discord
 
 - [Blobs](https://blobs.gg/) - Collection of over 4400 fun and playful custom emoji for Discord.
+
+### Telegram
+
+- [TGScope Channel Audit](https://tgscope.io/tools/telegram-channel-audit) - Check what share of a Telegram channel's subscribers actually see its posts and how it compares with similar channels.
 
 ## Economy
 
