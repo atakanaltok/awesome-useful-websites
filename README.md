@@ -705,6 +705,7 @@ Each website is included only once. Some websites can fall into multiple categor
 ### Meetings
 
 - [When2meet](https://www.when2meet.com/) - A free service for scheduling group meetings. It allows users to create and participate in availability surveys to find the best time for a group to meet.
+- [OpenCal](https://opencal.link/) - OpenCal gives you a free scheduling link that shows your open times across Google, Microsoft and iCloud calendars.
 - [Sessions](https://sessions.us/) - A web-based conferencing tool designed to enhance meetings. It aims to improve the overall meeting experience and is available for free.
 - [Form to Chatbot](https://formtochatbot.com/) - Convert Google forms into interactive conversations in the form of chatbots. This tool helps in creating engaging and dynamic interactions based on form responses.
 
