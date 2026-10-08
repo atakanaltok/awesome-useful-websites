@@ -1167,6 +1167,7 @@ Each website is included only once. Some websites can fall into multiple categor
 ### Social Sciences
 
 - [Temple Manifold - All Projects](https://temple.manifoldapp.org/projects/all) - A collection of great resources on various social sciences.
+- [Loretypes](https://loretypes.com/) - Free self-reflection quizzes (archetype, moral alignment, aura color and more) with full results and no signup.
 
 ### History
 
