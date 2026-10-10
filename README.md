@@ -1396,6 +1396,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 - [Robots Guide](https://robotsguide.com/) - A comprehensive resource offering guides, reviews, and insights on robotics, aimed at both beginners and enthusiasts in the world of robotics.
 - [Control Challenges](https://janismac.github.io/ControlChallenges/) - Leetcode for robotics.
+- [Botstest](https://botstest.com/) - Searchable directory of embodied AI and robotics resources, including hardware, software, models, datasets, and benchmarks.
 
 ### LLMs
 
