@@ -1201,6 +1201,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Ask Nature](https://asknature.org/) - Biology-inspired strategies, innovations, or educational resources.
 - [We Are Hosts for Memes](https://wearehostsformemes.com/) - You have been exposed to The Meta-meme
 - [Birdwatching Zone](https://birdwatching.zone/) - A site dedicated to birdwatching, featuring over 300 species recorded with identification tips and resources for enthusiasts.
+- [KoreAves](https://koreaves.com/) - Explore South Korea's 597 bird species and 20 subspecies with regional occurrence evidence, taxon comparisons, and cited data sources.
 - [OneZoom](https://www.onezoom.org/) - The Tree of Life that illustrates how all life on Earth is connected. Explore relationships between 2.2 million species, view over 100,000 images, and see how species evolved from common ancestors. Zoom through the tree to discover the diversity of life on Earth.
 
 ## Physics
