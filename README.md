@@ -304,6 +304,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Keybase](https://keybase.io/) - End-to-end encrypted secure messaging and file-sharing.
 - [MediaFire](https://www.mediafire.com/) - File storage and sharing platform (with subscription options).
 - [Zippyshare](https://www.zippyshare.com/) - File-sharing service with no sign-up required, no download limits, free, and unlimited disk space.
+- [pdfannotation.app](https://pdfannotation.app/) - Highlight, comment, draw on, fill and sign PDFs in the browser without uploading the file; no sign-up, export without watermark.
 
 ### Visual
 
