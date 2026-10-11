@@ -336,6 +336,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Photopea](https://photopea.com/) - Free online photo editor similar to Photoshop.
 - [Remove image backgrounds online for free](https://free-background-remover.com) - AI background remover that runs entirely in the browser, no upload, no sign-up, no watermark.
 - [Remove Audio (free tool)](https://remove-audio.com) - Strip the audio track from any video right in your browser. Runs locally with FFmpeg.wasm, no uploads, no signup, no watermark.
+- [EasyLottie Green Screen Remover](https://www.easylottie.com/green-screen-to-transparent-gif) - Remove a green or other solid-color background from a short video or GIF and export a transparent GIF, WebM or PNG sequence. Runs in the browser, no upload or sign-up.
 
 ### Data Entry
 
