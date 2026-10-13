@@ -336,6 +336,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Photopea](https://photopea.com/) - Free online photo editor similar to Photoshop.
 - [Remove image backgrounds online for free](https://free-background-remover.com) - AI background remover that runs entirely in the browser, no upload, no sign-up, no watermark.
 - [Remove Audio (free tool)](https://remove-audio.com) - Strip the audio track from any video right in your browser. Runs locally with FFmpeg.wasm, no uploads, no signup, no watermark.
+- [video2mp4 Local MP4 Converter](https://video2mp4.com/convert-video-to-mp4/) - Remux MOV, WebM, MKV, and AVI files with MP4-compatible streams in the browser without uploading your file.
 
 ### Data Entry
 
