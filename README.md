@@ -227,6 +227,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Play Go Hub](https://playgohub.com/) - Professional Gaming Tools & Guides
 - [rtcd.io](https://rtcd.io/) - Free online toolkit for audio editing, image processing, development and more.
 - [giga.tools](https://giga.tools/) - Collection of useful in-browser tools for developers, designers, and power-users ranging from video editing, image editing, to text editing, and more.
+- [Tools for World](https://toolsforworld.com/) - Free in-browser PDF, image and text tools (PDF to Word, compress to an exact KB size, OCR, passport photos, QR codes) with no upload or sign-up.
 - [WordToTime](https://wordtotime.org) — Convert word/character counts or full text into estimated speaking, reading or narration time. Supports multiple languages and in-browser privacy-friendly processing.
 - [VolumeShaderBM](https://volumeshaderbm.org) — Browser-based real-time GPU volume shader benchmark with WebGPU/WebGL performance comparison.
 - [Speaking Time Calculator](https://speakingtimecalculator.org) – A free online tool to estimate speaking or presentation time from text using adjustable speaking speed (WPM).
