@@ -433,6 +433,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Welcome to My Garden](https://welcometomygarden.org/) - A non-profit network offering free camping spots in private gardens for slow travelers.
 - [Warmshowers](https://www.warmshowers.org/) - A community of bicycle tourists and hosts supporting them during their journeys.
 - [Slowby](https://www.slowby.travel/) - A platform offering highly-curated slow travel trips for a unique travel experience.
+- [CheckInAge](https://checkinage.com/) - Look up the published minimum check-in age (18+ or 21+) for 1,000+ US hotels, with a link to each hotel's official policy.
 
 ### Globetrotting
 
