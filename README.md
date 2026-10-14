@@ -1449,6 +1449,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Chrome Extension Kit](https://chromeextensionkit.com/) ($) - Kit including 17 battle-tested starter templates for building Chrome Extensions, saving time on setup and focusing on shipping.
 - [Esoteric Codes](https://esoteric.codes/) - Platform exploring esoteric programming languages (esolangs), constraint-based coding, code art, code poetry, and more.
 - [FreeFormatter](https://freeformatter.com/) - Free online tools for developers, including formatters, validators, code minifiers, string escapers, encoders/decoders, message digesters, and more.
+- [Tool Kumar](https://tools.vikasmaur.com/) - Free, private browser-based JSON viewer, formatter, converter, and type generator.
 - [dbdesigner.net](https://www.dbdesigner.net/) - Online database schema design and modeling tool for free.
 - [Jvns blog](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/>) - A list of new(ish) command line tools
 - [VisBug](https://visbug.web.app/) - Open-source browser design tools for web development.
