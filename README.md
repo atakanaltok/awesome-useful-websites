@@ -2069,6 +2069,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [PCPartPicker](https://pcpartpicker.com/list/) - Tool for planning and building custom PCs, enabling users to create part lists, compare prices, and ensure compatibility between components.
 - [PCBuilder](https://pcbuilder.net/list/) - Platform for designing custom PC builds, providing component compatibility checks, price comparisons, and configuration options for users.
 - [PC Builds](https://pc-builds.com/) - Resource for custom PC builds, offering curated lists of compatible components, guides, and recommendations for various performance levels and budgets.
+- [FPSGauge](https://fpsgauge.com/) - Published FPS benchmarks for PC games by graphics card, each linked to its source, with a calibrated estimate where a game has not been measured on a card.
 - [LinearMouse](https://linearmouse.app/) - Utility for Mac that provides advanced mouse and trackpad customization options, allowing users to fine-tune gestures, button mappings, and scrolling behavior.
 
 ### Keyboard
