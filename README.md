@@ -423,6 +423,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Countries Been](https://www.countriesbeen.com/) - A mobile app to track and list the countries you have visited, offering various features.
 - [Couchsurfing](https://www.couchsurfing.com/) - Connect with a global community of people who share their homes and experiences for free.
 - [Puffin Maps](https://www.puffinmaps.com/) - An all-in-one trip planner with no ads, helping you organize your travel plans.
+- [Discover Alone](https://discoveralone.com/) - Explore over a million places in Ireland and Britain on a free map, with original heritage-record links and Explorer Tom's playful stories and tips on selected places.
 - [AllTrails](https://www.alltrails.com/) - Explore a database of 300k trails with reviews and photos from outdoor enthusiasts.
 - [Wanderprep](https://www.wanderprep.com/) - Previously provided advice on gear, apps, and travel tips for smarter journeys.
 - [Looria](https://looria.com/) - A trusted platform to find honest product information.
