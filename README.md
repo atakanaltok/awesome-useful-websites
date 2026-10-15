@@ -224,6 +224,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [GetHuman](https://gethuman.com/) - Get a representative on the phone faster and receive better help from known companies.
 - [S-ings Scratchpad](https://www.s-ings.com/scratchpad/) - Online scratchpad tool designed for quick notes, calculations, and informal writing.
 - [UFreeTools](https://www.ufreetools.com/) - Your Online Free Toolkit.
+- [Toolybird](https://toolybird.com/) - 236 free online calculators and tools for finance, health, SEO, math and more. No signup, everything runs in your browser.
 - [Play Go Hub](https://playgohub.com/) - Professional Gaming Tools & Guides
 - [rtcd.io](https://rtcd.io/) - Free online toolkit for audio editing, image processing, development and more.
 - [giga.tools](https://giga.tools/) - Collection of useful in-browser tools for developers, designers, and power-users ranging from video editing, image editing, to text editing, and more.
