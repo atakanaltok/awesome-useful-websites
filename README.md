@@ -2071,6 +2071,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [PC Builds](https://pc-builds.com/) - Resource for custom PC builds, offering curated lists of compatible components, guides, and recommendations for various performance levels and budgets.
 - [LinearMouse](https://linearmouse.app/) - Utility for Mac that provides advanced mouse and trackpad customization options, allowing users to fine-tune gestures, button mappings, and scrolling behavior.
 
+- [Calculate Bottleneck](https://calculatebottleneck.com) - Free CPU/GPU bottleneck calculator with 940+ hardware models, per-game FPS estimates and shareable result links. No signup.
 ### Keyboard
 
 - [MechanicalKeyboards](https://mechanicalkeyboards.com/index.php) - Largest dedicated catalog of mechanical keyboards worldwide, offering fast shipping and after-sale support.
