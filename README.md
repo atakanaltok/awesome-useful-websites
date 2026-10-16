@@ -970,6 +970,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ### Calculators
 
+- [FastTools](https://fasttools.me/) - Free browser-based calculators and developer tools for Stripe payment fees, freelance rates, and crontab expressions with zero data tracking.
 - [Calc Resource](https://calcresource.com/index.html) - Platform offering a variety of calculators and resources for mathematical calculations.
 - [eFunda](https://www.efunda.com/home.cfm) - Website providing calculators, formulas, and information on materials and processes.
 - [LCM Calculator](https://www.calculator.net/lcm-calculator.html) - Calculator for finding the Least Common Multiple.
