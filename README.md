@@ -1741,6 +1741,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [MXToolbox](https://mxtoolbox.com/) - Offers free DNS and email tools in a single place for streamlined troubleshooting.
 - [Postale](https://postale.io/) ($) - Allows you to create domain email addresses effortlessly in minutes.
 - [Temporary Mail](https://tempmailto.online/) - Secure Temporary Mail Service for Privacy Protection
+- [TempMail10min](https://temp-mail10min.online/) - Fast disposable temporary email service with 5, 10, 15, and 30-minute auto-destruct inboxes.
 
 
 ### Data Breach
