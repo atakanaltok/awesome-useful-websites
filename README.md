@@ -686,6 +686,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [FIGR](https://www.figr.app/) - Google Docs + Calculator = Personal finances
 - [LiveFortunately](https://app.livefortunately.com/) - Plan for a better financial future. Create a complete financial plan to make the most of your money.
 - [KeeperTax](https://www.keepertax.com/ask-an-ai-accountant-2-0) - AI Accountant for getting help and calculating tax-related questions.
+- [The AI Till Free Calculators](https://theaitill.com/tools/free/) - Free calculators for UK sole traders and small businesses: self-employed tax, CIS deductions, VAT, mileage, day rates and late payment interest, with the GOV.UK sources for each rate.
 
 ### Patents
 
