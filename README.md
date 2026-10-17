@@ -1275,6 +1275,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Geomstats Tutorials](https://geomstats.github.io/tutorials/index.html) - Tutorials and resources on geometric statistics, providing practical examples and code for implementing statistical techniques on manifolds.
 - [Ximera - MOOCulus](https://ximera.osu.edu/mooculus) - Collection of interactive math modules and learning resources designed for online courses, focusing on calculus and related subjects.
 - [EuclideanSpace](https://euclideanspace.com) - Topics in mathematics and computing explained through visualizations and detailed references.
+- [OpenAha](https://openaha.org/) - Free, open-source interactive math and science courses, built from hands-on puzzles and simulations with instant feedback.
 
 ### Math + Art
 
