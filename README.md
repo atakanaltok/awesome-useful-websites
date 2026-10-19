@@ -972,6 +972,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 - [Calc Resource](https://calcresource.com/index.html) - Platform offering a variety of calculators and resources for mathematical calculations.
 - [eFunda](https://www.efunda.com/home.cfm) - Website providing calculators, formulas, and information on materials and processes.
+- [Jenny Mortgage Calculators](https://jenny.mortgage/calculators/) - Free Canadian mortgage calculators for payments, affordability, the federal stress test, and Ontario land transfer tax, no sign-up needed.
 - [LCM Calculator](https://www.calculator.net/lcm-calculator.html) - Calculator for finding the Least Common Multiple.
 - [GCF Calculator](https://www.calculator.net/gcf-calculator.html?numberinputs=9%2C+57%2C+72&x=75&y=22) - Calculator for finding the Greatest Common Factor.
 - [CalculatorSoup](https://www.calculatorsoup.com/) - Online platform offering a variety of calculators for different mathematical purposes.
