@@ -1692,6 +1692,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [BugMeNot](https://bugmenot.com/) - Find and share logins for various websites.
 - [Security.org](https://www.security.org/security-score/) - Learn about your security score.
 - [LibreProjects](https://libreprojects.net/#favs=wikipedia,joindiaspora-com,nextcloud,openstreetmap,jamendo,plos) - A list of 118 open-source hosted web services.
+- [YuliusBox](https://www.yuliusbox.com/) - 36 free online tools (PDF, image, developer utilities) that run in your browser with no uploads and no signup; open source.
 - [Privnote](https://privnote.com/) - Send notes that will self-destruct after being read.
 - [Dangerzone](https://dangerzone.rocks/) - Platform for converting potentially unsafe PDFs, Office documents, or images into safe, viewable formats.
 - [ExifTool](https://exiftool.org/) - Software for reading, writing, and editing metadata in image, audio, and video files.
