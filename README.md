@@ -1167,6 +1167,7 @@ Each website is included only once. Some websites can fall into multiple categor
 ### Social Sciences
 
 - [Temple Manifold - All Projects](https://temple.manifoldapp.org/projects/all) - A collection of great resources on various social sciences.
+- [12 Axes](https://12axes.site/) - A free political ideology test that scores twelve separate axes, from federalism to technology, and shows the closest of 38 ideologies.
 
 ### History
 
