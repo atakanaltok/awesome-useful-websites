@@ -213,6 +213,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ## Tools
 
+- [CompressFly](https://compressfly.com/) - Online tools for image compression, image format conversion, and PDF processing.
 - [5000Best Tools](https://5000best.com/tools/) - 5000 tools.
 - [10015.io](https://10015.io/) - Free all-in-one toolbox for various tasks.
 - [UnTools](https://untools.co/) - Collection of thinking tools and frameworks.
