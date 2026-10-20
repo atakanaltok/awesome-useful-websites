@@ -2014,6 +2014,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [GitHub Education Events](https://education.github.com/events) - Find members of the community at hackathons, conferences, and events near you.
 - [Hackathons by Hack Club](https://hackathons.hackclub.com/) - Curated list of high school hackathons, featuring 699 events in 27 states and 18 countries.
 - [Cerebral Valley AI Events](https://events.cerebralvalley.ai/) - Provides information on upcoming AI-related events, hackathons, and co-working opportunities.
+- [AI Competition Radar](https://www.aicompetition.dev/en) - Find upcoming AI and machine learning competitions and hackathons, with deadlines, eligibility notes, and official links.
 
 ## Cheat Sheets
 
