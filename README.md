@@ -232,6 +232,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Speaking Time Calculator](https://speakingtimecalculator.org) – A free online tool to estimate speaking or presentation time from text using adjustable speaking speed (WPM).
 - [Focus Game](https://focus-game.org) - A lightweight browser-based focus training game for improving concentration through short interactive sessions.
 - [Schulte Table](https://schulte-table.org) - A web-based Schulte table tool for training visual attention, peripheral vision, and speed reading.
+- [public.tools](https://public.tools) - Collection of free in-browser tools for PDFs, JSON, Base64, hashing and text, with no sign-up or watermark.
 
 ### White Board
 
@@ -336,6 +337,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Photopea](https://photopea.com/) - Free online photo editor similar to Photoshop.
 - [Remove image backgrounds online for free](https://free-background-remover.com) - AI background remover that runs entirely in the browser, no upload, no sign-up, no watermark.
 - [Remove Audio (free tool)](https://remove-audio.com) - Strip the audio track from any video right in your browser. Runs locally with FFmpeg.wasm, no uploads, no signup, no watermark.
+- [looksanalysis](https://looksanalysis.com) - Free face, hair and skin analysis from a photo, plus haircut and hair colour simulators, with no sign-up.
 
 ### Data Entry
 
@@ -1086,6 +1088,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Chest of Books](https://chestofbooks.com/) - Free online library offering a large collection of books on various topics, including science, technology, art, and literature.
 - [Stephen Wolfram: A New Kind of Science](https://www.wolframscience.com/nks/) - Online version of Stephen Wolfram's book "A New Kind of Science," offering access to the table of contents and related materials on cellular automata and complexity.
 - [Werewolf Reads](https://www.werewolfreads.com/) - A website that shares only werewolf related novels and stories
+- [Authors Directory](https://authorsdirectory.com) - Author biographies with books in publication order, book series in reading order, and free public-domain classics to read online.
 
 #### Book Recommendations and Summaries
 
