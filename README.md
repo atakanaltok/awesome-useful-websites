@@ -2026,6 +2026,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [OverAPI](https://overapi.com/) - Platform providing centralized access to cheatsheets and quick references for various programming languages and frameworks.
 - [Nota Language](https://nota-lang.org/) - Document language designed for the browser, offering a simplified syntax for creating web-based documents.
 - [Cheat-Sheets.org](https://www.cheat-sheets.org/) - Compilation of cheat sheets, round-ups, quick reference cards, guides, and sheets covering various topics.
+- [asciitable.co](https://asciitable.co/) - Searchable ASCII table with decimal, hex, octal, binary, HTML entity, and escape codes for every character, plus extended sets like Windows-1252 and code page 437.
 
 ### Python Cheat Sheet
 
