@@ -633,6 +633,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Twitter Card Generator](https://freecodetools.org/twitter-card-generator/) - Tool to generate Twitter cards, attaching rich content to Tweets for free.
 - [Rattibha](https://rattibha.com/) - Curates Twitter threads by categories and authors with time, language, and sorting options.
 - [Musk Messages](https://muskmessages.com/) - Platform compiling and categorizing direct messages from Elon Musk on Twitter, providing easy access to his thoughts and statements.
+- [twtData X Trends Archive](https://twtdata.com/twitter-trends/) - X (Twitter) trending topics by country and city, with a page for each past day. Free, no login.
 
 ### Reddit
 
