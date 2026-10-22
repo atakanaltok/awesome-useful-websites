@@ -1727,6 +1727,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Kill the Newsletter](https://kill-the-newsletter.com/) - Transform email newsletters into Atom feeds for easier consumption.
 - [Dead Man's Switch](https://www.deadmansswitch.net/) - A service that sends your emails to your designated recipients if you don't interact with it within a specified timeframe.
 - [YAMM](https://yamm.com/) ($) - Mail merge for Gmail, allowing you to send mass emails with Gmail, ensuring delivery to the primary inbox. Track results in real-time directly from Google Sheets.
+- [MailMop](https://mailmop.com/) - Ranks your Gmail senders by how many emails they've sent you, so you can bulk delete, unsubscribe from, or block the worst offenders.
 
 #### Disposable Email
 
