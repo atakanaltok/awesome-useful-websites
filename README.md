@@ -1610,6 +1610,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 - [Pokemon Database](https://pokemondb.net/) - A comprehensive Pokémon database with news and updates.
 - [Serebii](https://serebii.net/) - Offers various news, features, archives, and explanations about Pokémon.
+- [DexTeam](https://dexteam.app/) - Free Pokémon team builder that shows your team's shared weaknesses and type coverage for every game, with Showdown import/export and a damage calculator.
 
 ##### Chess
 
