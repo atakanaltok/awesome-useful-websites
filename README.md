@@ -472,6 +472,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Strobe.Cool](https://strobe.cool/) - Create visual stimuli using strobe effects.
 - [UnTools](https://untools.co/) - Collection of thinking tools and frameworks to assist in problem-solving, decision-making, and understanding systems.
 - [Puzzle Loop](https://www.puzzle-loop.com/) - Platform offering logic puzzles with simple rules and challenging solutions.
+- [Plain Game](https://plaingame.fun/) - Free daily estimation game for practising number sense: guess how tall, old or large everyday things are in seven short rounds.
 - [What Should You Do with Your Life?](https://guzey.com/personal/what-should-you-do-with-your-life/) - Article providing directions and advice on life decisions.
 - [InnerBody](https://www.innerbody.com/) - Research for reviews and researches about health products, services, and more.
 - [Sleep Calculator](https://sleepcalculator.com/) - Tool that helps users determine the best time to go to bed based on their desired wake-up time, optimizing sleep cycles for better rest and alertness.
