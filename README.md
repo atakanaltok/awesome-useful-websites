@@ -1239,6 +1239,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Telescope Optics](https://www.telescope-optics.net/) - A resource for amateur telescope builders, providing detailed information on designing and constructing telescope optics.
 - [Orbital Basics](https://t-neumann.github.io/space/OrbitalBasics/) - Educational resource explaining the fundamental concepts of orbital mechanics, designed for beginners in space science.
 - [Webb Telescope](https://webbtelescope.org/) - Official website for the James Webb Space Telescope.
+- [Space Simulator Online](https://spacesimulator.online/) - Interactive 3D visualization of the Solar System and Milky Way built on NASA/JPL Horizons ephemeris data, with spacecraft trajectory tours, TESS exoplanet light-curve analysis, and LIGO gravitational-wave signals.
 
 ## Mathematics
 
