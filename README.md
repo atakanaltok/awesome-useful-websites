@@ -429,6 +429,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Trip Destination App (iOS)](https://apps.apple.com/us/app/id1580599572) - A free iPhone app for searching and planning trip destinations.
 - [Freecycle](https://www.freecycle.org/) - A network for people giving and getting items for free in their local communities.
 - [Roadtrippers](https://roadtrippers.com/) - Plan your route and use turn-by-turn navigation to explore various attractions on your road trip.
+- [chinamapbook](https://chinamapbook.com/) - A free China sightseeing map for saving attractions, food and notes into an offline personal PDF book.
 - [Mountain Project](https://www.mountainproject.com/) - A free, crowd-sourced guide to climbing destinations around the world.
 - [Welcome to My Garden](https://welcometomygarden.org/) - A non-profit network offering free camping spots in private gardens for slow travelers.
 - [Warmshowers](https://www.warmshowers.org/) - A community of bicycle tourists and hosts supporting them during their journeys.
