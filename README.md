@@ -2069,6 +2069,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [PCPartPicker](https://pcpartpicker.com/list/) - Tool for planning and building custom PCs, enabling users to create part lists, compare prices, and ensure compatibility between components.
 - [PCBuilder](https://pcbuilder.net/list/) - Platform for designing custom PC builds, providing component compatibility checks, price comparisons, and configuration options for users.
 - [PC Builds](https://pc-builds.com/) - Resource for custom PC builds, offering curated lists of compatible components, guides, and recommendations for various performance levels and budgets.
+- [VantaSpec](https://vantaspec.com/) - Free UK price comparison for PC parts, listing each part's price at the UK shops it tracks, cheapest first, with price history, price alerts and a build planner that checks the parts fit.
 - [LinearMouse](https://linearmouse.app/) - Utility for Mac that provides advanced mouse and trackpad customization options, allowing users to fine-tune gestures, button mappings, and scrolling behavior.
 
 ### Keyboard
