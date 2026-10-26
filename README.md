@@ -707,6 +707,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [When2meet](https://www.when2meet.com/) - A free service for scheduling group meetings. It allows users to create and participate in availability surveys to find the best time for a group to meet.
 - [Sessions](https://sessions.us/) - A web-based conferencing tool designed to enhance meetings. It aims to improve the overall meeting experience and is available for free.
 - [Form to Chatbot](https://formtochatbot.com/) - Convert Google forms into interactive conversations in the form of chatbots. This tool helps in creating engaging and dynamic interactions based on form responses.
+- [QuickMirror](https://quickmirror.me/) - A free webcam mirror to check your hair, lighting, and background before a video call. Runs in the browser; nothing is recorded and no sign-up is needed.
 
 ## Jobs
 
