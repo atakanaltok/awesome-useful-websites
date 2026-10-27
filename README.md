@@ -531,6 +531,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [ASMR Microphones](https://asmrmicrophones.com) - Reviews, comparisons, and expert opinions on various ASMR microphones are provided to help users select the most suitable equipment.
 - [Omnichord Online](https://www.omnichordonline.com) - It is an online simulator for the classic instrument **Omnichord OM-27**. You can play it anytime for free in your PC or mobile browser, enjoying its authentic sound and the joy of creation.
 - [Tonalux](https://tonalux.org/) - Browser-based audio production platform with spectrum analyzer, media converter, plugin comparer and curated plugin deals. No account required.
+- [Plastic BPM Finder](https://plastic.audio/bpm-finder/) - Find the tempo of a song in the browser, with tap tempo; the file is never uploaded.
 
 ### Find Music
 
@@ -560,6 +561,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [MusicTheory.net](https://www.musictheory.net/)
 - [All About Music Theory](https://www.allaboutmusictheory.com/) - Piano keyboard, Music notation, Major scale
 - [Studio Guru - Note Frequency Chart](https://studioguru.co/producer-tools/note-frequency-chart/)
+- [Plastic Chord Progression Generator](https://plastic.audio/chord-progression-generator/) - Generate chord progressions by key and mood, hear them over a beat, and download MIDI.
 
 #### Rhyme
 
