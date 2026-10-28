@@ -531,6 +531,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [ASMR Microphones](https://asmrmicrophones.com) - Reviews, comparisons, and expert opinions on various ASMR microphones are provided to help users select the most suitable equipment.
 - [Omnichord Online](https://www.omnichordonline.com) - It is an online simulator for the classic instrument **Omnichord OM-27**. You can play it anytime for free in your PC or mobile browser, enjoying its authentic sound and the joy of creation.
 - [Tonalux](https://tonalux.org/) - Browser-based audio production platform with spectrum analyzer, media converter, plugin comparer and curated plugin deals. No account required.
+- [Sound Generator](https://soundgenerator.app/) - Generate pure tones and test signals from 1 Hz to 20 kHz, plus sweeps, noise, binaural beats, tuning tones and a hearing test, with WAV export.
 
 ### Find Music
 
