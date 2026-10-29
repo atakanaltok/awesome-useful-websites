@@ -336,6 +336,8 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Photopea](https://photopea.com/) - Free online photo editor similar to Photoshop.
 - [Remove image backgrounds online for free](https://free-background-remover.com) - AI background remover that runs entirely in the browser, no upload, no sign-up, no watermark.
 - [Remove Audio (free tool)](https://remove-audio.com) - Strip the audio track from any video right in your browser. Runs locally with FFmpeg.wasm, no uploads, no signup, no watermark.
+- [Upsampler Free Tools](https://upsampler.com/free-tools) - Free AI upscalers, generators and editors plus unlimited browser media utilities, usable without an account.
+- [3D Valley Tools](https://3dvalley.com/tools) - Free AI 3D creation, browser mesh repair/remesh and print-cost tools with no signup for core free use.
 
 ### Data Entry
 
