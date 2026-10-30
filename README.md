@@ -616,6 +616,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [LexiCap](https://karpathy.ai/lexicap/) - Transcripts for Lex Fridman's podcast episodes.
 - [Brett Hall's TokCast Transcripts](https://www.aniketvartak.com/html/hall-index.html) - Transcripts for Brett Hall's TokCast podcast.
 - [Thumbly](https://thumbly.ai/) - Turn your script into attention-grabbing thumbnails that can increase your YouTube views.
+- [Ripify](https://ripify.co/) - Download videos and audio from YouTube, TikTok, Instagram, X, Reddit, Vimeo and 100+ other sites as MP4 or MP3. Free, no sign-up, no watermark.
 
 ### X / Twitter
 
