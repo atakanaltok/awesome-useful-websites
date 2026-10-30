@@ -565,6 +565,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 - [RhymeZone](https://www.rhymezone.com/) - Find rhymes, synonyms, adjectives, and more.
 - [Rhymer](https://rhymer.com/) - Free online rhyming dictionary.
+- [RapLyrics Rhyme Finder](https://raplyrics.online/rap-rhyme-generator/) - Find perfect and near/slant rhyme ideas for rap writing, with a no-sign-up browser writing pad.
 
 ### Spotify
 
