@@ -1662,6 +1662,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Gitcoin](https://gitcoin.co/) - Platform where individuals can get paid for contributing to open-source software in various programming languages and domains.
 - [Oh Shit, Git!](https://ohshitgit.com/) - Resource providing solutions for common Git mistakes and how to recover from them.
 - [GitHub Trending Archive](https://github.motakasoft.com/trending/) - Archive of trending repositories on GitHub, allowing users to explore popular projects and programming trends over time.
+- [OpenPulse](https://openpulse.info/) - Discover trending GitHub repositories and compare observed star growth over 24 hours, 7 days, and 30 days, with topic and language filters.
 - [Map of GitHub](https://anvaka.github.io/map-of-github/) - Visual representation of the GitHub repository network.
 - [Related Repos](https://relatedrepos.com/) - Discover related open source projects. Find alternatives and other similar repositories. Updated daily.
 
