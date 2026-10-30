@@ -318,6 +318,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Zoom.it](https://zoom.it/) - Create high-resolution, zoomable images.
 - [VectorMagic](https://vectormagic.com/) - Convert bitmaps (JPG, PNG, GIF) to vectors (PDF, SVG, EPS).
 - [Screenshot.Guru](https://screenshot.guru/) - Take high-resolution screen captures of websites and tweets.
+- [CurlShot](https://curlshot.com/) - Take full-page screenshots of any website as PNG, JPEG, WebP or PDF in the browser, no account needed; also offers a screenshot API.
 - [Stolen Camera Finder](https://www.stolencamerafinder.com/) - Use the serial number stored in your photos to search the web for other photos taken with the same camera.
 - [Ribbet](https://www.ribbet.com/) - Photo editing tools.
 - [Crossfade.io](https://crossfade.io/) - Web-based video mashups from your favorite sites.
