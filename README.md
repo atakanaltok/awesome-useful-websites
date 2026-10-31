@@ -975,6 +975,8 @@ Each website is included only once. Some websites can fall into multiple categor
 - [LCM Calculator](https://www.calculator.net/lcm-calculator.html) - Calculator for finding the Least Common Multiple.
 - [GCF Calculator](https://www.calculator.net/gcf-calculator.html?numberinputs=9%2C+57%2C+72&x=75&y=22) - Calculator for finding the Greatest Common Factor.
 - [CalculatorSoup](https://www.calculatorsoup.com/) - Online platform offering a variety of calculators for different mathematical purposes.
+- [MyCruncher](https://mycruncher.com/) - Free online calculators for finance, education, health, home improvement, and everyday math, with shareable results and embeddable widgets.
+
 - [RapidTables](https://www.rapidtables.com/) - Website providing a collection of calculators and tables for quick reference.
 - [Linear Algebra Calculator](https://www.emathhelp.net/en/linear-algebra-calculator/?u=3%2C1%2C4&v=-2%2C0%2C5&action=cross+product) - Calculator for linear algebra calculations, such as cross product.
 - [Wikipedia: List of Physical Quantities](https://en.wikipedia.org/wiki/List_of_physical_quantities) - Wikipedia page listing various physical quantities.
