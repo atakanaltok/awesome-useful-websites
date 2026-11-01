@@ -223,6 +223,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Lunar](https://lunar.fyi/) - Multi-featured app for controlling monitors.
 - [GetHuman](https://gethuman.com/) - Get a representative on the phone faster and receive better help from known companies.
 - [S-ings Scratchpad](https://www.s-ings.com/scratchpad/) - Online scratchpad tool designed for quick notes, calculations, and informal writing.
+- [SolveBar](https://solvebar.com/) - Free toolbox of 85+ browser-based tools: invoice generator, PDF builder, JSON formatter, crypto calculators, and more. No signup, nothing uploaded to a server.
 - [UFreeTools](https://www.ufreetools.com/) - Your Online Free Toolkit.
 - [Play Go Hub](https://playgohub.com/) - Professional Gaming Tools & Guides
 - [rtcd.io](https://rtcd.io/) - Free online toolkit for audio editing, image processing, development and more.
