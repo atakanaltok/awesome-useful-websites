@@ -616,6 +616,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [LexiCap](https://karpathy.ai/lexicap/) - Transcripts for Lex Fridman's podcast episodes.
 - [Brett Hall's TokCast Transcripts](https://www.aniketvartak.com/html/hall-index.html) - Transcripts for Brett Hall's TokCast podcast.
 - [Thumbly](https://thumbly.ai/) - Turn your script into attention-grabbing thumbnails that can increase your YouTube views.
+- [UpGrow Instagram Engagement Calculator](https://www.upgrow.com/free-instagram-tools/instagram-engagement-calculator) - Free tool that calculates the engagement rate of any public Instagram account from its recent posts.
 
 ### X / Twitter
 
