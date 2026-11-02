@@ -480,6 +480,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Sleep Calculator App](https://sleepcalculatorapp.com/) - Find Your Ideal Sleep and Wake Time.
 - [Sleep Cyclecalc App](http://sleepcyclecalcapp.com/) - Find Your Best Sleep Schedule
 - [Sleep Time Calculator](https://www.sleeptimecalculator.org/) - Find Your Perfect Sleep Time
+- [Reels and Shorts Time Calculator](https://minulo.app/en/reels-time-calculator.html) - Enter your daily minutes on Reels, Shorts or TikTok to see how many hours that adds up to per week, per year and by age 80.
 
 ### Air Quality
 
