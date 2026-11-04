@@ -1469,6 +1469,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 - [Atlaq](https://atlaq.com/) - Domain name generator.
 - [ICANN Lookup](https://lookup.icann.org/en) - Registration data for domain names and Internet number resources accessed using WHOIS and RDAP protocols.
+- [NameStation](https://www.namestation.com/) - AI business name generator with live domain availability checks and naming contests.
 
 ### Front-end
 
