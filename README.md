@@ -313,6 +313,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Designify](https://www.designify.com/) ($) - Create AI-powered designs by automatically removing backgrounds, enhancing colors, adjusting smart shadows, and more.
 - [PfpMaker](https://pfpmaker.com/) - Make profile pictures from any photo.
 - [JPEG-Optimizer](https://jpeg-optimizer.com/) - Free online tool for resizing and compressing digital photos and images.
+- [Quick Image Kit](https://quickimagekit.com/) - Browser-local image compression, resizing, conversion, and cropping, including exact-KB and document-photo presets; files stay on the device.
 - [Extract.pics](https://extract.pics/) - Extract images from any public website using a virtual browser.
 - [Generated.Photos](https://generated.photos/) - Unique, worry-free (AI-generated), free to download model photos.
 - [Zoom.it](https://zoom.it/) - Create high-resolution, zoomable images.
