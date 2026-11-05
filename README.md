@@ -447,6 +447,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Time.is](https://time.is/) - Displays exact, official atomic clock time for any time zone in 51 languages, covering more than 7 million locations.
 - [Time Calculator Toolkit](https://time-to-decimal.org/) - A complete browser-based toolkit for time conversion and calculation, including time-to-decimal, duration calculators, time clock rounding, time from now, and time from ago etc.
 - [Time Card Calculator](https://www.mytimecardcalculator.com/) - A quick and accurate tool to compute daily and weekly work hour totals which also supports pdf export
+- [time.foo](https://time.foo/) - Free world clock on a 3D globe showing live day/night, multi-city time comparison, time zone and Unix timestamp converters, in 8 languages.
 
 
 ### Flight
