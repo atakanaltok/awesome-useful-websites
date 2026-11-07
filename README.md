@@ -852,6 +852,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Mobile Palette Generator](https://mobilepalette.colorion.co/) - A tool for generating mobile palettes.
 - [DeGraeve Color Palette Generator](https://www.degraeve.com/color-palette/) - Generates color palettes.
 - [0to255](https://0to255.com/) - A color tool that helps find lighter and darker colors based on any color.
+- [brownie.tools Color Shades Generator](https://brownie.tools/design-tools/color-shades-generator/) - Generate lighter tints and darker shades from a base color, with CSS, SCSS, JSON, and Tailwind exports.
 - [ColorHexa](https://www.colorhexa.com/) - Provides information about any color and generates matching color palettes.
 - [Color Hunt](https://colorhunt.co/) - Discover hand-picked color palettes.
 - [Coolors](https://coolors.co/) - Color scheme generator and palette creation tool, allowing users to explore, create, and share color combinations for design projects.
