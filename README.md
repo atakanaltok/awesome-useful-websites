@@ -560,6 +560,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [MusicTheory.net](https://www.musictheory.net/)
 - [All About Music Theory](https://www.allaboutmusictheory.com/) - Piano keyboard, Music notation, Major scale
 - [Studio Guru - Note Frequency Chart](https://studioguru.co/producer-tools/note-frequency-chart/)
+- [MusicToolSet](https://musictoolset.com/) - Free chord, scale and chord progression tools with correctly spelled notes, a song BPM and key finder, and a metronome for odd time signatures.
 
 #### Rhyme
 
