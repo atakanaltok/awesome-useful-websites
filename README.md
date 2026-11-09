@@ -1605,6 +1605,7 @@ Each website is included only once. Some websites can fall into multiple categor
 #### Games
 
 - [Bento Blocks Game](https://www.bentoblocksgame.com/) - Arrange ingredients in the bento box
+- [Meowdoku Game](https://meowdoku-game.org/) - Free Cat Logic Puzzle · Daily Puzzles
 
 ##### Pokemon
 
