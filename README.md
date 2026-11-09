@@ -865,6 +865,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Google Fonts](https://fonts.google.com/) - Collection of free and open-source fonts by Google.
 - [DaFont](https://www.dafont.com/) - A popular website offering free fonts for download, with categories for various styles and uses, including decorative, script, and sans-serif fonts.
 - [UCL Fonts Project](http://vecg.cs.ucl.ac.uk/Projects/projects_fonts/projects_fonts.html) - A research project focused on manifold of fonts, providing findings of their work and an interactive 2D Font Manifold Demonstration.
+- [dasaas Handwriting Font Maker](https://dasaas.com/images/handwriting-font/) - Turn your own handwriting into a real OTF font by drawing the letters or photographing a filled-in template.
 
 #### Icons / Icon Packs
 
