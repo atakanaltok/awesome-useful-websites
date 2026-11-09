@@ -1019,7 +1019,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Closer to Truth](https://www.closertotruth.com/) - Robert Lawrence Kuhn explores the fundamental questions of the universe.
 - [Nature Scitable](https://www.nature.com/scitable/) - Library of scientific overviews. Customize your own eBooks, create an online classroom, contribute and share content, and connect with networks of colleagues.
 - [Vinaire](https://vinaire.me/) - Physics and Math classes.
-- [Space Atlas](https://saramjh.github.io/space_atlas_student/) - Free astronomy learning site with interactive models of Moon phases, Earth seasons, and the scale of the universe.
+- [Space Atlas](https://spaceatlasedu.org/) - Free Moon-phase, seasons and cosmic-scale models for teacher-guided exploration. Uses GA4 and AdSense; unsupervised under-13 browsing is not recommended.
 - [VisualPDE](https://visualpde.com/) - Interactive platform for exploring science and mathematics, offering simulations on topics like waves, viruses, and reaction-diffusion patterns.
 - [Whole Earth](https://wholeearth.info/) - Nearly-complete archive of Whole Earth publications, a series of journals and magazines published by Stewart Brand and the POINT Foundation from 1968 to 2002, made available for scholarship, education, and research purposes.
 - [Sketchplanations](https://sketchplanations.com/categories/science) - Collection of simple sketches and visual explanations on scientific concepts, aimed at making complex topics more accessible.
