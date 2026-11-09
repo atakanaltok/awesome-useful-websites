@@ -317,6 +317,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Generated.Photos](https://generated.photos/) - Unique, worry-free (AI-generated), free to download model photos.
 - [Zoom.it](https://zoom.it/) - Create high-resolution, zoomable images.
 - [VectorMagic](https://vectormagic.com/) - Convert bitmaps (JPG, PNG, GIF) to vectors (PDF, SVG, EPS).
+- [Pic2Vector](https://pic2vector.com/) - Free browser-based converter that traces PNG, JPG, and WebP images into SVG vector graphics using vtracer and WebAssembly.
 - [Screenshot.Guru](https://screenshot.guru/) - Take high-resolution screen captures of websites and tweets.
 - [Stolen Camera Finder](https://www.stolencamerafinder.com/) - Use the serial number stored in your photos to search the web for other photos taken with the same camera.
 - [Ribbet](https://www.ribbet.com/) - Photo editing tools.
