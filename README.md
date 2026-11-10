@@ -277,6 +277,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [FontGenerator.design](https://fontgenerator.design/) - Unicode-based text generator for bold, fancy, and other font-like effects.
 - [GlitchText.cool](https://glitchtext.cool/)- Unicode glitch/Zalgo text generator with adjustable distortion.
 - [Share Text Online With Link](https://share-text.org/) - Share Text Online With Link and QR Code
+- [BetterPDF Convert](https://betterpdfconvert.com/) - Free browser-based EPUB, AZW3, and MOBI to PDF converter preserving clickable Table of Contents without login or server upload.
 
 ### Automating browser
 
