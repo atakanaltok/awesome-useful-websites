@@ -961,6 +961,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Project Abstracts](https://projectabstracts.com/) - Collection of project abstracts and downloads for academic mini projects and final year projects across various fields.
 - [SCIRP Open Access Journal](https://www.scirp.org/journal/OpenAccess) - Platform offering open-access academic journals across various scientific disciplines, promoting free access to research.
 - [DOI.org](https://www.doi.org/) - The official website for Digital Object Identifiers (DOI), providing a system for the persistent identification and access of digital resources, including academic papers and datasets.
+- [ProfScout](https://profscout.com) - Finds professors to contact for research positions and grad school, with verified email addresses.
 
 ### Studying
 
