@@ -1531,6 +1531,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [SQL Translate](https://www.sqltranslate.app/) - SQL to Natural Language and Natural Language to SQL translator. 100% free and open source
 - [Servers for Hackers](https://serversforhackers.com/) - Server Admin for Programmers. Learn server tech for development and production.
 - [SQLable](https://sqlable.com/) - Collection of SQL tools
+- [SQLMaxx Learn](https://sqlmaxx.com/learn-sql/) - Free SQL course with 66 interactive lessons and graded practice on PostgreSQL in the browser
 
 ### Web Analytics
 
