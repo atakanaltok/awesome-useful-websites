@@ -2088,6 +2088,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [10FastFingers](https://10fastfingers.com/typing-test/english) - Typing test platform to measure typing speed and accuracy in English.
 - [TypingClub](https://www.typingclub.com/) - Platform providing interactive typing lessons and games to improve typing skills.
 - [Typing.com](https://www.typing.com/) - Online resource offering typing lessons, games, and tests for learners of all levels.
+- [Typersguild](https://typersguild.com/) - Practice typing by retyping classic books chapter by chapter, with WPM and accuracy tracking.
 
 #### Keyboard Shortcuts
 
