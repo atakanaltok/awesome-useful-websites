@@ -467,6 +467,7 @@ Each website is included only once. Some websites can fall into multiple categor
 ## Health
 
 - [MuscleWiki](https://musclewiki.com/) - Platform to learn about your body and muscles.
+- [Sports, Nutrition and Health Guide](https://jiangweiqi001.github.io/sports-nutrition-health/search.html) - Searchable Chinese-language guide with 465 questions on strength training, running, nutrition, and recovery. Answers prioritize authoritative guidelines, professional society position statements, and systematic reviews, and each answer shows an evidence grade and citations.
 - [Just a Minute](https://jinay.dev/just-a-minute/) - Test your chronoception (sense of passing time) in one minute.
 - [FutureMe](https://www.futureme.org/) - Platform to write a letter to your future self.
 - [Strobe.Cool](https://strobe.cool/) - Create visual stimuli using strobe effects.
