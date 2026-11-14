@@ -967,6 +967,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Bartleby](https://www.bartleby.com/) - A platform to search for textbooks, step-by-step explanations to homework questions, and more.
 - [Chegg](https://www.chegg.com/) ($) - A service offering 24/7 course help, including textbook solutions and expert Q&A.
 - [Chegg Flashcards](https://www.chegg.com/flashcards) (@) - Study with flashcards created by students and experts for various courses.
+- [Shortlist](https://shortlist.college/planner) (@) - Free U.S. college planner that sorts colleges into Likely, Target and Reach from your grades and test scores and builds an application plan, with no sign-up.
 
 ### Calculators
 
