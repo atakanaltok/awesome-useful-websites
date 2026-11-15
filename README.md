@@ -1297,6 +1297,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Bartosz Ciechanowski Archives](https://ciechanow.ski/archives/) - Collection of articles on design and technology by Bartosz Ciechanowski.
 - [IQS Directory Articles](https://www.iqsdirectory.com/articles/) - Industrial components explained through technical articles and manufacturer insights.
 - [Printable Graph Paper](https://printablegraphpaper.org/) - Printable Graph Paper with various templates
+- [Notebook Generator](https://www.notebookgenerator.com/en/) - Free printable graph paper, dot grid, lined paper, Cornell notes and planners in any paper size; downloads a PDF or a fold-and-staple booklet. No sign-up.
 
 ### Civil Engineering
 
