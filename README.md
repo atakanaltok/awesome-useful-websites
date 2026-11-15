@@ -232,6 +232,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Speaking Time Calculator](https://speakingtimecalculator.org) – A free online tool to estimate speaking or presentation time from text using adjustable speaking speed (WPM).
 - [Focus Game](https://focus-game.org) - A lightweight browser-based focus training game for improving concentration through short interactive sessions.
 - [Schulte Table](https://schulte-table.org) - A web-based Schulte table tool for training visual attention, peripheral vision, and speed reading.
+- [belun.app](https://belun.app/) - Free in-browser tools for PDF, images, text, calculators and device tests, no sign-up; the calculation code is open source on GitHub.
 
 ### White Board
 
