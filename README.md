@@ -686,6 +686,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [FIGR](https://www.figr.app/) - Google Docs + Calculator = Personal finances
 - [LiveFortunately](https://app.livefortunately.com/) - Plan for a better financial future. Create a complete financial plan to make the most of your money.
 - [KeeperTax](https://www.keepertax.com/ask-an-ai-accountant-2-0) - AI Accountant for getting help and calculating tax-related questions.
+- [truediscount](https://emirmrkaljevic.github.io/truediscount/) - Free, open-source browser extension that checks whether a sale price on an EU shop is a real discount by comparing it with the 30-day lowest price.
 
 ### Patents
 
