@@ -345,6 +345,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 - [WikiHow](https://www.wikihow.com/Main-Page) - A collaborative platform for creating and sharing how-to guides.
 - [ManualsLib](https://www.manualslib.com/) - Online repository of user manuals and guides.
+- [PitchCalc](https://pitchcalc.com/?utm_source=github&utm_medium=github&utm_campaign=atakanaltok_awesome-useful-websites) - Free roof pitch, area, rafter, and shingle calculators that run in the browser with no signup.
 - [This to That](https://thistothat.com/) - Learn how to glue different materials together.
 - [HowStuffWorks](https://www.howstuffworks.com/) - Explore how things work with in-depth explanations and articles.
 - [WonderHowTo](https://www.wonderhowto.com/) - Learn how to do almost anything with instructional videos and step-by-step guides.
