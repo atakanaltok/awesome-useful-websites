@@ -222,6 +222,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Everybodywiki](https://en.everybodywiki.com/Everybodywiki:Welcome) - Rescues deleted articles and rejected drafts from Wikipedia in multiple languages and welcomes new articles.
 - [Lunar](https://lunar.fyi/) - Multi-featured app for controlling monitors.
 - [GetHuman](https://gethuman.com/) - Get a representative on the phone faster and receive better help from known companies.
+- [GetRandomName](https://getrandomname.com) - Free, zero-signup browser suite for generating up to 1,000 random names, fake test identities, and classroom/team draws with instant CSV, TXT, and JSON export.
 - [S-ings Scratchpad](https://www.s-ings.com/scratchpad/) - Online scratchpad tool designed for quick notes, calculations, and informal writing.
 - [UFreeTools](https://www.ufreetools.com/) - Your Online Free Toolkit.
 - [Play Go Hub](https://playgohub.com/) - Professional Gaming Tools & Guides
