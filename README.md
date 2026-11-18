@@ -1823,6 +1823,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 - [OlderGeeks](https://oldergeeks.com/) - Ad-free software download site supported by donations, providing a hassle-free experience.
 - [AlternativeTo](https://alternativeto.net/) - Discover the best alternatives to popular software based on user recommendations.
+- [answers.delivery](https://answers.delivery/) - Answers to everyday software problems written from real products, with every product claim quoted from the product's own site.
 - [Open Source Alternative](https://www.opensourcealternative.to/) - Platform providing open-source alternatives to proprietary software.
 - [Dark Mode List](https://darkmodelist.com/) - List of 300 apps that support dark mode.
 - [LocalStack](https://localstack.cloud/) - Develop and test cloud and serverless apps offline.
