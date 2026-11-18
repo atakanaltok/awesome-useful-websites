@@ -2070,6 +2070,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [PCBuilder](https://pcbuilder.net/list/) - Platform for designing custom PC builds, providing component compatibility checks, price comparisons, and configuration options for users.
 - [PC Builds](https://pc-builds.com/) - Resource for custom PC builds, offering curated lists of compatible components, guides, and recommendations for various performance levels and budgets.
 - [LinearMouse](https://linearmouse.app/) - Utility for Mac that provides advanced mouse and trackpad customization options, allowing users to fine-tune gestures, button mappings, and scrolling behavior.
+- [RigCheck](https://rigcheckapp.com/) - Free in-browser check of whether your PC can run a game: detects the graphics card, compares it with official system requirements and estimates settings and FPS. Also has gamepad, keyboard and mic testers.
 
 ### Keyboard
 
