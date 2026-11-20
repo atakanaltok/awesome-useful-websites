@@ -1891,6 +1891,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Debuggex](https://www.debuggex.com/) - A visual regex tester that allows you to understand how your regular expression works.
 - [UI Bakery Regex Library](https://uibakery.io/regex-library/) - Collection of regular expressions for UI design.
 - [Pyrexp](https://pythonium.net/regex) - An online visual regex tester for Python.
+- [icodelab Regex Tester](https://icodelab.dev/en/tools/regex-tester) - An online regex tester with highlighted matches, a breakdown of groups and a replace mode; a runaway pattern will not freeze the page.
 
 ### No-Code
 
