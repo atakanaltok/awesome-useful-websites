@@ -531,6 +531,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [ASMR Microphones](https://asmrmicrophones.com) - Reviews, comparisons, and expert opinions on various ASMR microphones are provided to help users select the most suitable equipment.
 - [Omnichord Online](https://www.omnichordonline.com) - It is an online simulator for the classic instrument **Omnichord OM-27**. You can play it anytime for free in your PC or mobile browser, enjoying its authentic sound and the joy of creation.
 - [Tonalux](https://tonalux.org/) - Browser-based audio production platform with spectrum analyzer, media converter, plugin comparer and curated plugin deals. No account required.
+- [SCloudConvert](https://scloudconvert.com/) - Save public SoundCloud tracks and playlists as M4A (keeps the original ~160 kbps AAC stream) or MP3 (192 kbps transcode), with playlists as one ZIP. Free, no sign-up; private tracks, Go+ previews and DRM audio are not supported.
 
 ### Find Music
 
