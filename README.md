@@ -304,7 +304,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Keybase](https://keybase.io/) - End-to-end encrypted secure messaging and file-sharing.
 - [MediaFire](https://www.mediafire.com/) - File storage and sharing platform (with subscription options).
 - [Zippyshare](https://www.zippyshare.com/) - File-sharing service with no sign-up required, no download limits, free, and unlimited disk space.
-- [pdfmoo](https://pdfmoo.com/) - 37 PDF tools (merge, compress, split, convert to Word/Excel, sign, redact, OCR) that work locally in the browser, with no upload and no sign-up.
+- [pdfmoo](https://pdfmoo.com/) - 37 free PDF tools (merge, compress to an exact size, split, convert to Word/Excel, sign, redact, OCR) that work locally in the browser: no upload, no limits, no watermarks, no sign-up.
 
 ### Visual
 
@@ -337,7 +337,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Photopea](https://photopea.com/) - Free online photo editor similar to Photoshop.
 - [Remove image backgrounds online for free](https://free-background-remover.com) - AI background remover that runs entirely in the browser, no upload, no sign-up, no watermark.
 - [Remove Audio (free tool)](https://remove-audio.com) - Strip the audio track from any video right in your browser. Runs locally with FFmpeg.wasm, no uploads, no signup, no watermark.
-- [bgnix](https://bgnix.com/) - Remove image backgrounds in the browser without uploading photos; transparent, white or coloured backgrounds, batch mode and passport photo sizes.
+- [bgnix](https://bgnix.com/) - Free AI background remover that runs in the browser without uploading photos: full-resolution PNG, no watermark or daily limit, transparent/white/coloured backgrounds, batch mode and passport photo sizes.
 
 ### Data Entry
 
