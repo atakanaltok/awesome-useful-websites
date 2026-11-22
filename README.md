@@ -1588,6 +1588,7 @@ Each website is included only once. Some websites can fall into multiple categor
 ### Game Development
 
 - [itch.io](https://itch.io/) - A platform that provides a simple way to find and share indie games online for free.
+- [Best Daily Games directory](https://bestdaily.games/games/) - Find daily browser puzzles by category and follow links to the games' original publishers.
 - [System Requirements Lab](https://www.systemrequirementslab.com/cyri) - Analyzes your computer's specifications in seconds, providing information on whether your system meets the requirements for various games.
 - [Kenney](https://kenney.nl/) - Platform offering free game assets, graphics, and game development resources.
 - [Flash Games Archive](https://flasharch.com/en) - Archive of Flash games, preserving these classic games for future enjoyment.
