@@ -304,6 +304,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Keybase](https://keybase.io/) - End-to-end encrypted secure messaging and file-sharing.
 - [MediaFire](https://www.mediafire.com/) - File storage and sharing platform (with subscription options).
 - [Zippyshare](https://www.zippyshare.com/) - File-sharing service with no sign-up required, no download limits, free, and unlimited disk space.
+- [pdfmoo](https://pdfmoo.com/) - 37 PDF tools (merge, compress, split, convert to Word/Excel, sign, redact, OCR) that work locally in the browser, with no upload and no sign-up.
 
 ### Visual
 
@@ -336,6 +337,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Photopea](https://photopea.com/) - Free online photo editor similar to Photoshop.
 - [Remove image backgrounds online for free](https://free-background-remover.com) - AI background remover that runs entirely in the browser, no upload, no sign-up, no watermark.
 - [Remove Audio (free tool)](https://remove-audio.com) - Strip the audio track from any video right in your browser. Runs locally with FFmpeg.wasm, no uploads, no signup, no watermark.
+- [bgnix](https://bgnix.com/) - Remove image backgrounds in the browser without uploading photos; transparent, white or coloured backgrounds, batch mode and passport photo sizes.
 
 ### Data Entry
 
@@ -447,6 +449,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Time.is](https://time.is/) - Displays exact, official atomic clock time for any time zone in 51 languages, covering more than 7 million locations.
 - [Time Calculator Toolkit](https://time-to-decimal.org/) - A complete browser-based toolkit for time conversion and calculation, including time-to-decimal, duration calculators, time clock rounding, time from now, and time from ago etc.
 - [Time Card Calculator](https://www.mytimecardcalculator.com/) - A quick and accurate tool to compute daily and weekly work hour totals which also supports pdf export
+- [timetotals](https://timetotals.com/) - Work-hours and overtime calculator with labour rules for several countries, a time clock and PDF/CSV timesheets; data stays in the browser.
 
 
 ### Flight
@@ -1797,6 +1800,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Webhook.Site](https://webhook.site/) - Platform to inspect, test, and automate any incoming HTTP request or email.
 - [GoQR.Me](https://goqr.me/) - Generator for high-resolution QR codes suitable for print.
 - [Open Graph Generator](https://freecodetools.org/ogp/) - Tool for generating Open Graph images.
+- [infiniqr](https://infiniqr.com/) - QR code generator with logo, colours and frames; static codes never expire, PNG/SVG/PDF export without watermark.
 
 #### URL Shortener
 
@@ -2070,6 +2074,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [PCBuilder](https://pcbuilder.net/list/) - Platform for designing custom PC builds, providing component compatibility checks, price comparisons, and configuration options for users.
 - [PC Builds](https://pc-builds.com/) - Resource for custom PC builds, offering curated lists of compatible components, guides, and recommendations for various performance levels and budgets.
 - [LinearMouse](https://linearmouse.app/) - Utility for Mac that provides advanced mouse and trackpad customization options, allowing users to fine-tune gestures, button mappings, and scrolling behavior.
+- [setupdoc](https://setupdoc.com/) - Browser tests for microphone, webcam, speakers, keyboard, mouse (CPS, polling rate), gamepad drift and dead pixels, with fix steps.
 
 ### Keyboard
 
