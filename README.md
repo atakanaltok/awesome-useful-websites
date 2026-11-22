@@ -1800,7 +1800,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Webhook.Site](https://webhook.site/) - Platform to inspect, test, and automate any incoming HTTP request or email.
 - [GoQR.Me](https://goqr.me/) - Generator for high-resolution QR codes suitable for print.
 - [Open Graph Generator](https://freecodetools.org/ogp/) - Tool for generating Open Graph images.
-- [infiniqr](https://infiniqr.com/) - QR code generator with logo, colours and frames; static codes never expire, PNG/SVG/PDF export without watermark.
+- [infiniqr](https://infiniqr.com/) - Free QR code generator with logo, colours and frames; static codes never expire, PNG/SVG/PDF export without watermark, and free editable QR codes with scan statistics.
 
 #### URL Shortener
 
