@@ -310,6 +310,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Unscreen](https://www.unscreen.com/) - Remove video background automatically and for free.
 - [Remove.bg](https://www.remove.bg/) - Remove image background automatically and for free.
 - [Foco Clipping](https://www.fococlipping.com/) - Remove image background.
+- [goodbye.bg](https://goodbye.bg/) - Remove image backgrounds in your browser, free, with no sign-up and no watermark. Open source.
 - [Designify](https://www.designify.com/) ($) - Create AI-powered designs by automatically removing backgrounds, enhancing colors, adjusting smart shadows, and more.
 - [PfpMaker](https://pfpmaker.com/) - Make profile pictures from any photo.
 - [JPEG-Optimizer](https://jpeg-optimizer.com/) - Free online tool for resizing and compressing digital photos and images.
