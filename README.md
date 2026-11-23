@@ -480,6 +480,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Sleep Calculator App](https://sleepcalculatorapp.com/) - Find Your Ideal Sleep and Wake Time.
 - [Sleep Cyclecalc App](http://sleepcyclecalcapp.com/) - Find Your Best Sleep Schedule
 - [Sleep Time Calculator](https://www.sleeptimecalculator.org/) - Find Your Perfect Sleep Time
+- [MyPetMath](https://www.mypetmath.com/) - Free dog and cat calculators for age, pregnancy, calories, feeding and chocolate toxicity, with each formula and source shown.
 
 ### Air Quality
 
