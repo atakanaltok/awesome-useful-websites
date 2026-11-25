@@ -29,6 +29,10 @@ Innovative online utilities for every need.
 From productivity hacks to quirky problem solvers, ToolGenX is a growing collection of powerful micro-tools—all browser-based and built for speed. Discover hidden gems you never knew you needed!
 
 
+### 7. [StagePeek](https://stagepeek.live)
+Preview 2D seating charts and 3D concert stage views before buying tickets.  
+Explore interactive 2D seating maps and custom 3D architectural venue models across 201 global stadiums, domes, and arenas in 5 languages—free to browse and check sightlines without creating an account (optional Pro pass unlocks 3x–10x telephoto zoom).
+
 
 ✨ Why Bookmark These Sites?
 No logins. No annoying ads. No paywalls.
