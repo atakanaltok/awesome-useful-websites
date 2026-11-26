@@ -304,6 +304,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Keybase](https://keybase.io/) - End-to-end encrypted secure messaging and file-sharing.
 - [MediaFire](https://www.mediafire.com/) - File storage and sharing platform (with subscription options).
 - [Zippyshare](https://www.zippyshare.com/) - File-sharing service with no sign-up required, no download limits, free, and unlimited disk space.
+- [SmallPDF.us](https://smallpdf.us/) - Compress PDFs to an exact size, merge, split, OCR, redact, and convert PDFs to and from Word, Excel, PowerPoint and images, in 14 languages. No sign-up needed for the free plan.
 
 ### Visual
 
