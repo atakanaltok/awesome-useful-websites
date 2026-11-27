@@ -480,6 +480,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Sleep Calculator App](https://sleepcalculatorapp.com/) - Find Your Ideal Sleep and Wake Time.
 - [Sleep Cyclecalc App](http://sleepcyclecalcapp.com/) - Find Your Best Sleep Schedule
 - [Sleep Time Calculator](https://www.sleeptimecalculator.org/) - Find Your Perfect Sleep Time
+- [Sleep Cycle Calculator](https://sleepcyclecalculator.net/) - Free browser-based planner that compares bedtime or wake-up times for 7.5, 8, and 9 hours of sleep, with an adjustable time to fall asleep.
 
 ### Air Quality
 
