@@ -1824,6 +1824,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [OlderGeeks](https://oldergeeks.com/) - Ad-free software download site supported by donations, providing a hassle-free experience.
 - [AlternativeTo](https://alternativeto.net/) - Discover the best alternatives to popular software based on user recommendations.
 - [Open Source Alternative](https://www.opensourcealternative.to/) - Platform providing open-source alternatives to proprietary software.
+- [qmetrics.net](https://qmetrics.net/) - Directory of 2,800+ open-source alternatives to paid software, with GitHub activity and the evidence for every listing.
 - [Dark Mode List](https://darkmodelist.com/) - List of 300 apps that support dark mode.
 - [LocalStack](https://localstack.cloud/) - Develop and test cloud and serverless apps offline.
 - [Markwhen](https://markwhen.com/) - Text-to-timeline tool converting markdown-ish text into a cascading timeline.
