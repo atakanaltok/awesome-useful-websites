@@ -321,6 +321,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Stolen Camera Finder](https://www.stolencamerafinder.com/) - Use the serial number stored in your photos to search the web for other photos taken with the same camera.
 - [Ribbet](https://www.ribbet.com/) - Photo editing tools.
 - [Crossfade.io](https://crossfade.io/) - Web-based video mashups from your favorite sites.
+- [SMDownloader](https://www.smdownloader.com/) - Online video and audio downloader for 32 platforms without mandatory account registration; free instant downloads up to 720p HD MP4 on YouTube and up to 1080p-8K on 31 other services.
 - [GoProHeroes](https://goproheroes.com/) - GoPro videos across the web.
 - [Synthesia](https://www.synthesia.io/) ($) - AI video creation platform that creates videos from text in minutes.
 - [ClipDrop](https://clipdrop.co/) - Create stunning visuals in seconds, powered by AI.
