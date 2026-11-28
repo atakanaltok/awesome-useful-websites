@@ -312,6 +312,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Foco Clipping](https://www.fococlipping.com/) - Remove image background.
 - [Designify](https://www.designify.com/) ($) - Create AI-powered designs by automatically removing backgrounds, enhancing colors, adjusting smart shadows, and more.
 - [PfpMaker](https://pfpmaker.com/) - Make profile pictures from any photo.
+- [ProfilePhotoMaker](https://profilephotomaker.com/) - Free profile picture maker that runs in the browser: remove the background, pick a look and download HD, with no sign-up or watermark.
 - [JPEG-Optimizer](https://jpeg-optimizer.com/) - Free online tool for resizing and compressing digital photos and images.
 - [Extract.pics](https://extract.pics/) - Extract images from any public website using a virtual browser.
 - [Generated.Photos](https://generated.photos/) - Unique, worry-free (AI-generated), free to download model photos.
